@@ -31,6 +31,10 @@
       <lvbb:contentType>application/xml</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
+      <lvbb:bestandsnaam>owRegelingsgebied.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
       <lvbb:bestandsnaam>owRegeltekst.xml</lvbb:bestandsnaam>
       <lvbb:contentType>application/xml</lvbb:contentType>
    </lvbb:bestand>

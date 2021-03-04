@@ -13,6 +13,10 @@
       <objecttype>RegelVoorIedereen</objecttype>
     </Bestand>
     <Bestand>
+      <naam>owRegelingsgebied.xml</naam>
+      <objecttype>Regelingsgebied</objecttype>
+    </Bestand>
+    <Bestand>
       <naam>owLocatie.xml</naam>
       <objecttype>Ambtsgebied</objecttype>
       <objecttype>Gebied</objecttype>
