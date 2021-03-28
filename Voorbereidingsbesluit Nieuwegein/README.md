@@ -5,3 +5,5 @@
 - Op artikel 1.1 staat een activiteit. Het is noodzakelijk om een activiteitengroep uit de waardelijst aan te geven. Ik heb nu zelf gekozen voor 'bouwactiviteit ruimtelijk'. Verder is een niet-bestaande symboolcode aangegeven. In dat geval wordt de default-symboolcode van de activiteitengroep gebruikt.
 - Artikel 1.1 gebruikt nu een opsomming. Opsplitsing in leden lijkt meer voordehandliggend.
 - In het voorbereidingsbesluit is een toelichting opgenomen. De vraag is in hoeverre dat niet de motivering is.
+## 2021-03-25
+- Correctie van het oorspronkelijke word-bestand in aangepast sjabloon.
