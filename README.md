@@ -7,3 +7,5 @@ Hiervan is alleen nog de op-tekst gegenereerd. Omzetting van de imro-gml volgt n
 Hiervan zijn alle bestanden voor de lvbb compleet.
 ### Voorbereidingsbesluit Noord-Holland
 Hiervan is alleen de tekst gegenereerd en het gml-bestand in orde gemaakt.
+## 2021-03-16
+Het sjabloon is aangepast zodat het aansluit op het voorbereidingsbesluit.
