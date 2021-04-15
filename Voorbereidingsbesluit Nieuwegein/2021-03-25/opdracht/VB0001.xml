@@ -425,6 +425,7 @@
                      <Nummer>5.1.</Nummer>
                      <Opschrift>Het is juridisch noodzakelijk om het oude besluit gelijk in te trekken.</Opschrift>
                   </Kop>
+                  <Gereserveerd/>
                </Divisie>
             </Divisie>
             <Divisie eId="acc_o_1__div_o_4"
@@ -486,7 +487,13 @@
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/act/gm0356/2021/VB0001</FRBRWork>
          <FRBRExpression>/akn/nl/act/gm0356/2021/VB0001/nld@2021-03-01;1</FRBRExpression>
-         <soortWork>/join/id/stop/work_019</soortWork>
+         <soortWork>/join/id/stop/work_021</soortWork>
+         <isTijdelijkDeelVan>
+            <WorkIdentificatie>
+               <FRBRWork>/akn/nl/act/gm0356/2020/omgevingsplan</FRBRWork>
+               <soortWork>/join/id/stop/work_019</soortWork>
+            </WorkIdentificatie>
+         </isTijdelijkDeelVan>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <versienummer>1</versienummer>
@@ -495,6 +502,7 @@
          <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
          <eindverantwoordelijke>/tooi/id/gemeente/gm0356</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0356</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
          <officieleTitel>Voorbeschermingsregels bij voorbereidingsbesluit City Nieuwegein 2021</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
