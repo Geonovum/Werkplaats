@@ -64,24 +64,24 @@
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/pv26/2021/Instelling_gemeente</doel>
+                  <doel>/join/id/proces/pv26/2021/Instelling_gemeenteUtrecht</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2021/grondwater_gm0344/nld@2021-04-19;1</instrumentVersie>
-               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId>!initieel_reg_utrecht#cmp_2__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/pv26/2021/Instelling_gemeente</doel>
+                  <doel>/join/id/proces/pv26/2021/Instelling_gemeenteUtrecht</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2021/provinciale_wegen_gm0344/nld@2021-04-19;1</instrumentVersie>
-               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+               <eId>!initieel_reg_utrecht#cmp_2__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/pv26/2021/Instelling_gemeente</doel>
+                  <doel>/join/id/proces/pv26/2021/Instelling_gemeenteUtrecht</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2021/lokale_spoorwegen_gm0344/nld@2021-04-19;1</instrumentVersie>
-               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
+               <eId>!initieel_reg_utrecht#cmp_2__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdeRegeling>
                <doelen>
@@ -95,21 +95,21 @@
                   <doel>/join/id/proces/pv26/2021/Instelling_gemeenteAmersfoort</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2021/grondwater_gm0307/nld@2021-04-19;1</instrumentVersie>
-               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId>!initieel_reg_amersfoort#cmp_2__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2021/Instelling_gemeenteAmersfoort</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2021/provinciale_wegen_gm0307/nld@2021-04-19;1</instrumentVersie>
-               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+               <eId>!initieel_reg_amersfoort#cmp_2__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2021/Instelling_gemeenteAmersfoort</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2021/lokale_spoorwegen_gm0307/nld@2021-04-19;1</instrumentVersie>
-               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
+               <eId>!initieel_reg_amersfoort#cmp_2__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdeRegeling>
                <doelen>
@@ -123,21 +123,21 @@
                   <doel>/join/id/proces/pv26/2021/Instelling_gemeenteNieuwegein</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2021/grondwater_gm0356/nld@2021-04-19;1</instrumentVersie>
-               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId>!initieel_reg_nieuwegein#cmp_2__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2021/Instelling_gemeenteNieuwegein</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2021/provinciale_wegen_gm0356/nld@2021-04-19;1</instrumentVersie>
-               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+               <eId>!initieel_reg_nieuwegein#cmp_2__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2021/Instelling_gemeenteNieuwegein</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2021/lokale_spoorwegen_gm0356/nld@2021-04-19;1</instrumentVersie>
-               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
+               <eId>!initieel_reg_nieuwegein#cmp_2__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -233,10 +233,10 @@
                <Nummer>I</Nummer>
                <Opschrift>Bijlage bij artikel II</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_reg"
+            <RegelingTijdelijkdeel componentnaam="initieel_reg_utrecht"
                                    wordt="/akn/nl/act/pv26/2021/VBPU0001_gm0344/nld@2021-04-19;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Voorbereidingsbesluit Provincie Utrecht</Al>
+                  <Al>Voorbereidingsbesluit Provincie Utrecht - op omgevingsplan Utrecht</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>
@@ -518,10 +518,10 @@
                <Nummer>II</Nummer>
                <Opschrift>Bijlage bij artikel III</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_reg"
+            <RegelingTijdelijkdeel componentnaam="initieel_reg_amersfoort"
                                    wordt="/akn/nl/act/pv26/2021/VBPU0001_gm0307/nld@2021-04-19;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Voorbereidingsbesluit Provincie Utrecht</Al>
+                  <Al>Voorbereidingsbesluit Provincie Utrecht - op omgevingsplan Amersfoort</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>
@@ -799,10 +799,10 @@
                <Nummer>III</Nummer>
                <Opschrift>Bijlage bij artikel IV</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_reg"
+            <RegelingTijdelijkdeel componentnaam="initieel_reg_nieuwegein"
                                    wordt="/akn/nl/act/pv26/2021/VBPU0001_gm0356/nld@2021-04-19;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Voorbereidingsbesluit Provincie Utrecht</Al>
+                  <Al>Voorbereidingsbesluit Provincie Utrecht - op omgevingsplan Nieuwegein</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>
@@ -1095,10 +1095,11 @@
          <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
-         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht</officieleTitel>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
+         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht - op omgevingsplan Utrecht</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
-               <citeertitel>Voorbereidingsbesluit Provincie Utrecht - tijdelijk deel voor Gemeente Utrecht</citeertitel>
+               <citeertitel>Voorbereidingsbesluit Provincie Utrecht</citeertitel>
                <isOfficieel>false</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
@@ -1132,10 +1133,11 @@
          <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
-         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht</officieleTitel>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
+         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht - op omgevingsplan Amersfoort</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
-               <citeertitel>Voorbereidingsbesluit Provincie Utrecht - tijdelijk deel voor Gemeente Amersfoort</citeertitel>
+               <citeertitel>Voorbereidingsbesluit Provincie Utrecht</citeertitel>
                <isOfficieel>false</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
@@ -1169,10 +1171,11 @@
          <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
-         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht</officieleTitel>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
+         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht - op omgevingsplan Nieuwegein</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
-               <citeertitel>Voorbereidingsbesluit Provincie Utrecht - tijdelijk deel voor Gemeente Nieuwegein</citeertitel>
+               <citeertitel>Voorbereidingsbesluit Provincie Utrecht</citeertitel>
                <isOfficieel>false</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
