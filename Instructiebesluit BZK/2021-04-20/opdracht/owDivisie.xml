@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:gml="http://www.opengis.net/gml/3.2"
+  xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+  xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+  xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+  xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+  xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+  xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+  xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+  xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+  xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+  <sl:standBestand>
+    <sl:dataset>Trafolocatie Leiden</sl:dataset>
+    <sl:inhoud>
+      <sl:gebied>Trafolocatie Leiden</sl:gebied>
+      <sl:leveringsId>ib_trafolocatieLeiden_test</sl:leveringsId>
+      <sl:objectTypen>
+        <sl:objectType>Divisie</sl:objectType>
+        <sl:objectType>Tekstdeel</sl:objectType>
+      </sl:objectTypen>
+    </sl:inhoud>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Divisie wId="mnre1034_2__div_o_1">
+          <vt:identificatie>nl.imow-mnre1034.divisie.20210001</vt:identificatie>
+        </vt:Divisie>
+      </ow-dc:owObject>
+    </sl:stand>
+    <sl:stand>
+      <ow-dc:owObject>
+        <vt:Tekstdeel>
+          <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210001</vt:identificatie>
+          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+          <vt:thema>http://standaarden.omgevingswet.overheid.nl/procedures/id/concept/Procedures</vt:thema>
+          <vt:thema>http://standaarden.omgevingswet.overheid.nl/bouwwerken/id/concept/Bouwwerken</vt:thema>
+          <vt:divisieaanduiding>
+            <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20210001"/>
+          </vt:divisieaanduiding>
+          <vt:locatieaanduiding>
+            <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.20210001"/>
+          </vt:locatieaanduiding>
+        </vt:Tekstdeel>
+      </ow-dc:owObject>
+    </sl:stand>
+  </sl:standBestand>
+</ow-dc:owBestand>

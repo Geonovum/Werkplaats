@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.0.4"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/mnre1034/2021/test</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/mnre1034/2021/test/nld@2021-04-14;2</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1034</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1034</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
+         <officieleTitel>Instructie Trafolocatie Leiden</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Test BZK</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <onderwerpen>
+            <onderwerp>geen</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>geen</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@20210401</informatieobjectRef>
+         </informatieobjectRefs>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2021-03-15</bekendOp>
+         <ontvangenOp>2021-03-15</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2021-03-15</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2021-03-15</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_004</soortStap>
+               <voltooidOp>2021-04-01</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/mnre1034/2021/Instelling_test</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/mnre1034/2021/test/nld@2021-04-14;2</instrumentVersie>
+               <eId>art_I</eId>
+            </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1034/2021/Instelling_test</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@20210401</instrumentVersie>
+               <eId>!initieel_reg#cmp_o_1__content_o_1__table_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+         </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/mnre1034/2021/Instelling_test</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2021-05-01</datum>
+               <eId>art_II</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Instructie Trafolocatie Leiden</Al>
+         </RegelingOpschrift>
+         <Aanhef eId="formula_1" wId="formula_1">
+            <Al>De minister van Binnenlandse Zaken en Koninkrijksrelaties</Al>
+            <Al>Overwegende, dat de Trafolocatie te Leiden is opgenomen als woningbouwlocatie, dat het omgevingsplan nog niet is aangepast om woningbouw op de Trafolocatie mogelijk te maken,</Al>
+            <Al>Besluit:</Al>
+         </Aanhef>
+         <Lichaam eId="body" wId="body">
+            <WijzigArtikel eId="art_I" wId="mnre1034_2__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+               </Kop>
+               <Wat>Aan de gemeenteraad van Leiden de in bijlage I opgenomen instructie te geven.</Wat>
+            </WijzigArtikel>
+            <Artikel eId="art_II" wId="mnre1034_2__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Dit besluit treedt in werking met ingang van de dag na toezending van de instructie aan de gemeenteraad van Leiden</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <Sluiting eId="formula_2" wId="formula_2">
+            <Al>Dit besluit wordt in de Staatscourant geplaatst.</Al>
+            <Al>Aldus besloten op 15 maart 2021</Al>
+            <Ondertekening>
+               <Al>de minister van Binnenlandse Zaken en Koninkrijkrelaties,</Al>
+               <Al>drs. K.H. Ollongren</Al>
+            </Ondertekening>
+            <Groep>
+               <Al>Rechtsbescherming</Al>
+               <Al>Deze instructie is gegeven aan de gemeenteraad van Leiden over de uitoefening van de bevoegdheid om regels te stellen in het omgevingsplan met het oog op de evenwichtige toedeling van functies aan locaties. Tegen deze instructie is geen bezwaar mogelijk. Voor de mogelijkheid tot het instellen van beroep wordt de instructie geacht deel uit te maken van het besluit tot aanpassing van het Omgevingsplan (artikel 16.85, tweede lid, Omgevingswet). Dat betekent dat tegen de instructie beroep bij de Afdeling bestuursrechtspraak van de Raad van State kan worden ingesteld nadat de gemeenteraad het omgevingsplan conform de instructie heeft gewijzigd.</Al>
+            </Groep>
+         </Sluiting>
+         <WijzigBijlage eId="cmp_I" wId="mnre1034_2__cmp_I">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>I</Nummer>
+            </Kop>
+            <RegelingVrijetekst componentnaam="initieel_reg"
+                                wordt="/akn/nl/act/mnre1034/2021/test/nld@2021-04-14;2">
+               <RegelingOpschrift eId="longTitle" wId="longTitle">
+                  <Al>Instructie Trafolocatie Leiden</Al>
+               </RegelingOpschrift>
+               <Lichaam eId="body" wId="body">
+                  <Divisie xmlns:dso="https://www.dso.nl/"
+                           eId="div_o_1"
+                           wId="mnre1034_2__div_o_1"
+                           dso:niveau="1">
+                     <Kop>
+                        <Opschrift>Instructie Trafolocatie Leiden</Opschrift>
+                     </Kop>
+                     <Divisietekst eId="div_o_1__content_o_1" wId="mnre1034_2__div_o_1__content_o_1">
+                        <Inhoud>
+                           <Lijst eId="div_o_1__content_o_1__list_o_1"
+                                  wId="mnre1034_2__div_o_1__content_o_1__list_o_1"
+                                  type="expliciet">
+                              <Lijstaanhef>De minister van Binnenlandse Zaken en Koninkrijkrelaties draagt, overeenkomstig artikel 2.34 van de Omgevingswet, de gemeenteraad van Leiden op om in het omgevingsplan:</Lijstaanhef>
+                              <Li eId="div_o_1__content_o_1__list_o_1__item_o_1"
+                                  wId="mnre1034_2__div_o_1__content_o_1__list_o_1__item_o_1">
+                                 <LiNummer>•</LiNummer>
+                                 <Al>voor het gebied de <IntIoRef eId="div_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="mnre1034_2__div_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="mnre1034_2__cmp_o_1__content_o_1__table_o_1__ref_o_1">Trafolocatie in Leiden</IntIoRef>; gelegen tussen de spoorlijn Den Haag-Amsterdam, het Stationsplein en de Plesmanweg in Leiden.</Al>
+                              </Li>
+                              <Li eId="div_o_1__content_o_1__list_o_1__item_o_2"
+                                  wId="mnre1034_2__div_o_1__content_o_1__list_o_1__item_o_2">
+                                 <LiNummer>•</LiNummer>
+                                 <Al>binnen één jaar na dagtekening van dit besluit overeenkomstig het Uitvoeringsprogramma Woningbouw Rijnland 2021-2026 in het omgevingsplan regels te stellen die de bouw van tenminste 250 woningen mogelijk maken;</Al>
+                              </Li>
+                              <Li eId="div_o_1__content_o_1__list_o_1__item_o_3"
+                                  wId="mnre1034_2__div_o_1__content_o_1__list_o_1__item_o_3">
+                                 <LiNummer>•</LiNummer>
+                                 <Al>daarbij met toepassing van artikel 5.161c van het Besluit kwaliteit leefomgeving te regelen dat, minimaal 30% van de nieuw toegelaten woningen een sociale huurwoning is.</Al>
+                              </Li>
+                           </Lijst>
+                        </Inhoud>
+                     </Divisietekst>
+                  </Divisie>
+               </Lichaam>
+               <Bijlage eId="cmp_o_1" wId="mnre1034_2__cmp_o_1">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Opschrift>Overzicht Informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_o_1__content_o_1" wId="mnre1034_2__cmp_o_1__content_o_1">
+                     <Inhoud>
+                        <table xmlns:dso="https://www.dso.nl/"
+                               eId="cmp_o_1__content_o_1__table_o_1"
+                               wId="mnre1034_2__cmp_o_1__content_o_1__table_o_1"
+                               dso:class="standaard"
+                               frame="all"
+                               colsep="1"
+                               rowsep="1">
+                           <tgroup cols="2" align="left">
+                              <colspec colname="col1" colwidth="1539*"/>
+                              <colspec colname="col2" colwidth="6388*"/>
+                              <thead valign="top">
+                                 <row>
+                                    <entry namest="col1" nameend="col1" align="left">
+                                       <Al>Naam gebied</Al>
+                                    </entry>
+                                    <entry namest="col2" nameend="col2" align="left">
+                                       <Al>GIO-id</Al>
+                                    </entry>
+                                 </row>
+                              </thead>
+                              <tbody valign="top">
+                                 <row>
+                                    <entry namest="col1" nameend="col1" align="left">
+                                       <Al>Trafolocatie in Leiden</Al>
+                                    </entry>
+                                    <entry namest="col2" nameend="col2" align="left">
+                                       <Al>
+                                          <ExtIoRef eId="cmp_o_1__content_o_1__table_o_1__ref_o_1"
+                                                    wId="mnre1034_2__cmp_o_1__content_o_1__table_o_1__ref_o_1"
+                                                    ref="/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@20210401">/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@20210401</ExtIoRef>
+                                       </Al>
+                                    </entry>
+                                 </row>
+                              </tbody>
+                           </tgroup>
+                        </table>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+            </RegelingVrijetekst>
+         </WijzigBijlage>
+         <Motivering eId="acc_o_1" wId="mnre1034_2__acc_o_1">
+            <Kop>
+               <Opschrift>Motivering</Opschrift>
+            </Kop>
+            <Divisie eId="acc_o_1__div_o_1" wId="mnre1034_2__acc_o_1__div_o_1">
+               <Kop>
+                  <Opschrift>Voorgeschiedenis</Opschrift>
+               </Kop>
+               <Divisietekst eId="acc_o_1__div_o_1__content_o_1"
+                             wId="mnre1034_2__acc_o_1__div_o_1__content_o_1">
+                  <Inhoud>
+                     <Al>In de Nationale Omgevingsvisie, zoals aangevuld met de Nationale Omgevingsvisie Extra (NOVEX) is het nationaal beleid voor de woningbouwopgave in Nederland concreet vormgegeven. In Zuid-Holland is dit door het Rijk, de Provincie en de gemeenten vastgelegd in het “Interbestuurlijke Uitvoeringsprogramma Woningbouw Rijnland 2021-2026” (hierna: het Uitvoeringsprogramma). Dit vertaalt zich in afspraken tot de bouw van 2.000 woningen in de periode 2021 – 2026 waarvoor de plancapaciteit op 1 juli 2022 gerealiseerd moet zijn. Daarbij wordt 30% van de plancapaciteit in de gemeente Leiden aangewezen voor sociale huurwoningen.</Al>
+                     <Al>Uit de monitoring van het Uitvoeringsprogramma blijkt dat de plancapaciteit voor 1750 woningen is gerealiseerd waarvan 525 woningen in het omgevingsplan zijn aangewezen voor de doelgroep sociale huurwoningen. Dat betekent een tekort van 250 woningen waarbij er nog 5 aangewezen moeten worden voor de doelgroep sociale huurwoning.</Al>
+                     <Al>Uit bestuurlijk overleg op 1 augustus 2020 blijkt dat de gemeenteraad – ondanks eerdere afspraken - het omgevingsplan nog niet heeft aangepast om woningbouw op de Trafolocatie mogelijk te maken. Dit gebied met een omvang van 5.300 m² is in het Uitvoeringsprogramma en in de gemeentelijke “Gebiedsvisie Stationsgebied Leiden” opgenomen als woningbouwlocatie en ligt tussen de spoorlijn Den Haag - Amsterdam, het Stationsplein en de Plesmanweg. De grond is in eigendom van de gemeente Leiden en ligt braak, zij het dat deze grond nu tijdelijk is ingevuld met Tiny offices en fietsenstallingen.</Al>
+                     <Al>Uit overleg dat ik met de provincie en het college van burgemeester en wethouders van Leiden heb gehad blijkt dat de locatie niet tot ontwikkeling komt door de waarde van de grond en de verplichting om ook op deze locatie 30% sociale huurwoningen te realiseren. Daardoor is de ontwikkeling voor de gemeente niet rendabel en zijn de woningen niet gerealiseerd. Overleg met de woningbouwvereniging Leiden Sociaal voor een financiële deelname aan de ontwikkeling van het terrein heeft onvoldoende resultaat gehad.</Al>
+                  </Inhoud>
+               </Divisietekst>
+            </Divisie>
+            <Divisie eId="acc_o_1__div_o_2" wId="mnre1034_2__acc_o_1__div_o_2">
+               <Kop>
+                  <Opschrift>Wettelijk kader instructie</Opschrift>
+               </Kop>
+               <Divisietekst eId="acc_o_1__div_o_2__content_o_1"
+                             wId="mnre1034_2__acc_o_1__div_o_2__content_o_1">
+                  <Inhoud>
+                     <Al>Op grond van artikel 2.34 Ow, voor zover hier van belang, kan ik, met inachtneming van de grenzen van artikel 2.3, derde lid, Ow met het oog op een nationaal belang, dat niet op een doelmatige en doeltreffende wijze door het gemeentebestuur kan worden behartigd, een instructie geven aan het gemeentebestuur over de uitoefening van een taak of bevoegdheid. Dit belang moet op grond van artikel 2.35 Ow zijn aangegeven in een door een bestuursorgaan van de provincie of het Rijk openbaar gemaakt document. De instructie kan dan ook dienen ter uitvoering van een programma.</Al>
+                     <Al>Een instructie kan vervolgens worden gegeven aan de gemeenteraad over het stellen van regels in een omgevingsplan als dat nodig is met het oog op een evenwichtige toedeling van functies aan locaties. Tot slot kan ik aan de instructie een termijn verbinden waarbinnen daaraan uitvoering moet zijn gegeven.</Al>
+                  </Inhoud>
+               </Divisietekst>
+            </Divisie>
+            <Divisie eId="acc_o_1__div_o_3" wId="mnre1034_2__acc_o_1__div_o_3">
+               <Kop>
+                  <Opschrift>Motivering instructie</Opschrift>
+               </Kop>
+               <Divisietekst eId="acc_o_1__div_o_3__content_o_1"
+                             wId="mnre1034_2__acc_o_1__div_o_3__content_o_1">
+                  <Inhoud>
+                     <Al>In mijn brief van 2 september 2020 sprak ik uit om u indien nodig een instructie te geven met als doel om binnen de afgesproken termijn de uitvoering van het nationaal beleid voor woningbouw uit de NOVEX en het Uitvoeringsprogramma te realiseren.</Al>
+                     <Al>Uit uw schriftelijke reactie en uit nader bestuurlijk overleg blijkt dat er nog steeds geen zicht is op de realisatie van de plancapaciteit in het omgevingsplan voor de resterende 250 woningen waarvan 30% moet bestaan uit sociale huurwoningen. Zoals door u ook aangeven komt dit door de lopende discussie over de ontwikkeling van de Trafolocatie in Leiden waardoor u als gemeenteraad woningbouw op deze locatie nog niet mogelijk heeft gemaakt ondanks dat deze locatie wel in het Uitvoeringsprogramma en uw Gebiedsvisie is opgenomen.</Al>
+                  </Inhoud>
+               </Divisietekst>
+            </Divisie>
+            <Divisie eId="acc_o_1__div_o_4" wId="mnre1034_2__acc_o_1__div_o_4">
+               <Kop>
+                  <Opschrift>Conclusie</Opschrift>
+               </Kop>
+               <Divisietekst eId="acc_o_1__div_o_4__content_o_1"
+                             wId="mnre1034_2__acc_o_1__div_o_4__content_o_1">
+                  <Inhoud>
+                     <Al>Gezien het grote belang van de bouw van genoemde 250 woningen in Leiden, waaronder 30% sociale huurwoningen, vind ik het noodzakelijk dat het Uitvoeringsprogramma binnen de afgesproken termijn wordt uitgevoerd.</Al>
+                     <Al>Uw reactie geeft mij geen vertrouwen in een spoedige uitvoering hiervan. Nu sprake is van een nationaal belang, dat niet op een doelmatige en doeltreffende wijze door u wordt behartigd, zie ik aanleiding om een instructie te geven ter uitoefening van uw taak zoals vastgelegd in het Uitvoeringsprogramma.</Al>
+                  </Inhoud>
+               </Divisietekst>
+            </Divisie>
+         </Motivering>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/mnre1034/2021/test</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1034/2021/test/nld@2021-04-14;2</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>2</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <soortRegeling>/join/id/stop/regelingtype_008</soortRegeling>
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1034</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1034</maker>
+         <officieleTitel>Instructie Trafolocatie Leiden</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Test BZK</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <overheidsdomeinen>
+            <overheidsdomein>geen</overheidsdomein>
+         </overheidsdomeinen>
+         <onderwerpen>
+            <onderwerp>geen</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>geen</rechtsgebied>
+         </rechtsgebieden>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>

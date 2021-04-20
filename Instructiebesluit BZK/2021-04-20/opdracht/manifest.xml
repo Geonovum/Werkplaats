@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lvbb:manifest xmlns:lvbb="http://www.overheid.nl/2017/lvbb">
+  <!-- OP-bestanden -->
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>opdracht.xml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/xml</lvbb:contentType>
+  </lvbb:bestand>
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>manifest.xml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/xml</lvbb:contentType>
+  </lvbb:bestand>
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>test-0001.xml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/xml</lvbb:contentType>
+  </lvbb:bestand>
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>ib_trafolocatieLeiden_test.gml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/gml+xml</lvbb:contentType>
+  </lvbb:bestand>
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>gio_ib_trafolocatieLeiden_test.xml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/xml</lvbb:contentType>
+  </lvbb:bestand>
+  <!-- OW-bestanden -->
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>manifest-ow.xml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/xml</lvbb:contentType>
+  </lvbb:bestand>
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>owDivisie.xml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/xml</lvbb:contentType>
+  </lvbb:bestand>
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>owLocatie.xml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/xml</lvbb:contentType>
+  </lvbb:bestand>
+</lvbb:manifest>

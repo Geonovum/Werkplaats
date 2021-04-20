@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:gml="http://www.opengis.net/gml/3.2"
+  xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+  xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+  xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+  xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+  xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+  xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+  xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+  xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+  <sl:standBestand>
+    <sl:dataset>Trafolocatie Leiden</sl:dataset>
+    <sl:inhoud>
+      <sl:gebied>Trafolocatie Leiden</sl:gebied>
+      <sl:leveringsId>ib_trafolocatieLeiden_test</sl:leveringsId>
+      <sl:objectTypen>
+        <sl:objectType>Gebied</sl:objectType>
+      </sl:objectTypen>
+    </sl:inhoud>
+    <sl:stand>
+      <ow-dc:owObject>
+        <l:Gebied>
+          <l:identificatie>nl.imow-mnre1034.gebied.20210001</l:identificatie>
+          <l:noemer>Trafolocatie in Leiden</l:noemer>
+          <l:geometrie>
+            <l:GeometrieRef xlink:href="b8668ea1-0d55-4059-9781-04075f02ea43"/>
+          </l:geometrie>
+        </l:Gebied>
+      </ow-dc:owObject>
+    </sl:stand>
+  </sl:standBestand>
+</ow-dc:owBestand>
