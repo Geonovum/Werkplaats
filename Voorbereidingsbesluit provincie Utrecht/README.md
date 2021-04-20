@@ -1,2 +1,4 @@
 # Voorbereidingsbesluit provincie Utrecht
-Beschrijving.
+## 2021-04-21
+- Initiële versie gemaakt.
+- Specifieke locaties aangebracht met gebiedsaanwijzing.

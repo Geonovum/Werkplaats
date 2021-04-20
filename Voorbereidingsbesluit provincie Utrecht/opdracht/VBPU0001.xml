@@ -328,26 +328,22 @@
                            <Nummer>1.4</Nummer>
                            <Opschrift>Verbod gebouwen en functiewijziging langs lokale spoorwegen</Opschrift>
                         </Kop>
-                        <Inhoud>
-                           <Lijst eId="chp_1__art_1.4__list_o_1"
-                                  wId="pv26_1__chp_1__art_1.4__list_o_1"
-                                  type="expliciet">
-                              <Li eId="chp_1__art_1.4__list_o_1__item_1"
-                                  wId="pv26_1__chp_1__art_1.4__list_o_1__item_1">
-                                 <LiNummer>1.</LiNummer>
-                                 <Al>Het is verboden in het <IntIoRef eId="chp_1__art_1.4__list_o_1__item_1__ref_o_1"
-                                              wId="pv26_1__chp_1__art_1.4__list_o_1__item_1__ref_o_1"
-                                              ref="pv26_1__cmp_2__content_o_1__list_o_1__item_o_3__ref_o_1">beperkingengebied lokale spoorwegen</IntIoRef> een gebouw te bouwen.</Al>
-                              </Li>
-                              <Li eId="chp_1__art_1.4__list_o_1__item_2"
-                                  wId="pv26_1__chp_1__art_1.4__list_o_1__item_2">
-                                 <LiNummer>2.</LiNummer>
-                                 <Al>Het is verboden in het <IntIoRef eId="chp_1__art_1.4__list_o_1__item_2__ref_o_1"
-                                              wId="pv26_1__chp_1__art_1.4__list_o_1__item_2__ref_o_1"
-                                              ref="pv26_1__cmp_2__content_o_1__list_o_1__item_o_3__ref_o_1">beperkingengebied lokale spoorwegen</IntIoRef> de functie van een gebouw te wijzigen waardoor de hinder van geluid, trillingen, elektromagnetische straling of emissies van koper- of ijzerslijpsel, veroorzaakt door de lokale spoorweg, toenemen.</Al>
-                              </Li>
-                           </Lijst>
-                        </Inhoud>
+                        <Lid eId="chp_1__art_1.4__para_1" wId="pv26_1__chp_1__art_1.4__para_1">
+                           <LidNummer>1.</LidNummer>
+                           <Inhoud>
+                              <Al>Het is verboden in het <IntIoRef eId="chp_1__art_1.4__para_1__ref_o_1"
+                                           wId="pv26_1__chp_1__art_1.4__para_1__ref_o_1"
+                                           ref="pv26_1__cmp_2__content_o_1__list_o_1__item_o_3__ref_o_1">beperkingengebied lokale spoorwegen</IntIoRef> een gebouw te bouwen.</Al>
+                           </Inhoud>
+                        </Lid>
+                        <Lid eId="chp_1__art_1.4__para_2" wId="pv26_1__chp_1__art_1.4__para_2">
+                           <LidNummer>2.</LidNummer>
+                           <Inhoud>
+                              <Al>Het is verboden in het <IntIoRef eId="chp_1__art_1.4__para_2__ref_o_1"
+                                           wId="pv26_1__chp_1__art_1.4__para_2__ref_o_1"
+                                           ref="pv26_1__cmp_2__content_o_1__list_o_1__item_o_3__ref_o_1">beperkingengebied lokale spoorwegen</IntIoRef> de functie van een gebouw te wijzigen waardoor de hinder van geluid, trillingen, elektromagnetische straling of emissies van koper- of ijzerslijpsel, veroorzaakt door de lokale spoorweg, toenemen.</Al>
+                           </Inhoud>
+                        </Lid>
                      </Artikel>
                   </Hoofdstuk>
                </Lichaam>
