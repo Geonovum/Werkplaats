@@ -39,7 +39,7 @@
             <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20210001"/>
           </vt:divisieaanduiding>
           <vt:locatieaanduiding>
-            <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.20210001"/>
+            <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.20210001"/>
           </vt:locatieaanduiding>
         </vt:Tekstdeel>
       </ow-dc:owObject>
