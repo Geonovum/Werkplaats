@@ -30,7 +30,7 @@
           <ga:naam>grondwaterbeschermingsgebied</ga:naam>
           <ga:groep>http://standaarden.omgevingswet.overheid.nl/id/waardelijst/WaterEnWatersysteemgroep</ga:groep>
           <ga:locatieaanduiding>
-            <l:GebiedengroepRef xlink:href="nl.imow-pv26.gebiedengroep.20210001"/>
+            <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20210001"/>
           </ga:locatieaanduiding>
         </ga:Gebiedsaanwijzing>
       </ow-dc:owObject>
@@ -43,7 +43,7 @@
           <ga:naam>beperkingengebied bouwwerken provinciale wegen</ga:naam>
           <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebied/id/concept/Weg</ga:groep>
           <ga:locatieaanduiding>
-            <l:GebiedengroepRef xlink:href="nl.imow-pv26.gebiedengroep.20210002"/>
+            <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20210002"/>
           </ga:locatieaanduiding>
         </ga:Gebiedsaanwijzing>
       </ow-dc:owObject>
@@ -56,7 +56,7 @@
           <ga:naam>beperkingengebied lokale spoorwegen</ga:naam>
           <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebied/id/concept/Spoorweg</ga:groep>
           <ga:locatieaanduiding>
-            <l:GebiedengroepRef xlink:href="nl.imow-pv26.gebiedengroep.20210003"/>
+            <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20210003"/>
           </ga:locatieaanduiding>
         </ga:Gebiedsaanwijzing>
       </ow-dc:owObject>
