@@ -1,4 +1,6 @@
 # Werkplaats
+## 2021-04-23
+Overzichten aangepast.
 ## 2021-04-21
 ### Instructiebesluit BZK
 Deze staat klaar maar is nog niet geladen in de viewer. Hiervan nog enkele metadata-gegevens opvragen.
