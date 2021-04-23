@@ -46,18 +46,32 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/mnre1045/2021/Instelling</doel>
+                  <doel>/join/id/proces/mnre1045/2021/Instelling_gm0654</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001/nld@2021-03-01;1</instrumentVersie>
-               <eId/>
+               <instrumentVersie>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0001/nld@2021-03-01;1</instrumentVersie>
+               <eId>art_II</eId>
+            </BeoogdeRegeling>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2021/Instelling_gm0678</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0002/nld@2021-03-01;1</instrumentVersie>
+               <eId>art_III</eId>
+            </BeoogdeRegeling>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2021/Instelling_gm0703</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0003/nld@2021-03-01;1</instrumentVersie>
+               <eId>art_IV</eId>
             </BeoogdeRegeling>
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/join/id/proces/mnre1045/2021/Instelling</doel>
+               <doel>/join/id/proces/mnre1045/2021/Instelling_gemeente</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2017-04-02</datum>
-               <eId>art_II</eId>
+               <eId>art_V</eId>
             </Tijdstempel>
          </Tijdstempels>
       </ConsolidatieInformatie>
@@ -96,7 +110,7 @@
                   <Nummer>I</Nummer>
                </Kop>
                <Inhoud>
-                  <Al>Te verklaren dat voor het werkingsgebied , zoals aangegeven op de bij dit besluit behorende kaart, een projectbesluit als bedoeld in artikel 5.44, eerste lid, van de Omgevingswet wordt voorbereid gericht op het stellen van regels in de omgevingsplannen van de gemeenten Borsele, Kapelle en Reimerswaal voor het tracédeel Zuid-West 380 kV west van een 380 kilovolt hoogspanningsverbinding tussen Borssele en Tilburg, enkele daarmee samenhangende ondergrondse 150 kV hoogspanningsverbindingen, alsmede de in verband met de aanleg van de nieuwe 380 kV verbinding noodzakelijke tijdelijke 150 kV en 380 kV verbindingen ('noodlijnen').</Al>
+                  <Al>Te verklaren dat voor het werkingsgebied, zoals aangegeven op de bij dit besluit behorende kaart, een projectbesluit als bedoeld in artikel 5.44, eerste lid, van de Omgevingswet wordt voorbereid gericht op het stellen van regels in de omgevingsplannen van de gemeenten Borsele, Kapelle en Reimerswaal voor het tracédeel Zuid-West 380 kV west van een 380 kilovolt hoogspanningsverbinding tussen Borssele en Tilburg, enkele daarmee samenhangende ondergrondse 150 kV hoogspanningsverbindingen, alsmede de in verband met de aanleg van de nieuwe 380 kV verbinding noodzakelijke tijdelijke 150 kV en 380 kV verbindingen ('noodlijnen').</Al>
                   <Al>Dit voorbereidingsbesluit heeft betrekking op het gedeelte Zuid-West 380 kV west van de 380 kV verbinding (van 380 kV station Borssele tot aan 380 kV station Rilland). De ruimtelijke inpassing van het deel Zuid-West 380 kV oost wordt met een separate projectprocedure geregeld.</Al>
                </Inhoud>
             </Artikel>
@@ -151,8 +165,7 @@
                <Nummer>I</Nummer>
                <Opschrift>Voorbereidingsbesluit gemeente Borsele</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_reg"
-                                   wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001/nld@2021-03-01;1">
+            <RegelingTijdelijkdeel componentnaam="initieel_reg" wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0001-0001/nld@2021-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
                </RegelingOpschrift>
@@ -319,8 +332,7 @@
                <Nummer>II</Nummer>
                <Opschrift>Voorbereidingsbesluit gemeente Kapelle</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_reg"
-                                   wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001/nld@2021-03-01;1">
+            <RegelingTijdelijkdeel componentnaam="initieel_reg" wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0001-0002/nld@2021-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
                </RegelingOpschrift>
@@ -455,8 +467,7 @@
                <Nummer>III</Nummer>
                <Opschrift>Voorbereidingsbesluit gemeente Reimerswaal</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_reg"
-                                   wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001/nld@2021-03-01;1">
+            <RegelingTijdelijkdeel componentnaam="initieel_reg" wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0001-0003/nld@2021-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
                </RegelingOpschrift>
@@ -767,9 +778,89 @@
    </BesluitVersie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001</FRBRWork>
-         <FRBRExpression>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001/nld@2021-03-01;1</FRBRExpression>
-         <soortWork>/join/id/stop/work_019</soortWork>
+         <FRBRWork>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0001</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0001/nld@2021-03-01;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_021</soortWork>
+         <isTijdelijkDeelVan>
+            <WorkIdentificatie>
+               <FRBRWork>/akn/nl/act/gm0654/2020/omgevingsplan</FRBRWork>
+               <soortWork>/join/id/stop/work_019</soortWork>
+            </WorkIdentificatie>
+         </isTijdelijkDeelVan>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <officieleTitel>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <overheidsdomeinen>
+            <overheidsdomein>geen</overheidsdomein>
+         </overheidsdomeinen>
+         <onderwerpen>
+            <onderwerp>geen</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0002</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0002/nld@2021-03-01;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_021</soortWork>
+         <isTijdelijkDeelVan>
+            <WorkIdentificatie>
+               <FRBRWork>/akn/nl/act/gm0678/2020/omgevingsplan</FRBRWork>
+               <soortWork>/join/id/stop/work_019</soortWork>
+            </WorkIdentificatie>
+         </isTijdelijkDeelVan>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <officieleTitel>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <overheidsdomeinen>
+            <overheidsdomein>geen</overheidsdomein>
+         </overheidsdomeinen>
+         <onderwerpen>
+            <onderwerp>geen</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0003</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0003/nld@2021-03-01;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_021</soortWork>
+         <isTijdelijkDeelVan>
+            <WorkIdentificatie>
+               <FRBRWork>/akn/nl/act/gm0703/2020/omgevingsplan</FRBRWork>
+               <soortWork>/join/id/stop/work_019</soortWork>
+            </WorkIdentificatie>
+         </isTijdelijkDeelVan>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <versienummer>1</versienummer>
