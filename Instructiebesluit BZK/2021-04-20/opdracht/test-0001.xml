@@ -21,14 +21,14 @@
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
          <onderwerpen>
-            <onderwerp>geen</onderwerp>
+            <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
          </onderwerpen>
          <rechtsgebieden>
-            <rechtsgebied>geen</rechtsgebied>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
          <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@20210401</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@2021-04-01</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -62,7 +62,7 @@
                <doelen>
                   <doel>/join/id/proces/mnre1034/2021/Instelling_test</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@20210401</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@2021-04-01</instrumentVersie>
                <eId>!initieel_reg#cmp_o_1__content_o_1__table_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
@@ -90,7 +90,7 @@
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
                </Kop>
-               <Wat>Aan de gemeenteraad van Leiden de in bijlage I opgenomen instructie te geven.</Wat>
+               <Wat>Aan de gemeenteraad van Leiden de in bijlage I opgenomen <IntRef ref="cmp_I">instructie</IntRef> te geven.</Wat>
             </WijzigArtikel>
             <Artikel eId="art_II" wId="mnre1034_2__art_II">
                <Kop>
@@ -196,7 +196,7 @@
                                        <Al>
                                           <ExtIoRef eId="cmp_o_1__content_o_1__table_o_1__ref_o_1"
                                                     wId="mnre1034_2__cmp_o_1__content_o_1__table_o_1__ref_o_1"
-                                                    ref="/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@20210401">/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@20210401</ExtIoRef>
+                                                    ref="/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@2021-04-01">/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@2021-04-01</ExtIoRef>
                                        </Al>
                                     </entry>
                                  </row>
@@ -286,13 +286,13 @@
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
          <overheidsdomeinen>
-            <overheidsdomein>geen</overheidsdomein>
+            <overheidsdomein>/tooi/def/concept/c_86b84a9d</overheidsdomein>
          </overheidsdomeinen>
          <onderwerpen>
-            <onderwerp>geen</onderwerp>
+            <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
          </onderwerpen>
          <rechtsgebieden>
-            <rechtsgebied>geen</rechtsgebied>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
          </rechtsgebieden>
       </RegelingMetadata>
    </RegelingVersieInformatie>

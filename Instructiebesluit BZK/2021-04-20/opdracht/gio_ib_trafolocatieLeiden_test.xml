@@ -7,7 +7,7 @@
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <FRBRWork>/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden</FRBRWork>
-      <FRBRExpression>/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@20210401</FRBRExpression>
+      <FRBRExpression>/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@2021-04-01</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>ib_trafolocatieLeiden_test.gml</bestandsnaam>
-            <hash>03721a9110d2dcfaa06080f3914ffa3eb7737a63904d22d8ed417acf21f9b90101cd68c0cdf995951266eeaea245d8b64a1d768c70956033dfdf3e1b8d181ac1</hash>
+            <hash>4832a5a4ec2f5871f21161affd5452f1bd0ec95e302d6070e31cbdf2b3bd1136fd89f33b619434905496834f3644c692c32fa97013ea3afd74616ae5c586839f</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
