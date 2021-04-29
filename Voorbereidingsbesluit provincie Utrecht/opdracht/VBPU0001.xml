@@ -13,10 +13,10 @@
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
          <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
-         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht</officieleTitel>
+         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht - besluit</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
-               <citeertitel>Voorbereidingsbesluit Provincie Utrecht</citeertitel>
+               <citeertitel>Voorbereidingsbesluit Provincie Utrecht - besluit</citeertitel>
                <isOfficieel>true</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
@@ -103,7 +103,7 @@
       </ConsolidatieInformatie>
       <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
          <RegelingOpschrift eId="longTitle" wId="longTitle">
-            <Al>Voorbereidingsbesluit Provincie Utrecht</Al>
+            <Al>Voorbereidingsbesluit Provincie Utrecht - besluit</Al>
          </RegelingOpschrift>
          <Aanhef eId="formula_1" wId="formula_1">
             <Al>Provinciale staten van Utrecht;</Al>
@@ -188,7 +188,7 @@
             <RegelingTijdelijkdeel componentnaam="initieel_utrecht"
                                    wordt="/akn/nl/act/pv26/2021/VBPU0001_gm0344/nld@2021-04-19;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Voorbereidingsbesluit Provincie Utrecht</Al>
+                  <Al>Voorbereidingsbesluit Provincie Utrecht - gemeente Utrecht</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>
@@ -469,7 +469,7 @@
             <RegelingTijdelijkdeel componentnaam="initieel_amersfoort"
                                    wordt="/akn/nl/act/pv26/2021/VBPU0001_gm0307/nld@2021-04-19;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Voorbereidingsbesluit Provincie Utrecht</Al>
+                  <Al>Voorbereidingsbesluit Provincie Utrecht - gemeente Amersfoort</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>
@@ -694,7 +694,7 @@
             <RegelingTijdelijkdeel componentnaam="initieel_nieuwegein"
                                    wordt="/akn/nl/act/pv26/2021/VBPU0001_gm0356/nld@2021-04-19;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Voorbereidingsbesluit Provincie Utrecht</Al>
+                  <Al>Voorbereidingsbesluit Provincie Utrecht - gemeente Nieuwegein</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>
@@ -932,10 +932,10 @@
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
          <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
-         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht</officieleTitel>
+         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht - gemeente Utrecht</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
-               <citeertitel>Voorbereidingsbesluit Provincie Utrecht</citeertitel>
+               <citeertitel>Voorbereidingsbesluit Provincie Utrecht - gemeente Utrecht</citeertitel>
                <isOfficieel>false</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
@@ -970,10 +970,10 @@
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
          <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
-         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht</officieleTitel>
+         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht - gemeente Amersfoort</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
-               <citeertitel>Voorbereidingsbesluit Provincie Utrecht</citeertitel>
+               <citeertitel>Voorbereidingsbesluit Provincie Utrecht - gemeente Amersfoort</citeertitel>
                <isOfficieel>false</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
@@ -1008,10 +1008,10 @@
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
          <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
-         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht</officieleTitel>
+         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht - gemeente Nieuwegein</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
-               <citeertitel>Voorbereidingsbesluit Provincie Utrecht</citeertitel>
+               <citeertitel>Voorbereidingsbesluit Provincie Utrecht - gemeente Nieuwegein</citeertitel>
                <isOfficieel>false</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>

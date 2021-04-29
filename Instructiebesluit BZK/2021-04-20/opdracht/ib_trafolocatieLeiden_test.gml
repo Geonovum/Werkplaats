@@ -15,7 +15,7 @@
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@20210401</geo:FRBRExpression>
+      <geo:FRBRExpression>/join/id/regdata/mnre1034/2021/ib_trafolocatieLeiden/nld@2021-04-01</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Trafolocatie</geo:naam>

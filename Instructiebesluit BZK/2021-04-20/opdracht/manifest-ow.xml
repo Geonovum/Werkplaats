@@ -15,5 +15,9 @@
       <naam>owLocatie.xml</naam>
       <objecttype>Gebied</objecttype>
     </Bestand>
+    <Bestand>
+      <naam>owRegelingsgebied.xml</naam>
+      <objecttype>Regelingsgebied</objecttype>
+    </Bestand>
   </Aanlevering>
 </Aanleveringen>
