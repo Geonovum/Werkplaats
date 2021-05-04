@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.0.4"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/pv26/2021/OMGV001</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/pv26/2021/OMGV001/nld@2021-05-04;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv26</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
+         <officieleTitel>Omgevingsverordening Utrecht</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Omgevingsverordening Utrecht</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_a6a9eddd</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_3e6b35e2</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/ganzenrustgebied/nld@2020-06-02</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2020-06-02</informatieobjectRef>
+         </informatieobjectRefs>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2021-04-29</bekendOp>
+         <ontvangenOp>2021-04-29</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2021-04-29</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2021-04-29</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_004</soortStap>
+               <voltooidOp>2021-05-29</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/pv26/2021/Instelling</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/pv26/2021/OMGV001/nld@2021-05-04;1</instrumentVersie>
+               <eId/>
+            </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <data:doel xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/proces/pv26/2021/Instelling</data:doel>
+               </doelen>
+               <data:instrumentVersie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/pv26/2020/ganzenrustgebied/nld@2020-06-02</data:instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <data:doel xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/proces/pv26/2021/Instelling</data:doel>
+               </doelen>
+               <data:instrumentVersie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2020-06-02</data:instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+            </BeoogdInformatieobject>
+         </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/pv26/2021/Instelling</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2021-04-29</datum>
+               <eId>art_II</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Omgevingsverordening Utrecht</Al>
+         </RegelingOpschrift>
+         <Aanhef eId="formula_1" wId="formula_1">
+            <Al>[Optionele aanhef]</Al>
+         </Aanhef>
+         <Lichaam eId="body" wId="body">
+            <WijzigArtikel eId="art_I" wId="pv26_1__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+                  <Opschrift>[Optioneel opschrift]</Opschrift>
+               </Kop>
+               <Wat>[Omschrijving wat er besloten wordt, met een verwijzing naar de WijzigBijlage.]</Wat>
+            </WijzigArtikel>
+            <Artikel eId="art_II" wId="pv26_1__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+                  <Opschrift>[Optioneel opschrift]</Opschrift>
+               </Kop>
+               <Inhoud>
+                  <Al>[Artikel dat de inwerkingtreding vaststelt.]</Al>
+                  <Al/>
+                  <Al>[Sluiting]</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <!--motivatie-->
+         <WijzigBijlage eId="cmp_I" wId="pv26_1__cmp_I">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>I</Nummer>
+               <Opschrift>[Optioneel opschrift]</Opschrift>
+            </Kop>
+            <RegelingCompact componentnaam="initieel_reg"
+                             wordt="/akn/nl/act/pv26/2021/OMGV001/nld@2021-05-04;1">
+               <RegelingOpschrift eId="longTitle" wId="longTitle">
+                  <Al>Omgevingsverordening Utrecht</Al>
+               </RegelingOpschrift>
+               <Lichaam eId="body" wId="body">
+                  <Hoofdstuk eId="chp_1" wId="pv26_1__chp_1">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>1</Nummer>
+                        <Opschrift>Doel document</Opschrift>
+                     </Kop>
+                     <Redactioneel>
+                        <Al>Dit is een testbestand om de samenhang tussen verschillende documenten te tonen. In dit document en de bijbehorende omgevingsvisie Utrecht zijn verschillende annotaties aangebracht om te testen of het systeem clusters kan maken over besluiten heen. Per alinea wordt een ander soort annotatie uitgeprobeerd.</Al>
+                        <Al/>
+                     </Redactioneel>
+                  </Hoofdstuk>
+                  <Hoofdstuk eId="chp_6" wId="pv26_1__chp_6">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>6</Nummer>
+                        <Opschrift>Natuur</Opschrift>
+                     </Kop>
+                     <Paragraaf eId="chp_6__subsec_6.2" wId="pv26_1__chp_6__subsec_6.2">
+                        <Kop>
+                           <Nummer>6.2</Nummer>
+                           <Opschrift>Houtopstanden en kleine landschapselementen</Opschrift>
+                        </Kop>
+                        <Subparagraaf eId="chp_6__subsec_6.2__subsec_6.2.2"
+                                      wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2">
+                           <Kop>
+                              <Nummer>6.2.2</Nummer>
+                              <Opschrift>Regels over activiteiten houtopstanden</Opschrift>
+                           </Kop>
+                           <Artikel eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.18"
+                                    wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.18">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>6.18</Nummer>
+                                 <Opschrift>Gegevens melding vellen houtopstanden</Opschrift>
+                              </Kop>
+                              <Inhoud>
+                                 <Lijst eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.18__list_o_1"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.18__list_o_1"
+                                        type="expliciet">
+                                    <Lijstaanhef>De melding, bedoeld in artikel 11.127 van het Besluit activiteiten leefomgeving, bevat ten minste:</Lijstaanhef>
+                                    <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.18__list_o_1__item_a"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.18__list_o_1__item_a">
+                                       <LiNummer>a.</LiNummer>
+                                       <Al>als degene die de activiteit verricht geen eigenaar is van de grond waar de houtopstand staat: contactgegevens van de grondeigenaar;</Al>
+                                    </Li>
+                                    <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.18__list_o_1__item_b"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.18__list_o_1__item_b">
+                                       <LiNummer>b.</LiNummer>
+                                       <Al>een situatietekening van de locatie van de te kappen houtopstand, waaronder ten minste een topografische kaart schaal 1:25.000 en de kadastrale percelen;</Al>
+                                    </Li>
+                                    <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.18__list_o_1__item_c"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.18__list_o_1__item_c">
+                                       <LiNummer>c.</LiNummer>
+                                       <Al>de oppervlakte van de velling (in are) en, als het rijbeplanting betreft, het aantal bomen;</Al>
+                                    </Li>
+                                    <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.18__list_o_1__item_d"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.18__list_o_1__item_d">
+                                       <LiNummer>d.</LiNummer>
+                                       <Al>de boomsoort;</Al>
+                                    </Li>
+                                    <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.18__list_o_1__item_e"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.18__list_o_1__item_e">
+                                       <LiNummer>e.</LiNummer>
+                                       <Al>de leeftijd van de houtopstand; en</Al>
+                                    </Li>
+                                    <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.18__list_o_1__item_f"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.18__list_o_1__item_f">
+                                       <LiNummer>f.</LiNummer>
+                                       <Al>de reden van de velling.</Al>
+                                    </Li>
+                                 </Lijst>
+                              </Inhoud>
+                           </Artikel>
+                           <Artikel eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.43"
+                                    wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.43">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>6.43</Nummer>
+                                 <Opschrift>Vrijstelling verjagen schadeveroorzakende ganzen</Opschrift>
+                              </Kop>
+                              <Inhoud>
+                                 <Lijst eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.43__list_o_1"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.43__list_o_1"
+                                        type="expliciet">
+                                    <Lijstaanhef>De verboden bedoeld in de artikel 3.1 en artikel 3.5, tweede tot en met vierde lid, van Wet natuurbescherming, gelden niet voor activiteiten die dienen voor het verjagen van de grauwe gans, kolgans en brandgans, mits is voldaan aan de volgende voorwaarden:</Lijstaanhef>
+                                    <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.43__list_o_1__item_a"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.43__list_o_1__item_a">
+                                       <LiNummer>a.</LiNummer>
+                                       <Al>de activiteiten worden uitgevoerd door of in opdracht van de grondgebruiker;</Al>
+                                    </Li>
+                                    <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.43__list_o_1__item_b"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.43__list_o_1__item_b">
+                                       <LiNummer>b.</LiNummer>
+                                       <Al>de activiteiten worden uitgevoerd op de gronden, of in of aan de opstallen, die bij de grondgebruiker in gebruik zijn;</Al>
+                                    </Li>
+                                    <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.43__list_o_1__item_c"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.43__list_o_1__item_c">
+                                       <LiNummer>c.</LiNummer>
+                                       <Al>de activiteiten vinden plaats met het oog op het voorkomen van schade die in het lopende of daarop volgende jaar door de grauwe gans, kolgans of brandgans dreigt op te treden op deze gronden, in of aan deze opstallen of in het omringende gebied; en</Al>
+                                    </Li>
+                                    <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.43__list_o_1__item_d"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.43__list_o_1__item_d">
+                                       <LiNummer>d.</LiNummer>
+                                       <Al>er wordt voldaan aan de artikelen Artikel 6.44 Verjagen schadeveroorzakende ganzen met ondersteunend afschot, Artikel 6.45 Verbod opzettelijke verstoring ganzen in ganzenrustgebied en Artikel 6.46 Middelen verstoring schadeveroorzakende ganzen.</Al>
+                                    </Li>
+                                 </Lijst>
+                              </Inhoud>
+                           </Artikel>
+                           <Artikel eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.45"
+                                    wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.45">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>6.45</Nummer>
+                                 <Opschrift>Verbod opzettelijke verstoring ganzen in ganzenrustgebied</Opschrift>
+                              </Kop>
+                              <Inhoud>
+                                 <Lijst eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.45__list_o_1"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.45__list_o_1"
+                                        type="expliciet">
+                                    <Lijstaanhef>Het is verboden in <IntIoRef eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.45__list_o_1__ref_o_1"
+                                       wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.45__list_o_1__ref_o_1"
+                                       ref="pv26_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Ganzenrustgebied</IntIoRef>:</Lijstaanhef>
+                                    <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.45__list_o_1__item_a"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.45__list_o_1__item_a">
+                                       <LiNummer>a.</LiNummer>
+                                       <Al>Schadeveroorzakende ganzen opzettelijk te verstoren en verjagingsactiviteiten met ondersteunend doding door afschot te ondernemen;</Al>
+                                    </Li>
+                                    <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.45__list_o_1__item_b"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.45__list_o_1__item_b">
+                                       <LiNummer>b.</LiNummer>
+                                       <Al>De foerageerfunctie van het gebied opzettelijk teniet te doen;</Al>
+                                    </Li>
+                                    <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.45__list_o_1__item_c"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.45__list_o_1__item_c">
+                                       <LiNummer>c.</LiNummer>
+                                       <Al>Jacht, beheer en schadebestrijding te verrichten tot 12:00 uur, met uitzondering van jacht maximaal drie dagen per jachtveld per seizoen, mits deze acties niet in hetzelfde gebied plaatsvinden en een afstand in acht wordt genomen van minimaal 300 meter tot groepen foeragerende ganzen van minimaal 100 stuks;</Al>
+                                    </Li>
+                                    <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_6.45__list_o_1__item_d"
+                                        wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_6.45__list_o_1__item_d">
+                                       <LiNummer>d.</LiNummer>
+                                       <Al>Jacht, beheer en schadebestrijding te verrichten vanaf 12:00, mits een afstand in acht wordt</Al>
+                                    </Li>
+                                 </Lijst>
+                              </Inhoud>
+                           </Artikel>
+                           <Artikel eId="chp_6__subsec_6.2__subsec_6.2.2__art_7.3"
+                                    wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_7.3">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>7.3</Nummer>
+                                 <Opschrift>Instandhouding en versterking <IntIoRef eId="chp_6__subsec_6.2__subsec_6.2.2__art_7.3__ref_o_1"
+                                    wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_7.3__ref_o_1"
+                                    ref="pv26_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">(Voorlopige Lijst) UNESCO Werelderfgoed Neder-Germaanse Limes (bufferzone)</IntIoRef></Opschrift>
+                              </Kop>
+                              <Lid eId="chp_6__subsec_6.2__subsec_6.2.2__art_7.3__para_1"
+                                   wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_7.3__para_1">
+                                 <LidNummer>1.</LidNummer>
+                                 <Inhoud>
+                                    <Al>Een omgevingsplan dat betrekking heeft op locaties in het (Voorlopige Lijst) Werelderfgoederen Neder-Germaanse Limes (bufferzone) bevat regels ter instandhouding en versterking van de uitzonderlijke universele waarde van de Neder-Germaanse Limes.</Al>
+                                 </Inhoud>
+                              </Lid>
+                              <Lid eId="chp_6__subsec_6.2__subsec_6.2.2__art_7.3__para_2"
+                                   wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_7.3__para_2">
+                                 <LidNummer>2.</LidNummer>
+                                 <Inhoud>
+                                    <Al>Als uitzonderlijke universele waarde van de Neder-Germaanse Limes gelden de kernkwaliteiten, bedoeld in de Bijlage Cultuurhistorie.</Al>
+                                 </Inhoud>
+                              </Lid>
+                              <Lid eId="chp_6__subsec_6.2__subsec_6.2.2__art_7.3__para_3"
+                                   wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_7.3__para_3">
+                                 <LidNummer>3.</LidNummer>
+                                 <Inhoud>
+                                    <Lijst eId="chp_6__subsec_6.2__subsec_6.2.2__art_7.3__para_3__list_o_1"
+                                           wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_7.3__para_3__list_o_1"
+                                           type="expliciet">
+                                       <Lijstaanhef>De toelichting op het omgevingsplan bevat:</Lijstaanhef>
+                                       <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_7.3__para_3__list_o_1__item_a"
+                                           wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_7.3__para_3__list_o_1__item_a">
+                                          <LiNummer>a.</LiNummer>
+                                          <Al>een beschrijving van de in (de directe omgeving van) het plangebied aanwezige uitzonderlijke universele waarde van de Neder-Germaanse Limes; en</Al>
+                                       </Li>
+                                       <Li eId="chp_6__subsec_6.2__subsec_6.2.2__art_7.3__para_3__list_o_1__item_b"
+                                           wId="pv26_1__chp_6__subsec_6.2__subsec_6.2.2__art_7.3__para_3__list_o_1__item_b">
+                                          <LiNummer>b.</LiNummer>
+                                          <Al>een beschrijving en motivering van de wijze waarop die waarde wordt beschermd.</Al>
+                                       </Li>
+                                    </Lijst>
+                                 </Inhoud>
+                              </Lid>
+                           </Artikel>
+                        </Subparagraaf>
+                     </Paragraaf>
+                  </Hoofdstuk>
+               </Lichaam>
+               <Bijlage eId="cmp_I" wId="pv26_1__cmp_I">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Nummer>I</Nummer>
+                     <Opschrift>Overzicht Informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_I__content_o_1" wId="pv26_1__cmp_I__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
+                           wId="pv26_1__cmp_I__content_o_1__list_o_1">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1"
+                              wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1">
+                              <Term>Ganzenrustgebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <tekst:ExtIoRef xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/"
+                                       wId="pv26_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/ganzenrustgebied/nld@2020-06-02">/join/id/regdata/pv26/2020/ganzenrustgebied/nld@2020-06-02</tekst:ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_2"
+                              wId="pv26_1__cmp_I__content_o_1__list_o_1__item_o_2">
+                              <Term>Voorlopigelijst-UNESCO-Neder-GermaanseLimesbufferzone</Term>
+                              <Definitie>
+                                 <Al>
+                                    <tekst:ExtIoRef xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/"
+                                       wId="pv26_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                       eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2020-06-02">/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2020-06-02</tekst:ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+            </RegelingCompact>
+         </WijzigBijlage>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/pv26/2021/OMGV001</FRBRWork>
+         <FRBRExpression>/akn/nl/act/pv26/2021/OMGV001/nld@2021-05-04;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <soortRegeling>/join/id/stop/regelingtype_004</soortRegeling>
+         <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv26</maker>
+         <officieleTitel>Omgevingsverordening Utrecht</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Omgevingsverordening Utrecht</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <overheidsdomeinen>
+            <overheidsdomein>/tooi/def/concept/c_3708ac5e</overheidsdomein>
+         </overheidsdomeinen>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_a6a9eddd</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_3e6b35e2</rechtsgebied>
+         </rechtsgebieden>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>
