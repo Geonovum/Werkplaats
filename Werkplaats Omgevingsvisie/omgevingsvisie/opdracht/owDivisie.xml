@@ -37,9 +37,9 @@
                     <vt:divisieaanduiding>
                         <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.00001"/>
                     </vt:divisieaanduiding>
-                    <r:locatieaanduiding>
+                    <vt:locatieaanduiding>
                         <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="PV26"/>
-                    </r:locatieaanduiding>
+                    </vt:locatieaanduiding>
                     <!-- Hier zou je een dynamische verwijzing op kunnen nemen -->
                 </vt:Tekstdeel>
             </ow-dc:owObject>
