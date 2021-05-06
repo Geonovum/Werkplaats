@@ -11,12 +11,17 @@
             <objecttype>Gebiedsaanwijzing</objecttype>
         </Bestand>
         <Bestand>
-            <naam>owLocatie.xml</naam>
-            <objecttype>Gebied</objecttype>
+            <naam>owActiviteit.xml</naam>
+            <objecttype>Activiteit</objecttype>
         </Bestand>
         <Bestand>
             <naam>owLocatie.xml</naam>
+            <objecttype>Ambtsgebied</objecttype>
             <objecttype>Gebied</objecttype>
+        </Bestand>
+        <Bestand>
+            <naam>owRegelingsgebied.xml</naam>
+            <objecttype>Regelingsgebied</objecttype>
         </Bestand>
         <Bestand>
             <naam>owRegeltekst.xml</naam>

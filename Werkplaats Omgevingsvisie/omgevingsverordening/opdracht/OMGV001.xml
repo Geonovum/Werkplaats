@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                     schemaversie="1.0.4"
@@ -57,20 +57,20 @@
                   <doel>/join/id/proces/pv26/2021/Instelling</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/pv26/2021/OMGV001/nld@2021-05-04;1</instrumentVersie>
-               <eId/>
+               <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
-                  <data:doel xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/proces/pv26/2021/Instelling</data:doel>
+                  <doel>/join/id/proces/pv26/2021/Instelling</doel>
                </doelen>
-               <data:instrumentVersie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/pv26/2020/ganzenrustgebied/nld@2020-06-02</data:instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/ganzenrustgebied/nld@2020-06-02</instrumentVersie>
                <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <data:doel xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/proces/pv26/2021/Instelling</data:doel>
+                  <doel>/join/id/proces/pv26/2021/Instelling</doel>
                </doelen>
-               <data:instrumentVersie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2020-06-02</data:instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2020-06-02</instrumentVersie>
                <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
@@ -97,7 +97,7 @@
                   <Nummer>I</Nummer>
                   <Opschrift>[Optioneel opschrift]</Opschrift>
                </Kop>
-               <Wat>[Omschrijving wat er besloten wordt, met een verwijzing naar de WijzigBijlage.]</Wat>
+               <Wat>[Omschrijving wat er besloten wordt, met een verwijzing naar de <IntRef ref="cmp_I">WijzigBijlage</IntRef>.]</Wat>
             </WijzigArtikel>
             <Artikel eId="art_II" wId="pv26_1__art_II">
                <Kop>
@@ -107,12 +107,12 @@
                </Kop>
                <Inhoud>
                   <Al>[Artikel dat de inwerkingtreding vaststelt.]</Al>
-                  <Al/>
-                  <Al>[Sluiting]</Al>
                </Inhoud>
             </Artikel>
          </Lichaam>
-         <!--motivatie-->
+         <Sluiting eId="formula_2" wId="formula_2">
+            <Al>[Sluiting]</Al>
+         </Sluiting>
          <WijzigBijlage eId="cmp_I" wId="pv26_1__cmp_I">
             <Kop>
                <Label>Bijlage</Label>
@@ -133,7 +133,6 @@
                      </Kop>
                      <Redactioneel>
                         <Al>Dit is een testbestand om de samenhang tussen verschillende documenten te tonen. In dit document en de bijbehorende omgevingsvisie Utrecht zijn verschillende annotaties aangebracht om te testen of het systeem clusters kan maken over besluiten heen. Per alinea wordt een ander soort annotatie uitgeprobeerd.</Al>
-                        <Al/>
                      </Redactioneel>
                   </Hoofdstuk>
                   <Hoofdstuk eId="chp_6" wId="pv26_1__chp_6">
@@ -334,10 +333,9 @@
                               <Term>Ganzenrustgebied</Term>
                               <Definitie>
                                  <Al>
-                                    <tekst:ExtIoRef xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/"
-                                       wId="pv26_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                    <ExtIoRef wId="pv26_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
                                        eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                       ref="/join/id/regdata/pv26/2020/ganzenrustgebied/nld@2020-06-02">/join/id/regdata/pv26/2020/ganzenrustgebied/nld@2020-06-02</tekst:ExtIoRef>
+                                       ref="/join/id/regdata/pv26/2020/ganzenrustgebied/nld@2020-06-02">/join/id/regdata/pv26/2020/ganzenrustgebied/nld@2020-06-02</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -346,10 +344,9 @@
                               <Term>Voorlopigelijst-UNESCO-Neder-GermaanseLimesbufferzone</Term>
                               <Definitie>
                                  <Al>
-                                    <tekst:ExtIoRef xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/"
-                                       wId="pv26_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                    <ExtIoRef wId="pv26_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
                                        eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                       ref="/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2020-06-02">/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2020-06-02</tekst:ExtIoRef>
+                                       ref="/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2020-06-02">/join/id/regdata/pv26/2020/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2020-06-02</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -374,6 +371,7 @@
          <soortRegeling>/join/id/stop/regelingtype_004</soortRegeling>
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
          <officieleTitel>Omgevingsverordening Utrecht</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>

@@ -11,6 +11,7 @@
             <sl:gebied>Provincie Utrecht</sl:gebied>
             <sl:leveringsId>OMGV001</sl:leveringsId>
             <sl:objectTypen>
+                <sl:objectType>Ambtsgebied</sl:objectType>
                 <sl:objectType>Gebied</sl:objectType>
             </sl:objectTypen>
         </sl:inhoud>
@@ -41,7 +42,6 @@
                 <l:Ambtsgebied>
                     <l:identificatie>PV26</l:identificatie>
                     <l:noemer>Provincie Utrecht</l:noemer>
-                    <!-- Ik weet niet of dit domein goed is ingevuld -->
                     <l:domein>NL.BI.BestuurlijkGebied</l:domein>
                     <l:geldigOp>2021-01-01</l:geldigOp>
                 </l:Ambtsgebied>

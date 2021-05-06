@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<validatieOpdracht xmlns="http://www.overheid.nl/2017/lvbb"> 
-    <idLevering>OMGV001</idLevering>
-    <idBevoegdGezag>00000001812579446000</idBevoegdGezag>
+<publicatieOpdracht xmlns="http://www.overheid.nl/2017/lvbb"> 
+    <idLevering>OMGV001-001</idLevering>
+    <idBevoegdGezag>00000001001797864000</idBevoegdGezag>
     <idAanleveraar>00000003560458830000</idAanleveraar>
     <publicatie>OMGV001.xml</publicatie>
-    <datumBekendmaking>2021-04-21</datumBekendmaking>
-</validatieOpdracht>
-
+    <datumBekendmaking>2021-05-07</datumBekendmaking>
+</publicatieOpdracht>

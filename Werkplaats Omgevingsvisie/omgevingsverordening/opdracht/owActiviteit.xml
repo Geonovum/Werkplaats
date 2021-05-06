@@ -29,7 +29,7 @@
                     <rol:naam>boom kappen of houtopstand vellen</rol:naam>
                     <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Kapactiviteit</rol:groep>
                     <rol:bovenliggendeActiviteit>
-                        <rol:ActiviteitRef xlink:href="nl.imow-pv26.activiteit.topactiviteitOmgVerordening"/>
+                        <rol:ActiviteitRef xlink:href="nl.imow-pv26.activiteit.ActInOmgevingsverordening"/>
                     </rol:bovenliggendeActiviteit>
                 </rol:Activiteit>
             </ow-dc:owObject>
@@ -41,7 +41,7 @@
                     <rol:naam>verjagen van ganzen (grauwe gans, kolgans, brandgans)</rol:naam>
                     <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/FloraEnFaunaActiviteit</rol:groep>
                     <rol:bovenliggendeActiviteit>
-                        <rol:ActiviteitRef xlink:href="nl.imow-pv26.activiteit.topactiviteitOmgVerordening"/>
+                        <rol:ActiviteitRef xlink:href="nl.imow-pv26.activiteit.ActInOmgevingsverordening"/>
                     </rol:bovenliggendeActiviteit>
                 </rol:Activiteit>
             </ow-dc:owObject>

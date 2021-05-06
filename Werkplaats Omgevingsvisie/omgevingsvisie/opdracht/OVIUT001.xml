@@ -53,7 +53,7 @@
                   <doel>/join/id/proces/pv26/2021/Instelling</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/pv26/2021/OVIUT001/nld@2021-05-04;1</instrumentVersie>
-               <eId/>
+               <eId>art_I</eId>
             </BeoogdeRegeling>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -79,7 +79,7 @@
                   <Nummer>I</Nummer>
                   <Opschrift>[Optioneel opschrift]</Opschrift>
                </Kop>
-               <Wat>[Omschrijving wat er besloten wordt, met een verwijzing naar de WijzigBijlage.]</Wat>
+               <Wat>[Omschrijving wat er besloten wordt, met een verwijzing naar de <IntRef ref="cmp_I">WijzigBijlage</IntRef>.]</Wat>
             </WijzigArtikel>
             <Artikel eId="art_II" wId="pv26_1__art_II">
                <Kop>
@@ -89,11 +89,12 @@
                </Kop>
                <Inhoud>
                   <Al>[Artikel dat de inwerkingtreding vaststelt.]</Al>
-                  <Al/>
-                  <Al>[Sluiting]</Al>
                </Inhoud>
             </Artikel>
          </Lichaam>
+         <Sluiting eId="formula_2" wId="formula_2">
+            <Al>[Sluiting]</Al>
+         </Sluiting>
          <WijzigBijlage eId="cmp_I" wId="pv26_1__cmp_I">
             <Kop>
                <Label>Bijlage</Label>
@@ -136,7 +137,6 @@
                            <Al>We gaan onverminderd door met het realiseren van het NNN. In 2028 is alle nieuwe natuur die nodig is voor het NNN aangekocht en ingericht.</Al>
                            <Al>We stimuleren het verbeteren van de natuurkwaliteit binnen en buiten het NNN. Passende waterstanden en hoge waterkwaliteit zijn essentiële voorwaarden voor een goede natuurkwaliteit. Het terugdringen van de stikstofdepositie is nodig om de kwaliteit van natuurgebieden te behouden en te verbeteren.</Al>
                            <Al>Wij zorgen er voor dat zich geen nieuwe ruimtelijke ontwikkelingen voordoen die een negatief effect hebben op de wezenlijke kenmerken en waarden, oppervlakte en samenhang van ons NNN. Voor de bescherming van het NNN handhaven we het nee-tenzij principe. Uitzondering vormt onze inzet op tijdelijke duurzame energieprojecten als verdienmodel om nieuwe natuur te realiseren in de Groene contourgebieden en gebiedsprocessen waarin de compensatie plaatsvindt voor dat de rode ontwikkeling gerealiseerd wordt, zoals in het programma Hart van de Heuvelrug. Duurzame energieopwek en energiebesparing stimuleren.</Al>
-                           <Al/>
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -209,6 +209,7 @@
          <soortRegeling>/join/id/stop/regelingtype_006</soortRegeling>
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
          <officieleTitel>Omgevingsvisie Utrecht</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
