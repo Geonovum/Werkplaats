@@ -61,9 +61,9 @@
                     <vt:divisieaanduiding>
                         <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.00002"/>
                     </vt:divisieaanduiding>
-                    <r:locatieaanduiding>
+                    <vt:locatieaanduiding>
                         <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="PV26"/>
-                    </r:locatieaanduiding>
+                    </vt:locatieaanduiding>
                 </vt:Tekstdeel>
             </ow-dc:owObject>
         </sl:stand>
