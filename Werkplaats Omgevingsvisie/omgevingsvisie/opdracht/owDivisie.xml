@@ -103,7 +103,7 @@
                     <vt:identificatie>nl.imow-pv26.tekstdeel.00004</vt:identificatie>
                     <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                     <vt:divisieaanduiding>
-                        <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.00002"/>
+                        <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.00004"/>
                     </vt:divisieaanduiding>
                     <vt:gebiedsaanwijzing>
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00002"/>
