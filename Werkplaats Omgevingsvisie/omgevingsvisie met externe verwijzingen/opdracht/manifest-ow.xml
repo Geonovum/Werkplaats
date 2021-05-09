@@ -7,16 +7,11 @@
       <WorkIDRegeling>/akn/nl/act/pv26/2021/OVIUT002</WorkIDRegeling>
       <DoelID>/join/id/proces/pv26/2021/Instelling_OVIUT002</DoelID>
       <Bestand>
-         <naam>owGebiedsaanwijzing.xml</naam>
-         <objecttype>Gebiedsaanwijzing</objecttype>
-      </Bestand>
-      <Bestand>
          <naam>owRegelingsgebied.xml</naam>
          <objecttype>Regelingsgebied</objecttype>
       </Bestand>
       <Bestand>
          <naam>owLocatie.xml</naam>
-         <objecttype>Ambtsgebied</objecttype>
          <objecttype>Gebied</objecttype>
       </Bestand>
       <Bestand>

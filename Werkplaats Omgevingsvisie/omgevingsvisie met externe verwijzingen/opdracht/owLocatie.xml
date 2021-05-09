@@ -11,7 +11,6 @@
             <sl:gebied>Provincie Utrecht</sl:gebied>
             <sl:leveringsId>OVIUT002</sl:leveringsId>
             <sl:objectTypen>
-                <sl:objectType>Ambtsgebied</sl:objectType>
                 <sl:objectType>Gebied</sl:objectType>
             </sl:objectTypen>
         </sl:inhoud>
@@ -35,16 +34,6 @@
                         <l:GeometrieRef xlink:href="tf44bee5c-cc50-42dc-9757-17a14b6197cb"/>
                     </l:geometrie>
                 </l:Gebied>
-            </ow-dc:owObject>
-        </sl:stand>
-        <sl:stand>
-            <ow-dc:owObject>
-                <l:Ambtsgebied>
-                    <l:identificatie>PV26</l:identificatie>
-                    <l:noemer>Provincie Utrecht</l:noemer>
-                    <l:domein>NL.BI.BestuurlijkGebied</l:domein>
-                    <l:geldigOp>2021-01-01</l:geldigOp>
-                </l:Ambtsgebied>
             </ow-dc:owObject>
         </sl:stand>
     </sl:standBestand>

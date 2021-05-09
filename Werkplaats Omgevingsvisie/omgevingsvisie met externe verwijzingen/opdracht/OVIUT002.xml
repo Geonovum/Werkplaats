@@ -27,26 +27,22 @@
             <rechtsgebied>/tooi/def/concept/c_3e6b35e2</rechtsgebied>
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
-         <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/pv26/2021/ganzenrustgebied/nld@2021-05-07</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2021/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2021-05-07</informatieobjectRef>
-         </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <bekendOp>2021-05-05</bekendOp>
-         <ontvangenOp>2021-05-05</ontvangenOp>
+         <bekendOp>2021-04-28</bekendOp>
+         <ontvangenOp>2021-04-28</ontvangenOp>
          <procedurestappen>
             <Procedurestap>
                <soortStap>/join/id/stop/procedure/stap_002</soortStap>
-               <voltooidOp>2021-05-05</voltooidOp>
+               <voltooidOp>2021-04-28</voltooidOp>
             </Procedurestap>
             <Procedurestap>
                <soortStap>/join/id/stop/procedure/stap_003</soortStap>
-               <voltooidOp>2021-05-05</voltooidOp>
+               <voltooidOp>2021-04-28</voltooidOp>
             </Procedurestap>
             <Procedurestap>
                <soortStap>/join/id/stop/procedure/stap_004</soortStap>
-               <voltooidOp>2021-05-05</voltooidOp>
+               <voltooidOp>2021-05-28</voltooidOp>
             </Procedurestap>
          </procedurestappen>
       </Procedureverloop>
@@ -59,26 +55,12 @@
                <instrumentVersie>/akn/nl/act/pv26/2021/OVIUT002/nld@2021-05-04;1</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
-            <BeoogdInformatieobject>
-               <doelen>
-                  <doel>/join/id/proces/pv26/2021/Instelling_OVIUT002</doel>
-               </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2021/ganzenrustgebied/nld@2021-05-07</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
-            </BeoogdInformatieobject>
-            <BeoogdInformatieobject>
-               <doelen>
-                  <doel>/join/id/proces/pv26/2021/Instelling_OVIUT002</doel>
-               </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2021/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2021-05-07</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
-            </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
                <doel>/join/id/proces/pv26/2021/Instelling_OVIUT002</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2021-05-05</datum>
+               <datum>2021-04-28</datum>
                <eId>art_II</eId>
             </Tijdstempel>
          </Tijdstempels>
@@ -155,9 +137,6 @@
                            <Al>We gaan onverminderd door met het realiseren van het NNN. In 2028 is alle nieuwe natuur die nodig is voor het NNN aangekocht en ingericht.</Al>
                            <Al>We stimuleren het verbeteren van de natuurkwaliteit binnen en buiten het NNN. Passende waterstanden en hoge waterkwaliteit zijn essentiële voorwaarden voor een goede natuurkwaliteit. Het terugdringen van de stikstofdepositie is nodig om de kwaliteit van natuurgebieden te behouden en te verbeteren.</Al>
                            <Al>Wij zorgen er voor dat zich geen nieuwe ruimtelijke ontwikkelingen voordoen die een negatief effect hebben op de wezenlijke kenmerken en waarden, oppervlakte en samenhang van ons NNN. Voor de bescherming van het NNN handhaven we het nee-tenzij principe. Uitzondering vormt onze inzet op tijdelijke duurzame energieprojecten als verdienmodel om nieuwe natuur te realiseren in de Groene contourgebieden en gebiedsprocessen waarin de compensatie plaatsvindt voor dat de rode ontwikkeling gerealiseerd wordt, zoals in het programma Hart van de Heuvelrug. Duurzame energieopwek en energiebesparing stimuleren.</Al>
-                           <Al>[Omdat de geometrie meegeleverd moet worden, moet in de tekst de noemer '<IntIoRef eId="div_2__content_o_1__ref_o_1"
-                                        wId="pv26_1__div_2__content_o_1__ref_o_1"
-                                        ref="pv26_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">(Voorlopige Lijst) Werelderfgoederen Neder-Germaanse Limes</IntIoRef>' vastgelegd worden.]</Al>
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -172,9 +151,7 @@
                      </Kop>
                      <Divisietekst eId="div_3__content_o_1" wId="pv26_1__div_3__content_o_1">
                         <Inhoud>
-                           <Al>In <IntIoRef eId="div_3__content_o_1__ref_o_1"
-                                        wId="pv26_1__div_3__content_o_1__ref_o_1"
-                                        ref="pv26_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">ganzenrustgebieden</IntIoRef> geven wij ruimte voor overwinterende ganzen. In deze gebieden geldt dat ganzen in bepaalde periodes niet verontrust en bejaagd mogen worden. Openheid en rust zijn belangrijke voorwaarden in deze gebieden.</Al>
+                           <Al>In ganzenrustgebieden geven wij ruimte voor overwinterende ganzen. In deze gebieden geldt dat ganzen in bepaalde periodes niet verontrust en bejaagd mogen worden. Openheid en rust zijn belangrijke voorwaarden in deze gebieden.</Al>
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
@@ -215,42 +192,6 @@
                      </Divisie>
                   </Divisie>
                </Lichaam>
-               <Bijlage eId="cmp_I" wId="pv26_1__cmp_I">
-                  <Kop>
-                     <Label>Bijlage</Label>
-                     <Nummer>I</Nummer>
-                     <Opschrift>Overzicht Informatieobjecten</Opschrift>
-                  </Kop>
-                  <Divisietekst eId="cmp_I__content_o_1" wId="pv26_1__cmp_I__content_o_1">
-                     <Inhoud>
-                        <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
-                                        wId="pv26_1__cmp_I__content_o_1__list_o_1">
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1"
-                                   wId="pv26_1__cmp_I__content_o_1__list_o_1__item_o_1">
-                              <Term>Ganzenrustgebied</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              wId="pv26_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2021/ganzenrustgebied/nld@2021-05-07">/join/id/regdata/pv26/2021/ganzenrustgebied/nld@2021-05-07</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_2"
-                                   wId="pv26_1__cmp_I__content_o_1__list_o_1__item_o_2">
-                              <Term>(Voorlopige Lijst) Werelderfgoederen Neder-Germaanse Limes</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                              wId="pv26_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2021/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2021-05-07">/join/id/regdata/pv26/2021/voorlopigelijstwerelderfgoederenneder-germaanselimes/nld@2021-05-07</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                        </Begrippenlijst>
-                     </Inhoud>
-                  </Divisietekst>
-               </Bijlage>
             </RegelingVrijetekst>
          </WijzigBijlage>
       </BesluitCompact>
