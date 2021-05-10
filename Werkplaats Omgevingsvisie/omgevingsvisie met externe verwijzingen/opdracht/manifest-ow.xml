@@ -11,10 +11,6 @@
          <objecttype>Regelingsgebied</objecttype>
       </Bestand>
       <Bestand>
-         <naam>owLocatie.xml</naam>
-         <objecttype>Gebied</objecttype>
-      </Bestand>
-      <Bestand>
          <naam>owDivisie.xml</naam>
          <objecttype>Divisie</objecttype>
          <objecttype>Tekstdeel</objecttype>
