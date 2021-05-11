@@ -15,7 +15,7 @@
         <sl:dataset>Omgevingsvisie Utrecht</sl:dataset>
         <sl:inhoud>
             <sl:gebied>Provincie Utrecht</sl:gebied>
-            <sl:leveringsId>OVIUT001</sl:leveringsId>
+            <sl:leveringsId>OVIUT002</sl:leveringsId>
             <sl:objectTypen>
                 <sl:objectType>Divisie</sl:objectType>
                 <sl:objectType>Tekstdeel</sl:objectType>

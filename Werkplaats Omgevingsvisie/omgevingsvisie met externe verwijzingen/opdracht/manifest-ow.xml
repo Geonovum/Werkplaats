@@ -4,20 +4,11 @@
                xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/generiek/manifest-ow.xsd">
    <domein>omgevingswet</domein>
    <Aanlevering>
-      <WorkIDRegeling>/akn/nl/act/pv26/2021/OVIUT001</WorkIDRegeling>
-      <DoelID>/join/id/proces/pv26/2021/InstellingOmgevingsVisie</DoelID>
-      <Bestand>
-         <naam>owGebiedsaanwijzing.xml</naam>
-         <objecttype>Gebiedsaanwijzing</objecttype>
-      </Bestand>
+      <WorkIDRegeling>/akn/nl/act/pv26/2021/OVIUT002</WorkIDRegeling>
+      <DoelID>/join/id/proces/pv26/2021/Instelling_OVIUT002</DoelID>
       <Bestand>
          <naam>owRegelingsgebied.xml</naam>
          <objecttype>Regelingsgebied</objecttype>
-      </Bestand>
-      <Bestand>
-         <naam>owLocatie.xml</naam>
-         <objecttype>Ambtsgebied</objecttype>
-         <objecttype>Gebied</objecttype>
       </Bestand>
       <Bestand>
          <naam>owDivisie.xml</naam>
