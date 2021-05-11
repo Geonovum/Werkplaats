@@ -134,6 +134,16 @@
                      <Redactioneel>
                         <Al>Dit is een testbestand om de samenhang tussen verschillende documenten te tonen. In dit document en de bijbehorende omgevingsvisie Utrecht zijn verschillende annotaties aangebracht om te testen of het systeem clusters kan maken over besluiten heen. Per alinea wordt een ander soort annotatie uitgeprobeerd.</Al>
                      </Redactioneel>
+                     <Artikel wId="pv26_1__chp_1__art_1.1" eId="chp_1__art_1.1">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1.1</Nummer>
+                           <Opschrift>Topactiviteit</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>In dit artikel staat de topactiviteit gedefinieerd.</Al>
+                        </Inhoud>
+                     </Artikel>
                   </Hoofdstuk>
                   <Hoofdstuk eId="chp_6" wId="pv26_1__chp_6">
                      <Kop>

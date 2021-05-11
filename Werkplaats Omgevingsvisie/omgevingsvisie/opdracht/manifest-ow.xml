@@ -5,7 +5,7 @@
    <domein>omgevingswet</domein>
    <Aanlevering>
       <WorkIDRegeling>/akn/nl/act/pv26/2021/OVIUT001</WorkIDRegeling>
-      <DoelID>/join/id/proces/pv26/2021/Instelling</DoelID>
+      <DoelID>/join/id/proces/pv26/2021/InstellingOmgevingsVisie</DoelID>
       <Bestand>
          <naam>owGebiedsaanwijzing.xml</naam>
          <objecttype>Gebiedsaanwijzing</objecttype>

@@ -50,7 +50,7 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/pv26/2021/Instelling</doel>
+                  <doel>/join/id/proces/pv26/2021/InstellingOmgevingsVisie</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/pv26/2021/OVIUT001/nld@2021-05-04;1</instrumentVersie>
                <eId>art_I</eId>
@@ -58,7 +58,7 @@
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/join/id/proces/pv26/2021/Instelling</doel>
+               <doel>/join/id/proces/pv26/2021/InstellingOmgevingsVisie</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2021-04-28</datum>
                <eId>art_II</eId>
