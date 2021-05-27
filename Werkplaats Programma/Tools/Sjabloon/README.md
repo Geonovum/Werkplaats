@@ -12,3 +12,5 @@ Het sjaboon is geschikt gemaakt voor het voorbereidingsbesluit. Het is nu opgede
   - Bijlagen en/of toelichtingen
 
 Voor elk WijzigArtikel is er een WijzigBijlage, die begint bij 'Titel regeling'. Dit gedeelte kan dus vaker voorkomen.
+##2021-05-27
+We hebben geconstateerd dat bij downloaden vanaf GitHub bestanden geblokkeerd worden. Hiervoor hebben we het sjabloon ook als zip opgenomen.
