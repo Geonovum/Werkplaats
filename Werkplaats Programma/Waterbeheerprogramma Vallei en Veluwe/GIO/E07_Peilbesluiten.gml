@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<geo:GeoInformatieObjectVaststelling xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0" xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.0.4/imop-geo.xsd" schemaversie="1.0.4">
+<geo:GeoInformatieObjectVaststelling xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+  xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0"
+  xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/"
+  xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.0.4/imop-geo.xsd"
+  schemaversie="1.0.4">
   <geo:context>
     <gio:GeografischeContext>
       <gio:achtergrondVerwijzing>onbekend</gio:achtergrondVerwijzing>
@@ -8,8 +13,8 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/ws0662/2021/Peilbesluiten</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/ws0662/2021/Peilbesluiten/nld@2021;1</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/ws0662/2021/E07_Peilbesluiten</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/ws0662/2021/E07_Peilbesluiten/nld@2021;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam/>

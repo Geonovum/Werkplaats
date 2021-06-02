@@ -13,8 +13,8 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/ws0662/2021/Poldergebied</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/ws0662/2021/Poldergebied/nld@2021;1</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/ws0662/2021/E06_Poldergebied</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/ws0662/2021/E06_Poldergebied/nld@2021;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam/>
