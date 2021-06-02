@@ -24,22 +24,22 @@
     <sl:stand>
       <ow-dc:owObject>
         <vt:Divisie wId="mnre1034_2__div_o_1">
-          <vt:identificatie>nl.imow-mnre1034.divisie.20210001</vt:identificatie>
+          <vt:identificatie>nl.imow-mnre1034.divisie.202106020001</vt:identificatie>
         </vt:Divisie>
       </ow-dc:owObject>
     </sl:stand>
     <sl:stand>
       <ow-dc:owObject>
         <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210001</vt:identificatie>
+          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202106020001</vt:identificatie>
           <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
           <vt:thema>http://standaarden.omgevingswet.overheid.nl/procedures/id/concept/Procedures</vt:thema>
           <vt:thema>http://standaarden.omgevingswet.overheid.nl/bouwwerken/id/concept/Bouwwerken</vt:thema>
           <vt:divisieaanduiding>
-            <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20210001"/>
+            <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.202106020001"/>
           </vt:divisieaanduiding>
           <vt:locatieaanduiding>
-            <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.20210001"/>
+            <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.202106020001"/>
           </vt:locatieaanduiding>
         </vt:Tekstdeel>
       </ow-dc:owObject>

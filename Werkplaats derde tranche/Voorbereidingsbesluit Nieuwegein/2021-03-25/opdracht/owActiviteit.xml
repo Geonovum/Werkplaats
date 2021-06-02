@@ -25,7 +25,7 @@
     <sl:stand>
       <ow-dc:owObject>
         <rol:Activiteit>
-          <rol:identificatie>nl.imow-gm0356.activiteit.20210001</rol:identificatie>
+          <rol:identificatie>nl.imow-gm0356.activiteit.202106020001</rol:identificatie>
           <rol:naam>locaties of bouwwerken gebruiken</rol:naam>
           <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/GebruikenVanBouwwerkenactiviteit</rol:groep>
           <rol:bovenliggendeActiviteit>
@@ -37,7 +37,7 @@
     <sl:stand>
       <ow-dc:owObject>
         <rol:Activiteit>
-          <rol:identificatie>nl.imow-gm0356.activiteit.20210002</rol:identificatie>
+          <rol:identificatie>nl.imow-gm0356.activiteit.202106020002</rol:identificatie>
           <rol:naam>bouwwerk veranderen</rol:naam>
           <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/GebruikenVanBouwwerkenactiviteit</rol:groep>
           <rol:bovenliggendeActiviteit>
@@ -49,7 +49,7 @@
     <sl:stand>
       <ow-dc:owObject>
         <rol:Activiteit>
-          <rol:identificatie>nl.imow-gm0356.activiteit.20210003</rol:identificatie>
+          <rol:identificatie>nl.imow-gm0356.activiteit.202106020003</rol:identificatie>
           <rol:naam>bijbehorend bouwwerk of een uitbreiding daarvan bouwen, in stand houden of gebruiken</rol:naam>
           <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/GebruikenVanBouwwerkenactiviteit</rol:groep>
           <rol:bovenliggendeActiviteit>

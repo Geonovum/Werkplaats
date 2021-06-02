@@ -26,7 +26,7 @@
     <sl:stand>
       <ow-dc:owObject>
         <rg:Regelingsgebied>
-          <rg:identificatie>nl.imow-gm0356.regelingsgebied.20210001</rg:identificatie>
+          <rg:identificatie>nl.imow-gm0356.regelingsgebied.202106020001</rg:identificatie>
           <rg:locatieaanduiding>
             <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0356"/>
           </rg:locatieaanduiding>

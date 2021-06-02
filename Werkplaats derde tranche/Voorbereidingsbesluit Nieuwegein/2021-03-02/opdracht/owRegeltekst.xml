@@ -26,48 +26,48 @@
     <sl:stand>
       <ow-dc:owObject>
         <r:Regeltekst wId="gm0356_1__chp_1__subsec_1.1__art_1.1">
-          <r:identificatie>nl.imow-gm0356.regeltekst.20210001</r:identificatie>
+          <r:identificatie>nl.imow-gm0356.regeltekst.202106020001</r:identificatie>
         </r:Regeltekst>
       </ow-dc:owObject>
     </sl:stand>
     <sl:stand>
       <ow-dc:owObject>
         <r:RegelVoorIedereen>
-          <r:identificatie>nl.imow-gm0356.juridischeregel.20210001</r:identificatie>
+          <r:identificatie>nl.imow-gm0356.juridischeregel.202106020001</r:identificatie>
           <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
           <r:artikelOfLid>
-            <r:RegeltekstRef xlink:href="nl.imow-gm0356.regeltekst.20210001"/>
+            <r:RegeltekstRef xlink:href="nl.imow-gm0356.regeltekst.202106020001"/>
           </r:artikelOfLid>
           <r:locatieaanduiding>
-            <l:LocatieRef xlink:href="nl.imow-gm0356.gebied.20210001"/>
+            <l:LocatieRef xlink:href="nl.imow-gm0356.gebied.202106020001"/>
           </r:locatieaanduiding>
           <r:activiteitaanduiding>
-            <rol:ActiviteitRef xlink:href="nl.imow-gm0356.activiteit.20210001"/>
+            <rol:ActiviteitRef xlink:href="nl.imow-gm0356.activiteit.202106020001"/>
             <r:ActiviteitLocatieaanduiding>
-              <r:identificatie>nl.imow-gm0356.activiteitlocatieaanduiding.20210001</r:identificatie>
+              <r:identificatie>nl.imow-gm0356.activiteitlocatieaanduiding.202106020001</r:identificatie>
               <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
               <r:locatieaanduiding>
-                <l:LocatieRef xlink:href="nl.imow-gm0356.gebied.20210001"/>
+                <l:LocatieRef xlink:href="nl.imow-gm0356.gebied.202106020001"/>
               </r:locatieaanduiding>
             </r:ActiviteitLocatieaanduiding>
           </r:activiteitaanduiding>
           <r:activiteitaanduiding>
-            <rol:ActiviteitRef xlink:href="nl.imow-gm0356.activiteit.20210002"/>
+            <rol:ActiviteitRef xlink:href="nl.imow-gm0356.activiteit.202106020002"/>
             <r:ActiviteitLocatieaanduiding>
-              <r:identificatie>nl.imow-gm0356.activiteitlocatieaanduiding.20210002</r:identificatie>
+              <r:identificatie>nl.imow-gm0356.activiteitlocatieaanduiding.202106020002</r:identificatie>
               <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
               <r:locatieaanduiding>
-                <l:LocatieRef xlink:href="nl.imow-gm0356.gebied.20210001"/>
+                <l:LocatieRef xlink:href="nl.imow-gm0356.gebied.202106020001"/>
               </r:locatieaanduiding>
             </r:ActiviteitLocatieaanduiding>
           </r:activiteitaanduiding>
           <r:activiteitaanduiding>
-            <rol:ActiviteitRef xlink:href="nl.imow-gm0356.activiteit.20210003"/>
+            <rol:ActiviteitRef xlink:href="nl.imow-gm0356.activiteit.202106020003"/>
             <r:ActiviteitLocatieaanduiding>
-              <r:identificatie>nl.imow-gm0356.activiteitlocatieaanduiding.20210003</r:identificatie>
+              <r:identificatie>nl.imow-gm0356.activiteitlocatieaanduiding.202106020003</r:identificatie>
               <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
               <r:locatieaanduiding>
-                <l:LocatieRef xlink:href="nl.imow-gm0356.gebied.20210001"/>
+                <l:LocatieRef xlink:href="nl.imow-gm0356.gebied.202106020001"/>
               </r:locatieaanduiding>
             </r:ActiviteitLocatieaanduiding>
           </r:activiteitaanduiding>
