@@ -6,16 +6,16 @@
    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/ws0662/2021/Poldergebied</FRBRWork>
-         <FRBRExpression>/join/id/regdata/ws0662/2021/Poldergebied/nld@2021;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/ws0662/2021/E15</FRBRWork>
+         <FRBRExpression>/join/id/regdata/ws0662/2021/E15/nld@2021;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>Poldergebied.gml</bestandsnaam>
-                  <hash>7e950e2892931cce0a1141850caf9916872550b03bdcdc3ea0ac72751ced033b5485448278290b8ae9079ba1d47599cd51b7b8ec69a7a5bf7803335223cf9767</hash>
+                  <bestandsnaam>E15.gml</bestandsnaam>
+                  <hash>04aecba474b7e6683d0327c705d69c41a56051f293ad128c4d1fa0a2f8dbbc893777e59c510819de85fb0e6069d3a9f2142394b1b75fac6048e76507b289676c</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -25,12 +25,12 @@
          <eindverantwoordelijke>/tooi/id/waterschap/ws0662</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0297</maker>
          <alternatieveTitels>
-            <alternatieveTitel>Poldergebied</alternatieveTitel>
+            <alternatieveTitel>E15</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/ws0662/2021/Poldergebied</officieleTitel>
+         <officieleTitel>/join/id/regdata/ws0662/2021/E15</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-         <naamInformatieObject>Poldergebied</naamInformatieObject>
+         <naamInformatieObject>E15</naamInformatieObject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>
 </AanleveringInformatieObject>

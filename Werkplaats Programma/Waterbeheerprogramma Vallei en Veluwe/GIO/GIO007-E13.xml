@@ -6,16 +6,16 @@
    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/ws0662/2021/Bebouwdekommen</FRBRWork>
-         <FRBRExpression>/join/id/regdata/ws0662/2021/Bebouwdekommen/nld@2021;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/ws0662/2021/E13</FRBRWork>
+         <FRBRExpression>/join/id/regdata/ws0662/2021/E13/nld@2021;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>Bebouwdekommen.gml</bestandsnaam>
-                  <hash>aceedc26af7cb3069a53fc3ebcdf0a94e2ecd26627667183a941b57b73d9eb61d35fc1d29fd68b80048372c138f70aaea3d5a842795e15b3f9cdf36931233942</hash>
+                  <bestandsnaam>E13.gml</bestandsnaam>
+                  <hash>79f9482f19a38a8ac9a1f2f2b7a796b9cae29245fcb33e47f14220bc27259e0638f1d0a417167abf946c3e28eaa64e6d3787e1da1f7e9b3dc47bd21a2c82321b</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -25,12 +25,12 @@
          <eindverantwoordelijke>/tooi/id/waterschap/ws0662</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0297</maker>
          <alternatieveTitels>
-            <alternatieveTitel>Bebouwdekommen</alternatieveTitel>
+            <alternatieveTitel>E13</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/ws0662/2021/Bebouwdekommen</officieleTitel>
+         <officieleTitel>/join/id/regdata/ws0662/2021/E13</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-         <naamInformatieObject>Bebouwdekommen</naamInformatieObject>
+         <naamInformatieObject>E13</naamInformatieObject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>
 </AanleveringInformatieObject>
