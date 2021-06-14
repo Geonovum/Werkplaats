@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Ontwerp Blauw Omgevingsprogramma 2022-2027</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Waterschap Vallei en Veluwe</sl:gebied>
+         <sl:leveringsId>WVV0001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Ambtsgebied</sl:objectType>
+            <sl:objectType>Gebied</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Ambtsgebied>
+               <l:identificatie>WS0662</l:identificatie>
+               <l:noemer>Waterschap Vallei en Veluwe</l:noemer>
+               <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+               <l:geldigOp>2021-01-01</l:geldigOp>
+            </l:Ambtsgebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0662.gebied.20210613000001</l:identificatie>
+               <l:noemer>Robuust watersysteem</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9b650ce5508dc652a9697429c3458b80"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0662.gebied.20210613000002</l:identificatie>
+               <l:noemer>Robuust watersysteem</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="7a78acb9cfa67f0ef860786757fbd70f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0662.gebied.20210613000003</l:identificatie>
+               <l:noemer>Water inclusief</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="1c5d95190d8aa44d8668b0e72a3a2724"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0662.gebied.20210613000004</l:identificatie>
+               <l:noemer>Water inclusief</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="3240054b5bf64dad7aab0a4fab7c8874"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0662.gebied.20210613000005</l:identificatie>
+               <l:noemer>Natuurlijk water</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="6f2a708e5e3dd49b208809d10165675e"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0662.gebied.20210613000006</l:identificatie>
+               <l:noemer>Water inclusief</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="835348d1e8519df3618ef83bb042093c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0662.gebied.20210613000007</l:identificatie>
+               <l:noemer>Watertoekomst</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="5ff7fa362cf2a04141764b07db675723"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0662.gebied.20210613000008</l:identificatie>
+               <l:noemer>Op orde houden &amp; verbonden water</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="842473fdeaffbf10e6b2ae314fdeadf1"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0662.gebied.20210613000009</l:identificatie>
+               <l:noemer>Op orde brengen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ff4cd170169643f0ae88a1fd4c6d1cb2"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0662.gebied.20210613000010</l:identificatie>
+               <l:noemer>Op orde houden</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="23eaa349b27a3f301145be36e3008502"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

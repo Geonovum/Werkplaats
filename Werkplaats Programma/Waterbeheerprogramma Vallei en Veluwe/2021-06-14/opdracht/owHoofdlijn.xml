@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Ontwerp Blauw Omgevingsprogramma 2022-2027</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Waterschap Vallei en Veluwe</sl:gebied>
+         <sl:leveringsId>WVV0001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Hoofdlijn</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000001</vt:identificatie>
+               <vt:soort>Maatschappelijke thema's</vt:soort>
+               <vt:naam>Waardevolle leefomgeving</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000002</vt:identificatie>
+               <vt:soort>Maatschappelijke thema's</vt:soort>
+               <vt:naam>Biodiversiteit</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000003</vt:identificatie>
+               <vt:soort>Maatschappelijke thema's</vt:soort>
+               <vt:naam>Klimaatverandering</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000004</vt:identificatie>
+               <vt:soort>Maatschappelijke thema's</vt:soort>
+               <vt:naam>Circulaire economie</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000005</vt:identificatie>
+               <vt:soort>Doelen</vt:soort>
+               <vt:naam>Algemeen</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000006</vt:identificatie>
+               <vt:soort>Doelen</vt:soort>
+               <vt:naam>(Grond)watersysteem</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000007</vt:identificatie>
+               <vt:soort>Doelen</vt:soort>
+               <vt:naam>Energietransitie</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000008</vt:identificatie>
+               <vt:soort>Doelen</vt:soort>
+               <vt:naam>Watersysteem</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000009</vt:identificatie>
+               <vt:soort>Waterveiligheid</vt:soort>
+               <vt:naam>Op orde brengen</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000010</vt:identificatie>
+               <vt:soort>Waterveiligheid</vt:soort>
+               <vt:naam>Op orde houden</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000011</vt:identificatie>
+               <vt:soort>Doelen</vt:soort>
+               <vt:naam>Verbonden water</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000012</vt:identificatie>
+               <vt:soort>Doelen</vt:soort>
+               <vt:naam>Watertoekomst</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000013</vt:identificatie>
+               <vt:soort>Doelen</vt:soort>
+               <vt:naam>Natuurlijk water</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000014</vt:identificatie>
+               <vt:soort>Doelen</vt:soort>
+               <vt:naam>Water inclusief</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000015</vt:identificatie>
+               <vt:soort>Doelen</vt:soort>
+               <vt:naam>Robuust watersysteem</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000016</vt:identificatie>
+               <vt:soort>Doelen</vt:soort>
+               <vt:naam>Voldoende zoetwater</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000017</vt:identificatie>
+               <vt:soort>Doelen</vt:soort>
+               <vt:naam>Voldoende </vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000018</vt:identificatie>
+               <vt:soort>Maatschappelijke thema's</vt:soort>
+               <vt:naam>Energietransitie</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000019</vt:identificatie>
+               <vt:soort>Maatschappelijke leefomgeving</vt:soort>
+               <vt:naam>Biodiversiteit</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-ws0662.hoofdlijn.20210613000020</vt:identificatie>
+               <vt:soort>Doelen</vt:soort>
+               <vt:naam>Op orde brengen</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

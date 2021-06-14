@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Voor validatie is het noodzakelijk om ook de catalogi van de gepubliceerde versie 1.0.4 te laden.-->
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+   xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.0.4"
+   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/ws0662/2021/E11</FRBRWork>
+         <FRBRExpression>/join/id/regdata/ws0662/2021/E11/nld@2021;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>E11.gml</bestandsnaam>
+                  <hash>41ea0b61d952fb85627ddf55334d51b587cb52f4af70cfa196c38e53d14c08522b9d11a138ae271936b6d0aa518fd2f04c07f81a8905c7a4bf56bef3f0c77dc3</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+         <heeftGeboorteregeling>/akn/nl/act/ws0662/2021/WVV0001</heeftGeboorteregeling>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/waterschap/ws0662</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0297</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>E11</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/ws0662/2021/E11</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <naamInformatieObject>E11</naamInformatieObject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>
