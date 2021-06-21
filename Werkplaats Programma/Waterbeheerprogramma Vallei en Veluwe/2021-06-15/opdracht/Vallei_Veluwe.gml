@@ -17,7 +17,7 @@
       <geo:FRBRExpression>/join/id/regdata/ws0662/2021/Vallei_Veluwe/nld@2021;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
-          <geo:naam>Vallei_Veluwe</geo:naam>
+          <geo:naam>Vallei en Veluwe</geo:naam>
           <geo:geometrie>
             <basisgeo:Geometrie gml:id="id-b98d08c4-f850-4bea-b46d-28404109e7be-xx">
               <basisgeo:id>b98d08c4-f850-4bea-b46d-28404109e7be</basisgeo:id>

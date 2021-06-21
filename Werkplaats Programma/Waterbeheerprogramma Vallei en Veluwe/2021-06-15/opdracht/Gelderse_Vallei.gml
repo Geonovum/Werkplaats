@@ -20,7 +20,7 @@
           <geo:naam>Gelderse Vallei</geo:naam>
           <geo:geometrie>
             <basisgeo:Geometrie gml:id="id-18d35b4b-7572-439e-9fd0-22d3be25f1f0-xx">
-              <basisgeo:id><18d35b4b-7572-439e-9fd0-22d3be25f1f0/basisgeo:id>
+              <basisgeo:id>18d35b4b-7572-439e-9fd0-22d3be25f1f0</basisgeo:id>
               <basisgeo:geometrie>
                 <gml:MultiSurface gml:id="id-18d35b4b-7572-439e-9fd0-22d3be25f1f0-0" srsName="urn:ogc:def:crs:EPSG::28992">
                   <gml:surfaceMember>
