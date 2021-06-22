@@ -40,7 +40,7 @@
                <l:identificatie>nl.imow-ws0662.gebied.20210621000001</l:identificatie>
                <l:noemer>Vallei en Veluwe</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="1a40c185a49884d9c4d1778afd2d25c7"/>
+                  <l:GeometrieRef xlink:href="b98d08c4-f850-4bea-b46d-28404109e7be"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -51,7 +51,7 @@
                <l:identificatie>nl.imow-ws0662.gebied.20210621000002</l:identificatie>
                <l:noemer>Eemland</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="0f827169ef6a88118db40fa001428bd5"/>
+                  <l:GeometrieRef xlink:href="f2ea146b-6e8d-44e5-badf-0c0e189493f3"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -63,17 +63,6 @@
                <l:noemer>E06</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="7a78acb9cfa67f0ef860786757fbd70f"/>
-               </l:geometrie>
-            </l:Gebied>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject><!--E08.gml-->
-            <l:Gebied>
-               <l:identificatie>nl.imow-ws0662.gebied.20210621000004</l:identificatie>
-               <l:noemer>E08</l:noemer>
-               <l:geometrie>
-                  <l:GeometrieRef xlink:href="c2113a8d005a439a7a4bc7eb2f35650d"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -183,7 +172,7 @@
                <l:identificatie>nl.imow-ws0662.gebied.20210621000014</l:identificatie>
                <l:noemer>Gelderse Vallei</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="dac9bf78c948402b7c2af687fa3b4295"/>
+                  <l:GeometrieRef xlink:href="18d35b4b-7572-439e-9fd0-22d3be25f1f0"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
