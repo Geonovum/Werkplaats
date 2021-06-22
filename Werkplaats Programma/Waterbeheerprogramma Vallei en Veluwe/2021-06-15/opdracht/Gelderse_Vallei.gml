@@ -13,8 +13,8 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/ws0662/2021/\Gelderse_Vallei</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/ws0662/2021/\Gelderse_Vallei/nld@2021;1</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/ws0662/2021/Gelderse_Vallei</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/ws0662/2021/Gelderse_Vallei/nld@2021;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Gelderse Vallei</geo:naam>

@@ -6,16 +6,16 @@
    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/ws0662/2021/Gelderse_Valei</FRBRWork>
-         <FRBRExpression>/join/id/regdata/ws0662/2021/Gelderse_Valei/nld@2021;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/ws0662/2021/Gelderse_Vallei</FRBRWork>
+         <FRBRExpression>/join/id/regdata/ws0662/2021/Gelderse_Vallei/nld@2021;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>Gelderse_Valei.gml</bestandsnaam>
-                  <hash>8e1894c6dc4b1dbb5887688b262e23a6037599d1fc895f215605333a365b0a9e1e9dae0901f42ea96782a41d14477c4821561c8b1c9d20659f6437c2a0c6acfa</hash>
+                  <bestandsnaam>Gelderse_Vallei.gml</bestandsnaam>
+                  <hash>e97536ae0a28045cf8079e0e9c3b1d72cc81d3edd53a5c3c063b26521f65a4378ff74361b3c8c8574e598d2bcc90cb03787d9d868b7ab9cf3bb783733d0fe30c</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -25,12 +25,12 @@
          <eindverantwoordelijke>/tooi/id/waterschap/ws0662</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0297</maker>
          <alternatieveTitels>
-            <alternatieveTitel>Gelderse_Valei</alternatieveTitel>
+            <alternatieveTitel>Gelderse_Vallei</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/ws0662/2021/Gelderse_Valei</officieleTitel>
+         <officieleTitel>/join/id/regdata/ws0662/2021/Gelderse_Vallei</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-         <naamInformatieObject>Gelderse_Valei</naamInformatieObject>
+         <naamInformatieObject>Gelderse_Vallei</naamInformatieObject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>
 </AanleveringInformatieObject>

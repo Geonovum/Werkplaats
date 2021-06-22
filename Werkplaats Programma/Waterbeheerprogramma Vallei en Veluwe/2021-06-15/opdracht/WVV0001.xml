@@ -53,8 +53,8 @@
             <informatieobjectRef>/join/id/regdata/ws0662/2021/E15/nld@2021;1</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/ws0662/2021/E16/nld@2021;1</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/ws0662/2021/Eemland/nld@2021;1</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/ws0662/2021/Gelderse_Valei/nld@2021;1</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/ws0662/2021/Valei_Veluwe/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/Gelderse_Vallei/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/Vallei_Veluwe/nld@2021;1</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -165,14 +165,14 @@
                <doelen>
                   <doel>/join/id/proces/gm0297/2019/Instelling</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/ws0662/2021/Gelderse_Valei/nld@2021;1</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/ws0662/2021/Gelderse_Vallei/nld@2021;1</instrumentVersie>
                <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0297/2019/Instelling</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/ws0662/2021/Valei_Veluwe/nld@2021;1</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/ws0662/2021/Vallei_Veluwe/nld@2021;1</instrumentVersie>
                <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
@@ -2884,7 +2884,7 @@
                               <Term>Gelderse Vallei</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1" wId="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1" ref="/join/id/regdata/ws0662/2021/Gelderse_Valei/nld@2021;1">/join/id/regdata/ws0662/2021/Gelderse_Valei/nld@2021;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1" wId="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1" ref="/join/id/regdata/ws0662/2021/Gelderse_Vallei/nld@2021;1">/join/id/regdata/ws0662/2021/Gelderse_Vallei/nld@2021;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -2892,7 +2892,7 @@
                               <Term>Vallei en Veluwe</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" wId="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" ref="/join/id/regdata/ws0662/2021/Valei_Veluwe/nld@2021;1">/join/id/regdata/ws0662/2021/Valei_Veluwe/nld@2021;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" wId="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" ref="/join/id/regdata/ws0662/2021/Vallei_Veluwe/nld@2021;1">/join/id/regdata/ws0662/2021/Vallei_Veluwe/nld@2021;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
