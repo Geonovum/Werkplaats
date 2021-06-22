@@ -41,6 +41,21 @@
             <rechtsgebied>/tooi/def/concept/c_4921283c|/tooi/def/concept/c_0aa457e4|/tooi/def/concept/c_638d8062|/tooi/def/concept/c_b47c724c|/tooi/def/concept/c_8ad05f6d|/tooi/def/concept/c_da370768</rechtsgebied>
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/E06/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/E07/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/E09/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/E10/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/E11/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/E12/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/E13/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/E14/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/E15/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/E16/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/Eemland/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/Gelderse_Valei/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0662/2021/Valei_Veluwe/nld@2021;1</informatieobjectRef>
+         </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <bekendOp>2021-06-16</bekendOp>
@@ -1530,7 +1545,7 @@
                                  <Divisietekst eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.1__content_o_1"
                                                wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.1__content_o_1">
                                     <Inhoud>
-                                       <Al>BOP nummer: <IntIoRef eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.1__content_o_1__reef_o_1" wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.1__content_o_1__ref_o_1" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1">E9</IntIoRef></Al>
+                                       <Al>BOP nummer: <IntIoRef eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.1__content_o_1__ref_o_1" wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.1__content_o_1__ref_o_1" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1">E9</IntIoRef></Al>
                                        <Al>BOP doel naam: Waterinclusief</Al>
                                        <Al>Rol waterschap: Samenwerkend en responsief</Al>
                                     </Inhoud>
