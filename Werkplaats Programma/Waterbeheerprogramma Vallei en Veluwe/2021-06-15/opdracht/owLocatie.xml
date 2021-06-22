@@ -24,7 +24,7 @@
             <sl:objectType>Gebied</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
-      <sl:stand>
+<!--      <sl:stand>
          <ow-dc:owObject>
             <l:Ambtsgebied>
                <l:identificatie>WS0662</l:identificatie>
@@ -33,7 +33,7 @@
                <l:geldigOp>2021-01-01</l:geldigOp>
             </l:Ambtsgebied>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject><!--Vallei_Veluwe.gml-->
             <l:Gebied>
