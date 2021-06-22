@@ -6,8 +6,8 @@
                     xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/bill/ws0662/2021/Praktijkproef Programma Waterschap Vallei en Veluwe</FRBRWork>
-         <FRBRExpression>/akn/nl/bill/ws0662/2021/Praktijkproef Programma Waterschap Vallei en Veluwe/nld@2021-06-16;1</FRBRExpression>
+         <FRBRWork>/akn/nl/bill/ws0662/2021/Praktijkproef_Programma_Waterschap_Vallei_en_Veluwe</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/ws0662/2021/Praktijkproef_Programma_Waterschap_Vallei_en_Veluwe/nld@2021-06-16;1</FRBRExpression>
          <soortWork>/join/id/stop/work_003</soortWork>
       </ExpressionIdentificatie>
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -66,7 +66,7 @@
                <doelen>
                   <doel>/join/id/proces/ws0662/2021/Instelling</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/ws0662/2021/Praktijkproef Programma Waterschap Vallei en Veluwe/nld@2021-06-16;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/ws0662/2021/Praktijkproef_Programma_Waterschap_Vallei_en_Veluwe/nld@2021-06-16;1</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
@@ -201,7 +201,7 @@
                <Opschrift>[Optioneel opschrift]</Opschrift>
             </Kop>
             <RegelingVrijetekst componentnaam="initieel_reg"
-                                wordt="/akn/nl/act/ws0662/2021/Praktijkproef Programma Waterschap Vallei en Veluwe/nld@2021-06-16;1">
+                                wordt="/akn/nl/act/ws0662/2021/Praktijkproef_Programma_Waterschap_Vallei_en_Veluwe/nld@2021-06-16;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Ontwerp Blauw Omgevingsprogramma 2022-2027</Al>
                </RegelingOpschrift>
@@ -2891,8 +2891,8 @@
    </BesluitVersie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/ws0662/2021/Praktijkproef Programma Waterschap Vallei en Veluwe</FRBRWork>
-         <FRBRExpression>/akn/nl/act/ws0662/2021/Praktijkproef Programma Waterschap Vallei en Veluwe/nld@2021-06-16;1</FRBRExpression>
+         <FRBRWork>/akn/nl/act/ws0662/2021/Praktijkproef_Programma_Waterschap_Vallei_en_Veluwe</FRBRWork>
+         <FRBRExpression>/akn/nl/act/ws0662/2021/Praktijkproef_Programma_Waterschap_Vallei_en_Veluwe/nld@2021-06-16;1</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
