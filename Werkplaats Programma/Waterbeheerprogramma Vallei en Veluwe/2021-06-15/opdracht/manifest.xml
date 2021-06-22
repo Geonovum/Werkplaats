@@ -253,6 +253,14 @@
     <lvbb:bestandsnaam>image34.png</lvbb:bestandsnaam>
     <lvbb:contentType>image/png</lvbb:contentType>
   </lvbb:bestand>
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>image35.png</lvbb:bestandsnaam>
+    <lvbb:contentType>image/png</lvbb:contentType>
+  </lvbb:bestand>
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>image36.jpeg</lvbb:bestandsnaam>
+    <lvbb:contentType>image/jpeg</lvbb:contentType>
+  </lvbb:bestand>
   <!-- OW-bestanden -->
   <lvbb:bestand>
     <lvbb:bestandsnaam>manifest-ow.xml</lvbb:bestandsnaam>
