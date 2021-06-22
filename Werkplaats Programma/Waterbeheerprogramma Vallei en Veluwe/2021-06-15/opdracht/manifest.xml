@@ -54,15 +54,27 @@
     <lvbb:contentType>application/gml+xml</lvbb:contentType>
   </lvbb:bestand>
   <lvbb:bestand>
-    <lvbb:bestandsnaam>GIO001-E06_Poldergebied.xml</lvbb:bestandsnaam>
+    <lvbb:bestandsnaam>Eemland.gml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/gml+xml</lvbb:contentType>
+  </lvbb:bestand>
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>Gelderse_Vallei.gml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/gml+xml</lvbb:contentType>
+  </lvbb:bestand>
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>Vallei_Veluwe.gml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/gml+xml</lvbb:contentType>
+  </lvbb:bestand>
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>GIO001-E06.xml</lvbb:bestandsnaam>
     <lvbb:contentType>application/xml</lvbb:contentType>
   </lvbb:bestand>
   <lvbb:bestand>
-    <lvbb:bestandsnaam>GIO002-E07_Peilbesluiten.xml</lvbb:bestandsnaam>
+    <lvbb:bestandsnaam>GIO002-E07.xml</lvbb:bestandsnaam>
     <lvbb:contentType>application/xml</lvbb:contentType>
   </lvbb:bestand>
   <lvbb:bestand>
-    <lvbb:bestandsnaam>GIO003-E09_Bebouwdekommen.xml</lvbb:bestandsnaam>
+    <lvbb:bestandsnaam>GIO003-E09.xml</lvbb:bestandsnaam>
     <lvbb:contentType>application/xml</lvbb:contentType>
   </lvbb:bestand>
   <lvbb:bestand>
@@ -90,7 +102,19 @@
     <lvbb:contentType>application/xml</lvbb:contentType>
   </lvbb:bestand>
   <lvbb:bestand>
-    <lvbb:bestandsnaam>GIO010-E16_Westdijk.xml</lvbb:bestandsnaam>
+    <lvbb:bestandsnaam>GIO010-E16.xml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/xml</lvbb:contentType>
+  </lvbb:bestand>
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>GIO011-Eemland.xml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/xml</lvbb:contentType>
+  </lvbb:bestand>
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>GIO012-Gelderse_Vallei.xml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/xml</lvbb:contentType>
+  </lvbb:bestand>
+  <lvbb:bestand>
+    <lvbb:bestandsnaam>GIO013-Vallei_Veluwe.xml</lvbb:bestandsnaam>
     <lvbb:contentType>application/xml</lvbb:contentType>
   </lvbb:bestand>
   <lvbb:bestand>
