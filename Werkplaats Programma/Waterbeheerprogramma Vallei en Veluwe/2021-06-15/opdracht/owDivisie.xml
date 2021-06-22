@@ -400,7 +400,6 @@
                   <vt:DivisieRef xlink:href="nl.imow-ws0662.divisie.20210621000017"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0662.gebied.20210621000004"/>
                   <l:LocatieRef xlink:href="nl.imow-ws0662.gebied.20210621000005"/>
                </vt:locatieaanduiding>
             </vt:Tekstdeel>
