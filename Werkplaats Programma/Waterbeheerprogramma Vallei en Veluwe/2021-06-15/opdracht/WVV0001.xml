@@ -165,7 +165,7 @@
                   <doel>/join/id/proces/gm0297/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0662/2021/Valei_Veluwe/nld@2021;1</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -243,7 +243,7 @@
                         <Divisietekst eId="div_I__div_1.1__content_o_1"
                                       wId="ws0662_1__div_I__div_1.1__content_o_1">
                            <Inhoud>
-                              <Al>Samen werken aan een duurzame samenleving met water als een ordenend principe, daar zet <IntIoRef eId="div_I__div_1.1__content_o_1__ref_o_1" wId="ws0662_1__div_I" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_14__ref_o_">Waterschap Vallei en Veluwe</IntIoRef> op in. Hoe? Dat leest u in dit ontwerp Blauw Omgevings-programma (BOP). Het BOP is het waterbeheerprogramma nieuwe stijl. Met de Blauwe Omgevingsvisie 2050 (BOVI), ontwikkeld samen met onze omgevings- en kennispartners, is de stip op de horizon gezet. Met het BOP maken we de BOVI2050 concreet voor de planperiode 2022-2027.</Al>
+                              <Al>Samen werken aan een duurzame samenleving met water als een ordenend principe, daar zet <IntIoRef eId="div_I__div_1.1__content_o_1__ref_o_1" wId="ws0662_1__div_I" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_">Waterschap Vallei en Veluwe</IntIoRef> op in. Hoe? Dat leest u in dit ontwerp Blauw Omgevings-programma (BOP). Het BOP is het waterbeheerprogramma nieuwe stijl. Met de Blauwe Omgevingsvisie 2050 (BOVI), ontwikkeld samen met onze omgevings- en kennispartners, is de stip op de horizon gezet. Met het BOP maken we de BOVI2050 concreet voor de planperiode 2022-2027.</Al>
                               <Tussenkop>Samen naar een duurzame en waterinclusieve leefomgeving</Tussenkop>
                               <Al>In het BOP willen we onze wettelijke taken en ambities laten aansluiten bij die van onze partners en andersom. We verbinden water aan actuele thema’s zoals: klimaatverandering, energietransitie, circulaire economie en biodiversiteit. Samen met partners zoals gemeenten, provincies, Vitens, terreinbeherende organisaties, gebiedspartners, inwoners en kennisinstituten gaan we aan de slag voor een duurzame en waterinclusieve leefomgeving. Dit vraagt om verbinding en nieuwe vormen van samenwerking.</Al>
                               <Tussenkop>Gebiedsgericht en integraal</Tussenkop>
@@ -969,7 +969,7 @@
                                     dso:niveau="4">
                               <Kop>
                                  <Nummer>4.1.5.2</Nummer>
-                                 <Opschrift><IntIoRef wId="" eId="" ref=""></IntIoRef>Robuust watersysteem</Opschrift>
+                                 <Opschrift>Robuust watersysteem</Opschrift>
                               </Kop>
                               <Divisietekst eId="div_IV__div_4.1__div_4.1.5__div_4.1.5.2__content_o_1"
                                             wId="ws0662_1__div_IV__div_4.1__div_4.1.5__div_4.1.5.2__content_o_1">
@@ -1537,7 +1537,7 @@
                                  <Divisietekst eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.1__content_o_1"
                                                wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.1__content_o_1">
                                     <Inhoud>
-                                       <Al>BOP nummer: E9</Al>
+                                       <Al>BOP nummer: <IntIoRef eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.1__content_o_1__reef_o_1" wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.1__content_o_1__reef_o_1" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1">E9</IntIoRef></Al>
                                        <Al>BOP doel naam: Waterinclusief</Al>
                                        <Al>Rol waterschap: Samenwerkend en responsief</Al>
                                     </Inhoud>
@@ -1553,7 +1553,7 @@
                                  <Divisietekst eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.2__content_o_1"
                                                wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.2__content_o_1">
                                     <Inhoud>
-                                       <Al>BOP nummer: E11</Al>
+                                       <Al>BOP nummer: <IntIoRef eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.2__content_o_1__ref_o_1" wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.2__content_o_1__ref_o_1" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1">E11</IntIoRef></Al>
                                        <Al>BOP doel naam: Waterinclusief</Al>
                                        <Al>Rol waterschap: Samenwerkend en responsief</Al>
                                     </Inhoud>
@@ -1569,7 +1569,7 @@
                                  <Divisietekst eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.3__content_o_1"
                                                wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.3__content_o_1">
                                     <Inhoud>
-                                       <Al>BOP nummer: E14</Al>
+                                       <Al>BOP nummer: <IntIoRef eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.3__content_o_1__ref_o_1" wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.3__content_o_1__ref_o_1" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">E14</IntIoRef></Al>
                                        <Al>BOP doel naam: Op orde houden</Al>
                                        <Al>Rol waterschap: Samenwerkend </Al>
                                     </Inhoud>
@@ -1585,7 +1585,7 @@
                                  <Divisietekst eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.4__content_o_1"
                                                wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.4__content_o_1">
                                     <Inhoud>
-                                       <Al>BOP nummer: E15</Al>
+                                       <Al>BOP nummer: <IntIoRef eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.4__content_o_1__ref_o_1" wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.1__div_4.1.6.1.4__content_o_1__ref_o_1" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1">E15</IntIoRef></Al>
                                        <Al>BOP doel naam: Op orde houden en verbonden water</Al>
                                        <Al>Rol waterschap: Samenwerkend </Al>
                                     </Inhoud>
@@ -1705,7 +1705,7 @@
                                  <Divisietekst eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.2__div_4.1.6.2.7__content_o_1"
                                                wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.2__div_4.1.6.2.7__content_o_1">
                                     <Inhoud>
-                                       <Al>BOP nummer: E7</Al>
+                                       <Al>BOP nummer: <IntIoRef eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.2__div_4.1.6.2.7__content_o_1__ref_o_1" wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.2__div_4.1.6.2.7__content_o_1__ref_o_1" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">E7</IntIoRef></Al>
                                        <Al>BOP doel naam: Robuust watersysteem </Al>
                                        <Al>Rol waterschap: Presterend </Al>
                                     </Inhoud>
@@ -1737,7 +1737,7 @@
                                  <Divisietekst eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.2__div_4.1.6.2.9__content_o_1"
                                                wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.2__div_4.1.6.2.9__content_o_1">
                                     <Inhoud>
-                                       <Al>BOP nummer: E10</Al>
+                                       <Al>BOP nummer: <IntIoRef eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.2__div_4.1.6.2.9__content_o_1__ref_o_1" wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.2__div_4.1.6.2.9__content_o_1__ref_o_1" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">E10</IntIoRef></Al>
                                        <Al>BOP doel naam: Waterinclusief</Al>
                                        <Al>Rol waterschap: Samenwerkend en responsief</Al>
                                     </Inhoud>
@@ -1809,7 +1809,7 @@
                                  <Divisietekst eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.3__div_4.1.6.3.1__content_o_1"
                                                wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.3__div_4.1.6.3.1__content_o_1">
                                     <Inhoud>
-                                       <Al>BOP nummer: E13</Al>
+                                       <Al>BOP nummer: <IntIoRef eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.3__div_4.1.6.3.1__content_o_1__ref_o_1" wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.3__div_4.1.6.3.1__content_o_1__ref_o_1" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1">E13</IntIoRef></Al>
                                        <Al>WBOP doel naam: Watertoekomst</Al>
                                        <Al>Rol waterschap: Samenwerkend </Al>
                                     </Inhoud>
@@ -1849,7 +1849,7 @@
                                  <Divisietekst eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.4__div_4.1.6.4.2__content_o_1"
                                                wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.4__div_4.1.6.4.2__content_o_1">
                                     <Inhoud>
-                                       <Al>BOP nummer: E12</Al>
+                                       <Al>BOP nummer: <IntIoRef eId="div_IV__div_4.1__div_4.1.6__div_4.1.6.4__div_4.1.6.4.2__content_o_1__ref_o_1" wId="ws0662_1__div_IV__div_4.1__div_4.1.6__div_4.1.6.4__div_4.1.6.4.2__content_o_1__ref_o_1" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1">E12</IntIoRef></Al>
                                        <Al>BOP doel naam: Natuurlijk water</Al>
                                        <Al>Rol waterschap: Presterend </Al>
                                     </Inhoud>
@@ -2029,7 +2029,7 @@
                                                wId="ws0662_1__div_IV__div_4.1__div_4.1.7__div_4.1.7.4__div_4.1.7.4.1__content_o_1">
                                     <Inhoud>
                                        <Al>Maatschappelijke thema’s: Klimaatverandering</Al>
-                                       <Al>BOP doel nummer: E6</Al>
+                                       <Al>BOP doel nummer: <IntIoRef eId="div_IV__div_4.1__div_4.1.7__div_4.1.7.4__div_4.1.7.4.1__content_o_1__ref_o_1" wId="ws0662_1__div_IV__div_4.1__div_4.1.7__div_4.1.7.4__div_4.1.7.4.1__content_o_1__ref_o_1" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">E6</IntIoRef></Al>
                                        <Al>BOP doel naam: Robuust watersysteem. </Al>
                                        <Al>Rol waterschap: Samenwerkend; Presterend</Al>
                                     </Inhoud>
@@ -2223,7 +2223,7 @@
                                                wId="ws0662_1__div_IV__div_4.1__div_4.1.7__div_4.1.7.7__div_4.1.7.7.3__content_o_1">
                                     <Inhoud>
                                        <Al>Maatschappelijke thema’s: Klimaatverandering</Al>
-                                       <Al>BOP doel nummer: E16</Al>
+                                       <Al>BOP doel nummer: <IntIoRef eId="div_IV__div_4.1__div_4.1.7__div_4.1.7.7__div_4.1.7.7.3__content_o_1__ref_o_1" wId="ws0662_1__div_IV__div_4.1__div_4.1.7__div_4.1.7.7__div_4.1.7.7.3__content_o_1__ref_o_1" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1">E16</IntIoRef></Al>
                                        <Al>BOP doel naam: Op orde brengen</Al>
                                        <Al>Rol waterschap: Presterend</Al>
                                     </Inhoud>
@@ -2242,7 +2242,7 @@
                         <Divisietekst eId="div_IV__div_4.2__content_o_1"
                                       wId="ws0662_1__div_IV__div_4.2__content_o_1">
                            <Inhoud>
-                              <Al>De Gelderse Vallei bestaat uit een gevarieerd landschap waarin landbouw, natuur en wonen samengaan. Dat is aantrekkelijk voor recreatie. Regio Foodvalley is het bepalende stedelijke gebied. De flanken van de Veluwe en de Utrechtse Heuvelrug zijn gevoelig voor droogte. In het lage middendeel van de Vallei komen kwelstromen vanuit de hoge gronden van de Veluwe tevoorschijn. In dit natte gebied liggen kwetsbare natuurwaarden en waterbergingsgebieden. De waterkwaliteit van de beken en het Valleikanaal staat onder druk door een teveel aan nutriënten.</Al>
+                              <Al>De <IntIoRef eId="div_IV__div_4.2__content_o_1__ref_o_1" wId="ws0662_1__div_IV__div_4.2__content_o_1__ref_o_1" ref="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1">Gelderse Vallei</IntIoRef> bestaat uit een gevarieerd landschap waarin landbouw, natuur en wonen samengaan. Dat is aantrekkelijk voor recreatie. Regio Foodvalley is het bepalende stedelijke gebied. De flanken van de Veluwe en de Utrechtse Heuvelrug zijn gevoelig voor droogte. In het lage middendeel van de Vallei komen kwelstromen vanuit de hoge gronden van de Veluwe tevoorschijn. In dit natte gebied liggen kwetsbare natuurwaarden en waterbergingsgebieden. De waterkwaliteit van de beken en het Valleikanaal staat onder druk door een teveel aan nutriënten.</Al>
                               <Figuur eId="div_IV__div_4.2__content_o_1__img_o_1"
                                       wId="ws0662_1__div_IV__div_4.2__content_o_1__img_o_1">
                                  <Illustratie naam="media/image22.png"
@@ -2881,18 +2881,10 @@
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_13" wId="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_13">
-                              <Term>Noordelijke Veluwe</Term>
+                              <Term>Vallei en Veluwe</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" wId="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" ref="/join/id/regdata/ws0662/2021/Noordelijke_Veluwe/nld@2021;1">/join/id/regdata/ws0662/2021/Noordelijke_Veluwe/nld@2021;1</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_14" wId="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_14">
-                              <Term>Vallei_Veluwe</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1" wId="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1" ref="/join/id/regdata/ws0662/2021/Valei_Veluwe/nld@2021;1">/join/id/regdata/ws0662/2021/Valei_Veluwe/nld@2021;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" wId="ws0662_1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" ref="/join/id/regdata/ws0662/2021/Valei_Veluwe/nld@2021;1">/join/id/regdata/ws0662/2021/Valei_Veluwe/nld@2021;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
