@@ -5,7 +5,7 @@
    <domein>omgevingswet</domein>
    <Aanlevering>
       <WorkIDRegeling>/akn/nl/act/pv26/2021/VBPU0001_gm0344</WorkIDRegeling>
-      <DoelID>/join/id/proces/pv26/2021/Instelling_gm0344</DoelID>
+      <DoelID>/join/id/proces/pv26/2021/Instelling_gemeente</DoelID>
       <Bestand>
          <naam>owRegeltekst_gm0344.xml</naam>
          <objecttype>Regeltekst</objecttype>
@@ -21,10 +21,14 @@
          <naam>owGebiedsaanwijzing_gm0344.xml</naam>
          <objecttype>Gebiedsaanwijzing</objecttype>
       </Bestand>
+      <Bestand>
+         <naam>owRegelingsgebied_gm0344.xml</naam>
+         <objecttype>Regelingsgebied</objecttype>
+      </Bestand>
    </Aanlevering>
    <Aanlevering>
       <WorkIDRegeling>/akn/nl/act/pv26/2021/VBPU0001_gm0307</WorkIDRegeling>
-      <DoelID>/join/id/proces/pv26/2021/Instelling_gm0307</DoelID>
+      <DoelID>/join/id/proces/pv26/2021/Instelling_gemeente</DoelID>
       <Bestand>
          <naam>owRegeltekst_gm0307.xml</naam>
          <objecttype>Regeltekst</objecttype>
@@ -34,10 +38,14 @@
          <naam>owLocatie_gm0307.xml</naam>
          <objecttype>Ambtsgebied</objecttype>
       </Bestand>
+      <Bestand>
+         <naam>owRegelingsgebied_gm0307.xml</naam>
+         <objecttype>Regelingsgebied</objecttype>
+      </Bestand>
    </Aanlevering>
    <Aanlevering>
       <WorkIDRegeling>/akn/nl/act/pv26/2021/VBPU0001_gm0356</WorkIDRegeling>
-      <DoelID>/join/id/proces/pv26/2021/Instelling_gm0356</DoelID>
+      <DoelID>/join/id/proces/pv26/2021/Instelling_gemeente</DoelID>
       <Bestand>
          <naam>owRegeltekst_gm0356.xml</naam>
          <objecttype>Regeltekst</objecttype>
@@ -46,6 +54,10 @@
       <Bestand>
          <naam>owLocatie_gm0356.xml</naam>
          <objecttype>Ambtsgebied</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>owRegelingsgebied_gm0356.xml</naam>
+         <objecttype>Regelingsgebied</objecttype>
       </Bestand>
    </Aanlevering>
 </Aanleveringen>

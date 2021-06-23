@@ -6,7 +6,7 @@
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/pv27/2021/OVNH2022</FRBRWork>
-         <FRBRExpression>/akn/nl/bill/pv27/2021/OVNH2022/nld@2021-06-07;1</FRBRExpression>
+         <FRBRExpression>/akn/nl/bill/pv27/2021/OVNH2022/nld@2021-06-21;1</FRBRExpression>
          <soortWork>/join/id/stop/work_003</soortWork>
       </ExpressionIdentificatie>
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -27,6 +27,11 @@
             <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0373/nld@2021-06-21;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441/nld@2021-06-21;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0388/nld@2021-06-21;1</informatieobjectRef>
+         </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <bekendOp>2021-06-07</bekendOp>
@@ -50,25 +55,46 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/pv27/2021/Instelling_gm0373</doel>
+                  <doel>/join/id/proces/pv27/2021/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/pv27/2021/OVNH2022_gm0373/nld@2021-06-07;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/pv27/2021/OVNH2022_gm0373/nld@2021-06-21;1</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/pv27/2021/Instelling_gm0441</doel>
+                  <doel>/join/id/proces/pv27/2021/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/pv27/2021/OVNH2022_gm0441/nld@2021-06-07;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/pv27/2021/OVNH2022_gm0441/nld@2021-06-21;1</instrumentVersie>
                <eId>art_II</eId>
             </BeoogdeRegeling>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/pv27/2021/Instelling_gm0388</doel>
+                  <doel>/join/id/proces/pv27/2021/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/pv27/2021/OVNH2022_gm0388/nld@2021-06-07;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/pv27/2021/OVNH2022_gm0388/nld@2021-06-21;1</instrumentVersie>
                <eId>art_III</eId>
             </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/pv26/2021/Instelling_gm0373</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0373/nld@2021-06-21;1</instrumentVersie>
+               <eId>!initieel_bergen#cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/pv26/2021/Instelling_gm0441</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441/nld@2021-06-21;1</instrumentVersie>
+               <eId>!initieel_schagen#cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/pv26/2021/Instelling_gm0388</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0388/nld@2021-06-21;1</instrumentVersie>
+               <eId>!initieel_enkhuizen#cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
@@ -131,7 +157,7 @@
                </Kop>
                <Wat>Aan het omgevingsplan van de gemeente Enkhuizen in Noord-Holland wordt een hoofdstuk toegevoegd, zoals vastgelegd in <IntRef ref="cmp_III">bijlage III</IntRef>.</Wat>
             </WijzigArtikel>
-            <Artikel eId="art_IV" wId="pv27_1__art_VI">
+            <Artikel eId="art_IV" wId="pv27_1__art_IV">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>IV</Nummer>
@@ -141,7 +167,7 @@
                   <Al>Dit voorbereidingsbesluit treedt in werking met ingang van het moment dat de Omgevingswet in werking treedt.</Al>
                </Inhoud>
             </Artikel>
-            <Artikel eId="art_V" wId="pv27_1__art_VII">
+            <Artikel eId="art_V" wId="pv27_1__art_V">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>V</Nummer>
@@ -156,9 +182,10 @@
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>I</Nummer>
+               <Opschrift>Voorbereidingsbesluit OVNH2022 - gemeente Bergen</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_bergen"
-               wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0373/nld@2021-06-07;1">
+                                   wordt="/akn/nl/act/pv27/2021/OVNH2022/nld@2021-06-21;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbeschermingsregels omgevingsplan Bergen</Al>
                </RegelingOpschrift>
@@ -166,10 +193,10 @@
                   <Conditie>
                      <Artikel eId="art_o_1" wId="pv27_1__art_o_1">
                         <Kop>
-                           <Opschrift>[Voorrangsbepaling]</Opschrift>
+                           <Opschrift>Voorrangsbepaling</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>[In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan gelden de navolgende beschermingsregels. Voor zover deze voorbeschermingsregels afwijken van het omgevingsplan gelden alleen de voorbeschermingsregels.]</Al>
+                           <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan van de gemeente Bergen gelden de navolgende beschermingsregels. Voor zover deze voorbeschermingsregels afwijken van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
                         </Inhoud>
                      </Artikel>
                   </Conditie>
@@ -308,7 +335,9 @@
                               <Lijst eId="chp_1__subchp_1.3__art_1.3__list_o_1"
                                      wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1"
                                      type="expliciet">
-                                 <Lijstaanhef>Op de locatie ‘voorbeschermd provinciaal monument’ is het verboden:</Lijstaanhef>
+                                 <Lijstaanhef>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
+                                              wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
+                                              ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
                                  <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_a"
                                      wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -330,7 +359,9 @@
                               <Opschrift>Vergunningplicht</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Al>Op de locatie ‘voorbeschermd provinciaal monument’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
+                              <Al>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.4__ref_o_1"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.4__ref_o_1"
+                                           ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
                            </Inhoud>
                         </Artikel>
                         <Artikel eId="chp_1__subchp_1.3__art_1.5"
@@ -604,6 +635,32 @@
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
+               </Bijlage>
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_o_3"
+                        wId="pv27_1__cmp_o_3"
+                        dso:niveau="1">
+                  <Kop>
+                     <Opschrift>Overzicht informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_o_3__content_o_1" wId="pv27_1__cmp_o_3__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_o_3__content_o_1__list_o_1"
+                                        wId="pv27_1__cmp_o_3__content_o_1__list_o_1">
+                           <Begrip eId="cmp_o_3__content_o_1__list_o_1__item_o_1"
+                                   wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1">
+                              <Term>voorbeschermd provinciaal monument</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0373/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0373/nld@2021-06-21;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
                </Bijlage>
             </RegelingTijdelijkdeel>
          </WijzigBijlage>
@@ -611,9 +668,10 @@
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>II</Nummer>
+               <Opschrift>Voorbereidingsbesluit OVNH2022 - gemeente Schagen</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_schagen"
-               wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0441/nld@2021-06-07;1">
+                                   wordt="/akn/nl/act/pv27/2021/OVNH2022/nld@2021-06-21;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbeschermingsregels omgevingsplan Schagen</Al>
                </RegelingOpschrift>
@@ -621,10 +679,10 @@
                   <Conditie>
                      <Artikel eId="art_o_1" wId="pv27_1__art_o_1">
                         <Kop>
-                           <Opschrift>[Voorrangsbepaling]</Opschrift>
+                           <Opschrift>Voorrangsbepaling</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>[In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan gelden de navolgende beschermingsregels. Voor zover deze voorbeschermingsregels afwijken van het omgevingsplan gelden alleen de voorbeschermingsregels.]</Al>
+                           <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan van de gemeente Schagen gelden de navolgende beschermingsregels. Voor zover deze voorbeschermingsregels afwijken van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
                         </Inhoud>
                      </Artikel>
                   </Conditie>
@@ -763,7 +821,9 @@
                               <Lijst eId="chp_1__subchp_1.3__art_1.3__list_o_1"
                                      wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1"
                                      type="expliciet">
-                                 <Lijstaanhef>Op de locatie ‘voorbeschermd provinciaal monument’ is het verboden:</Lijstaanhef>
+                                 <Lijstaanhef>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
+                                              wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
+                                              ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
                                  <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_a"
                                      wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -785,7 +845,9 @@
                               <Opschrift>Vergunningplicht</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Al>Op de locatie ‘voorbeschermd provinciaal monument’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
+                              <Al>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.4__ref_o_1"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.4__ref_o_1"
+                                           ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
                            </Inhoud>
                         </Artikel>
                         <Artikel eId="chp_1__subchp_1.3__art_1.5"
@@ -1059,6 +1121,32 @@
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
+               </Bijlage>
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_o_3"
+                        wId="pv27_1__cmp_o_3"
+                        dso:niveau="1">
+                  <Kop>
+                     <Opschrift>Overzicht informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_o_3__content_o_1" wId="pv27_1__cmp_o_3__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_o_3__content_o_1__list_o_1"
+                                        wId="pv27_1__cmp_o_3__content_o_1__list_o_1">
+                           <Begrip eId="cmp_o_3__content_o_1__list_o_1__item_o_1"
+                                   wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1">
+                              <Term>voorbeschermd provinciaal monument</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441/nld@2021-06-21;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
                </Bijlage>
             </RegelingTijdelijkdeel>
          </WijzigBijlage>
@@ -1066,9 +1154,10 @@
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>III</Nummer>
+               <Opschrift>Voorbereidingsbesluit OVNH2022 - gemeente Enkhuizen</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_enkhuizen"
-               wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0388/nld@2021-06-07;1">
+                                   wordt="/akn/nl/act/pv27/2021/OVNH2022/nld@2021-06-21;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbeschermingsregels omgevingsplan Enkhuizen</Al>
                </RegelingOpschrift>
@@ -1076,10 +1165,10 @@
                   <Conditie>
                      <Artikel eId="art_o_1" wId="pv27_1__art_o_1">
                         <Kop>
-                           <Opschrift>[Voorrangsbepaling]</Opschrift>
+                           <Opschrift>Voorrangsbepaling</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>[In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan gelden de navolgende beschermingsregels. Voor zover deze voorbeschermingsregels afwijken van het omgevingsplan gelden alleen de voorbeschermingsregels.]</Al>
+                           <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan van de gemeente Enkhuizen gelden de navolgende beschermingsregels. Voor zover deze voorbeschermingsregels afwijken van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
                         </Inhoud>
                      </Artikel>
                   </Conditie>
@@ -1218,7 +1307,9 @@
                               <Lijst eId="chp_1__subchp_1.3__art_1.3__list_o_1"
                                      wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1"
                                      type="expliciet">
-                                 <Lijstaanhef>Op de locatie ‘voorbeschermd provinciaal monument’ is het verboden:</Lijstaanhef>
+                                 <Lijstaanhef>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
+                                              wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
+                                              ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
                                  <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_a"
                                      wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -1240,7 +1331,9 @@
                               <Opschrift>Vergunningplicht</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Al>Op de locatie ‘voorbeschermd provinciaal monument’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
+                              <Al>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.4__ref_o_1"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.4__ref_o_1"
+                                           ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
                            </Inhoud>
                         </Artikel>
                         <Artikel eId="chp_1__subchp_1.3__art_1.5"
@@ -1514,6 +1607,32 @@
                         </Inhoud>
                      </Divisietekst>
                   </Divisie>
+               </Bijlage>
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_o_3"
+                        wId="pv27_1__cmp_o_3"
+                        dso:niveau="1">
+                  <Kop>
+                     <Opschrift>Overzicht informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_o_3__content_o_1" wId="pv27_1__cmp_o_3__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_o_3__content_o_1__list_o_1"
+                                        wId="pv27_1__cmp_o_3__content_o_1__list_o_1">
+                           <Begrip eId="cmp_o_3__content_o_1__list_o_1__item_o_1"
+                                   wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1">
+                              <Term>voorbeschermd provinciaal monument</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0388/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0388/nld@2021-06-21;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
                </Bijlage>
             </RegelingTijdelijkdeel>
          </WijzigBijlage>
@@ -1522,7 +1641,7 @@
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/act/pv27/2021/OVNH2022_gm0373</FRBRWork>
-         <FRBRExpression>/akn/nl/act/pv27/2021/OVNH2022_gm0373/nld@2021-06-07;1</FRBRExpression>
+         <FRBRExpression>/akn/nl/act/pv27/2021/OVNH2022_gm0373/nld@2021-06-21;1</FRBRExpression>
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
@@ -1538,7 +1657,7 @@
          <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
          <eindverantwoordelijke>/tooi/id/provincie/pv27</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv27</maker>
-         <soortBestuursorgaan>/tooi/def/thes/kern/c_411b4e4a</soortBestuursorgaan>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
          <officieleTitel>Voorbereidingsbesluit OVNH2022 - gemeente Bergen</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
@@ -1560,7 +1679,7 @@
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/act/pv27/2021/OVNH2022_gm0441</FRBRWork>
-         <FRBRExpression>/akn/nl/act/pv27/2021/OVNH2022_gm0441/nld@2021-06-07;1</FRBRExpression>
+         <FRBRExpression>/akn/nl/act/pv27/2021/OVNH2022_gm0441/nld@2021-06-21;1</FRBRExpression>
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
@@ -1576,7 +1695,7 @@
          <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
          <eindverantwoordelijke>/tooi/id/provincie/pv27</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv27</maker>
-         <soortBestuursorgaan>/tooi/def/thes/kern/c_411b4e4a</soortBestuursorgaan>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
          <officieleTitel>Voorbereidingsbesluit OVNH2022 - gemeente Schagen</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
@@ -1598,7 +1717,7 @@
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/act/pv27/2021/OVNH2022_gm0388</FRBRWork>
-         <FRBRExpression>/akn/nl/act/pv27/2021/OVNH2022_gm0388/nld@2021-06-07;1</FRBRExpression>
+         <FRBRExpression>/akn/nl/act/pv27/2021/OVNH2022_gm0388/nld@2021-06-21;1</FRBRExpression>
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
@@ -1614,7 +1733,7 @@
          <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
          <eindverantwoordelijke>/tooi/id/provincie/pv27</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv27</maker>
-         <soortBestuursorgaan>/tooi/def/thes/kern/c_411b4e4a</soortBestuursorgaan>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
          <officieleTitel>Voorbereidingsbesluit OVNH2022 - gemeente Enkhuizen</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>

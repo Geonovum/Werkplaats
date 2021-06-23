@@ -47,11 +47,19 @@
       <lvbb:contentType>application/xml</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
+      <lvbb:bestandsnaam>owRegelingsgebied_gm0307.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
       <lvbb:bestandsnaam>owLocatie_gm0307.xml</lvbb:bestandsnaam>
       <lvbb:contentType>application/xml</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
       <lvbb:bestandsnaam>owRegeltekst_gm0344.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>owRegelingsgebied_gm0344.xml</lvbb:bestandsnaam>
       <lvbb:contentType>application/xml</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
@@ -64,6 +72,10 @@
    </lvbb:bestand>
    <lvbb:bestand>
       <lvbb:bestandsnaam>owRegeltekst_gm0356.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>owRegelingsgebied_gm0356.xml</lvbb:bestandsnaam>
       <lvbb:contentType>application/xml</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>

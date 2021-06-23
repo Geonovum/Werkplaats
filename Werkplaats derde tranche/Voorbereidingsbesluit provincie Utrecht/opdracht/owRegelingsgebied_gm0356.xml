@@ -8,6 +8,7 @@
   xmlns:l="http://www.geostandaarden.nl/imow/locatie"
   xmlns:p="http://www.geostandaarden.nl/imow/pons"
   xmlns:r="http://www.geostandaarden.nl/imow/regels"
+  xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
   xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
   xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
   xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -19,17 +20,17 @@
       <sl:gebied>Provincie Utrecht</sl:gebied>
       <sl:leveringsId>VBPU0001-001</sl:leveringsId>
       <sl:objectTypen>
-        <sl:objectType>Ambtsgebied</sl:objectType>
+        <sl:objectType>Regelingsgebied</sl:objectType>
       </sl:objectTypen>
     </sl:inhoud>
     <sl:stand>
       <ow-dc:owObject>
-        <l:Ambtsgebied>
-          <l:identificatie>GM0356</l:identificatie>
-          <l:noemer>Gemeente Nieuwegein</l:noemer>
-          <l:domein>NL.BI.BestuurlijkGebied</l:domein>
-          <l:geldigOp>2021-01-01</l:geldigOp>
-        </l:Ambtsgebied>
+        <rg:Regelingsgebied>
+          <rg:identificatie>nl.imow-gm0356.regelingsgebied.202106020001</rg:identificatie>
+          <rg:locatieaanduiding>
+            <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0356"/>
+          </rg:locatieaanduiding>
+        </rg:Regelingsgebied>
       </ow-dc:owObject>
     </sl:stand>
   </sl:standBestand>

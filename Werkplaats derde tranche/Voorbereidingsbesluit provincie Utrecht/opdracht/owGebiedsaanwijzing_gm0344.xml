@@ -28,7 +28,7 @@
           <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.202106020001</ga:identificatie>
           <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
           <ga:naam>grondwaterbeschermingsgebied</ga:naam>
-          <ga:groep>http://standaarden.omgevingswet.overheid.nl/id/waardelijst/WaterEnWatersysteemgroep</ga:groep>
+          <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Watersysteem</ga:groep>
           <ga:locatieaanduiding>
             <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.202106020001"/>
           </ga:locatieaanduiding>
