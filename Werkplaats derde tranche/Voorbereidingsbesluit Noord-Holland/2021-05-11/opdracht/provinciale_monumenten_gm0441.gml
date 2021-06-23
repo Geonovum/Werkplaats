@@ -8,16 +8,16 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/pv27/2021/provinciale_monumenten</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/pv27/2021/provinciale_monumenten/nld@2021;1</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441/nld@2021-06-21;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
-          <geo:naam>Provinciale monumenten</geo:naam>
+          <geo:naam>voorbeschermd provinciaal monument</geo:naam>
           <geo:geometrie>
-            <basisgeo:Geometrie>
-              <basisgeo:id>6f7bd7a6-28b2-4955-baaf-86d6df714a4a</basisgeo:id>
+            <basisgeo:Geometrie gml:id="id-89d1df69-2804-4fb1-867f-e8c9db358c5b-xx">
+              <basisgeo:id>89d1df69-2804-4fb1-867f-e8c9db358c5b</basisgeo:id>
               <basisgeo:geometrie>
-                <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
+                <gml:MultiSurface gml:id="id-89d1df69-2804-4fb1-867f-e8c9db358c5b-0" srsName="urn:ogc:def:crs:EPSG::28992">
                   <gml:surfaceMember>
                     <gml:Polygon>
                       <gml:exterior>

@@ -185,7 +185,7 @@
                <Opschrift>Voorbereidingsbesluit OVNH2022 - gemeente Bergen</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_bergen"
-                                   wordt="/akn/nl/act/pv27/2021/OVNH2022/nld@2021-06-21;1">
+                                   wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0373/nld@2021-06-21;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbeschermingsregels omgevingsplan Bergen</Al>
                </RegelingOpschrift>
@@ -671,7 +671,7 @@
                <Opschrift>Voorbereidingsbesluit OVNH2022 - gemeente Schagen</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_schagen"
-                                   wordt="/akn/nl/act/pv27/2021/OVNH2022/nld@2021-06-21;1">
+                                   wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0441/nld@2021-06-21;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbeschermingsregels omgevingsplan Schagen</Al>
                </RegelingOpschrift>
@@ -1157,7 +1157,7 @@
                <Opschrift>Voorbereidingsbesluit OVNH2022 - gemeente Enkhuizen</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_enkhuizen"
-                                   wordt="/akn/nl/act/pv27/2021/OVNH2022/nld@2021-06-21;1">
+                                   wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0388/nld@2021-06-21;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbeschermingsregels omgevingsplan Enkhuizen</Al>
                </RegelingOpschrift>
