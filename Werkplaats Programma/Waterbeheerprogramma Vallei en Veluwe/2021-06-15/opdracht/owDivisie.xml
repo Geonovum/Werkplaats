@@ -296,6 +296,9 @@
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-ws0662.gebied.20210621000002"/>
                </vt:locatieaanduiding>
+               <vt:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-ws0662.gebiedsaanwijzing.Eemland"/>
+               </vt:gebiedsaanwijzing>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
