@@ -21,12 +21,17 @@
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
          <onderwerpen>
-            <onderwerp>geen</onderwerp>
+            <onderwerp>/tooi/def/concept/c_f4f1867a</onderwerp>
          </onderwerpen>
          <rechtsgebieden>
             <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_borsele/nld@2021-03-01;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_kapelle/nld@2021-03-01;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_reimerswaal/nld@2021-03-01;1</informatieobjectRef>
+         </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <bekendOp>2017-04-01</bekendOp>
@@ -46,25 +51,46 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/mnre1045/2021/Instelling_gm0654</doel>
+                  <doel>/join/id/proces/mnre1045/2021/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0001/nld@2021-03-01;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0654/nld@2021-03-01;1</instrumentVersie>
                <eId>art_II</eId>
             </BeoogdeRegeling>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/mnre1045/2021/Instelling_gm0678</doel>
+                  <doel>/join/id/proces/mnre1045/2021/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0002/nld@2021-03-01;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0678/nld@2021-03-01;1</instrumentVersie>
                <eId>art_III</eId>
             </BeoogdeRegeling>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/mnre1045/2021/Instelling_gm0703</doel>
+                  <doel>/join/id/proces/mnre1045/2021/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0003/nld@2021-03-01;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0703/nld@2021-03-01;1</instrumentVersie>
                <eId>art_IV</eId>
             </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2021/Instelling_gm0654</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_borsele/nld@2021-03-01;1</instrumentVersie>
+               <eId>cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2021/Instelling_gm0678</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_kapelle/nld@2021-03-01;1</instrumentVersie>
+               <eId>cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2021/Instelling_gm0703</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_reimerswaal/nld@2021-03-01;1</instrumentVersie>
+               <eId>cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
@@ -119,21 +145,21 @@
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
                </Kop>
-               <Wat>Voor het omgevingsplan van de gemeente Borsele gelden de voorbeschermingsregels die zijn vastgelegd in bijlage I.</Wat>
+               <Wat>Voor het omgevingsplan van de gemeente Borsele gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_I">bijlage I</IntRef>.</Wat>
             </WijzigArtikel>
             <WijzigArtikel eId="art_III" wId="mnre1045_1__art_III">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>III</Nummer>
                </Kop>
-               <Wat>Voor het omgevingsplan van de gemeente Kapelle gelden de voorbeschermingsregels die zijn vastgelegd in bijlage II.</Wat>
+               <Wat>Voor het omgevingsplan van de gemeente Kapelle gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_II">bijlage II</IntRef>.</Wat>
             </WijzigArtikel>
             <WijzigArtikel eId="art_IV" wId="mnre1045_1__art_IV">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>IV</Nummer>
                </Kop>
-               <Wat>Voor het omgevingsplan van de gemeente Reimerswaal gelden de voorbeschermingsregels die zijn vastgelegd in bijlage III.</Wat>
+               <Wat>Voor het omgevingsplan van de gemeente Reimerswaal gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_III">bijlage III</IntRef>.</Wat>
             </WijzigArtikel>
             <Artikel eId="art_V" wId="mnre1045_1__art_V">
                <Kop>
@@ -165,7 +191,8 @@
                <Nummer>I</Nummer>
                <Opschrift>Voorbereidingsbesluit gemeente Borsele</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_reg" wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0001-0001/nld@2021-03-01;1">
+            <RegelingTijdelijkdeel componentnaam="initieel_gm0654"
+                                   wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0654/nld@2021-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
                </RegelingOpschrift>
@@ -176,7 +203,9 @@
                            <Opschrift>Voorrangsbepaling</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan gelden de navolgende voorbeschermingsregels. Voor zover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
+                           <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan <IntIoRef eId="art_o_1__ref_o_1"
+                                        wId="mnre1045_1__art_o_1__ref_o_1"
+                                        ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">gemeente Borsele</IntIoRef> gelden de navolgende voorbeschermingsregels. Voor zover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
                         </Inhoud>
                      </Artikel>
                   </Conditie>
@@ -320,7 +349,20 @@
                   </Kop>
                   <Divisietekst eId="cmp_I__content_o_1" wId="mnre1045_1__cmp_I__content_o_1">
                      <Inhoud>
-                        <Al>Voorbeschermingsregels gemeente Borsele: NL.IMRO.0678.EZvb16ZW380west-3001.gml</Al>
+                        <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
+                                        wId="mnre1045_1__cmp_I__content_o_1__list_o_1">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1"
+                                   wId="mnre1045_1__cmp_I__content_o_1__list_o_1__item_o_1">
+                              <Term>Voorbeschermingsregels gemeente Borsele</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="mnre1045_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_borsele/nld@2021-03-01;1">/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_borsele/nld@2021-03-01;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
                      </Inhoud>
                   </Divisietekst>
                </Bijlage>
@@ -332,7 +374,8 @@
                <Nummer>II</Nummer>
                <Opschrift>Voorbereidingsbesluit gemeente Kapelle</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_reg" wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0001-0002/nld@2021-03-01;1">
+            <RegelingTijdelijkdeel componentnaam="initieel_gm0678"
+                                   wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0678/nld@2021-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
                </RegelingOpschrift>
@@ -343,7 +386,9 @@
                            <Opschrift>Voorrangsbepaling</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan gelden de navolgende voorbeschermingsregels. Voor zover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
+                           <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan <IntIoRef eId="art_o_1__ref_o_1"
+                                        wId="mnre1045_1__art_o_1__ref_o_1"
+                                        ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">gemeente Kapelle</IntIoRef> gelden de navolgende voorbeschermingsregels. Voor zover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
                         </Inhoud>
                      </Artikel>
                   </Conditie>
@@ -455,7 +500,20 @@
                   </Kop>
                   <Divisietekst eId="cmp_I__content_o_1" wId="mnre1045_1__cmp_I__content_o_1">
                      <Inhoud>
-                        <Al>Voorbeschermingsregels gemeente Kapelle: NL.IMRO.0678.EZvb16ZW380west-3001.gml</Al>
+                        <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
+                                        wId="mnre1045_1__cmp_I__content_o_1__list_o_1">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1"
+                                   wId="mnre1045_1__cmp_I__content_o_1__list_o_1__item_o_1">
+                              <Term>Voorbeschermingsregels gemeente Kapelle</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="mnre1045_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_kapelle/nld@2021-03-01;1">/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_kapelle/nld@2021-03-01;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
                      </Inhoud>
                   </Divisietekst>
                </Bijlage>
@@ -467,7 +525,8 @@
                <Nummer>III</Nummer>
                <Opschrift>Voorbereidingsbesluit gemeente Reimerswaal</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_reg" wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0001-0003/nld@2021-03-01;1">
+            <RegelingTijdelijkdeel componentnaam="initieel_gm0703"
+                                   wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0703/nld@2021-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
                </RegelingOpschrift>
@@ -478,7 +537,9 @@
                            <Opschrift>Voorrangsbepaling</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan gelden de navolgende voorbeschermingsregels. Voor zover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
+                           <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan <IntIoRef eId="art_o_1__ref_o_1"
+                                        wId="mnre1045_1__art_o_1__ref_o_1"
+                                        ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">gemeente Reimerswaal</IntIoRef> gelden de navolgende voorbeschermingsregels. Voor zover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
                         </Inhoud>
                      </Artikel>
                   </Conditie>
@@ -590,7 +651,20 @@
                   </Kop>
                   <Divisietekst eId="cmp_I__content_o_1" wId="mnre1045_1__cmp_I__content_o_1">
                      <Inhoud>
-                        <Al>Voorbeschermingsregels gemeente Reimerswaal: NL.IMRO.0703.EZvb16ZW380west-3001.gml</Al>
+                        <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
+                                        wId="mnre1045_1__cmp_I__content_o_1__list_o_1">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1"
+                                   wId="mnre1045_1__cmp_I__content_o_1__list_o_1__item_o_1">
+                              <Term>Voorbeschermingsregels gemeente Reimerswaal</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="mnre1045_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_reimerswaal/nld@2021-03-01;1">/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_reimerswaal/nld@2021-03-01;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
                      </Inhoud>
                   </Divisietekst>
                </Bijlage>
@@ -778,8 +852,8 @@
    </BesluitVersie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0001</FRBRWork>
-         <FRBRExpression>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0001/nld@2021-03-01;1</FRBRExpression>
+         <FRBRWork>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0654</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0654/nld@2021-03-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
@@ -795,6 +869,7 @@
          <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1045</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
          <officieleTitel>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
@@ -803,10 +878,10 @@
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
          <overheidsdomeinen>
-            <overheidsdomein>geen</overheidsdomein>
+            <overheidsdomein>/tooi/def/concept/c_3708ac5e</overheidsdomein>
          </overheidsdomeinen>
          <onderwerpen>
-            <onderwerp>geen</onderwerp>
+            <onderwerp>/tooi/def/concept/c_f4f1867a</onderwerp>
          </onderwerpen>
          <rechtsgebieden>
             <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
@@ -815,8 +890,8 @@
    </RegelingVersieInformatie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0002</FRBRWork>
-         <FRBRExpression>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0002/nld@2021-03-01;1</FRBRExpression>
+         <FRBRWork>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0678</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0678/nld@2021-03-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
@@ -832,6 +907,7 @@
          <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1045</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
          <officieleTitel>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
@@ -840,10 +916,10 @@
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
          <overheidsdomeinen>
-            <overheidsdomein>geen</overheidsdomein>
+            <overheidsdomein>/tooi/def/concept/c_3708ac5e</overheidsdomein>
          </overheidsdomeinen>
          <onderwerpen>
-            <onderwerp>geen</onderwerp>
+            <onderwerp>/tooi/def/concept/c_f4f1867a</onderwerp>
          </onderwerpen>
          <rechtsgebieden>
             <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
@@ -852,8 +928,8 @@
    </RegelingVersieInformatie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0003</FRBRWork>
-         <FRBRExpression>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-0003/nld@2021-03-01;1</FRBRExpression>
+         <FRBRWork>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0703</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0703/nld@2021-03-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
@@ -869,6 +945,7 @@
          <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1045</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
          <officieleTitel>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
@@ -877,10 +954,10 @@
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
          <overheidsdomeinen>
-            <overheidsdomein>geen</overheidsdomein>
+            <overheidsdomein>/tooi/def/concept/c_3708ac5e</overheidsdomein>
          </overheidsdomeinen>
          <onderwerpen>
-            <onderwerp>geen</onderwerp>
+            <onderwerp>/tooi/def/concept/c_f4f1867a</onderwerp>
          </onderwerpen>
          <rechtsgebieden>
             <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>

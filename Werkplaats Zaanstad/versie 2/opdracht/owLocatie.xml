@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Omgevingsplan Zaanstad v0.1</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Gemeente Zaanstad</sl:gebied>
+         <sl:leveringsId>ZAAN0001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Ambtsgebied</sl:objectType>
+            <sl:objectType>Gebied</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Ambtsgebied>
+               <l:identificatie>GM0479</l:identificatie>
+               <l:noemer>Gemeente Zaanstad</l:noemer>
+               <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+               <l:geldigOp>2021-01-01</l:geldigOp>
+            </l:Ambtsgebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0479.gebied.2021000001</l:identificatie>
+               <l:noemer>gebiedstype woongebied variant 1</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="15a3b0a5-ecd2-48ef-abd3-efa29b01404e"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0479.gebied.2021000002</l:identificatie>
+               <l:noemer>gebiedstype woongebied variant 2</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="d3175fcb-dc25-4c38-8937-b501f1082966"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0479.gebied.2021000003</l:identificatie>
+               <l:noemer>welstandsgebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="18446068-e0bc-4b21-89d3-90cbab00968c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0479.gebied.2021000004</l:identificatie>
+               <l:noemer>Verplichte aanleg van groen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="86a432ce-ef24-48d2-b8af-2602dab9586e"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0479.gebied.2021000005</l:identificatie>
+               <l:noemer>Verplichte aanleg van water</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="3bf96433-9b6d-4827-ac89-58f6efaa91a0"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0479.gebied.2021000006</l:identificatie>
+               <l:noemer>beperkingengebied buisleiding voor gevaarlijke stoffen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b14e30e9-75d8-4a96-a448-d66ff7236e1b"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0479.gebied.2021000007</l:identificatie>
+               <l:noemer>beperkingengebied magneetveldzone</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="092dd093-5534-4868-a881-7dc8c56aeff2"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0479.gebied.2021000008</l:identificatie>
+               <l:noemer>beperkingengebied waterkering</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="2a1152af-084a-48c3-a99d-4f22bf33f82f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0479.gebied.2021000009</l:identificatie>
+               <l:noemer>nog nergens van toepassing</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f820649d-3ffd-425c-83ac-cf62a1d45078"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0479.gebied.2021000010</l:identificatie>
+               <l:noemer>parkeervoorzieningen verplicht</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ca9b53c0-d4bc-4f7a-a3c7-de172b0e47f0"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>
