@@ -45,10 +45,6 @@
                <soortStap>/join/id/stop/procedure/stap_003</soortStap>
                <voltooidOp>2021-06-07</voltooidOp>
             </Procedurestap>
-            <Procedurestap>
-               <soortStap>/join/id/stop/procedure/stap_004</soortStap>
-               <voltooidOp>2021-06-07</voltooidOp>
-            </Procedurestap>
          </procedurestappen>
       </Procedureverloop>
       <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -182,12 +178,12 @@
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>I</Nummer>
-               <Opschrift>Voorbereidingsbesluit OVNH2022 - gemeente Bergen</Opschrift>
+               <Opschrift>Voorbeschermingsregels omgevingsplan Bergen</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_bergen"
                                    wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0373/nld@2021-06-21;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Voorbeschermingsregels omgevingsplan Bergen</Al>
+                  <Al>Voorbereidingsbesluit OVNH2022 - gemeente Bergen</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>
@@ -668,12 +664,12 @@
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>II</Nummer>
-               <Opschrift>Voorbereidingsbesluit OVNH2022 - gemeente Schagen</Opschrift>
+               <Opschrift>Voorbeschermingsregels omgevingsplan Schagen</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_schagen"
                                    wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0441/nld@2021-06-21;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Voorbeschermingsregels omgevingsplan Schagen</Al>
+                  <Al>Voorbereidingsbesluit OVNH2022 - gemeente Schagen</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>
@@ -1154,12 +1150,12 @@
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>III</Nummer>
-               <Opschrift>Voorbereidingsbesluit OVNH2022 - gemeente Enkhuizen</Opschrift>
+               <Opschrift>Voorbeschermingsregels omgevingsplan Enkhuizen</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_enkhuizen"
                                    wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0388/nld@2021-06-21;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Voorbeschermingsregels omgevingsplan Enkhuizen</Al>
+                  <Al>Voorbereidingsbesluit OVNH2022 - gemeente Enkhuizen</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>

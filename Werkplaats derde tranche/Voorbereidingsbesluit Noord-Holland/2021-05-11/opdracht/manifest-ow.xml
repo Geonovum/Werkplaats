@@ -22,7 +22,7 @@
     </Bestand>
     <Bestand>
       <naam>owActiviteit_gm0373.xml</naam>
-      <objecttype>Gebiedsaanwijzing</objecttype>
+      <objecttype>Activiteit</objecttype>
     </Bestand>
   </Aanlevering>
   <Aanlevering>
@@ -44,7 +44,7 @@
     </Bestand>
     <Bestand>
       <naam>owActiviteit_gm0441.xml</naam>
-      <objecttype>Gebiedsaanwijzing</objecttype>
+      <objecttype>Activiteit</objecttype>
     </Bestand>
   </Aanlevering>
   <Aanlevering>
@@ -66,7 +66,7 @@
     </Bestand>
     <Bestand>
       <naam>owActiviteit_gm0388.xml</naam>
-      <objecttype>Gebiedsaanwijzing</objecttype>
+      <objecttype>Activiteit</objecttype>
     </Bestand>
   </Aanlevering>
 </Aanleveringen>
