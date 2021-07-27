@@ -17,6 +17,10 @@
       <objecttype>Gebied</objecttype>
     </Bestand>
     <Bestand>
+      <naam>owGebiedsaanwijzing.xml</naam>
+      <objecttype>Gebiedsaanwijzing</objecttype>
+    </Bestand>
+    <Bestand>
       <naam>owHoofdlijn.xml</naam>
       <objecttype>Hoofdlijn</objecttype>
     </Bestand>

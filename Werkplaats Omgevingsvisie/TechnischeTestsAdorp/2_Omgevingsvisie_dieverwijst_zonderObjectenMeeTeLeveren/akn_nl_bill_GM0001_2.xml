@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Voor validatie is het noodzakelijk om ook de catalogi van de gepubliceerde versie 1.0.4 te laden.-->
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.0.4" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+    <BesluitVersie>
+        <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <FRBRWork>/akn/nl/bill/gm1966/2019/omgevingsvisie</FRBRWork>
+            <FRBRExpression>/akn/nl/bill/gm1966/2019/omgevingsvisie/nld@2019</FRBRExpression>
+            <soortWork>/join/id/stop/work_003</soortWork>
+        </ExpressionIdentificatie>
+        <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <eindverantwoordelijke>/tooi/id/gemeente/gm1966</eindverantwoordelijke>
+            <maker>/tooi/id/gemeente/gm1966</maker>
+            <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+            <officieleTitel>Vaststelling van Omgevingsvisie Adorp</officieleTitel>
+            <onderwerpen>
+                <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+                <!-- werk -->
+            </onderwerpen>
+            <rechtsgebieden>
+                <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+            </rechtsgebieden>
+            <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+        </BesluitMetadata>
+        <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <bekendOp>2019-12-17</bekendOp>
+            <procedurestappen>
+                <!-- Vaststelling -->
+                <Procedurestap>
+                    <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+                    <voltooidOp>2019-12-03</voltooidOp>
+                </Procedurestap>
+                <!-- RdG: Ondertekening weggehaald, doen we niet meer in voorbeelden-->
+                <!-- KL: Ondertekening weer toegevoegd omdat LVBB die verplicht heeft nu -->
+                <Procedurestap>
+                    <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+                    <voltooidOp>2019-12-05</voltooidOp>
+                </Procedurestap>
+            </procedurestappen>
+        </Procedureverloop>
+        <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <BeoogdeRegelgeving>
+                <BeoogdeRegeling>
+                    <doelen>
+                        <doel>/join/id/proces/gm1966/2019/InstellingOmgevingsvisie</doel>
+                    </doelen>
+                    <instrumentVersie>/akn/nl/act/gm1966/2019/omgevingsvisieAdorp/nld@1</instrumentVersie>
+                    <eId>art_I</eId>
+                </BeoogdeRegeling>
+                <!-- regelinggebied -->
+            </BeoogdeRegelgeving>
+            <Tijdstempels>
+                <Tijdstempel>
+                    <doel>/join/id/proces/gm1966/2019/InstellingOmgevingsvisie</doel>
+                    <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+                    <datum>2021-01-17</datum>
+                    <eId>art_II</eId>
+                </Tijdstempel>
+            </Tijdstempels>
+        </ConsolidatieInformatie>
+        <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+            <RegelingOpschrift eId="longTitle" wId="longTitle">
+                <Al>Vaststelling van Omgevingsvisie Adorp</Al>
+            </RegelingOpschrift>
+            <Aanhef eId="formula_1" wId="formula_1">
+                <Al>De raad van de gemeente Adorp</Al>
+                <Al>gelezen het voorstel van burgemeester en wethouders van 26 juni 2019, nr. 2019-4542;</Al>
+                <Al>Gelet op <ExtRef ref="https://wetten.overheid.nl/jci1.3:c:BWBR0005416&amp;titeldeel=III&amp;hoofdstuk=IX&amp;artikel=149" soort="URL">Gemeentewet, art. 149</ExtRef>.</Al>
+                <Al>besluit:</Al>
+            </Aanhef>
+            <Lichaam eId="body" wId="body">
+                <WijzigArtikel eId="art_I" wId="GM1966_1__art_I">
+                    <Kop>
+                        <Label>Artikel</Label>
+                        <Nummer>I</Nummer>
+                    </Kop>
+                    <Wat>Het omgevingsvisie Adorp opgenomen in<IntRef ref="cmp_A" scope="WijzigBijlage">Bijlage A</IntRef> worden vastgesteld.</Wat>
+                </WijzigArtikel>
+                <Artikel eId="art_II" wId="GM1966_1__art_II">
+                    <Kop>
+                        <Label>Artikel</Label>
+                        <Nummer>II</Nummer>
+                    </Kop>
+                    <Inhoud>
+                        <Al>Dit besluit treedt in werking per 14 januari 2020.</Al>
+                    </Inhoud>
+                </Artikel>
+            </Lichaam>
+            <Sluiting eId="formula_2" wId="formula_2">
+                <Al>Gegeven te Kaap Doorn, Adorp, 7 juli 2021</Al>
+                <Ondertekening>
+                    <Al>Gedeputeerde Raad van Apeldoorn tot Den Haag</Al>
+                    <Al>Yue Wan Fan</Al>
+                    <Al>gemeentesecretaris</Al>
+                    <Al>Nadine Bauer</Al>
+                    <Al>Burgemeester</Al>
+                </Ondertekening>
+            </Sluiting>
+            <WijzigBijlage eId="cmp_A" wId="GM1966_1__cmp_A">
+                <Kop>
+                    <Label>Bijlage</Label>
+                    <Nummer>A</Nummer>
+                    <Opschrift>Bijlage bij artikel I</Opschrift>
+                </Kop>
+                <RegelingVrijetekst componentnaam="initieel_reg" wordt="/akn/nl/act/gm1966/2019/omgevingsvisieAdorp/nld@1">
+                        <RegelingOpschrift eId="longTitle" wId="longTitle">
+                            <Al>omgevingsvisie Adorp</Al>
+                        </RegelingOpschrift>
+                        <Lichaam eId="body" wId="body">
+                            <Divisie eId="div_o_1" wId="gm1966_1__div_o_1">
+                                <Kop>
+                                    <Opschrift>Gerards visie omtrent woonwagenterreinen</Opschrift>
+                                </Kop>
+                                <Divisietekst eId="div_o_1__content_o_1" wId="gm1966_1__div_o_1__content_o_1">
+                                    <Inhoud>
+                                        <Al>Gerard vindt dat zijn <ExtRef soort="JOIN" ref="/join/id/regdata/gm1966/2021/gerardswoonwagenterrein/nld@2021-07-07">woonwagenterrein</ExtRef> het mooiste stukje Nederland moet worden.</Al>
+                                    </Inhoud>
+                                </Divisietekst>
+                            </Divisie>
+                        </Lichaam>
+                  </RegelingVrijetekst>
+            </WijzigBijlage>
+        </BesluitCompact>
+    </BesluitVersie>
+    <RegelingVersieInformatie>
+        <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <FRBRWork>/akn/nl/act/gm1966/2019/omgevingsvisieAdorp</FRBRWork>
+            <FRBRExpression>/akn/nl/act/gm1966/2019/omgevingsvisieAdorp/nld@1</FRBRExpression>
+            <soortWork>/join/id/stop/work_019</soortWork>
+        </ExpressionIdentificatie>
+        <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <versienummer>1</versienummer>
+        </RegelingVersieMetadata>
+        <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <eindverantwoordelijke>/tooi/id/gemeente/gm1966</eindverantwoordelijke>
+            <maker>/tooi/id/gemeente/gm1966</maker>
+            <!--soortBestuursorgaan is 'gemeenteraad'.-->
+            <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+            <heeftCiteertitelInformatie>
+                <CiteertitelInformatie>
+                    <citeertitel>Gerards woonwagenterrein (omgevingsvisie Adorp)</citeertitel>
+                    <isOfficieel>true</isOfficieel>
+                </CiteertitelInformatie>
+            </heeftCiteertitelInformatie>
+            <officieleTitel>omgevingsvisie Adorp</officieleTitel>
+            <onderwerpen>
+                <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+            </onderwerpen>
+            <rechtsgebieden>
+                <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+            </rechtsgebieden>
+            <soortRegeling>/join/id/stop/regelingtype_006</soortRegeling>
+            <!-- omgevingsvisie -->
+        </RegelingMetadata>
+    </RegelingVersieInformatie>
+</AanleveringBesluit>

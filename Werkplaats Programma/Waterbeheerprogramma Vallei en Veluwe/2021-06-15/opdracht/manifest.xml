@@ -275,6 +275,10 @@
     <lvbb:contentType>application/xml</lvbb:contentType>
   </lvbb:bestand>
   <lvbb:bestand>
+    <lvbb:bestandsnaam>owGebiedsaanwijzing.xml</lvbb:bestandsnaam>
+    <lvbb:contentType>application/xml</lvbb:contentType>
+  </lvbb:bestand>
+  <lvbb:bestand>
     <lvbb:bestandsnaam>owHoofdlijn.xml</lvbb:bestandsnaam>
     <lvbb:contentType>application/xml</lvbb:contentType>
   </lvbb:bestand>
