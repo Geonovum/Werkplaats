@@ -59,9 +59,18 @@
                 </BeoogdInformatieobject>
                 <!-- regelinggebied -->
             </BeoogdeRegelgeving>
+            <Intrekkingen>
+                <Intrekking>
+                    <doelen>
+                        <doel>/join/id/proces/gm1966/2019/IntrekkenVervangen</doel>
+                    </doelen>
+                    <instrument>/akn/nl/act/gm1966/2019/omgevingsplanAdorp</instrument>
+                    <eId>art_II</eId>
+                </Intrekking>
+            </Intrekkingen>
             <Tijdstempels>
                 <Tijdstempel>
-                    <doel>/join/id/proces/gm1966/2019/Instelling</doel>
+                    <doel>/join/id/proces/gm1966/2019/IntrekkenVervangen</doel>
                     <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                     <datum>2021-03-17</datum>
                     <eId>art_II</eId>
