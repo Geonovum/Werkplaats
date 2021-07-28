@@ -29,6 +29,10 @@
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
+        <bestandsnaam>owGebiedsaanwijzing-Adorp.xml</bestandsnaam>
+        <contentType>application/xml</contentType>
+    </bestand>
+    <bestand>
         <bestandsnaam>owRegelingsgebied-Adorp.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
