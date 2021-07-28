@@ -39,7 +39,7 @@
             <r:RegeltekstRef xlink:href="nl.imow-gm1966.regeltekst.art1punt4"/>
           </r:artikelOfLid>
           <r:locatieaanduiding>
-            <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM1966"/>
+            <l:LocatieRef xlink:href="nl.imow-gm1966.gebiedengroep.gerardswoonwagenterrein"/>
           </r:locatieaanduiding>
           <r:gebiedsaanwijzing>
             <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1966.gebiedsaanwijzing.gerardswoonwagenterrein"/>
