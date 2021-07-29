@@ -121,9 +121,9 @@
                     <Nummer>A</Nummer>
                     <Opschrift>Bijlage bij artikel I</Opschrift>
                 </Kop>
-                <RegelingVrijetekst componentnaam="initieel_reg" wordt="/akn/nl/act/gm1966/2019/omgevingsvisieAdorp/nld@1">
+                <RegelingVrijetekst componentnaam="initieel_reg" wordt="/akn/nl/act/gm1966/2019/omgevingsvisieVersie2VanAdorp/nld@1">
                     <RegelingOpschrift eId="longTitle" wId="longTitle">
-                        <Al>omgevingsvisie Adorp</Al>
+                        <Al>Omgevingsvisie Adorp</Al>
                     </RegelingOpschrift>
                     <Lichaam eId="body" wId="body">
                         <Divisie eId="div_o_1" wId="gm1966_1__div_o_1">
