@@ -25,13 +25,13 @@
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>owRegeltekst-Adorp.xml</bestandsnaam>
+        <bestandsnaam>owDivisie-Adorp.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
-    <bestand>
+<!--    <bestand>
         <bestandsnaam>owGebiedsaanwijzing-Adorp.xml</bestandsnaam>
         <contentType>application/xml</contentType>
-    </bestand>
+    </bestand>-->
     <bestand>
         <bestandsnaam>owRegelingsgebied-Adorp.xml</bestandsnaam>
         <contentType>application/xml</contentType>

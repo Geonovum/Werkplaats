@@ -11,7 +11,7 @@
             <eindverantwoordelijke>/tooi/id/gemeente/gm1966</eindverantwoordelijke>
             <maker>/tooi/id/gemeente/gm1966</maker>
             <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
-            <officieleTitel>Vaststelling van Omgevingsplan Adorp</officieleTitel>
+            <officieleTitel>Vaststelling van Omgevingsvisie Adorp</officieleTitel>
             <onderwerpen>
                 <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
                 <!-- werk -->
@@ -47,7 +47,7 @@
                     <doelen>
                         <doel>/join/id/proces/gm1966/2019/IntrekkenVervangen</doel>
                     </doelen>
-                    <instrumentVersie>/akn/nl/act/gm1966/2019/omgevingsplanVersie2VanAdorp/nld@1</instrumentVersie>
+                    <instrumentVersie>/akn/nl/act/gm1966/2019/omgevingsvisieVersie2VanAdorp/nld@1</instrumentVersie>
                     <eId>art_I</eId>
                 </BeoogdeRegeling>
                 <BeoogdInformatieobject>
@@ -64,7 +64,7 @@
                     <doelen>
                         <doel>/join/id/proces/gm1966/2019/IntrekkenVervangen</doel>
                     </doelen>
-                    <instrument>/akn/nl/act/gm1966/2019/omgevingsplanAdorp</instrument>
+                    <instrument>/akn/nl/act/gm1966/2019/omgevingsvisieAdorp</instrument>
                     <eId>art_II</eId>
                 </Intrekking>
             </Intrekkingen>
@@ -79,7 +79,7 @@
         </ConsolidatieInformatie>
         <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
             <RegelingOpschrift eId="longTitle" wId="longTitle">
-                <Al>Vaststelling van Omgevingsplan Adorp</Al>
+                <Al>Vaststelling van Omgevingsvisie Adorp</Al>
             </RegelingOpschrift>
             <Aanhef eId="formula_1" wId="formula_1">
                 <Al>De raad van de gemeente Adorp</Al>
@@ -93,7 +93,7 @@
                         <Label>Artikel</Label>
                         <Nummer>I</Nummer>
                     </Kop>
-                    <Wat>Het omgevingsplan Adorp opgenomen in<IntRef ref="cmp_A" scope="WijzigBijlage">Bijlage A</IntRef> worden vastgesteld.</Wat>
+                    <Wat>Het omgevingsvisie Adorp opgenomen in<IntRef ref="cmp_A" scope="WijzigBijlage">Bijlage A</IntRef> worden vastgesteld.</Wat>
                 </WijzigArtikel>
                 <Artikel eId="art_II" wId="GM1966_1__art_II">
                     <Kop>
@@ -102,15 +102,6 @@
                     </Kop>
                     <Inhoud>
                         <Al>Dit besluit treedt in werking per 14 januari 2020.</Al>
-                    </Inhoud>
-                </Artikel>
-                <Artikel eId="art_III" wId="GM1966_1__art_III">
-                    <Kop>
-                        <Label>Artikel</Label>
-                        <Nummer>III</Nummer>
-                    </Kop>
-                    <Inhoud>
-                        <Al>Het omgevingsplan van rechtswege vervalt voor het Ponsgebied van dit artikel.</Al>
                     </Inhoud>
                 </Artikel>
             </Lichaam>
@@ -130,30 +121,23 @@
                     <Nummer>A</Nummer>
                     <Opschrift>Bijlage bij artikel I</Opschrift>
                 </Kop>
-                <RegelingCompact componentnaam="initieel_reg" wordt="/akn/nl/act/gm1966/2019/omgevingsplanVersie2VanAdorp/nld@1">
+                <RegelingVrijetekst componentnaam="initieel_reg" wordt="/akn/nl/act/gm1966/2019/omgevingsvisieAdorp/nld@1">
                     <RegelingOpschrift eId="longTitle" wId="longTitle">
-                        <Al>Omgevingsplan Adorp</Al>
+                        <Al>omgevingsvisie Adorp</Al>
                     </RegelingOpschrift>
                     <Lichaam eId="body" wId="body">
-                        <Hoofdstuk eId="chp_1" wId="GM1966_1__chp_1">
+                        <Divisie eId="div_o_1" wId="gm1966_1__div_o_1">
                             <Kop>
-                                <Label>Hoofdstuk</Label>
-                                <Nummer>1</Nummer>
-                                <Opschrift>Algemene bepalingen</Opschrift>
+                                <Opschrift>Gerards visie omtrent woonwagenterreinen</Opschrift>
                             </Kop>
-                            <Artikel wId="GM1966_1__chp_1__art_1.4" eId="chp_1__art_1.4">
-                                <Kop>
-                                    <Label>Artikel</Label>
-                                    <Nummer>1.4</Nummer>
-                                    <Opschrift>Toepassingsgebied</Opschrift>
-                                </Kop>
+                            <Divisietekst eId="div_o_1__content_o_1" wId="gm1966_1__div_o_1__content_o_1">
                                 <Inhoud>
-                                    <Al>Dit omgevingsplan is van toepassing in Adorp.
-                                        Met name in het <IntIoRef wId="GM1966_1__chp_1__art_1.4__ref_o_1" eId="chp_1__art_1.4__ref_o_1" ref="GM1966_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">woonwagenterrein waar Gerard woont</IntIoRef>.</Al>
+                                    <Al>Gerard vindt dat zijn <IntIoRef eId="div_o_1__content_o_1__ref_o_1" ref="GM1966_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm1966_1__div_o_1__content_o_1__ref_o_1">woonwagenterrein</IntIoRef> het mooiste stukje Nederland moet worden.</Al>
                                 </Inhoud>
-                            </Artikel>
-                        </Hoofdstuk>
-                      </Lichaam>
+                            </Divisietekst>
+                        </Divisie>
+                    </Lichaam>
+
                     <Bijlage eId="cmp_I" wId="GM1966_1__cmp_I">
                         <Kop>
                             <Label>Bijlage</Label>
@@ -175,14 +159,14 @@
                             </Inhoud>
                         </Divisietekst>
                     </Bijlage>
-                  </RegelingCompact>
+                </RegelingVrijetekst>
             </WijzigBijlage>
         </BesluitCompact>
     </BesluitVersie>
     <RegelingVersieInformatie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-            <FRBRWork>/akn/nl/act/gm1966/2019/omgevingsplanVersie2VanAdorp</FRBRWork>
-            <FRBRExpression>/akn/nl/act/gm1966/2019/omgevingsplanVersie2VanAdorp/nld@1</FRBRExpression>
+            <FRBRWork>/akn/nl/act/gm1966/2019/omgevingsvisieVersie2VanAdorp</FRBRWork>
+            <FRBRExpression>/akn/nl/act/gm1966/2019/omgevingsvisieVersie2VanAdorp/nld@1</FRBRExpression>
             <soortWork>/join/id/stop/work_019</soortWork>
         </ExpressionIdentificatie>
         <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -195,11 +179,11 @@
             <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
             <heeftCiteertitelInformatie>
                 <CiteertitelInformatie>
-                    <citeertitel>Gerards woonwagenterrein (omgevingsplan Adorp)</citeertitel>
+                    <citeertitel>Gerards woonwagenterrein (omgevingsvisie Adorp)</citeertitel>
                     <isOfficieel>true</isOfficieel>
                 </CiteertitelInformatie>
             </heeftCiteertitelInformatie>
-            <officieleTitel>Omgevingsplan Adorp</officieleTitel>
+            <officieleTitel>Omgevingvisie Adorp</officieleTitel>
             <onderwerpen>
                 <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
             </onderwerpen>
@@ -208,9 +192,8 @@
             </rechtsgebieden>
             <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
             <opvolging>
-                <opvolgerVan>/akn/nl/act/gm1966/2019/omgevingsplanAdorp</opvolgerVan>
+                <opvolgerVan>/akn/nl/act/gm1966/2019/omgevingsvisieAdorp</opvolgerVan>
             </opvolging>
-            <!-- Omgevingsplan -->
         </RegelingMetadata>
     </RegelingVersieInformatie>
 </AanleveringBesluit>

@@ -19,32 +19,31 @@
       <sl:gebied>Gemeente Adorp</sl:gebied>
       <sl:leveringsId>VBPU0001-001</sl:leveringsId>
       <sl:objectTypen>
-        <sl:objectType>Regeltekst</sl:objectType>
-        <sl:objectType>RegelVoorIedereen</sl:objectType>
+        <sl:objectType>Divisie</sl:objectType>
+        <sl:objectType>Tekstdeel</sl:objectType>
       </sl:objectTypen>
     </sl:inhoud>
     <sl:stand>
       <ow-dc:owObject>
-        <r:Regeltekst wId="GM1966_1__chp_1__art_1.4">
-          <r:identificatie>nl.imow-gm1966.regeltekst.art1punt4</r:identificatie>
-        </r:Regeltekst>
+        <vt:Divisie wId="gm1966_1__div_o_1">
+          <vt:identificatie>nl.imow-gm1966.divisie.divisie1</vt:identificatie>
+        </vt:Divisie>
       </ow-dc:owObject>
     </sl:stand>
     <sl:stand>
       <ow-dc:owObject>
-        <r:RegelVoorIedereen>
-          <r:identificatie>nl.imow-gm1966.juridischeregel.art1punt4</r:identificatie>
-          <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-          <r:artikelOfLid>
-            <r:RegeltekstRef xlink:href="nl.imow-gm1966.regeltekst.art1punt4"/>
-          </r:artikelOfLid>
-          <r:locatieaanduiding>
-            <l:LocatieRef xlink:href="nl.imow-gm1966.gebiedengroep.gerardswoonwagenterrein"/>
-          </r:locatieaanduiding>
-          <r:gebiedsaanwijzing>
+        <vt:Tekstdeel>
+          <vt:identificatie>nl.imow-gm1966.tekstdeel.tekstdeel1</vt:identificatie>
+          <vt:divisieaanduiding>
+            <vt:DivisieRef xlink:href="nl.imow-gm1966.divisie.divisie1"/>
+          </vt:divisieaanduiding>
+          <vt:locatieaanduiding>
+            <l:LocatieRef xlink:href="GM1966"/>
+          </vt:locatieaanduiding>
+          <vt:gebiedsaanwijzing>
             <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1966.gebiedsaanwijzing.gerardswoonwagenterrein"/>
-          </r:gebiedsaanwijzing>
-        </r:RegelVoorIedereen>
+          </vt:gebiedsaanwijzing>
+        </vt:Tekstdeel>
       </ow-dc:owObject>
     </sl:stand>
   </sl:standBestand>

@@ -4,20 +4,20 @@
                xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/generiek/manifest-ow.xsd">
    <domein>omgevingswet</domein>
    <Aanlevering>
-      <WorkIDRegeling>/akn/nl/act/gm1966/2019/omgevingsplanVersie2VanAdorp</WorkIDRegeling>
+      <WorkIDRegeling>/akn/nl/act/gm1966/2019/omgevingsvisieVersie2VanAdorp</WorkIDRegeling>
       <DoelID>/join/id/proces/gm1966/2019/IntrekkenVervangen</DoelID>
       <Bestand>
-         <naam>owRegeltekst-Adorp.xml</naam>
-         <objecttype>Regeltekst</objecttype>
-         <objecttype>RegelVoorIedereen</objecttype>
+         <naam>owDivisie-Adorp.xml</naam>
+         <objecttype>Divisie</objecttype>
+         <objecttype>Tekstdeel</objecttype>
       </Bestand>
       <Bestand>
          <naam>owRegelingsgebied-Adorp.xml</naam>
          <objecttype>Regelingsgebied</objecttype>
       </Bestand>
-      <Bestand>
+<!--      <Bestand>
          <naam>owGebiedsaanwijzing-Adorp.xml</naam>
          <objecttype>Gebiedsaanwijzing</objecttype>
-      </Bestand>
+      </Bestand>-->
    </Aanlevering>
 </Aanleveringen>
