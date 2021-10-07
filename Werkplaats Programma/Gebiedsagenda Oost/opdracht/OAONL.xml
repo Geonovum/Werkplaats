@@ -4052,7 +4052,7 @@
          <versienummer>1</versienummer>
       </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <soortRegeling>/join/id/stop/regelingtype_010</soortRegeling>
+         <soortRegeling>/join/id/stop/regelingtype_007</soortRegeling><!--/join/id/stop/regelingtype_010 moet het eigenlijk zijn-->
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1034</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1034</maker>
          <officieleTitel>Bijlage I: Omgevingsagenda Oost-Nederland</officieleTitel>
