@@ -21,7 +21,7 @@
          <sl:leveringsId>mnre1034/pr2020oaOost</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Divisie</sl:objectType>
-            <sl:objectType>Divisietekst</sl:objectType>
+            <!--<sl:objectType>Divisietekst</sl:objectType>-->
             <sl:objectType>Tekstdeel</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
@@ -81,7 +81,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_1"> <!--had eigenlijk divisietekstobject moeten zijn met id mnre1034_0.1__div_o_1__div_o_1__content_o_3-->
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_1"> <!--divisietekst is: mnre1034_0.1__div_o_1__div_o_1__content_o_3-->
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000004</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -96,7 +96,7 @@
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</vt:thema>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000004"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisie.20211006000004"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3157663292"/>

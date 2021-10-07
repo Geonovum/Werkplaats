@@ -5,7 +5,7 @@
    <domein>omgevingswet</domein>
    <Aanlevering>
       <WorkIDRegeling>/akn/nl/act/mnre1034/2021/pr2020oaOost</WorkIDRegeling>
-      <DoelID>/join/id/proces/mnre1034/2021/Instelling</DoelID>
+      <DoelID>/join/id/proces/mnre1034/2021/ProgrammaWerkplaats</DoelID>
       <Bestand>
          <naam>owDivisie.xml</naam>
          <objecttype>Divisie</objecttype>
