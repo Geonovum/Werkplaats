@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/mnre1034/2021/GOA_topregio_Twente</FRBRWork>
+         <FRBRExpression>/join/id/regdata/mnre1034/2021/GOA_topregio_Twente/nld@2021;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>GOA_topregio_Twente.gml</bestandsnaam>
+                  <hash>7d00898555d3eaccd463c3f083f97639d5c3f267796a8fc5a5cb1aa698fa2c5b90a205318638884c737cca1a5d0887ba945ba9b48b58d09b4a85c7fa9fea441c</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1034</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1034</maker>
+         <alternatieveTitels>
+            <alternatieveTitel/>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/mnre1034/2021/GOA_topregio_Twente</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <naamInformatieObject>GOA_topregio_Twente</naamInformatieObject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>

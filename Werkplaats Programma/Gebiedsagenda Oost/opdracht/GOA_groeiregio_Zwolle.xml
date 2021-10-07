@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/mnre1034/2021/GOA_groeiregio_Zwolle</FRBRWork>
+         <FRBRExpression>/join/id/regdata/mnre1034/2021/GOA_groeiregio_Zwolle/nld@2021;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>GOA_groeiregio_Zwolle.gml</bestandsnaam>
+                  <hash>33f35756c6d33cad0c0910786846d3dd85922ab95e7818b872eae48555755605d2869c1fa252e25cfbced29a751340de4500e37abd09eab813360e8c65dbd3bb</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1034</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1034</maker>
+         <alternatieveTitels>
+            <alternatieveTitel/>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/mnre1034/2021/GOA_groeiregio_Zwolle</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <naamInformatieObject>GOA_groeiregio_Zwolle</naamInformatieObject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Omgevingsagenda Oost</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Nederland</sl:gebied>
+         <sl:leveringsId>mnre1034/pr2020oaOost</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Hoofdlijn</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1034.hoofdlijn.1105727504</vt:identificatie>
+               <vt:soort>samenwerken</vt:soort>
+               <vt:naam>adaptief omgevingsprogramma</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1034.hoofdlijn.753733455</vt:identificatie>
+               <vt:soort>samenwerken</vt:soort>
+               <vt:naam>adaptief en programmatisch</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1034.hoofdlijn.842471641</vt:identificatie>
+               <vt:soort>toekomst</vt:soort>
+               <vt:naam>concurrerende duurzame en verbonden stedelijke regio's</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1034.hoofdlijn.906039200</vt:identificatie>
+               <vt:soort>toekomst</vt:soort>
+               <vt:naam>ontwikkeling blauwe corridors</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1034.hoofdlijn.2284587379</vt:identificatie>
+               <vt:soort>toekomst</vt:soort>
+               <vt:naam>perspectief 2040</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1034.hoofdlijn.2004553668</vt:identificatie>
+               <vt:soort>toekomst</vt:soort>
+               <vt:naam>Perspectief op Oost Nederland 2040</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1034.hoofdlijn.716246855</vt:identificatie>
+               <vt:soort>Samenwerken</vt:soort>
+               <vt:naam>Samenwerking en uitvoering</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

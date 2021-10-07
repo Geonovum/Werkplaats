@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Omgevingsagenda Oost</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Nederland</sl:gebied>
+         <sl:leveringsId>mnre1034/pr2020oaOost</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Gebied</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject><!--geen-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.2218530256</l:identificatie>
+               <l:noemer>Regelingsgebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="caa5af2a-5b90-47d7-9d34-ae4a90093a60"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--geen-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.2218530255</l:identificatie>
+               <l:noemer>groene metropoolregio Arnhem, Nijmegen en Foodvalley</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="e6056a32-e9a7-449f-a06c-3963d81681e7"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--geen-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.828643591</l:identificatie>
+               <l:noemer>Internationale en bereikbare technologsiche topregio Twente</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9572a54c-891e-474c-a90f-a3fb551509de"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--geen-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.2496924326</l:identificatie>
+               <l:noemer>Gelders Rivierengebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="58728ab2-ea2f-4724-9b45-166b4cab91de"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--geen-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3717074171</l:identificatie>
+               <l:noemer>Ijsselvalei en Twentekanalen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="bcdfcc58-b069-4b37-b368-da977d484602"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--geen-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3313110045</l:identificatie>
+               <l:noemer>Transitie landelijk gebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f616bf4f-14ef-4817-88a3-4c119a0af03c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--geen-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.1216417762</l:identificatie>
+               <l:noemer>Klimaatbestendige groeiregio Zwolle</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="72b16d0e-f30d-419b-95a4-ecdde3b205cd"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--geen-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.956632992</l:identificatie>
+               <l:noemer>bereikbare technologische topregio</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9572a54c-891e-474c-a90f-a3fb551509de"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GOA_groene_metropoolregio-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3157663292</l:identificatie>
+               <l:noemer>groene metropoolregio Arnhem, Nijmegen en Foodvalley</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="e6056a32-e9a7-449f-a06c-3963d81681e7"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GOA_groene_metropoolregio-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.1278550756</l:identificatie>
+               <l:noemer>Innovatieve groene metropoolregio Arnhem, Nijmegen en Foodvalley</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="e6056a32-e9a7-449f-a06c-3963d81681e7"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GOA_groeiregio_zwolle-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.2402293409</l:identificatie>
+               <l:noemer>Klimaatbestendige groeiregio Zwolle</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="72b16d0e-f30d-419b-95a4-ecdde3b205cd"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GOA_topregio_Twente-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3542884061</l:identificatie>
+               <l:noemer>Internationale en bereikbare technologische topregio Twente</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9572a54c-891e-474c-a90f-a3fb551509de"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GOA_topregio_Twente-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.2158566890</l:identificatie>
+               <l:noemer>Internationale bereikbare technologische topregio Twente</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9572a54c-891e-474c-a90f-a3fb551509de"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GOA_Cleantech_regio-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.293478166</l:identificatie>
+               <l:noemer>Cleantech Regio: inzet op groene, duurzamen en inclusieve groei</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="72606058-fa75-471c-b9eb-20abaab48862"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GOA_Cleantech_regio-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.4047576744</l:identificatie>
+               <l:noemer>Cleantech Regio: inzet op groene, duurzame en inclusieve groei</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="72606058-fa75-471c-b9eb-20abaab48862"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GAO_gelders_rivierengebied-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3713012550</l:identificatie>
+               <l:noemer>Gelders Rivierengebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="58728ab2-ea2f-4724-9b45-166b4cab91de"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GOA_Ijsselvalei_twentekanalen-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.2661684957</l:identificatie>
+               <l:noemer>Ijsselvalei en Twentekanalen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="bcdfcc58-b069-4b37-b368-da977d484602"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GOA-gebied-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.41356770</l:identificatie>
+               <l:noemer>Transitie landelijk gebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f616bf4f-14ef-4817-88a3-4c119a0af03c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GOA_gebied-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.191831171</l:identificatie>
+               <l:noemer>Netwerkkracht stedelijke regio's en robuuste vervoerscorridors</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f616bf4f-14ef-4817-88a3-4c119a0af03c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GOA_gebied-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.152768020</l:identificatie>
+               <l:noemer>Transitie landelijk gebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f616bf4f-14ef-4817-88a3-4c119a0af03c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GOA_groeiregio_Zwolle-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.2314212993</l:identificatie>
+               <l:noemer>Klimaatbestendige groeiregio Zwolle</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="72b16d0e-f30d-419b-95a4-ecdde3b205cd"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GOA_Gelders_rivierengebied-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.2786532078</l:identificatie>
+               <l:noemer>Duurzame (transport) corridor rivierenland</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="58728ab2-ea2f-4724-9b45-166b4cab91de"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--GOA_Ijsselvalei_Twentekanalen-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3264551726</l:identificatie>
+               <l:noemer>Dynamische IJsselvallei en Twentekanalen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="bcdfcc58-b069-4b37-b368-da977d484602"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>
