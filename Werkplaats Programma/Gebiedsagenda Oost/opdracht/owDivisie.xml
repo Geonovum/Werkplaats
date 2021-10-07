@@ -27,7 +27,7 @@
       </sl:inhoud>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_8">
+            <vt:Divisie wId="mnre1034_0.1__div_o_3"><!--mnre1034_0.1__div_o_1__div_o_8-->
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000002</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -42,19 +42,19 @@
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.1105727504"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.753733455"/>
+<!--                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.753733455"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.842471641"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.906039200"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2284587379"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2004553668"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>-->
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_9">
+            <vt:Divisie wId="mnre1034_0.1__div_2__div_o_1"><!--mnre1034_0.1__div_o_1__div_o_9-->
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000003</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -68,20 +68,20 @@
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000003"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.1105727504"/>
+                  <!--<vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.1105727504"/>-->
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.753733455"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.842471641"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.906039200"/>
+<!--                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.906039200"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2284587379"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2004553668"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>-->
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_9__div_o_1">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_1"> <!--had eigenlijk divisietekstobject moeten zijn met id mnre1034_0.1__div_o_1__div_o_1__content_o_3-->
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000004</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -91,7 +91,10 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000004</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000004"/>
                </vt:divisieaanduiding>
@@ -105,8 +108,8 @@
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
-         <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_9__div_o_2">
+         <ow-dc:owObject><!--mnre1034_0.1__div_o_1__div_o_1-->
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_1"> <!--eigenlijk divisietekst: mnre1034_0.1__div_o_1__div_o_1__content_o_4-->
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000005</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -116,7 +119,8 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000005</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000005"/>
                </vt:divisieaanduiding>
@@ -126,20 +130,20 @@
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+<!--      <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_9__div_o_3">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_1__content_o_5">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000006</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000006</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000006"/>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000005"/> <!--had eigenlijk naar nl.imow-mnre1034.divisie.20211006000006 moeten wijzen-->
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3542884061"/>
@@ -150,21 +154,22 @@
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+      <!--<sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_9__div_o_4">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_1__content_o_6">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000007</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000007</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000007"/>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000005"/> <!--had eigenlijk naar nl.imow-mnre1034.divisie.20211006000007 moeten wijzen-->
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.293478166"/>
@@ -177,7 +182,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_10">
+            <vt:Divisie wId="mnre1034_0.1__div_2__div_o_2">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000008</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -187,18 +192,19 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000008</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000008"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.1105727504"/>
+<!--                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.1105727504"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.753733455"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.842471641"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.842471641"/>-->
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.906039200"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2284587379"/>
+<!--                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2284587379"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2004553668"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>-->
                </vt:hoofdlijnaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3713012550"/>
@@ -211,21 +217,21 @@
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+<!--      <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_11">
+            <vt:Divisietekst wId="mnre1034_0.1__div_2__content_o_2">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000009</vt:identificatie>
-            </vt:Divisie>
+            </vt:Divisietekst>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000009</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000009"/>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000008"/> <!--had eigenlijk nl.imow-mnre1034.divisie.20211006000009 moeten zijn-->
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.41356770"/>
@@ -238,26 +244,86 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_17__div_o_2">
-               <vt:identificatie>nl.imow-mnre1034.divisie.20211006000013</vt:identificatie>
+            <vt:Divisie wId="mnre1034_0.1__div_3">
+               <vt:identificatie>nl.imow-mnre1034.divisie.div3</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.div3</vt:identificatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.div3"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_0.1__div_o_6">
+               <vt:identificatie>nl.imow-mnre1034.divisie.div0punt6</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.div0punt6</vt:identificatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.div0punt6"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2284587379"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_0.1__div_4">
+               <vt:identificatie>nl.imow-mnre1034.divisie.div4</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.div4</vt:identificatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.div4"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2004553668"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+<!--      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_0.1__div_4__div_o_1__content_o_3">
+               <vt:identificatie>nl.imow-mnre1034.divisie.20211006000013</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000013</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</vt:thema>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000013"/>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.div4"/> <!--had moeten zijn divisietekst nl.imow-mnre1034.divisie.20211006000013-->
                </vt:divisieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_18__div_o_4">
+            <vt:Divisie wId="mnre1034_0.1__div_4__div_o_2">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000014</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -267,54 +333,54 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000014</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000014"/>
                </vt:divisieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+<!--      <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_18__div_o_6">
+            <vt:Divisietekst wId="mnre1034_0.1__div_4__div_o_2__content_o_7">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000015</vt:identificatie>
-            </vt:Divisie>
+            </vt:Divisietekst>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000015</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000015"/>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000014"/> <!--had eigenlijk nl.imow-mnre1034.divisie.20211006000015 moeten zijn-->
                </vt:divisieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+<!--      <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_18__div_o_7">
+            <vt:Divisietekst wId="mnre1034_0.1__div_4__div_o_2__content_o_8">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000016</vt:identificatie>
-            </vt:Divisie>
+            </vt:Divisietekst>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000016</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000016"/>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000014"/> <!--had eigenlijk nl.imow-mnre1034.divisie.20211006000016 moeten zijn-->
                </vt:divisieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_19__div_o_3">
+            <vt:Divisie wId="mnre1034_0.1__div_4__div_o_3"> <!--had eigenlijk moeten zijn: mnre1034_0.1__div_4__div_o_3__content_o_4--> 
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000017</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -324,7 +390,26 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000017</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000017"/>
+               </vt:divisieaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+<!--      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_0.1__div_4__div_o_3__content_o_7"> 
+               <vt:identificatie>nl.imow-mnre1034.divisie.20211006000018</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000018</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000017"/>
                </vt:divisieaanduiding>
@@ -333,26 +418,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_19__div_o_6">
-               <vt:identificatie>nl.imow-mnre1034.divisie.20211006000018</vt:identificatie>
-            </vt:Divisie>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <vt:Tekstdeel>
-               <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000018</vt:identificatie>
-               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000018"/>
-               </vt:divisieaanduiding>
-            </vt:Tekstdeel>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_1">
+            <vt:Divisie wId="mnre1034_0.1__div_5__div_1">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000019</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -362,7 +428,9 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000019</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000019"/>
                </vt:divisieaanduiding>
@@ -374,7 +442,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_2">
+            <vt:Divisie wId="mnre1034_0.1__div_5__div_2">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000020</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -384,7 +452,10 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000020</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000020"/>
                </vt:divisieaanduiding>
@@ -396,7 +467,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_3">
+            <vt:Divisie wId="mnre1034_0.1__div_5__div_3">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000021</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -406,7 +477,8 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000021</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000021"/>
                </vt:divisieaanduiding>
@@ -421,7 +493,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_4">
+            <vt:Divisie wId="mnre1034_0.1__div_5__div_5">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000022</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -455,7 +527,8 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000023</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000023"/>
                </vt:divisieaanduiding>
@@ -467,7 +540,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_6">
+            <vt:Divisie wId="mnre1034_0.1__div_5__div_6">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000024</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -477,7 +550,8 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000024</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000024"/>
                </vt:divisieaanduiding>
@@ -489,7 +563,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_7">
+            <vt:Divisie wId="mnre1034_0.1__div_5__div_7">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000025</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -499,7 +573,8 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000025</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000025"/>
                </vt:divisieaanduiding>
@@ -511,7 +586,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_8">
+            <vt:Divisie wId="mnre1034_0.1__div_5__div_8">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000026</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -521,7 +596,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000026</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000026"/>
                </vt:divisieaanduiding>
