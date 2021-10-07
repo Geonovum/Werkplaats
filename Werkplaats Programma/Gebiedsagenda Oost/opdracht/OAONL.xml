@@ -3894,7 +3894,7 @@
          </WijzigBijlage>
          <Motivering xmlns:dso="https://www.dso.nl/" eId="acc_o_1" wId="mnre1034_0.1__acc_o_1" dso:niveau="1">
             <Kop>
-               <Opschrift/>
+               <Opschrift>Motivering</Opschrift>
             </Kop>
             <Divisietekst eId="acc_o_1__content_o_1" wId="mnre1034_0.1__acc_o_1__content_o_1">
                <Kop>
