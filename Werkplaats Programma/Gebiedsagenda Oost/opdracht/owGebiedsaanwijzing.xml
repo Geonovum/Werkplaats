@@ -28,7 +28,7 @@
             <ga:Gebiedsaanwijzing>
                <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.1880706880</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
-               <ga:naam>geen</ga:naam>
+               <ga:naam>Innovatieve groene metropoolregio Arnhem, Nijmegen en Foodvalley</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/StedelijkGebiedGroenStedelijk</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.2218530255"/>
@@ -41,10 +41,10 @@
             <ga:Gebiedsaanwijzing>
                <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.3062187571</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
-               <ga:naam>geen</ga:naam>
+               <ga:naam>Cleantech regio: inzet op groene, duurzame en inclusieve groei</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.2218530255"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.293478166"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -54,7 +54,7 @@
             <ga:Gebiedsaanwijzing>
                <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.3313782769</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
-               <ga:naam>geen</ga:naam>
+               <ga:naam>Transitie landelijk gebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/OntwikkelingLandelijkeFuncties</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3313110045"/>
@@ -67,7 +67,7 @@
             <ga:Gebiedsaanwijzing>
                <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.1065175462</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
-               <ga:naam>geen</ga:naam>
+               <ga:naam>Klimaatbestendige groeiregio Zwolle</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/StedelijkGebied</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.1216417762"/>
@@ -80,7 +80,7 @@
             <ga:Gebiedsaanwijzing>
                <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.2887466535</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
-               <ga:naam>geen</ga:naam>
+               <ga:naam>Internationale en bereikbare technologsiche topregio Twente</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Bedrijf</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.828643591"/>
@@ -94,7 +94,7 @@
             <ga:Gebiedsaanwijzing>
                <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.2935307850</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Verkeer</ga:type>
-               <ga:naam>geen</ga:naam>
+               <ga:naam>Gelders Rivierengebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Vaarweg</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.2496924326"/>
@@ -107,7 +107,7 @@
             <ga:Gebiedsaanwijzing>
                <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.2991794668</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
-               <ga:naam>geen</ga:naam>
+               <ga:naam>Ijsselvalei en Twentekanalen</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3717074171"/>
