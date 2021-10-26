@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<geo:GeoInformatieObjectVaststelling xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0" xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.0.4/imop-geo.xsd" schemaversie="1.0.4">
+<geo:GeoInformatieObjectVaststelling xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0" xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.1.0/imop-geo.xsd" schemaversie="1.1.0">
   <geo:context>
     <gio:GeografischeContext>
       <gio:achtergrondVerwijzing>cbs pand</gio:achtergrondVerwijzing>
@@ -15,7 +15,7 @@
           <geo:naam>GerardsWoonwagenterrein</geo:naam>
           <geo:geometrie>
             <basisgeo:Geometrie>
-              <basisgeo:id>aa9b8510-c066-4cc8-b799-d070eabf8add</basisgeo:id>
+              <basisgeo:id>7C3D9C7A-1C33-461B-AEA4-DFC51399B031</basisgeo:id>
               <basisgeo:geometrie>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
                   <gml:surfaceMember>

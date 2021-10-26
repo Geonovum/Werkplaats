@@ -28,7 +28,7 @@
         <rg:Regelingsgebied>
           <rg:identificatie>nl.imow-gm1966.regelingsgebied.Adorp</rg:identificatie>
           <rg:locatieaanduiding>
-            <l:LocatieRef xlink:href="GM1966"/>
+            <l:LocatieRef xlink:href="nl.imow-gm1966.ambtsgebied.gerardtest"/>
           </rg:locatieaanduiding>
         </rg:Regelingsgebied>
       </ow-dc:owObject>

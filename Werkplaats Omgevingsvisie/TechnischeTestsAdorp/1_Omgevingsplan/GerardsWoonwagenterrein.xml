@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.0.4"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/gm1966/2021/gerardswoonwagenterrein</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>GerardsWoonwagenterrein.gml</bestandsnaam>
-                  <hash>16170a141b50c77d06453c83e3afc7323d58fdb56c87348975993da02981d120de326c43253f2ba9693f241be8cac4fab5d7c72887dbb73ff87c8d9556c8e504</hash>
+                  <hash>9c3f0a828040e5c029b3c7bb30499f40cc7c7b86cb11dcf4914f816cb13578dc288fb006604439f4293ba0f7890ab6977245854933fc51d0d8aac68f8d370c7e</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
