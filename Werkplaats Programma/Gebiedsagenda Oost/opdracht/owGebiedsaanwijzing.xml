@@ -115,5 +115,135 @@
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
       </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.2991794669</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+               <ga:naam>Oostvleugel</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3264551727"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.2991794670</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+               <ga:naam>Regio Twente</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3264551728"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.2991794671</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+               <ga:naam>Mobiliteit nationaal</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3264551729"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.2991794672</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+               <ga:naam>Mobiliteit regionaal</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3264551730"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.2991794673</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+               <ga:naam>Nationaal landschap</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3264551731"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.2991794674</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+               <ga:naam>Natuurgebied</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3264551732"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.2991794675</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+               <ga:naam>Natuurgebied vegetatie</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3264551732"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.2991794676</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+               <ga:naam>Rivierenlandschap</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3264551733"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.2991794677</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+               <ga:naam>Natuurgebied water</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3264551734"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.2991794678</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+               <ga:naam>Waterwegen</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3264551735"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
    </sl:standBestand>
 </ow-dc:owBestand>

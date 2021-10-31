@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Omgevingsagenda Oost</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Nederland</sl:gebied>
+         <sl:leveringsId>mnre1034/pr2020oaOost</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Kaart</sl:objectType>
+            <sl:objectType>SymbolisatieItem</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <k:Kaart>
+               <k:identificatie>nl.imow-mnre1034.kaart.20200001</k:identificatie>
+               <k:naam>Klimaatbestendige groeirego Zwolle</k:naam>
+               <k:uitsnede>
+                  <k:Kaartextent>
+                     <k:minX>160560</k:minX>
+                     <k:minY>455173</k:minY>
+                     <k:maxX>263983</k:maxX>
+                     <k:maxY>550921</k:maxY>
+                  </k:Kaartextent>
+               </k:uitsnede>
+               <k:kaartlagen>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-mnre1034.kaart.202000010001</k:identificatie>
+                     <k:naam>Oostvleugel</k:naam>
+                     <k:niveau>1</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794669"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-mnre1034.kaart.202000010002</k:identificatie>
+                     <k:naam>Regio Twente</k:naam>
+                     <k:niveau>2</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794670"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-mnre1034.kaart.202000010003</k:identificatie>
+                     <k:naam>Mobiliteit nationaal</k:naam>
+                     <k:niveau>3</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794671"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-mnre1034.kaart.202000010004</k:identificatie>
+                     <k:naam>Mobiliteit regionaal</k:naam>
+                     <k:niveau>4</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794672"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-mnre1034.kaart.202000010005</k:identificatie>
+                     <k:naam>Natuurgebied water</k:naam>
+                     <k:niveau>5</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794677"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-mnre1034.kaart.202000010006</k:identificatie>
+                     <k:naam>Waterwegen</k:naam>
+                     <k:niveau>6</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794678"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-mnre1034.kaart.202000010007</k:identificatie>
+                     <k:naam>Natuurgebied vegetatie</k:naam>
+                     <k:niveau>7</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794675"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-mnre1034.kaart.202000010008</k:identificatie>
+                     <k:naam>Natuurgebied</k:naam>
+                     <k:niveau>8</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794674"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-mnre1034.kaart.202000010009</k:identificatie>
+                     <k:naam>Nationaal landschap</k:naam>
+                     <k:niveau>9</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794673"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-mnre1034.kaart.202000010010</k:identificatie>
+                     <k:naam>Rivierenlandschap</k:naam>
+                     <k:niveau>10</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794676"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+               </k:kaartlagen>
+            </k:Kaart>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- Oostvleugel -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>lmh000</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794669"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- Regio Twente -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>voh014</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794670"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- Mobiliteit nationaal -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>vsz028</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794671"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- Mobiliteit regionaal -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>vszt014</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794672"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- Natuurgebied water -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>vszt023</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794677"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- Waterwegen -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>vsz020</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794678"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- Natuurgebied vegetatie -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>vag400</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794675"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- Natuurgebied -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>vsz019</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794674"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- nationnaal landschap -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>vszt002</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794673"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- Rivierenlandschap -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>vszt027</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794676"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/mnre1034/2021/water in natuurgebied</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1034/2021/water in natuurgebied/nld@2021;1</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftGeboorteregeling xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/">/akn/nl/act/mnre1034/2021/pr2020oaOost</heeftGeboorteregeling>
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>water_in_natuurgebied.gml</bestandsnaam>
+            <hash>b328d830302a4a34d52dfecc3dbc09aefcf9a51ded0089736abeb118220d6c397bb3f8e2d9378e63ba7b076f200c6ca00ab77acf49456913c1f47dce7a7803ee</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/ministerie/mnre1034</eindverantwoordelijke>
+      <maker>/tooi/id/ministerie/mnre1034</maker>
+      <alternatieveTitels>
+        <alternatieveTitel/>
+      </alternatieveTitels>
+      <officieleTitel>water in natuurgebied</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <naamInformatieObject>water in natuurgebied</naamInformatieObject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>

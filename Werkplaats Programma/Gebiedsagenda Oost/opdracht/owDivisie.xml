@@ -124,6 +124,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000005"/>
                </vt:divisieaanduiding>
+               <vt:kaartaanduiding>
+                  <k:KaartRef xlink:href="nl.imow-mnre1034.kaart.20200001"/>
+               </vt:kaartaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.2402293409"/>
                </vt:locatieaanduiding>

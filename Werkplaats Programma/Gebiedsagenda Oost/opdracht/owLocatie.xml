@@ -276,5 +276,104 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--grenzen oostvleugel-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3264551727</l:identificatie>
+               <l:noemer>grenzen oostvleugel</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="24c16570-d34e-4434-9876-9f230ac249dc"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--grenzen regio twente-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3264551728</l:identificatie>
+               <l:noemer>grenzen regio twente</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="0ef031cf-432d-4964-96a0-5c331e3e8141"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--mobiliteit nationaal-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3264551729</l:identificatie>
+               <l:noemer>mobiliteit nationaal</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="21ebec08-41bb-4878-b11f-8d3d9c852b8f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--mobiliteit regionaal-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3264551730</l:identificatie>
+               <l:noemer>mobiliteit regionaal</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a28e8fdc-579c-4829-a476-d14284c2d5be"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--nationale landschappen-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3264551731</l:identificatie>
+               <l:noemer>nationale landschappen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="db4c70e3-f590-46f1-8bd0-a0fb2e68d07b"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--natuurgebieden-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3264551732</l:identificatie>
+               <l:noemer>natuurgebieden</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="320d9c13-616d-4cfc-9584-514090f69e09"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--rivierenlandschap-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3264551733</l:identificatie>
+               <l:noemer>rivierenlandschap</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="6caf173a-c51c-4005-9974-d552d02cf773"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--water in natuurgebied-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3264551734</l:identificatie>
+               <l:noemer>water in natuurgebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9f733043-f789-478a-815b-6af2953e4899"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--waterwegen-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1034.gebied.3264551735</l:identificatie>
+               <l:noemer>waterwegen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ed8750e7-b8de-4487-af39-d864624061d4"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
    </sl:standBestand>
 </ow-dc:owBestand>

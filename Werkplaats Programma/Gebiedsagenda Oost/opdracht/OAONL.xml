@@ -40,7 +40,16 @@
             <informatieobjectRef>/join/id/regdata/mnre1034/2021/GOA_groene_metropoolregio/nld@2021;1</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/mnre1034/2021/GOA_ijsselvalei_twentekanalen/nld@2021;1</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/mnre1034/2021/GOA_topregio_Twente/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1034/2021/grenzen oostvleugel/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1034/2021/grenzen regio twente/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1034/2021/mobiliteit nationaal/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1034/2021/mobiliteit regionaal/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1034/2021/nationale landschappen/nld@2021;1</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/mnre1034/2021/Regelingsgebied/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1034/2021/natuurgebieden/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1034/2021/rivierenlandschap/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1034/2021/water in natuurgebieden/nld@2021;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1034/2021/waterwegen/nld@2021;1</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -119,8 +128,71 @@
                <doelen>
                   <doel>/join/id/proces/mnre1034/2021/ProgrammaWerkplaats</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1034/2021/Regelingsgebied/nld@2021;1</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1034/2021/grenzen oostvleugen/nld@2021;1</instrumentVersie>
                <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1034/2021/ProgrammaWerkplaats</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1034/2021/grenzen regio twente/nld@2021;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1034/2021/ProgrammaWerkplaats</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1034/2021/mobiliteit nationaal/nld@2021;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1034/2021/ProgrammaWerkplaats</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1034/2021/mobiliteit regionaal/nld@2021;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1034/2021/ProgrammaWerkplaats</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1034/2021/nationale landschappen/nld@2021;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1034/2021/ProgrammaWerkplaats</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1034/2021/Regelingsgebied/nld@2021;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1034/2021/ProgrammaWerkplaats</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1034/2021/natuurgebieden/nld@2021;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1034/2021/ProgrammaWerkplaats</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1034/2021/rivierenlandschap/nld@2021;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1034/2021/ProgrammaWerkplaats</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1034/2021/water in natuurgebied/nld@2021;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1034/2021/ProgrammaWerkplaats</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1034/2021/waterwegen/nld@2021;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -188,7 +260,7 @@
                      <Divisietekst eId="div_o_1__content_o_1" wId="mnre1034_0.1__div_o_1__content_o_1" dso:niveau="2">
                         <Kop>
                            <Opschrift>
-                              <IntIoRef eId="div_o_1__content_o_1__ref_o_1" wId="mnre1034_0.1__div_o_1__content_o_1__ref_o_1" ref="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">Een omgevingsagenda voor Oost-Nederland</IntIoRef>
+                              <IntIoRef eId="div_o_1__content_o_1__ref_o_1" wId="mnre1034_0.1__div_o_1__content_o_1__ref_o_1" ref="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1">Een omgevingsagenda voor Oost-Nederland</IntIoRef>
                            </Opschrift>
                         </Kop>
                         <Inhoud>
@@ -3879,10 +3951,82 @@
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_8">
+                              <Term>grenzen oostvleugel</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" ref="/join/id/regdata/mnre1034/2021/grenzen oostvleugel/nld@2021;1">/join/id/regdata/mnre1034/2021/grenzen oostvleugel/nld@2021;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_9">
+                              <Term>grenzen regio twente</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" ref="/join/id/regdata/mnre1034/2021/grenzen regio twente/nld@2021;1">/join/id/regdata/mnre1034/2021/grenzen regio twente/nld@2021;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_10" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_10">
+                              <Term>mobiliteit nationaal</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1" ref="/join/id/regdata/mnre1034/2021/mobiliteit nationaal/nld@2021;1">/join/id/regdata/mnre1034/2021/mobiliteit nationaal/nld@2021;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_11" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_11">
+                              <Term>mobiliteit regionaal</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1" ref="/join/id/regdata/mnre1034/2021/mobiliteit regionaal/nld@2021;1">/join/id/regdata/mnre1034/2021/mobiliteit regionaal/nld@2021;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_12" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_12">
+                              <Term>nationale landschappen</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1" ref="/join/id/regdata/mnre1034/2021/nationale landschappen/nld@2021;1">/join/id/regdata/mnre1034/2021/nationale landschappen/nld@2021;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_13" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_13">
                               <Term>Regelingsgebied</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" ref="/join/id/regdata/mnre1034/2021/Regelingsgebied/nld@2021;1">/join/id/regdata/mnre1034/2021/Regelingsgebied/nld@2021;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" ref="/join/id/regdata/mnre1034/2021/Regelingsgebied/nld@2021;1">/join/id/regdata/mnre1034/2021/Regelingsgebied/nld@2021;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_14" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_14">
+                              <Term>natuurgebieden</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1" ref="/join/id/regdata/mnre1034/2021/natuurgebieden/nld@2021;1">/join/id/regdata/mnre1034/2021/natuurgebieden/nld@2021;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_15" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_15">
+                              <Term>rivierenlandschap</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1" ref="/join/id/regdata/mnre1034/2021/rivierenlandschap/nld@2021;1">/join/id/regdata/mnre1034/2021/rivierenlandschap/nld@2021;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_16" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_16">
+                              <Term>water in natuurgebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1" ref="/join/id/regdata/mnre1034/2021/water in natuurgebied/nld@2021;1">/join/id/regdata/mnre1034/2021/water in natuurgebied/nld@2021;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_17" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_17">
+                              <Term>waterwegen</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1" wId="mnre1034_0.1__cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1" ref="/join/id/regdata/mnre1034/2021/waterwegen/nld@2021;1">/join/id/regdata/mnre1034/2021/waterwegen/nld@2021;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
