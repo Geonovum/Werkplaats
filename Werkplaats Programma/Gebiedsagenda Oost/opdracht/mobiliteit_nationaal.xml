@@ -2,17 +2,17 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/mnre1034/2021/mobiliteit nationaal</FRBRWork>
-      <FRBRExpression>/join/id/regdata/mnre1034/2021/mobiliteit nationaal/nld@2021;1</FRBRExpression>
+      <FRBRWork>/join/id/regdata/mnre1034/2021/mobiliteit_nationaal</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1034/2021/mobiliteit_nationaal/nld@2021;1</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/">/akn/nl/act/mnre1034/2021/pr2020oaOost</heeftGeboorteregeling>
+      <heeftGeboorteregeling>/akn/nl/act/mnre1034/2021/pr2020oaOost</heeftGeboorteregeling>
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
             <bestandsnaam>mobiliteit_nationaal.gml</bestandsnaam>
-            <hash>55da413a77885ad70215187eb1bc936b1d7808ef57b03ec3c32fedf329174ae4da60a8d782631f340175a208af13bf6912a27a20e524e8edeb6545513c98de3e</hash>
+            <hash>44f63b68d7cde9f8a8b8f20d97a8ae861b3eaecc930f130f47237230872a19a126f3471804361e2d3abde17b232e6e743ca77ac3a266ecbfa5abecc9134c0249</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>

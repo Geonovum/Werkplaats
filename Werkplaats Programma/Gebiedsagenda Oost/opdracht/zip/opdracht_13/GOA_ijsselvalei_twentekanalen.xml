@@ -2,17 +2,16 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/mnre1034/2021/natuurgebieden</FRBRWork>
-      <FRBRExpression>/join/id/regdata/mnre1034/2021/natuurgebieden/nld@2021;1</FRBRExpression>
+      <FRBRWork>/join/id/regdata/mnre1034/2021/GOA_ijsselvalei_twentekanalen</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1034/2021/GOA_ijsselvalei_twentekanalen/nld@2021;1</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling>/akn/nl/act/mnre1034/2021/pr2020oaOost</heeftGeboorteregeling>
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
-            <bestandsnaam>natuurgebieden.gml</bestandsnaam>
-            <hash>cc38d1394c97a468eb4bccfc8512c4e6a62e4d6896f9336ed1c07be1c5eab3ec835051bd46b452180ba90f3dfcba8ef7a71b97a57e864832e292e553cac82f50</hash>
+            <bestandsnaam>GOA_ijsselvalei_twentekanalen.gml</bestandsnaam>
+            <hash>fd0992e5916e524d6a56b90fb930e371def24c57f3257f840e8fe22732dd5223468ad49791556db4784dc73bb0b1e92267e99c003dea08e05fae9ca02b912e70</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
@@ -23,10 +22,10 @@
       <alternatieveTitels>
         <alternatieveTitel/>
       </alternatieveTitels>
-      <officieleTitel>natuurgebieden</officieleTitel>
+      <officieleTitel>/akn/nl/act/mnre1034/2021/mnre1034/pr2020oaOost</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-      <naamInformatieObject>natuurgebieden</naamInformatieObject>
+      <naamInformatieObject>GOA_ijsselvalei_twentekanalen</naamInformatieObject>
     </InformatieObjectMetadata>
   </InformatieObjectVersie>
 </AanleveringInformatieObject>

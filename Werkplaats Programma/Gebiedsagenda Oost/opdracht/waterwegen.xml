@@ -7,7 +7,7 @@
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/">/akn/nl/act/mnre1034/2021/pr2020oaOost</heeftGeboorteregeling>
+      <heeftGeboorteregeling>/akn/nl/act/mnre1034/2021/pr2020oaOost</heeftGeboorteregeling>
       <heeftBestanden>
         <heeftBestand>
           <Bestand>

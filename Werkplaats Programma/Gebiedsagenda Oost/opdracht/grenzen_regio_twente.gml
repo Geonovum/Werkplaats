@@ -8,8 +8,8 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/mnre1034/2021/grenzen regio twente</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/mnre1034/2021/grenzen regio twente/nld@2021;1</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/mnre1034/2021/grenzen_regio_twente</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/mnre1034/2021/grenzen_regio_twente/nld@2021;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>grenzen_regio_twente</geo:naam>

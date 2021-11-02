@@ -21,13 +21,12 @@
          <sl:leveringsId>mnre1034/pr2020oaOost</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Divisie</sl:objectType>
-            <!--<sl:objectType>Divisietekst</sl:objectType>-->
             <sl:objectType>Tekstdeel</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_3"><!--mnre1034_0.1__div_o_1__div_o_8-->
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_8">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000002</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -42,19 +41,19 @@
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.1105727504"/>
-<!--                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.753733455"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.753733455"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.842471641"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.906039200"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2284587379"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2004553668"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>-->
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_2__div_o_1"><!--mnre1034_0.1__div_o_1__div_o_9-->
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_9">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000003</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -68,20 +67,20 @@
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000003"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
-                  <!--<vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.1105727504"/>-->
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.1105727504"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.753733455"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.842471641"/>
-<!--                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.906039200"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.906039200"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2284587379"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2004553668"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>-->
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_1"> <!--divisietekst is: mnre1034_0.1__div_o_1__div_o_1__content_o_3-->
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_9__div_o_1">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000004</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -96,7 +95,7 @@
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</vt:thema>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
                <vt:divisieaanduiding>
-                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisie.20211006000004"/>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000004"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3157663292"/>
@@ -108,8 +107,8 @@
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
-         <ow-dc:owObject><!--mnre1034_0.1__div_o_1__div_o_1-->
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_1"> <!--eigenlijk divisietekst: mnre1034_0.1__div_o_1__div_o_1__content_o_4-->
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_9__div_o_2">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000005</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -130,20 +129,20 @@
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
-<!--      <sl:stand>
+      <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_1__content_o_5">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_9__div_o_3">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000006</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
-      </sl:stand>-->
+      </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000006</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000005"/> <!--had eigenlijk naar nl.imow-mnre1034.divisie.20211006000006 moeten wijzen-->
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000006"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3542884061"/>
@@ -154,13 +153,13 @@
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
-      <!--<sl:stand>
+      <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_1__content_o_6">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_9__div_o_4">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000007</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
-      </sl:stand>-->
+      </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <vt:Tekstdeel>
@@ -169,7 +168,7 @@
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000005"/> <!--had eigenlijk naar nl.imow-mnre1034.divisie.20211006000007 moeten wijzen-->
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000007"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.293478166"/>
@@ -182,7 +181,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_2__div_o_2">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_10">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000008</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -198,13 +197,13 @@
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000008"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
-<!--                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.1105727504"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.1105727504"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.753733455"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.842471641"/>-->
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.842471641"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.906039200"/>
-<!--                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2284587379"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2284587379"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2004553668"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>-->
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>
                </vt:hoofdlijnaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3713012550"/>
@@ -217,13 +216,13 @@
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
-<!--      <sl:stand>
+      <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisietekst wId="mnre1034_0.1__div_2__content_o_2">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_11">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000009</vt:identificatie>
-            </vt:Divisietekst>
+            </vt:Divisie>
          </ow-dc:owObject>
-      </sl:stand>-->
+      </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <vt:Tekstdeel>
@@ -231,7 +230,7 @@
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000008"/> <!--had eigenlijk nl.imow-mnre1034.divisie.20211006000009 moeten zijn-->
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000009"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.41356770"/>
@@ -244,71 +243,11 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_3">
-               <vt:identificatie>nl.imow-mnre1034.divisie.div3</vt:identificatie>
-            </vt:Divisie>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <vt:Tekstdeel>
-               <vt:identificatie>nl.imow-mnre1034.tekstdeel.div3</vt:identificatie>
-               <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.div3"/>
-               </vt:divisieaanduiding>
-               <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>
-               </vt:hoofdlijnaanduiding>
-            </vt:Tekstdeel>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_o_6">
-               <vt:identificatie>nl.imow-mnre1034.divisie.div0punt6</vt:identificatie>
-            </vt:Divisie>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <vt:Tekstdeel>
-               <vt:identificatie>nl.imow-mnre1034.tekstdeel.div0punt6</vt:identificatie>
-               <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.div0punt6"/>
-               </vt:divisieaanduiding>
-               <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2284587379"/>
-               </vt:hoofdlijnaanduiding>
-            </vt:Tekstdeel>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_4">
-               <vt:identificatie>nl.imow-mnre1034.divisie.div4</vt:identificatie>
-            </vt:Divisie>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <vt:Tekstdeel>
-               <vt:identificatie>nl.imow-mnre1034.tekstdeel.div4</vt:identificatie>
-               <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.div4"/>
-               </vt:divisieaanduiding>
-               <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.2004553668"/>
-               </vt:hoofdlijnaanduiding>
-            </vt:Tekstdeel>
-         </ow-dc:owObject>
-      </sl:stand>
-<!--      <sl:stand>
-         <ow-dc:owObject>
-            <vt:Divisietekst wId="mnre1034_0.1__div_4__div_o_1__content_o_3">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_17__div_o_2">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000013</vt:identificatie>
-            </vt:Divisietekst>
+            </vt:Divisie>
          </ow-dc:owObject>
-      </sl:stand>-->
+      </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <vt:Tekstdeel>
@@ -316,14 +255,14 @@
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</vt:thema>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.div4"/> <!--had moeten zijn divisietekst nl.imow-mnre1034.divisie.20211006000013-->
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000013"/>
                </vt:divisieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_4__div_o_2">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_18__div_o_4">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000014</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -340,13 +279,13 @@
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
-<!--      <sl:stand>
+      <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisietekst wId="mnre1034_0.1__div_4__div_o_2__content_o_7">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_18__div_o_6">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000015</vt:identificatie>
-            </vt:Divisietekst>
+            </vt:Divisie>
          </ow-dc:owObject>
-      </sl:stand>-->
+      </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <vt:Tekstdeel>
@@ -354,18 +293,18 @@
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000014"/> <!--had eigenlijk nl.imow-mnre1034.divisie.20211006000015 moeten zijn-->
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000015"/>
                </vt:divisieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
-<!--      <sl:stand>
+      <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisietekst wId="mnre1034_0.1__div_4__div_o_2__content_o_8">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_18__div_o_7">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000016</vt:identificatie>
-            </vt:Divisietekst>
+            </vt:Divisie>
          </ow-dc:owObject>
-      </sl:stand>-->
+      </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <vt:Tekstdeel>
@@ -373,14 +312,14 @@
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000014"/> <!--had eigenlijk nl.imow-mnre1034.divisie.20211006000016 moeten zijn-->
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000016"/>
                </vt:divisieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_4__div_o_3"> <!--had eigenlijk moeten zijn: mnre1034_0.1__div_4__div_o_3__content_o_4--> 
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_19__div_o_3">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000017</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -397,13 +336,13 @@
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
-<!--      <sl:stand>
+      <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisietekst wId="mnre1034_0.1__div_4__div_o_3__content_o_7"> 
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_o_19__div_o_6">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000018</vt:identificatie>
-            </vt:Divisietekst>
+            </vt:Divisie>
          </ow-dc:owObject>
-      </sl:stand>-->
+      </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <vt:Tekstdeel>
@@ -411,14 +350,14 @@
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000017"/>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000018"/>
                </vt:divisieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_5__div_1">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_1">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000019</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -442,7 +381,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_5__div_2">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_2">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000020</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -467,7 +406,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_5__div_3">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_3">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000021</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -493,7 +432,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_5__div_5">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_4">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000022</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -517,7 +456,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_2__div_o_1__div_o_4">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_5">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000023</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -540,7 +479,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_5__div_6">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_6">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000024</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -563,7 +502,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_5__div_7">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_7">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000025</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -586,7 +525,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_5__div_8">
+            <vt:Divisie wId="mnre1034_0.1__div_o_1__div_8">
                <vt:identificatie>nl.imow-mnre1034.divisie.20211006000026</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -603,38 +542,6 @@
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.152768020"/>
                </vt:locatieaanduiding>
-            </vt:Tekstdeel>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <vt:Divisie wId="mnre1034_0.1__div_2__div_o_1__div_o_2">
-               <vt:identificatie>nl.imow-mnre1034.divisie.20211006000027</vt:identificatie>
-            </vt:Divisie>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <vt:Tekstdeel>
-               <vt:identificatie>nl.imow-mnre1034.tekstdeel.20211006000027</vt:identificatie>
-               <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000027"/>
-               </vt:divisieaanduiding>
-               <vt:kaartaanduiding>
-                  <k:KaartRef xlink:href="nl.imow-mnre1034.kaart.20200001"/>
-               </vt:kaartaanduiding>
-               <vt:gebiedsaanwijzing>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794669"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794670"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794671"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794672"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794673"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794674"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794675"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794676"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794677"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794678"/>
-               </vt:gebiedsaanwijzing>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>

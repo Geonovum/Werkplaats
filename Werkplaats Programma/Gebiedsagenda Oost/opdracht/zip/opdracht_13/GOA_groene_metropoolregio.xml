@@ -2,17 +2,16 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/mnre1034/2021/natuurgebieden</FRBRWork>
-      <FRBRExpression>/join/id/regdata/mnre1034/2021/natuurgebieden/nld@2021;1</FRBRExpression>
+      <FRBRWork>/join/id/regdata/mnre1034/2021/GOA_groene_metropoolregio</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1034/2021/GOA_groene_metropoolregio/nld@2021;1</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling>/akn/nl/act/mnre1034/2021/pr2020oaOost</heeftGeboorteregeling>
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
-            <bestandsnaam>natuurgebieden.gml</bestandsnaam>
-            <hash>cc38d1394c97a468eb4bccfc8512c4e6a62e4d6896f9336ed1c07be1c5eab3ec835051bd46b452180ba90f3dfcba8ef7a71b97a57e864832e292e553cac82f50</hash>
+            <bestandsnaam>GOA_groene_metropoolregio.gml</bestandsnaam>
+            <hash>eee27edf52d1e74b04a2af8bb81bbbc0f4c3cd719a0d93cb2e8595dd4aeaa566a20d9677f7fe8864042afa88c4d8997318b35c634bc8da202cf58df56ffc675a</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
@@ -23,10 +22,10 @@
       <alternatieveTitels>
         <alternatieveTitel/>
       </alternatieveTitels>
-      <officieleTitel>natuurgebieden</officieleTitel>
+      <officieleTitel>/akn/nl/act/mnre1034/2021/mnre1034/pr2020oaOost</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-      <naamInformatieObject>natuurgebieden</naamInformatieObject>
+      <naamInformatieObject>GOA_groene_metropoolregio</naamInformatieObject>
     </InformatieObjectMetadata>
   </InformatieObjectVersie>
 </AanleveringInformatieObject>

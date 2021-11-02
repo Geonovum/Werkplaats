@@ -8,8 +8,8 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/mnre1034/2021/grenzen oostvleugel</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/mnre1034/2021/grenzen oostvleugel/nld@2021;1</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/mnre1034/2021/grenzen_oostvleugel</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/mnre1034/2021/grenzen_oostvleugel/nld@2021;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>grenzen oostvleugel</geo:naam>

@@ -8,8 +8,8 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/mnre1034/2021/mobiliteit nationaal</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/mnre1034/2021/mobiliteit nationaal/nld@2021;1</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/mnre1034/2021/mobiliteit_nationaal</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/mnre1034/2021/mobiliteit_nationaal/nld@2021;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>mobiliteit nationaal</geo:naam>

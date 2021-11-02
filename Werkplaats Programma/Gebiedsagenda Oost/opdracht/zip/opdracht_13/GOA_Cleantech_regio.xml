@@ -2,17 +2,16 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/mnre1034/2021/natuurgebieden</FRBRWork>
-      <FRBRExpression>/join/id/regdata/mnre1034/2021/natuurgebieden/nld@2021;1</FRBRExpression>
+      <FRBRWork>/join/id/regdata/mnre1034/2021/GOA_Cleantech_regio</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1034/2021/GOA_Cleantech_regio/nld@2021;1</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling>/akn/nl/act/mnre1034/2021/pr2020oaOost</heeftGeboorteregeling>
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
-            <bestandsnaam>natuurgebieden.gml</bestandsnaam>
-            <hash>cc38d1394c97a468eb4bccfc8512c4e6a62e4d6896f9336ed1c07be1c5eab3ec835051bd46b452180ba90f3dfcba8ef7a71b97a57e864832e292e553cac82f50</hash>
+            <bestandsnaam>GOA_Cleantech_regio.gml</bestandsnaam>
+            <hash>a4cf4324b7267e1142bc277779bfeeacdfb453e7ecc503e2cdd38dcb44d86fd3fe3ef5c4742ea55aec91b3a4c147582fc9c8badf9f7c0fa7b1c4a22613777e6d</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
@@ -23,10 +22,10 @@
       <alternatieveTitels>
         <alternatieveTitel/>
       </alternatieveTitels>
-      <officieleTitel>natuurgebieden</officieleTitel>
+      <officieleTitel>/akn/nl/act/mnre1034/2021/mnre1034/pr2020oaOost</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-      <naamInformatieObject>natuurgebieden</naamInformatieObject>
+      <naamInformatieObject>GOA_Cleantech_regio</naamInformatieObject>
     </InformatieObjectMetadata>
   </InformatieObjectVersie>
 </AanleveringInformatieObject>

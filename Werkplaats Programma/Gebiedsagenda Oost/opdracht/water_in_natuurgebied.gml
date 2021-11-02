@@ -8,8 +8,8 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/mnre1034/2021/water in natuurgebied</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/mnre1034/2021/water in natuurgebied/nld@2021;1</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/mnre1034/2021/water_in_natuurgebied</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/mnre1034/2021/water_in_natuurgebied/nld@2021;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>water in natuurgebied</geo:naam>

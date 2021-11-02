@@ -2,17 +2,17 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/mnre1034/2021/grenzen oostvleugel</FRBRWork>
-      <FRBRExpression>/join/id/regdata/mnre1034/2021/grenzen oostvleugel/nld@2021;1</FRBRExpression>
+      <FRBRWork>/join/id/regdata/mnre1034/2021/grenzen_oostvleugel</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1034/2021/grenzen_oostvleugel/nld@2021;1</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/">/akn/nl/act/mnre1034/2021/pr2020oaOost</heeftGeboorteregeling>
+      <heeftGeboorteregeling>/akn/nl/act/mnre1034/2021/pr2020oaOost</heeftGeboorteregeling>
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
             <bestandsnaam>grenzen_oostvleugel.gml</bestandsnaam>
-            <hash>dad829a57a08f274d78cfd369f6b800d1fa62320acbc331113a6932d18f161b026ee20fd9b6e974c263fd73c9036f2a8ec8165a4e502f5b433e09cc9e74b7f13</hash>
+            <hash>37466a49903b820d5eacc31f7e443e4ef22a32158a7f37367dce733b1465926a3fae3f53a615f8557ad1f8da22be2976ea55f61bba9dc770b1b315be39838135</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
