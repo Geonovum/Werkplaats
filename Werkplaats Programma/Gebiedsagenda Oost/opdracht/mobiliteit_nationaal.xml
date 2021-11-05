@@ -1,32 +1,36 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
-    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/mnre1034/2021/mobiliteit_nationaal</FRBRWork>
-      <FRBRExpression>/join/id/regdata/mnre1034/2021/mobiliteit_nationaal/nld@2021;1</FRBRExpression>
-      <soortWork>/join/id/stop/work_010</soortWork>
-    </ExpressionIdentificatie>
-    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling>/akn/nl/act/mnre1034/2021/pr2020oaOost</heeftGeboorteregeling>
-      <heeftBestanden>
-        <heeftBestand>
-          <Bestand>
-            <bestandsnaam>mobiliteit_nationaal.gml</bestandsnaam>
-            <hash>44f63b68d7cde9f8a8b8f20d97a8ae861b3eaecc930f130f47237230872a19a126f3471804361e2d3abde17b232e6e743ca77ac3a266ecbfa5abecc9134c0249</hash>
-          </Bestand>
-        </heeftBestand>
-      </heeftBestanden>
-    </InformatieObjectVersieMetadata>
-    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <eindverantwoordelijke>/tooi/id/ministerie/mnre1034</eindverantwoordelijke>
-      <maker>/tooi/id/ministerie/mnre1034</maker>
-      <alternatieveTitels>
-        <alternatieveTitel/>
-      </alternatieveTitels>
-      <officieleTitel>mobiliteit nationaal</officieleTitel>
-      <publicatieinstructie>TeConsolideren</publicatieinstructie>
-      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-      <naamInformatieObject>mobiliteit nationaal</naamInformatieObject>
-    </InformatieObjectMetadata>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:FRBRWork xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/mnre1034/2021/mobiliteit_nationaal</data:FRBRWork>
+         <data:FRBRExpression xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/join/id/regdata/mnre1034/2021/mobiliteit_nationaal/nld@2021;1</data:FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:heeftGeboorteregeling xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">/akn/nl/act/mnre1034/2021/pr2020oaOost</data:heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>mobiliteit_nationaal.gml</bestandsnaam>
+                  <data:hash xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">d0ce4a4edf8084a22f99b32c0edf6d40d6e7a79db8fa7f3040c6a77e955ed67bda624b508deeb8a00f3155c1235a1c18c4f577fd025912442972dc5b415c3b74</data:hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1034</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1034</maker>
+         <alternatieveTitels>
+            <alternatieveTitel/>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/mnre1034/2021/mobiliteit_nationaal</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <naamInformatieObject>mobiliteit nationaal</naamInformatieObject>
+      </InformatieObjectMetadata>
   </InformatieObjectVersie>
 </AanleveringInformatieObject>
