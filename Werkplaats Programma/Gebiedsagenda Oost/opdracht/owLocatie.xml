@@ -18,9 +18,10 @@
       <sl:dataset>Omgevingsagenda Oost</sl:dataset>
       <sl:inhoud>
          <sl:gebied>Nederland</sl:gebied>
-         <sl:leveringsId>mnre1034/pr2020oaOost</sl:leveringsId>
+         <sl:leveringsId>Programma_aanleveren_voor_werkplaats_001</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Gebied</sl:objectType>
+            <sl:objectType>Gebiedengroep</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
       <sl:stand>
@@ -29,9 +30,19 @@
                <l:identificatie>nl.imow-mnre1034.gebied.2218530256</l:identificatie>
                <l:noemer>Regelingsgebied</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="caa5af2a-5b90-47d7-9d34-ae4a90093a60"/>
+                  <l:GeometrieRef xlink:href="be4d9356-9441-48dc-9ed4-068900d1ca43"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.2218530255</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.2218530255"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -40,9 +51,19 @@
                <l:identificatie>nl.imow-mnre1034.gebied.2218530255</l:identificatie>
                <l:noemer>groene metropoolregio Arnhem, Nijmegen en Foodvalley</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="e6056a32-e9a7-449f-a06c-3963d81681e7"/>
+                  <l:GeometrieRef xlink:href="9e2de471-7726-4de8-9215-3134d7892807"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.828643591</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.828643591"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -51,9 +72,19 @@
                <l:identificatie>nl.imow-mnre1034.gebied.828643591</l:identificatie>
                <l:noemer>Internationale en bereikbare technologsiche topregio Twente</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="9572a54c-891e-474c-a90f-a3fb551509de"/>
+                  <l:GeometrieRef xlink:href="61e68782-4aae-460c-8a91-f6f4ca798534"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.2496924326</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.2496924326"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -62,9 +93,19 @@
                <l:identificatie>nl.imow-mnre1034.gebied.2496924326</l:identificatie>
                <l:noemer>Gelders Rivierengebied</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="58728ab2-ea2f-4724-9b45-166b4cab91de"/>
+                  <l:GeometrieRef xlink:href="25bb76c0-dd50-481e-9ef7-1c17911ce2f3"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3717074171</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3717074171"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -73,9 +114,19 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3717074171</l:identificatie>
                <l:noemer>Ijsselvalei en Twentekanalen</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="bcdfcc58-b069-4b37-b368-da977d484602"/>
+                  <l:GeometrieRef xlink:href="afbbcd54-02c7-46f1-b0a0-3a50242efc68"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3313110045</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3313110045"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -84,9 +135,19 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3313110045</l:identificatie>
                <l:noemer>Transitie landelijk gebied</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="f616bf4f-14ef-4817-88a3-4c119a0af03c"/>
+                  <l:GeometrieRef xlink:href="0165defb-5b05-487c-9162-0de9c5c7b0bc"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.1216417762</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.1216417762"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -95,9 +156,19 @@
                <l:identificatie>nl.imow-mnre1034.gebied.1216417762</l:identificatie>
                <l:noemer>Klimaatbestendige groeiregio Zwolle</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="72b16d0e-f30d-419b-95a4-ecdde3b205cd"/>
+                  <l:GeometrieRef xlink:href="fd911c67-da18-4899-b25f-68d9d3b7d040"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.956632992</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.956632992"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -106,9 +177,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.956632992</l:identificatie>
                <l:noemer>bereikbare technologische topregio</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="9572a54c-891e-474c-a90f-a3fb551509de"/>
+                  <l:GeometrieRef xlink:href="61e68782-4aae-460c-8a91-f6f4ca798534"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3157663292</l:identificatie>
+               <l:noemer>GOA_groene_metropoolregio</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3157663292"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -117,9 +199,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3157663292</l:identificatie>
                <l:noemer>groene metropoolregio Arnhem, Nijmegen en Foodvalley</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="e6056a32-e9a7-449f-a06c-3963d81681e7"/>
+                  <l:GeometrieRef xlink:href="9e2de471-7726-4de8-9215-3134d7892807"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.1278550756</l:identificatie>
+               <l:noemer>GOA_groene_metropoolregio</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.1278550756"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -128,9 +221,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.1278550756</l:identificatie>
                <l:noemer>Innovatieve groene metropoolregio Arnhem, Nijmegen en Foodvalley</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="e6056a32-e9a7-449f-a06c-3963d81681e7"/>
+                  <l:GeometrieRef xlink:href="9e2de471-7726-4de8-9215-3134d7892807"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.2402293409</l:identificatie>
+               <l:noemer>GOA_groeiregio_zwolle</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.2402293409"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -139,9 +243,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.2402293409</l:identificatie>
                <l:noemer>Klimaatbestendige groeiregio Zwolle</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="72b16d0e-f30d-419b-95a4-ecdde3b205cd"/>
+                  <l:GeometrieRef xlink:href="fd911c67-da18-4899-b25f-68d9d3b7d040"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3542884061</l:identificatie>
+               <l:noemer>GOA_topregio_Twente</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3542884061"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -150,9 +265,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3542884061</l:identificatie>
                <l:noemer>Internationale en bereikbare technologische topregio Twente</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="9572a54c-891e-474c-a90f-a3fb551509de"/>
+                  <l:GeometrieRef xlink:href="61e68782-4aae-460c-8a91-f6f4ca798534"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.2158566890</l:identificatie>
+               <l:noemer>GOA_topregio_Twente</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.2158566890"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -161,9 +287,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.2158566890</l:identificatie>
                <l:noemer>Internationale bereikbare technologische topregio Twente</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="9572a54c-891e-474c-a90f-a3fb551509de"/>
+                  <l:GeometrieRef xlink:href="61e68782-4aae-460c-8a91-f6f4ca798534"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.293478166</l:identificatie>
+               <l:noemer>GOA_Cleantech_regio</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.293478166"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -172,9 +309,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.293478166</l:identificatie>
                <l:noemer>Cleantech Regio: inzet op groene, duurzamen en inclusieve groei</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="72606058-fa75-471c-b9eb-20abaab48862"/>
+                  <l:GeometrieRef xlink:href="f2c572fa-c4ba-4925-806a-3e5a7dddfb44"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.4047576744</l:identificatie>
+               <l:noemer>GOA_Cleantech_regio</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.4047576744"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -183,9 +331,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.4047576744</l:identificatie>
                <l:noemer>Cleantech Regio: inzet op groene, duurzame en inclusieve groei</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="72606058-fa75-471c-b9eb-20abaab48862"/>
+                  <l:GeometrieRef xlink:href="f2c572fa-c4ba-4925-806a-3e5a7dddfb44"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3713012550</l:identificatie>
+               <l:noemer>GAO_gelders_rivierengebied</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3713012550"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -194,9 +353,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3713012550</l:identificatie>
                <l:noemer>Gelders Rivierengebied</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="58728ab2-ea2f-4724-9b45-166b4cab91de"/>
+                  <l:GeometrieRef xlink:href="25bb76c0-dd50-481e-9ef7-1c17911ce2f3"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.2661684957</l:identificatie>
+               <l:noemer>GOA_Ijsselvalei_twentekanalen</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.2661684957"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -205,9 +375,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.2661684957</l:identificatie>
                <l:noemer>Ijsselvalei en Twentekanalen</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="bcdfcc58-b069-4b37-b368-da977d484602"/>
+                  <l:GeometrieRef xlink:href="afbbcd54-02c7-46f1-b0a0-3a50242efc68"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.41356770</l:identificatie>
+               <l:noemer>GOA-gebied</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.41356770"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -216,9 +397,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.41356770</l:identificatie>
                <l:noemer>Transitie landelijk gebied</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="f616bf4f-14ef-4817-88a3-4c119a0af03c"/>
+                  <l:GeometrieRef xlink:href="0165defb-5b05-487c-9162-0de9c5c7b0bc"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.191831171</l:identificatie>
+               <l:noemer>GOA_gebied</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.191831171"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -227,9 +419,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.191831171</l:identificatie>
                <l:noemer>Netwerkkracht stedelijke regio's en robuuste vervoerscorridors</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="f616bf4f-14ef-4817-88a3-4c119a0af03c"/>
+                  <l:GeometrieRef xlink:href="0165defb-5b05-487c-9162-0de9c5c7b0bc"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.152768020</l:identificatie>
+               <l:noemer>GOA_gebied</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.152768020"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -238,9 +441,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.152768020</l:identificatie>
                <l:noemer>Transitie landelijk gebied</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="f616bf4f-14ef-4817-88a3-4c119a0af03c"/>
+                  <l:GeometrieRef xlink:href="0165defb-5b05-487c-9162-0de9c5c7b0bc"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.2314212993</l:identificatie>
+               <l:noemer>GOA_groeiregio_Zwolle</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.2314212993"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -249,9 +463,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.2314212993</l:identificatie>
                <l:noemer>Klimaatbestendige groeiregio Zwolle</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="72b16d0e-f30d-419b-95a4-ecdde3b205cd"/>
+                  <l:GeometrieRef xlink:href="fd911c67-da18-4899-b25f-68d9d3b7d040"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.2786532078</l:identificatie>
+               <l:noemer>GOA_Gelders_rivierengebied</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.2786532078"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -260,9 +485,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.2786532078</l:identificatie>
                <l:noemer>Duurzame (transport) corridor rivierenland</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="58728ab2-ea2f-4724-9b45-166b4cab91de"/>
+                  <l:GeometrieRef xlink:href="25bb76c0-dd50-481e-9ef7-1c17911ce2f3"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3264551726</l:identificatie>
+               <l:noemer>GOA_Ijsselvalei_Twentekanalen</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3264551726"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -271,9 +507,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3264551726</l:identificatie>
                <l:noemer>Dynamische IJsselvallei en Twentekanalen</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="bcdfcc58-b069-4b37-b368-da977d484602"/>
+                  <l:GeometrieRef xlink:href="afbbcd54-02c7-46f1-b0a0-3a50242efc68"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3264551727</l:identificatie>
+               <l:noemer>grenzen oostvleugel</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3264551727"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -282,9 +529,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3264551727</l:identificatie>
                <l:noemer>grenzen oostvleugel</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="24c16570-d34e-4434-9876-9f230ac249dc"/>
+                  <l:GeometrieRef xlink:href="a22efd35-d85c-43fc-9381-6c9427e2f3d6"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3264551728</l:identificatie>
+               <l:noemer>grenzen regio twente</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3264551728"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -293,9 +551,19 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3264551728</l:identificatie>
                <l:noemer>grenzen regio twente</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="0ef031cf-432d-4964-96a0-5c331e3e8141"/>
+                  <l:GeometrieRef xlink:href="1e040f72-d2d6-4fc0-975f-46e6ba70fdab"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3264551729</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3264551729"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -304,9 +572,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3264551729</l:identificatie>
                <l:noemer>mobiliteit nationaal</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="21ebec08-41bb-4878-b11f-8d3d9c852b8f"/>
+                  <l:GeometrieRef xlink:href="4706e714-fdb4-4b37-be3d-dc73dcc6e068"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3264551730</l:identificatie>
+               <l:noemer>mobiliteit regionaal</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3264551730"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -315,9 +594,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3264551730</l:identificatie>
                <l:noemer>mobiliteit regionaal</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="a28e8fdc-579c-4829-a476-d14284c2d5be"/>
+                  <l:GeometrieRef xlink:href="76313175-5b16-41ee-9209-f0e257279717"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3264551731</l:identificatie>
+               <l:noemer>nationale landschappen</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3264551731"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -326,9 +616,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3264551731</l:identificatie>
                <l:noemer>nationale landschappen</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="db4c70e3-f590-46f1-8bd0-a0fb2e68d07b"/>
+                  <l:GeometrieRef xlink:href="948ce1cf-fb52-4bd3-a81d-8d2a3d2166c6"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3264551732</l:identificatie>
+               <l:noemer>natuurgebieden</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3264551732"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -337,9 +638,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3264551732</l:identificatie>
                <l:noemer>natuurgebieden</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="320d9c13-616d-4cfc-9584-514090f69e09"/>
+                  <l:GeometrieRef xlink:href="c42990ab-68a3-4720-b5d1-a0cb6dc59a31"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3264551733</l:identificatie>
+               <l:noemer>rivierenlandschap</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3264551733"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -348,9 +660,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3264551733</l:identificatie>
                <l:noemer>rivierenlandschap</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="6caf173a-c51c-4005-9974-d552d02cf773"/>
+                  <l:GeometrieRef xlink:href="2d31f6d7-c9d2-4b0c-a0fe-fc4848ae825e"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3264551734</l:identificatie>
+               <l:noemer>water in natuurgebied</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3264551734"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -359,9 +682,20 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3264551734</l:identificatie>
                <l:noemer>water in natuurgebied</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="9f733043-f789-478a-815b-6af2953e4899"/>
+                  <l:GeometrieRef xlink:href="3bed92b4-2040-4e83-882a-7597e0d1a01c"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1034.gebiedengroep.3264551735</l:identificatie>
+               <l:noemer>waterwegen</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.3264551735"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -370,7 +704,7 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3264551735</l:identificatie>
                <l:noemer>waterwegen</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="ed8750e7-b8de-4487-af39-d864624061d4"/>
+                  <l:GeometrieRef xlink:href="80c80c1c-d96f-45c2-80c2-8daaa6e4211d"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
