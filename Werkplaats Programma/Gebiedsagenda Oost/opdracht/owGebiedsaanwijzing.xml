@@ -199,7 +199,7 @@
                <ga:identificatie>nl.imow-mnre1034.gebiedsaanwijzing.2991794675</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Natuur</ga:type>
                <ga:naam>Natuurgebied vegetatie</ga:naam>
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Natuurbeheergebied</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3264551732"/>
                </ga:locatieaanduiding>
