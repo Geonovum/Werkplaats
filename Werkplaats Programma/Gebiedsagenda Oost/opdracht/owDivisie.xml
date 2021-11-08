@@ -99,7 +99,7 @@
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisie.20211006000004"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.3157663292"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.2218530255"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.1880706880"/>
@@ -125,7 +125,7 @@
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000005"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.2402293409"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.1216417762"/>
                </vt:locatieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -147,7 +147,7 @@
                   <!--had eigenlijk naar nl.imow-mnre1034.divisie.20211006000006 moeten wijzen-->
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.3542884061"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.828643591"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2887466535"/>
@@ -209,7 +209,7 @@
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.716246855"/>-->
                </vt:hoofdlijnaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.3713012550"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.2496924326"/>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.2661684957"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
@@ -237,7 +237,7 @@
                   <!--had eigenlijk nl.imow-mnre1034.divisie.20211006000009 moeten zijn-->
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.41356770"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.3313110045"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.3313782769"/>
@@ -466,7 +466,7 @@
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000020"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.1278550756"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.2218530255"/>
                </vt:locatieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -489,7 +489,7 @@
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000021"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.2314212993"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.1216417762"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.1065175462"/>
@@ -539,7 +539,7 @@
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000023"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.4047576744"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.293478166"/>
                </vt:locatieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -585,7 +585,7 @@
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000025"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.3264551726"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.2661684957"/>
                </vt:locatieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -607,7 +607,7 @@
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20211006000026"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.152768020"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebiedengroep.3313110045"/>
                </vt:locatieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>

@@ -84,7 +84,6 @@
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Bedrijf</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.828643591"/>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.956632992"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -110,7 +109,7 @@
                <ga:naam>Ijsselvalei en Twentekanalen</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.3717074171"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.2661684957"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
