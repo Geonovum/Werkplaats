@@ -339,7 +339,7 @@
                <l:identificatie>nl.imow-mnre1034.gebied.3264551732</l:identificatie>
                <l:noemer>natuurgebieden</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="320d9c13-616d-4cfc-9584-514090f69e09"/>
+                  <l:GeometrieRef xlink:href="c42990ab-68a3-4720-b5d1-a0cb6dc59a31"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
