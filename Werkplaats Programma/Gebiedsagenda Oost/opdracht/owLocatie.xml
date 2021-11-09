@@ -213,18 +213,6 @@
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
-         <ow-dc:owObject>
-            <l:Gebiedengroep>
-               <l:identificatie>nl.imow-mnre1034.gebiedengroep.2158566890</l:identificatie>
-               <l:noemer>GOA_topregio_Twente</l:noemer>
-               <l:groepselement>
-                  <l:GebiedRef xlink:href="nl.imow-mnre1034.gebied.2158566890"/>
-               </l:groepselement>
-            </l:Gebiedengroep>
-         </ow-dc:owObject>
-      </sl:stand>
-      
-      <sl:stand>
          <ow-dc:owObject><!--grenzen oostvleugel-->
             <l:Gebied>
                <l:identificatie>nl.imow-mnre1034.gebied.3264551727</l:identificatie>
