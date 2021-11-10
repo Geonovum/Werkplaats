@@ -176,4 +176,16 @@
         <bestandsnaam>owKaart.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
+    <bestand>
+        <bestandsnaam>Positionering_p6.png</bestandsnaam>
+        <contentType>image/png</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>Samenwerking_p7.png</bestandsnaam>
+        <contentType>image/png</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>Omgevingsopgaven_p13.png</bestandsnaam>
+        <contentType>image/png</contentType>
+    </bestand>
 </manifest>
