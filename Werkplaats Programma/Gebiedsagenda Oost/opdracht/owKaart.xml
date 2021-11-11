@@ -37,7 +37,7 @@
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1034.kaart.202000010001</k:identificatie>
                      <k:naam>Oostvleugel</k:naam>
-                     <k:niveau>1</k:niveau>
+                     <k:niveau>10</k:niveau>
                      <k:gebiedsaanwijzingweergave>
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794669"/>
                      </k:gebiedsaanwijzingweergave>
@@ -45,7 +45,7 @@
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1034.kaart.202000010002</k:identificatie>
                      <k:naam>Regio Twente</k:naam>
-                     <k:niveau>2</k:niveau>
+                     <k:niveau>9</k:niveau>
                      <k:gebiedsaanwijzingweergave>
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794670"/>
                      </k:gebiedsaanwijzingweergave>
@@ -53,7 +53,7 @@
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1034.kaart.202000010003</k:identificatie>
                      <k:naam>Mobiliteit nationaal</k:naam>
-                     <k:niveau>3</k:niveau>
+                     <k:niveau>8</k:niveau>
                      <k:gebiedsaanwijzingweergave>
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794671"/>
                      </k:gebiedsaanwijzingweergave>
@@ -61,7 +61,7 @@
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1034.kaart.202000010004</k:identificatie>
                      <k:naam>Mobiliteit regionaal</k:naam>
-                     <k:niveau>4</k:niveau>
+                     <k:niveau>7</k:niveau>
                      <k:gebiedsaanwijzingweergave>
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794672"/>
                      </k:gebiedsaanwijzingweergave>
@@ -69,7 +69,7 @@
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1034.kaart.202000010005</k:identificatie>
                      <k:naam>Natuurgebied water</k:naam>
-                     <k:niveau>5</k:niveau>
+                     <k:niveau>6</k:niveau>
                      <k:gebiedsaanwijzingweergave>
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794677"/>
                      </k:gebiedsaanwijzingweergave>
@@ -77,7 +77,7 @@
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1034.kaart.202000010006</k:identificatie>
                      <k:naam>Waterwegen</k:naam>
-                     <k:niveau>6</k:niveau>
+                     <k:niveau>5</k:niveau>
                      <k:gebiedsaanwijzingweergave>
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794678"/>
                      </k:gebiedsaanwijzingweergave>
@@ -85,7 +85,7 @@
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1034.kaart.202000010007</k:identificatie>
                      <k:naam>Natuurgebied vegetatie</k:naam>
-                     <k:niveau>7</k:niveau>
+                     <k:niveau>4</k:niveau>
                      <k:gebiedsaanwijzingweergave>
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794675"/>
                      </k:gebiedsaanwijzingweergave>
@@ -93,7 +93,7 @@
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1034.kaart.202000010008</k:identificatie>
                      <k:naam>Natuurgebied</k:naam>
-                     <k:niveau>8</k:niveau>
+                     <k:niveau>3</k:niveau>
                      <k:gebiedsaanwijzingweergave>
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794674"/>
                      </k:gebiedsaanwijzingweergave>
@@ -101,7 +101,7 @@
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1034.kaart.202000010009</k:identificatie>
                      <k:naam>Nationaal landschap</k:naam>
-                     <k:niveau>9</k:niveau>
+                     <k:niveau>2</k:niveau>
                      <k:gebiedsaanwijzingweergave>
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794673"/>
                      </k:gebiedsaanwijzingweergave>
@@ -109,7 +109,7 @@
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1034.kaart.202000010010</k:identificatie>
                      <k:naam>Rivierenlandschap</k:naam>
-                     <k:niveau>10</k:niveau>
+                     <k:niveau>1</k:niveau>
                      <k:gebiedsaanwijzingweergave>
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1034.gebiedsaanwijzing.2991794676"/>
                      </k:gebiedsaanwijzingweergave>
