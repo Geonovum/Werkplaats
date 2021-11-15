@@ -93,99 +93,11 @@
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>Regelingsgebied.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
         <bestandsnaam>Regelingsgebied.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>grenzen_oostvleugel.xml</bestandsnaam>
+        <bestandsnaam>Regelingsgebied.xml</bestandsnaam>
         <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>grenzen_oostvleugel.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>grenzen_regio_twente.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>grenzen_regio_twente.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>mobiliteit_nationaal.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>mobiliteit_nationaal.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>mobiliteit_regionaal.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>mobiliteit_regionaal.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>nationale_landschappen.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>nationale_landschappen.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>natuurgebieden.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>natuurgebieden.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>rivierenlandschap.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>rivierenlandschap.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>waterwegen.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>waterwegen.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>water_in_natuurgebied.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>water_in_natuurgebied.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>owKaart.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>Positionering_p6.png</bestandsnaam>
-        <contentType>image/png</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>Samenwerking_p7.png</bestandsnaam>
-        <contentType>image/png</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>Omgevingsopgaven_p13.png</bestandsnaam>
-        <contentType>image/png</contentType>
     </bestand>
 </manifest>

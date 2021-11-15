@@ -12,7 +12,7 @@
   xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
   xmlns:xlink="http://www.w3.org/1999/xlink"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+  xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
   <sl:standBestand>
     <sl:dataset>VBPU0001-001</sl:dataset>
     <sl:inhoud>
@@ -27,10 +27,15 @@
     <sl:stand>
       <ow-dc:owObject>
         <l:Ambtsgebied>
-          <l:identificatie>GM1966</l:identificatie>
+          <l:identificatie>nl.imow-gm1966.ambtsgebied.gerardtest</l:identificatie>
           <l:noemer>Gemeente Adorp</l:noemer>
-          <l:domein>NL.BI.BestuurlijkGebied</l:domein>
-          <l:geldigOp>2021-01-01</l:geldigOp>
+          <l:bestuurlijkeGrenzenVerwijzing>
+            <l:BestuurlijkeGrenzenVerwijzing>
+              <l:bestuurlijkeGrenzenID>GM1966</l:bestuurlijkeGrenzenID>
+              <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+              <l:geldigOp>2021-01-01</l:geldigOp>
+            </l:BestuurlijkeGrenzenVerwijzing>
+          </l:bestuurlijkeGrenzenVerwijzing>
         </l:Ambtsgebied>
       </ow-dc:owObject>
     </sl:stand>
@@ -47,7 +52,7 @@
           <l:Gebied>
             <l:identificatie>nl.imow-gm1966.gebied.gerardswoonwagenterrein</l:identificatie>
             <l:geometrie>
-              <l:GeometrieRef xlink:href="aa9b8510-c066-4cc8-b799-d070eabf8add"/>
+              <l:GeometrieRef xlink:href="7C3D9C7A-1C33-461B-AEA4-DFC51399B031"/>
             </l:geometrie>
           </l:Gebied>
         </ow-dc:owObject>
