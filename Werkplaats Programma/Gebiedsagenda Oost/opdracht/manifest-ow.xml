@@ -11,7 +11,6 @@
          <objecttype>Divisie</objecttype>
          <objecttype>Divisietekst</objecttype>
          <objecttype>Tekstdeel</objecttype>
-         <objecttype>Kaart</objecttype>
       </Bestand>
       <Bestand>
          <naam>owGebiedsaanwijzing.xml</naam>
@@ -32,6 +31,7 @@
       <Bestand>
          <naam>owKaart.xml</naam>
          <objecttype>Kaart</objecttype>
+         <objecttype>SymbolisatieItem</objecttype>
       </Bestand>
    </Aanlevering>
 </Aanleveringen>
