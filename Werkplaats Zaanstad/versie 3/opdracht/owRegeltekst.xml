@@ -13,7 +13,7 @@
                  xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
                  xmlns:xlink="http://www.w3.org/1999/xlink"
                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
       <sl:dataset>Omgevingsplan Zaanstad v0.1</sl:dataset>
       <sl:inhoud>
@@ -547,7 +547,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000024"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.134623007"/>
@@ -555,7 +555,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3559019687</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -578,7 +578,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000025"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.134623007"/>
@@ -586,7 +586,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.744641539</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -609,7 +609,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000026"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3141941751"/>
@@ -617,7 +617,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1646550322</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -640,7 +640,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000027"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.134623007"/>
@@ -648,7 +648,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3735638618</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -671,7 +671,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000028"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.134623007"/>
@@ -679,7 +679,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.778786463</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -702,7 +702,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000029"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.134623007"/>
@@ -710,7 +710,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.778786463</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -826,7 +826,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000033"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3334156987"/>
@@ -834,7 +834,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3983890499</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -857,7 +857,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000034"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3334156987"/>
@@ -865,7 +865,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3983890499</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -888,7 +888,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000035"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3334156987"/>
@@ -896,7 +896,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1048401823</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -919,7 +919,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000036"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.2322346564"/>
@@ -927,7 +927,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2223396812</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -950,7 +950,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000037"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.2322346564"/>
@@ -958,7 +958,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2223396812</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -981,7 +981,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000038"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.2322346564"/>
@@ -989,7 +989,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3948173764</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1012,7 +1012,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000039"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.800672946"/>
@@ -1023,7 +1023,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3948173764</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1050,7 +1050,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000040"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1419261373"/>
@@ -1058,7 +1058,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2619431749</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1081,7 +1081,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000041"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1419261373"/>
@@ -1089,7 +1089,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2619431749</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1112,7 +1112,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000042"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1419261373"/>
@@ -1120,7 +1120,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3877001889</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1143,7 +1143,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000043"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1419261373"/>
@@ -1151,7 +1151,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2129942776</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1174,7 +1174,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000044"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.2566473243"/>
@@ -1182,7 +1182,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.69954467</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1205,7 +1205,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000045"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.2566473243"/>
@@ -1213,7 +1213,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.778332927</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1236,7 +1236,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000046"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3056682191"/>
@@ -1244,7 +1244,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2765384279</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1267,7 +1267,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000047"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3056682191"/>
@@ -1275,7 +1275,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3517278643</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1298,7 +1298,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000048"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.582308494"/>
@@ -1306,7 +1306,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.960722966</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1329,7 +1329,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000049"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.582308494"/>
@@ -1337,7 +1337,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1251374962</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1360,7 +1360,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000050"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.582308494"/>
@@ -1368,7 +1368,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1251374962</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1391,7 +1391,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000051"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.2341548084"/>
@@ -1399,7 +1399,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3214693820</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1422,7 +1422,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000052"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.2341548084"/>
@@ -1430,7 +1430,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3282391919</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1453,7 +1453,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000053"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.339491459"/>
@@ -1461,7 +1461,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.639852555</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1484,7 +1484,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000054"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.339491459"/>
@@ -1492,7 +1492,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2918015491</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1515,7 +1515,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000055"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.339491459"/>
@@ -1523,7 +1523,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2918015491</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1546,7 +1546,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000056"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1427912575"/>
@@ -1554,7 +1554,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1165253895</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1577,7 +1577,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000057"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1427912575"/>
@@ -1585,7 +1585,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1165253895</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1608,7 +1608,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000058"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1427912575"/>
@@ -1616,7 +1616,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2363841635</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1972,7 +1972,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000069"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3782096541"/>
@@ -2004,7 +2004,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000070"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3782096541"/>
@@ -2244,7 +2244,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2023064486ba</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -2989,7 +2989,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000099"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1334854794"/>
@@ -2997,7 +2997,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.609446418</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3020,7 +3020,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000100"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1334854794"/>
@@ -3028,7 +3028,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.609446418</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3051,7 +3051,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000101"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1334854794"/>
@@ -3059,7 +3059,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1370384750</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3082,7 +3082,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000102"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1334854794"/>
@@ -3090,7 +3090,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1370384750</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3113,7 +3113,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000103"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3429710810"/>
@@ -3121,7 +3121,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1594057058</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3144,7 +3144,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000104"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3429710810"/>
@@ -3152,7 +3152,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1594057058</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3175,7 +3175,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000105"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.230247021"/>
@@ -3186,7 +3186,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2646499518</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3209,7 +3209,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000106"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.611071825"/>
@@ -3217,7 +3217,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.59006169</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3240,7 +3240,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000107"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.611071825"/>
@@ -3248,7 +3248,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.59006169</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3271,7 +3271,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000108"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.2684767486"/>
@@ -3282,7 +3282,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1263623221</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3305,7 +3305,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000109"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.187385539"/>
@@ -3329,7 +3329,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000110"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:omgevingsnormaanduiding>
                   <rol:OmgevingsnormRef xlink:href="nl.imow-gm0479.omgevingsnorm.3328782551"/>
@@ -3353,7 +3353,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000111"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.1713066121"/>
@@ -3378,7 +3378,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000112"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1889678359"/>
@@ -3386,7 +3386,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.434854303</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3409,7 +3409,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000113"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1889678359"/>
@@ -3417,7 +3417,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1747736827</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3440,7 +3440,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000114"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.681980777"/>
@@ -3448,7 +3448,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2426427633</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3471,7 +3471,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000115"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.681980777"/>
@@ -3479,7 +3479,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3762116685</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3502,7 +3502,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000116"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.469909695"/>
@@ -3510,7 +3510,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2223466055</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3533,7 +3533,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000117"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.469909695"/>
@@ -3541,7 +3541,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2223466055</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3564,7 +3564,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000118"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.469909695"/>
@@ -3572,7 +3572,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3111675299</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3595,7 +3595,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000119"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.541737161"/>
@@ -3603,7 +3603,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.763390025</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3626,7 +3626,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000120"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.2013217139"/>
@@ -3637,7 +3637,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.763390025</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3663,7 +3663,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000121"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3572188823"/>
@@ -3671,7 +3671,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1855810591</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3694,7 +3694,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000122"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3572188823"/>
@@ -3702,7 +3702,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.650538519</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3725,7 +3725,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000123"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <!-- bovenliggende activiteit 'het gebruiken van een bouwwerk' toegevoegd -->
                <r:activiteitaanduiding>
@@ -3734,7 +3734,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3096995734ba</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3744,7 +3744,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3096995734</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3767,7 +3767,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000124"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3529785870"/>
@@ -3775,7 +3775,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3096995734</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3798,7 +3798,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000125"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3529785870"/>
@@ -3806,7 +3806,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3941295858</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3829,7 +3829,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000126"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1365524821"/>
@@ -3837,7 +3837,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.4062799581</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3860,7 +3860,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000127"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1365524821"/>
@@ -3868,7 +3868,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.4062799581</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3891,7 +3891,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000128"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1365524821"/>
@@ -3899,7 +3899,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2504681685</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3922,7 +3922,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000129"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1365524821"/>
@@ -3930,7 +3930,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2504681685</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3953,7 +3953,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000130"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1365524821"/>
@@ -3961,7 +3961,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2504681685</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3984,7 +3984,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000131"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <!-- bovenliggende activiteit 'het aanleggen en gebruiken van de buitenruimte' toegevoegd -->
                <r:activiteitaanduiding>
@@ -3993,7 +3993,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3793908185ba</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4003,7 +4003,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3793908185</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4026,7 +4026,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000132"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.580996177"/>
@@ -4034,7 +4034,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3793908185</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4057,7 +4057,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000133"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.580996177"/>
@@ -4065,7 +4065,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.4293882165</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4088,7 +4088,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000134"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3411296429"/>
@@ -4096,7 +4096,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.757622325</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4119,7 +4119,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000135"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3411296429"/>
@@ -4127,7 +4127,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.757622325</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4150,7 +4150,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000136"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.150685243"/>
@@ -4161,7 +4161,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1777886055</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4184,7 +4184,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000137"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.802439889"/>
@@ -4192,7 +4192,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1596483673</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4215,7 +4215,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000138"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.802439889"/>
@@ -4223,7 +4223,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1596483673</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4246,7 +4246,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000139"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.65881643"/>
@@ -4257,7 +4257,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2365351307</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Gebod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4280,7 +4280,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000140"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3522315869"/>
@@ -4288,7 +4288,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1441033189</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4311,7 +4311,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000141"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3522315869"/>
@@ -4319,7 +4319,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1441033189</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4342,7 +4342,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000142"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3522315869"/>
@@ -4350,7 +4350,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2140760897</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4373,7 +4373,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000143"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.4260448526"/>
@@ -4407,7 +4407,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000144"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.666066087"/>
@@ -4415,7 +4415,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.131957295</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4600,7 +4600,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000150"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.2729657421"/>
@@ -4624,7 +4624,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000151"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.2502771387"/>
@@ -4648,7 +4648,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000152"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.652428180"/>
@@ -4777,7 +4777,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000156"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.392637084"/>
@@ -4785,7 +4785,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.844386340</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -4808,7 +4808,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000157"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.392637084"/>
@@ -4816,7 +4816,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1475169751</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -5149,7 +5149,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2034459803ba</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -5843,7 +5843,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000188"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1514157992"/>
@@ -5851,7 +5851,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1509449008</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -5874,7 +5874,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000189"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1514157992"/>
@@ -5882,7 +5882,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.826890979</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -5905,7 +5905,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000190"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.2415086524"/>
@@ -5913,7 +5913,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.396587332</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -5936,7 +5936,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000191"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.2415086524"/>
@@ -5944,7 +5944,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.396587332</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -5967,7 +5967,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000192"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.2415086524"/>
@@ -5975,7 +5975,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1986883319</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -5998,7 +5998,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000193"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.570048056"/>
@@ -6006,7 +6006,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2547016640</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6029,7 +6029,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000194"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.570048056"/>
@@ -6037,7 +6037,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2547016640</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6060,7 +6060,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000195"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.570048056"/>
@@ -6068,7 +6068,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3520029468</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6091,7 +6091,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000196"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1735475653"/>
@@ -6099,7 +6099,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.843409229</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6122,7 +6122,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000197"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1735475653"/>
@@ -6130,7 +6130,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.843409229</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6153,7 +6153,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000198"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1735475653"/>
@@ -6161,7 +6161,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3436799232</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6184,7 +6184,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000199"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.3162063992"/>
@@ -6195,7 +6195,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1697277609</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6218,7 +6218,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000200"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1596078833"/>
@@ -6226,7 +6226,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2588500089</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6249,7 +6249,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000201"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1596078833"/>
@@ -6257,7 +6257,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3671482325</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6280,7 +6280,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000202"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3033482859"/>
@@ -6288,7 +6288,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1040280563</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6311,7 +6311,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000203"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3033482859"/>
@@ -6319,7 +6319,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1040280563</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6342,7 +6342,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000204"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.230247021"/>
@@ -6353,7 +6353,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1738173263</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6376,7 +6376,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000205"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1322273335"/>
@@ -6384,7 +6384,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1150382015</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6407,7 +6407,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000206"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1322273335"/>
@@ -6415,7 +6415,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1150382015</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6438,7 +6438,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000207"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.1322273335"/>
@@ -6446,7 +6446,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1720872731</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6472,7 +6472,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000208"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3648865185"/>
@@ -6480,7 +6480,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1457547561</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6503,7 +6503,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000209"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3648865185"/>
@@ -6511,7 +6511,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1457547561</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6534,7 +6534,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000210"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3648865185"/>
@@ -6542,7 +6542,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3863766748</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6565,7 +6565,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000211"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3648865185"/>
@@ -6573,7 +6573,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.53570337</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6596,7 +6596,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000212"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3648865185"/>
@@ -6604,7 +6604,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.53570337</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6627,7 +6627,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000213"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3648865185"/>
@@ -6635,7 +6635,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.53570337</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6658,7 +6658,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000214"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.2452634460"/>
@@ -6666,7 +6666,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.4118241508</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6689,7 +6689,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000215"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.2452634460"/>
@@ -6697,7 +6697,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.4118241508</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6720,7 +6720,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000216"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.2452634460"/>
@@ -6728,7 +6728,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3062914711</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6751,7 +6751,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000217"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.1875463353"/>
@@ -6762,7 +6762,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3205521309</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6785,7 +6785,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000218"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3597220373"/>
@@ -6793,7 +6793,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.3205521309</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6816,7 +6816,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000219"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3597220373"/>
@@ -6824,7 +6824,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1160864149</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6847,7 +6847,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000220"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3597220373"/>
@@ -6855,7 +6855,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1160864149</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6878,7 +6878,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000221"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3597220373"/>
@@ -6886,7 +6886,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1160864149</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6909,7 +6909,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000222"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3535681115"/>
@@ -6917,7 +6917,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1435917283</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6940,7 +6940,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000223"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3535681115"/>
@@ -6948,7 +6948,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.1435917283</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -6971,7 +6971,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000224"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0479.activiteit.3535681115"/>
@@ -6979,7 +6979,7 @@
                      <r:identificatie>nl.imow-gm0479.activiteitlocatieaanduiding.2672778047</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -7002,7 +7002,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0479.regeltekst.20210706000225"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0479.gebiedsaanwijzing.4286004932"/>

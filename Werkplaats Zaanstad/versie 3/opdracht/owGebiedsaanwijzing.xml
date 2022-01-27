@@ -13,7 +13,7 @@
                  xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
                  xmlns:xlink="http://www.w3.org/1999/xlink"
                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
       <sl:dataset>Omgevingsplan Zaanstad v0.1</sl:dataset>
       <sl:inhoud>
@@ -83,7 +83,7 @@
                <ga:naam>bouwvlak</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Hoogspanningsverbinding</ga:groep>
                <ga:locatieaanduiding><!-- nl.imow-gm0479.gebied.3700956237 -->
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -96,7 +96,7 @@
                <ga:naam>buisleiding voor gevaarlijke stoffen</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding><!-- nl.imow-gm0479.gebied.2662276681 -->
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -122,7 +122,7 @@
                <ga:naam>bouwvlak hoogspanningsverbinding</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Hoogspanningsverbinding</ga:groep>
                <ga:locatieaanduiding><!-- nl.imow-gm0479.gebied.3700956237 -->
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -135,7 +135,7 @@
                <ga:naam>brug</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Infrastructuur</ga:groep>
                <ga:locatieaanduiding><!-- nl.imow-gm0479.gebied.610272587 -->
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -187,7 +187,7 @@
                <ga:naam>parkeervoorzieningen toegestaan</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Verkeer</ga:groep>
                <ga:locatieaanduiding><!-- nl.imow-gm0479.gebied.2844990319 -->
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -200,7 +200,7 @@
                <ga:naam>woonwagenstandplaats</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Wonen</ga:groep>
                <ga:locatieaanduiding><!-- nl.imow-gm0479.gebied.2984973011 -->
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -213,7 +213,7 @@
                <ga:naam>ligplaats woonark</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Wonen</ga:groep>
                <ga:locatieaanduiding><!-- nl.imow-gm0479.gebied.956239791 -->
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -226,7 +226,7 @@
                <ga:naam>ligplaats woonschip</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Wonen</ga:groep>
                <ga:locatieaanduiding><!-- nl.imow-gm0479.gebied.2099843425 -->
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -239,7 +239,7 @@
                <ga:naam>wonen niet toegestaan op de begane grond</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Wonen</ga:groep>
                <ga:locatieaanduiding><!-- nl.imow-gm0479.gebied.1538072503 -->
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -252,7 +252,7 @@
                <ga:naam>onzelfstandige woonruimte</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Wonen</ga:groep>
                <ga:locatieaanduiding><!-- nl.imow-gm0479.gebied.2028738199 -->
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -265,7 +265,7 @@
                <ga:naam>consumentenvuurwerk</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding><!-- nl.imow-gm0479.gebied.2460291679 -->
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -291,7 +291,7 @@
                <ga:naam>opslag</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding><!-- nl.imow-gm0479.gebied.1047660279 -->
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0479"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0479.ambtsgebied.00000001003148889000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
