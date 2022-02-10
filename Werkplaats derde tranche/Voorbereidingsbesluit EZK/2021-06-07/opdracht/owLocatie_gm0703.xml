@@ -18,7 +18,7 @@
       <sl:dataset>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</sl:dataset>
       <sl:inhoud>
          <sl:gebied>Nederland</sl:gebied>
-         <sl:leveringsId>NL.IMRO.0000.EZvb17ZW380-3001</sl:leveringsId>
+         <sl:leveringsId>EZvb17ZW380-3001</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Ambtsgebied</sl:objectType>
             <sl:objectType>Gebied</sl:objectType>
@@ -28,10 +28,10 @@
          <ow-dc:owObject>
             <l:Ambtsgebied>
                <l:identificatie>nl.imow-mnre1045.ambtsgebied.00000001003214369000</l:identificatie>
-               <l:noemer>landsgrens + territoriale wateren + EEZ</l:noemer>
+               <l:noemer>Gemeente Reimerswaal</l:noemer>
                <l:bestuurlijkeGrenzenVerwijzing>
                   <l:BestuurlijkeGrenzenVerwijzing>
-                     <l:bestuurlijkeGrenzenID>LND6030.B</l:bestuurlijkeGrenzenID>
+                     <l:bestuurlijkeGrenzenID>GM0703</l:bestuurlijkeGrenzenID>
                      <l:domein>NL.BI.BestuurlijkGebied</l:domein>
                      <l:geldigOp>2021-01-01</l:geldigOp>
                   </l:BestuurlijkeGrenzenVerwijzing>
@@ -42,7 +42,7 @@
       <sl:stand>
          <ow-dc:owObject><!--gm0703_besluitgebied.gml-->
             <l:Gebied>
-               <l:identificatie>nl.imow-mnre1045.gebied.20210623000001</l:identificatie>
+               <l:identificatie>nl.imow-mnre1045.gebied.070320210623000001</l:identificatie>
                <l:noemer>voorbeschermingsregels gemeente Reimerswaal</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="1ed996ba-ee12-480a-9366-377694e197fa"/>

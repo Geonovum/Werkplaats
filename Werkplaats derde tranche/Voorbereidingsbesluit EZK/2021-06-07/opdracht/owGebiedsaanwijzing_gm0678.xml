@@ -18,7 +18,7 @@
       <sl:dataset>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</sl:dataset>
       <sl:inhoud>
          <sl:gebied>Nederland</sl:gebied>
-         <sl:leveringsId>NL.IMRO.0000.EZvb17ZW380-3001</sl:leveringsId>
+         <sl:leveringsId>EZvb17ZW380-3001</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Gebiedsaanwijzing</sl:objectType>
          </sl:objectTypen>
@@ -26,12 +26,12 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.20210623000001</ga:identificatie>
+               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.067820210623000001</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Energievoorziening</ga:type>
                <ga:naam>voorbeschermingsregels gemeente Kapelle</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Hoogspanningsverbinding</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebied.20210623000001"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebied.067820210623000001"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>

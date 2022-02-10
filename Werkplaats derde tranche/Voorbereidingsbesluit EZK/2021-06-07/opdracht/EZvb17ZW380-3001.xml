@@ -5,8 +5,8 @@
                     xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/bill/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001</FRBRWork>
-         <FRBRExpression>/akn/nl/bill/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001/nld@2021-03-01;1</FRBRExpression>
+         <FRBRWork>/akn/nl/bill/mnre1045/2021/EZvb17ZW380-3001</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/mnre1045/2021/EZvb17ZW380-3001/nld@2021-03-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_003</soortWork>
       </ExpressionIdentificatie>
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -53,21 +53,21 @@
                <doelen>
                   <doel>/join/id/proces/mnre1045/2021/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0654/nld@2021-03-01;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0654/nld@2021-03-01;1</instrumentVersie>
                <eId>art_II</eId>
             </BeoogdeRegeling>
             <BeoogdeRegeling>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2021/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0678/nld@2021-03-01;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0678/nld@2021-03-01;1</instrumentVersie>
                <eId>art_II</eId>
             </BeoogdeRegeling>
             <BeoogdeRegeling>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2021/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0703/nld@2021-03-01;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0703/nld@2021-03-01;1</instrumentVersie>
                <eId>art_II</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
@@ -194,7 +194,7 @@ cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
                <Opschrift>Voorbereidingsbesluit gemeente Borsele</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_gm0654"
-                                   wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0654/nld@2021-03-01;1">
+                                   wordt="/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0654/nld@2021-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
                </RegelingOpschrift>
@@ -377,7 +377,7 @@ cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
                <Opschrift>Voorbereidingsbesluit gemeente Kapelle</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_gm0678"
-                                   wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0678/nld@2021-03-01;1">
+                                   wordt="/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0678/nld@2021-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
                </RegelingOpschrift>
@@ -528,7 +528,7 @@ cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
                <Opschrift>Voorbereidingsbesluit gemeente Reimerswaal</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_gm0703"
-                                   wordt="/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0703/nld@2021-03-01;1">
+                                   wordt="/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0703/nld@2021-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
                </RegelingOpschrift>
@@ -836,8 +836,8 @@ cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
    </BesluitVersie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0654</FRBRWork>
-         <FRBRExpression>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0654/nld@2021-03-01;1</FRBRExpression>
+         <FRBRWork>/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0654</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0654/nld@2021-03-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
@@ -874,8 +874,8 @@ cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
    </RegelingVersieInformatie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0678</FRBRWork>
-         <FRBRExpression>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0678/nld@2021-03-01;1</FRBRExpression>
+         <FRBRWork>/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0678</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0678/nld@2021-03-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
@@ -912,8 +912,8 @@ cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
    </RegelingVersieInformatie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0703</FRBRWork>
-         <FRBRExpression>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0703/nld@2021-03-01;1</FRBRExpression>
+         <FRBRWork>/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0703</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0703/nld@2021-03-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
