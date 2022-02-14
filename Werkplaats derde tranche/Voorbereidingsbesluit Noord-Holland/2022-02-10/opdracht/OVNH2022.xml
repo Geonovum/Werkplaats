@@ -1616,7 +1616,7 @@
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
-               <FRBRWork>/akn/nl/act/gm0373/2020/omgevingsplan</FRBRWork>
+               <FRBRWork>/akn/nl/act/gm0373/2021/omgevingsplanBergen</FRBRWork>
                <soortWork>/join/id/stop/work_019</soortWork>
             </WorkIdentificatie>
          </isTijdelijkDeelVan>
@@ -1654,7 +1654,7 @@
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
-               <FRBRWork>/akn/nl/act/gm0441/2020/omgevingsplan</FRBRWork>
+               <FRBRWork>/akn/nl/act/gm0441/2021/omgevingsplanSchagen</FRBRWork>
                <soortWork>/join/id/stop/work_019</soortWork>
             </WorkIdentificatie>
          </isTijdelijkDeelVan>
@@ -1692,7 +1692,7 @@
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
-               <FRBRWork>/akn/nl/act/gm0388/2020/omgevingsplan</FRBRWork>
+               <FRBRWork>/akn/nl/act/gm0388/2021/omgevingsplan3Enkhuizen</FRBRWork>
                <soortWork>/join/id/stop/work_019</soortWork>
             </WorkIdentificatie>
          </isTijdelijkDeelVan>
