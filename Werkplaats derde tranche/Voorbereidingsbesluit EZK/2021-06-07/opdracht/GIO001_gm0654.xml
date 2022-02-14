@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-  xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  schemaversie="1.0.4"
-  xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
-  <InformatieObjectVersie>
-    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_borsele</FRBRWork>
-      <FRBRExpression>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_borsele/nld@2021-03-01;1</FRBRExpression>
-      <soortWork>/join/id/stop/work_010</soortWork>
-    </ExpressionIdentificatie>
-    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0654/nld@2021-03-01;1</heeftGeboorteregeling>
-      <heeftBestanden>
-        <heeftBestand>
-          <Bestand>
-            <bestandsnaam>gm0654_besluitgebied.gml</bestandsnaam>
-            <hash>3812ed44d289f0727b6d494010713a7e06d26789024f87088c812d523aee4cfe1860e67bb04f3510522fe0b728dc834043b1e43835a31af1569713e475f32e67</hash>
-          </Bestand>
-        </heeftBestand>
-      </heeftBestanden>
-    </InformatieObjectVersieMetadata>
-    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
-      <maker>/tooi/id/ministerie/mnre1045</maker>
-      <alternatieveTitels>
-        <alternatieveTitel>Voorbeschermingsregels gemeente Borsele</alternatieveTitel>
-      </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_borsele</officieleTitel>
-      <publicatieinstructie>TeConsolideren</publicatieinstructie>
-      <naamInformatieObject>Voorbeschermingsregels gemeente Borsele</naamInformatieObject>
-      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-    </InformatieObjectMetadata>
-  </InformatieObjectVersie>
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_borsele</FRBRWork>
+         <FRBRExpression>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_borsele/nld@2021-03-01;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0654/nld@2021-03-01;1</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>gm0654_besluitgebied.gml</bestandsnaam>
+                  <hash>9495d6b15ac0db0c7d7e015cec3048618073071e205310b987f4bc4ca9107e6c2e93916ae9bade8943d764b9073b21759431d8e0ccec022a717ec72d4318074b</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>Voorbeschermingsregels gemeente Borsele</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_borsele</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <naamInformatieObject>Voorbeschermingsregels gemeente Borsele</naamInformatieObject>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
 </AanleveringInformatieObject>

@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-  xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  schemaversie="1.0.4"
-  xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
-  <InformatieObjectVersie>
-    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_reimerswaal</FRBRWork>
-      <FRBRExpression>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_reimerswaal/nld@2021-03-01;1</FRBRExpression>
-      <soortWork>/join/id/stop/work_010</soortWork>
-    </ExpressionIdentificatie>
-    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0703/nld@2021-03-01;1</heeftGeboorteregeling>
-      <heeftBestanden>
-        <heeftBestand>
-          <Bestand>
-            <bestandsnaam>gm0703_besluitgebied.gml</bestandsnaam>
-            <hash>6cfa6c36ff84614d64b7d6ac2b76623673161d0aae9102a940b199ce730e18f6c1870165d07d0cdd80c5e9c5e19a7a7f141543df7e50bd5e6eb39d230c1b8883</hash>
-          </Bestand>
-        </heeftBestand>
-      </heeftBestanden>
-    </InformatieObjectVersieMetadata>
-    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
-      <maker>/tooi/id/ministerie/mnre1045</maker>
-      <alternatieveTitels>
-        <alternatieveTitel>Voorbeschermingsregels gemeente Reimerswaal</alternatieveTitel>
-      </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_reimerswaal</officieleTitel>
-      <publicatieinstructie>TeConsolideren</publicatieinstructie>
-      <naamInformatieObject>Voorbeschermingsregels gemeente Reimerswaal</naamInformatieObject>
-      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-    </InformatieObjectMetadata>
-  </InformatieObjectVersie>
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_reimerswaal</FRBRWork>
+         <FRBRExpression>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_reimerswaal/nld@2021-03-01;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0703/nld@2021-03-01;1</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>gm0703_besluitgebied.gml</bestandsnaam>
+                  <hash>3089370a26f3edccd46c96b20f73e70a9f3d6ab46d87252213ed9760b04018c3770f6d82847a4e62e0eab62bd71d6ce98c54c0ae0fa70bbecc86311391250c4b</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>Voorbeschermingsregels gemeente Reimerswaal</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_reimerswaal</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <naamInformatieObject>Voorbeschermingsregels gemeente Reimerswaal</naamInformatieObject>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
 </AanleveringInformatieObject>

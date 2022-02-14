@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-  xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  schemaversie="1.0.4"
-  xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
-  <InformatieObjectVersie>
-    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_kapelle</FRBRWork>
-      <FRBRExpression>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_kapelle/nld@2021-03-01;1</FRBRExpression>
-      <soortWork>/join/id/stop/work_010</soortWork>
-    </ExpressionIdentificatie>
-    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling>/akn/nl/act/mnre1045/2021/NL.IMRO.0000.EZvb17ZW380-3001-gm0678/nld@2021-03-01;1</heeftGeboorteregeling>
-      <heeftBestanden>
-        <heeftBestand>
-          <Bestand>
-            <bestandsnaam>gm0678_besluitgebied.gml</bestandsnaam>
-            <hash>e7085b2f000618f0159f763a75278760e9da0240b93ea7a0f087b98997a93c92f11917fb387b8bacd59a757c10821f91f60098525f100700b081c36cc6396726</hash>
-          </Bestand>
-        </heeftBestand>
-      </heeftBestanden>
-    </InformatieObjectVersieMetadata>
-    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
-      <maker>/tooi/id/ministerie/mnre1045</maker>
-      <alternatieveTitels>
-        <alternatieveTitel>Voorbeschermingsregels gemeente Kapelle</alternatieveTitel>
-      </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_kapelle</officieleTitel>
-      <publicatieinstructie>TeConsolideren</publicatieinstructie>
-      <naamInformatieObject>Voorbeschermingsregels gemeente Kapelle</naamInformatieObject>
-      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-    </InformatieObjectMetadata>
-  </InformatieObjectVersie>
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_kapelle</FRBRWork>
+         <FRBRExpression>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_kapelle/nld@2021-03-01;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0678/nld@2021-03-01;1</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>gm0678_besluitgebied.gml</bestandsnaam>
+                  <hash>ad0681f24a551a57d00439045e9a7421b64b747255544bf9224b2ba0e04ec9df5bcdda5a246b29fe6bc4a37e0ffc041a7e70fbac4c37b0f73e7a58e972a1ca6e</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>Voorbeschermingsregels gemeente Kapelle</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_kapelle</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <naamInformatieObject>Voorbeschermingsregels gemeente Kapelle</naamInformatieObject>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
 </AanleveringInformatieObject>

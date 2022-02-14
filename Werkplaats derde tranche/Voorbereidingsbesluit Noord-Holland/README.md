@@ -17,3 +17,7 @@ Voor het voorbereidingsbesluit zijn enkele (open) aandachtspunten:
 - Aangeleverd was de gml van alle provinciale monumenten in de provincie. Het is niet mogelijk om één gml voor elke tijdelijkRegelingdeel te gebruiken. Dit is omdat de GIO het veld heeftGeboorteregeling heeft dat verwijst naar de afzonderlijke regelingen. De vraag is of voor elk tijdelijkRegelingdeel afzonderlijke gml-en van voorbeschermde provinciale monumenten in de desbetreffende gemeente aangeleverd moeten worden. Nu heeft elk bestand provinciale_monumenten.gml dezelfde poslist, maar een eigen guid.
 - In de regelingen worden activiteiten gebruikt. De vraag is welke topactiviteit voor een provinciaal voorbereidingsbesluit gekozen moet worden.
 - Voor elke regeling hebben de ow-objecten dezelfde identifier. Voor de provincie is dat ook dezelfde. Bij validatie zal dat problemen geven, omdat dan voor alle andere dan de eerste de foutmelding komt dat het object al bestaat. Hoe gaan we hiermee om?
+## 2022-02-10
+- Omgezet naar BHKV-versie 1.1.0.
+- Alle ambtsgebieden zijn gewijzigd naar het ambtsgebied van de gemeente.
+- Alle identifiers zijn uniek gemaakt, maar wel met bg-code pv27. De vraag is wie eigenaar van de ow-objecten is, de provincie of de gemeente waarop het TijdelijkRegelingdeel van toepassing is.
