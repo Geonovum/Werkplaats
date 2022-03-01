@@ -7,3 +7,5 @@
 - Is er ook een intrekkingsartikel nodig?
 - Annotatie Thema staat nu op tekst in het besluitgedeelte. Deze tekst wordt niet zichtbaar in de viewer. OW-annotaties gelden alleen op tekst in het regelinggedeelte,
 - Aan de activiteit hangt geen locatie. Ik neem aan dat die hetzelfde is als de geometrie?
+## 2022-03-01
+- Ten behoeve van de werkplaats een volledig herziene versie geplaatst.
