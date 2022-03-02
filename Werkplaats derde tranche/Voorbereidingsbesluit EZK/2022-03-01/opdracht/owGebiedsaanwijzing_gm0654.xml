@@ -18,7 +18,7 @@
       <sl:dataset>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</sl:dataset>
       <sl:inhoud>
          <sl:gebied>Nederland</sl:gebied>
-         <sl:leveringsId>NL.IMRO.0000.EZvb17ZW380-3001_2022-03-01</sl:leveringsId>
+         <sl:leveringsId>EZvb17ZW380-3001_2022-03-01</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Gebiedsaanwijzing</sl:objectType>
          </sl:objectTypen>

@@ -5,8 +5,8 @@
                     xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/bill/mnre1045/2022/NL.IMRO.0000.EZvb17ZW380-3001</FRBRWork>
-         <FRBRExpression>/akn/nl/bill/mnre1045/2022/NL.IMRO.0000.EZvb17ZW380-3001/nld@2022-03-01;1</FRBRExpression>
+         <FRBRWork>/akn/nl/bill/mnre1045/2022/EZvb17ZW380-3001</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/mnre1045/2022/EZvb17ZW380-3001/nld@2022-03-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_003</soortWork>
       </ExpressionIdentificatie>
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -28,9 +28,9 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
          <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/216930464/nld@2022-03-01</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/236722328/nld@2022-03-01</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/1921522251/nld@2022-03-01</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_borsele/nld@2022-03-01</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_kapelle/nld@2022-03-01</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_reimerswaal/nld@2022-03-01</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -53,42 +53,42 @@
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/mnre1045/2022/NL.IMRO.0000.EZvb17ZW380-3001-gm0654/nld@2022-03-01;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0654/nld@2022-03-01;1</instrumentVersie>
                <eId>art_II</eId>
             </BeoogdeRegeling>
             <BeoogdeRegeling>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/mnre1045/2022/NL.IMRO.0000.EZvb17ZW380-3001-gm0678/nld@2022-03-01;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0678/nld@2022-03-01;1</instrumentVersie>
                <eId>art_III</eId>
             </BeoogdeRegeling>
             <BeoogdeRegeling>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/mnre1045/2022/NL.IMRO.0000.EZvb17ZW380-3001-gm0703/nld@2022-03-01;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0703/nld@2022-03-01;1</instrumentVersie>
                <eId>art_IV</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gm0654</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/216930464/nld@2022-03-01</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_borsele/nld@2022-03-01</instrumentVersie>
                <eId>!initieel_gm0654#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gm0678</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/236722328/nld@2022-03-01</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_kapelle/nld@2022-03-01</instrumentVersie>
                <eId>!initieel_gm0678#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gm0703</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/1921522251/nld@2022-03-01</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_reimerswaal/nld@2022-03-01</instrumentVersie>
                <eId>!initieel_gm0703#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
@@ -178,7 +178,7 @@
                <Nummer>I</Nummer>
                <Opschrift>Voorbereidingsbesluit gemeente Borsele</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_gm0654" wordt="/akn/nl/act/mnre1045/2022/NL.IMRO.0000.EZvb17ZW380-3001-gm0654/nld@2022-03-01;1">
+            <RegelingTijdelijkdeel componentnaam="initieel_gm0654" wordt="/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0654/nld@2022-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
                </RegelingOpschrift>
@@ -342,7 +342,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/216930464/nld@2022-03-01">/join/id/regdata/mnre1045/2022/216930464/nld@2022-03-01</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_borsele/nld@2022-03-01">/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_borsele/nld@2022-03-01</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -358,7 +358,7 @@
                <Nummer>II</Nummer>
                <Opschrift>Voorbereidingsbesluit gemeente Kapelle</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_gm0678" wordt="/akn/nl/act/mnre1045/2022/NL.IMRO.0000.EZvb17ZW380-3001-gm0678/nld@2022-03-01;1">
+            <RegelingTijdelijkdeel componentnaam="initieel_gm0678" wordt="/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0678/nld@2022-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
                </RegelingOpschrift>
@@ -521,7 +521,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/236722328/nld@2022-03-01">/join/id/regdata/mnre1045/2022/236722328/nld@2022-03-01</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_kapelle/nld@2022-03-01">/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_kapelle/nld@2022-03-01</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -537,7 +537,7 @@
                <Nummer>III</Nummer>
                <Opschrift>Voorbereidingsbesluit gemeente Reimerswaal</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_gm0703" wordt="/akn/nl/act/mnre1045/2022/NL.IMRO.0000.EZvb17ZW380-3001-gm0703/nld@2022-03-01;1">
+            <RegelingTijdelijkdeel componentnaam="initieel_gm0703" wordt="/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0703/nld@2022-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
                </RegelingOpschrift>
@@ -700,7 +700,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/1921522251/nld@2022-03-01">/join/id/regdata/mnre1045/2022/1921522251/nld@2022-03-01</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_reimerswaal/nld@2022-03-01">/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_reimerswaal/nld@2022-03-01</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -891,8 +891,8 @@
    </BesluitVersie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/mnre1045/2022/NL.IMRO.0000.EZvb17ZW380-3001-gm0654</FRBRWork>
-         <FRBRExpression>/akn/nl/act/mnre1045/2022/NL.IMRO.0000.EZvb17ZW380-3001-gm0654/nld@2022-03-01;1</FRBRExpression>
+         <FRBRWork>/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0654</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0654/nld@2022-03-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -900,8 +900,9 @@
       </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
-         <eindverantwoordelijke>/tooi/id/gemeente/gm0654</eindverantwoordelijke>
-         <maker>/tooi/id/gemeente/gm0654</maker>
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
          <officieleTitel>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
@@ -922,8 +923,8 @@
    </RegelingVersieInformatie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/mnre1045/2022/NL.IMRO.0000.EZvb17ZW380-3001-gm0678</FRBRWork>
-         <FRBRExpression>/akn/nl/act/mnre1045/2022/NL.IMRO.0000.EZvb17ZW380-3001-gm0678/nld@2022-03-01;1</FRBRExpression>
+         <FRBRWork>/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0678</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0678/nld@2022-03-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -931,8 +932,9 @@
       </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
-         <eindverantwoordelijke>/tooi/id/gemeente/gm0678</eindverantwoordelijke>
-         <maker>/tooi/id/gemeente/gm0678</maker>
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
          <officieleTitel>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
@@ -953,8 +955,8 @@
    </RegelingVersieInformatie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/mnre1045/2022/NL.IMRO.0000.EZvb17ZW380-3001-gm0703</FRBRWork>
-         <FRBRExpression>/akn/nl/act/mnre1045/2022/NL.IMRO.0000.EZvb17ZW380-3001-gm0703/nld@2022-03-01;1</FRBRExpression>
+         <FRBRWork>/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0703</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0703/nld@2022-03-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -962,8 +964,9 @@
       </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
-         <eindverantwoordelijke>/tooi/id/gemeente/gm0703</eindverantwoordelijke>
-         <maker>/tooi/id/gemeente/gm0703</maker>
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
          <officieleTitel>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
