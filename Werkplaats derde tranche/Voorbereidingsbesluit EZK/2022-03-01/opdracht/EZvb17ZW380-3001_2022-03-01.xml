@@ -28,9 +28,9 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
          <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_borsele/nld@2022-03-01</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_kapelle/nld@2022-03-01</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_reimerswaal/nld@2022-03-01</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_borsele/nld@2022-03-01;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_kapelle/nld@2022-03-01;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_reimerswaal/nld@2022-03-01;1</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -74,21 +74,21 @@
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gm0654</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_borsele/nld@2022-03-01</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_borsele/nld@2022-03-01;1</instrumentVersie>
                <eId>!initieel_gm0654#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gm0678</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_kapelle/nld@2022-03-01</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_kapelle/nld@2022-03-01;1</instrumentVersie>
                <eId>!initieel_gm0678#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gm0703</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_reimerswaal/nld@2022-03-01</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_reimerswaal/nld@2022-03-01;1</instrumentVersie>
                <eId>!initieel_gm0703#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
@@ -342,7 +342,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_borsele/nld@2022-03-01">/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_borsele/nld@2022-03-01</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_borsele/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_borsele/nld@2022-03-01;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -521,7 +521,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_kapelle/nld@2022-03-01">/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_kapelle/nld@2022-03-01</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_kapelle/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_kapelle/nld@2022-03-01;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -700,7 +700,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_reimerswaal/nld@2022-03-01">/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_reimerswaal/nld@2022-03-01</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_reimerswaal/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_reimerswaal/nld@2022-03-01;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
