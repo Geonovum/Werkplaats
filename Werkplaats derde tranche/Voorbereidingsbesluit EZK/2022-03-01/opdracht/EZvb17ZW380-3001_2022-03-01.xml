@@ -132,21 +132,21 @@
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
                </Kop>
-               <Wat>Voor het omgevingsplan van de gemeente Borsele gelden de voorbeschermingsregels die zijn vastgelegd in bijlage 1. </Wat>
+               <Wat>Voor het omgevingsplan van de gemeente Borsele gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_I">bijlage I</IntRef>. </Wat>
             </WijzigArtikel>
             <WijzigArtikel eId="art_III" wId="mnre1045_1__art_III">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>III</Nummer>
                </Kop>
-               <Wat>Voor het omgevingsplan van de gemeente Kapelle gelden de voorbeschermingsregels die zijn vastgelegd in bijlage 2.</Wat>
+               <Wat>Voor het omgevingsplan van de gemeente Kapelle gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_II">bijlage II</IntRef>.</Wat>
             </WijzigArtikel>
             <WijzigArtikel eId="art_IV" wId="mnre1045_1__art_IV">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>IV</Nummer>
                </Kop>
-               <Wat>Voor het omgevingsplan van de gemeente Reimerswaal gelden de voorbeschermingsregels die zijn vastgelegd in bijlage 3.</Wat>
+               <Wat>Voor het omgevingsplan van de gemeente Reimerswaal gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_III">bijlage III</IntRef>.</Wat>
             </WijzigArtikel>
             <Artikel eId="art_V" wId="mnre1045_1__art_V">
                <Kop>
