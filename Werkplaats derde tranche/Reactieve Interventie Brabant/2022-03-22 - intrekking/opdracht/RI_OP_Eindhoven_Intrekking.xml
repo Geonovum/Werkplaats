@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.1.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/pv30/2022/RI-OP-Eindhoven-Intrekking</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/pv30/2022/RI-OP-Eindhoven-Intrekking/nld@2022-03-29;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv30</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv30</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
+         <officieleTitel>TEST Reactieve interventie t.a.v. wijziging 3 omgevingsplan Gemeente Eindhoven</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_afa30a11</onderwerp>
+            <onderwerp>/tooi/def/concept/c_989e37d9</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2022-03-29</bekendOp>
+         <ontvangenOp>2022-03-29</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2022-03-29</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2022-03-29</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <Intrekkingen>
+            <Intrekking>
+               <doelen>
+                  <doel>/join/id/proces/pv30/2022/Intrekking</doel>
+               </doelen>
+               <instrument>/akn/nl/act/pv30/2022/RI-OP-Eindhoven-001</instrument>
+               <eId>art_I</eId>
+            </Intrekking>
+         </Intrekkingen>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/pv30/2022/Intrekking</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2022-04-12</datum>
+               <eId>art_II</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Intrekking TEST Reactieve interventie t.a.v. wijziging 3 omgevingsplan Gemeente Eindhoven</Al>
+         </RegelingOpschrift>
+         <Lichaam eId="body" wId="body">
+            <Artikel eId="art_I" wId="pv30_2__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Door deze intrekking wordt 'TEST Reactieve interventie t.a.v. wijziging 3 omgevingsplan Gemeente Eindhoven' en alle GIO's ingetrokken.</Al>
+               </Inhoud>
+            </Artikel>
+            <Artikel eId="art_II" wId="pv30_2__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>De datum inwerkingtreding van dit besluit is 12 april 2022.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+      </BesluitCompact>
+   </BesluitVersie>
+</AanleveringBesluit>
