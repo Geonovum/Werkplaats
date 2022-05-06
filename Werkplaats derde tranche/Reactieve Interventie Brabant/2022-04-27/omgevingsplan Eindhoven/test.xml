@@ -1,0 +1,2016 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test><!--elk ref in gebieden.xml, met een verwijzing naar de documenten in OP en OW waarin die voorkomt.-->
+   <refs>
+      <ref index="1" id="b57f4d44-3397-4872-9222-f2352986a181">
+         <document type="ow">b57f4d44-3397-4872-9222-f2352986a181.gml</document>
+      </ref>
+      <ref index="2" id="e30539fb-a049-425a-b60e-c00e53aa9963">
+         <document type="ow">e30539fb-a049-425a-b60e-c00e53aa9963.gml</document>
+      </ref>
+      <ref index="3" id="f35c4bf4-6b53-4489-bbd9-6aafb1e6cf37">
+         <document type="ow">f35c4bf4-6b53-4489-bbd9-6aafb1e6cf37.gml</document>
+      </ref>
+      <ref index="4" id="9d738533-f3b0-4040-8c1f-d97765e1cf5f">
+         <document type="ow">9d738533-f3b0-4040-8c1f-d97765e1cf5f.gml</document>
+      </ref>
+      <ref index="5" id="ffa57e46-49f5-4a47-ad18-242d9923c93a">
+         <document type="ow">ffa57e46-49f5-4a47-ad18-242d9923c93a.gml</document>
+         <document type="op">0017_dc-2022-5239.gml</document>
+         <document type="op">0021_dc-2022-5232.gml</document>
+      </ref>
+      <ref index="6" id="d6166ab8-aada-486d-b537-0a1c57446d3d">
+         <document type="ow">d6166ab8-aada-486d-b537-0a1c57446d3d.gml</document>
+         <document type="op">0018_dc-2022-5269.gml</document>
+         <document type="op">0021_dc-2022-5232.gml</document>
+      </ref>
+      <ref index="7" id="49940098-6e7b-46e7-aad2-3233b777a1b7">
+         <document type="ow">49940098-6e7b-46e7-aad2-3233b777a1b7.gml</document>
+         <document type="op">0019_dc-2022-5216.gml</document>
+         <document type="op">0021_dc-2022-5232.gml</document>
+         <document type="op">0022_dc-2022-5288.gml</document>
+      </ref>
+      <ref index="8" id="a095c487-51f0-498f-86b2-6ecda30c5c99">
+         <document type="ow">a095c487-51f0-498f-86b2-6ecda30c5c99.gml</document>
+      </ref>
+      <ref index="9" id="c10e5ca1-06be-49c3-b8df-ceb2258e237b">
+         <document type="ow">c10e5ca1-06be-49c3-b8df-ceb2258e237b.gml</document>
+         <document type="op">0023_dc-2022-5251.gml</document>
+         <document type="op">0051_dc-2022-5246.gml</document>
+         <document type="op">0053_dc-2022-5215.gml</document>
+      </ref>
+      <ref index="10" id="de643956-d6ad-4b46-9f50-a34f0d33a5a8">
+         <document type="ow">de643956-d6ad-4b46-9f50-a34f0d33a5a8.gml</document>
+         <document type="op">0024_dc-2022-5244.gml</document>
+         <document type="op">0042_dc-2022-5228.gml</document>
+         <document type="op">0044_dc-2022-5286.gml</document>
+      </ref>
+      <ref index="11" id="21af98a1-240c-4910-af6f-53e7bc996d6e">
+         <document type="ow">21af98a1-240c-4910-af6f-53e7bc996d6e.gml</document>
+      </ref>
+      <ref index="12" id="75a87788-8621-49c2-8d59-b42c9006fee2">
+         <document type="ow">75a87788-8621-49c2-8d59-b42c9006fee2.gml</document>
+         <document type="op">0029_dc-2022-5293.gml</document>
+      </ref>
+      <ref index="13" id="8ceeed04-61f4-4d30-8286-9743497ef4d2">
+         <document type="ow">8ceeed04-61f4-4d30-8286-9743497ef4d2.gml</document>
+      </ref>
+      <ref index="14" id="b962f047-14f1-44eb-89c9-bc1834ff59a3">
+         <document type="ow">b962f047-14f1-44eb-89c9-bc1834ff59a3.gml</document>
+         <document type="op">0007_dc-2022-5248.gml</document>
+         <document type="op">0042_dc-2022-5228.gml</document>
+         <document type="op">0043_dc-2022-5274.gml</document>
+      </ref>
+      <ref index="15" id="2ce081a1-67f0-4736-91e5-98d38307e2e9">
+         <document type="ow">2ce081a1-67f0-4736-91e5-98d38307e2e9.gml</document>
+      </ref>
+      <ref index="16" id="18d11ef7-97d8-43a2-be80-71d9a4875cb0">
+         <document type="ow">18d11ef7-97d8-43a2-be80-71d9a4875cb0.gml</document>
+      </ref>
+      <ref index="17" id="a284e0fa-978c-4340-ba3a-2a65d5228d68">
+         <document type="ow">a284e0fa-978c-4340-ba3a-2a65d5228d68.gml</document>
+      </ref>
+      <ref index="18" id="c5406512-793b-4f99-b419-b7fd90ff8e1b">
+         <document type="ow">c5406512-793b-4f99-b419-b7fd90ff8e1b.gml</document>
+         <document type="op">0052_dc-2022-5292.gml</document>
+         <document type="op">0053_dc-2022-5215.gml</document>
+      </ref>
+      <ref index="19" id="3e19f2b1-6692-404f-9a21-de0f744c5003">
+         <document type="ow">3e19f2b1-6692-404f-9a21-de0f744c5003.gml</document>
+         <document type="op">0059_dc-2022-5262.gml</document>
+      </ref>
+      <ref index="20" id="cf820277-7baa-4280-a435-3e693264bc81">
+         <document type="ow">cf820277-7baa-4280-a435-3e693264bc81.gml</document>
+      </ref>
+      <ref index="21" id="0c49bb18-c022-4f48-b63e-79f4ddfac186">
+         <document type="ow">0c49bb18-c022-4f48-b63e-79f4ddfac186.gml</document>
+      </ref>
+      <ref index="22" id="1fb492ac-19c7-49bd-b6d0-190af3fb4053">
+         <document type="ow">1fb492ac-19c7-49bd-b6d0-190af3fb4053.gml</document>
+      </ref>
+      <ref index="23" id="9836ffe4-8668-42bc-905a-c74a794daed1">
+         <document type="ow">9836ffe4-8668-42bc-905a-c74a794daed1.gml</document>
+      </ref>
+      <ref index="24" id="7d8b75bd-5111-4530-9400-a708f2aa020d">
+         <document type="ow">7d8b75bd-5111-4530-9400-a708f2aa020d.gml</document>
+         <document type="op">0079_dc-2022-5219.gml</document>
+         <document type="op">0081_dc-2022-5226.gml</document>
+      </ref>
+      <ref index="25" id="db38b7a9-8a52-4867-b087-df3a7f37d5b9">
+         <document type="ow">db38b7a9-8a52-4867-b087-df3a7f37d5b9.gml</document>
+         <document type="op">0011_dc-2022-5294.gml</document>
+         <document type="op">0054_dc-2022-5283.gml</document>
+      </ref>
+      <ref index="26" id="6becebe7-a955-42d2-9997-99c72c82f92d">
+         <document type="ow">6becebe7-a955-42d2-9997-99c72c82f92d.gml</document>
+         <document type="op">0074_dc-2022-5237.gml</document>
+      </ref>
+      <ref index="27" id="2cee8c21-df22-46b0-aaa0-0121dbf3fd5a">
+         <document type="ow">2cee8c21-df22-46b0-aaa0-0121dbf3fd5a.gml</document>
+         <document type="op">0005_dc-2022-5271.gml</document>
+      </ref>
+      <ref index="28" id="d6a3acfd-16b9-49e1-9dda-54b77c7f2333">
+         <document type="ow">d6a3acfd-16b9-49e1-9dda-54b77c7f2333.gml</document>
+         <document type="op">0012_dc-2022-5282.gml</document>
+      </ref>
+      <ref index="29" id="f97f54ac-12b3-485d-80e4-a2d81aa9a0ad">
+         <document type="ow">f97f54ac-12b3-485d-80e4-a2d81aa9a0ad.gml</document>
+      </ref>
+      <ref index="30" id="aa0919fa-0a77-42b0-8e97-6086122c49b1">
+         <document type="ow">aa0919fa-0a77-42b0-8e97-6086122c49b1.gml</document>
+         <document type="op">0027_dc-2022-5280.gml</document>
+         <document type="op">0076_dc-2022-5268.gml</document>
+      </ref>
+      <ref index="31" id="b519ce5a-467b-489c-8365-849a0b051aaa">
+         <document type="ow">b519ce5a-467b-489c-8365-849a0b051aaa.gml</document>
+         <document type="op">0033_dc-2022-5279.gml</document>
+      </ref>
+      <ref index="32" id="374382dd-7e0d-469a-8222-29244ba3d29b">
+         <document type="ow">374382dd-7e0d-469a-8222-29244ba3d29b.gml</document>
+         <document type="op">0035_dc-2022-5278.gml</document>
+      </ref>
+      <ref index="33" id="88ff617b-5ea5-40ba-9e1b-4fb14e20da08">
+         <document type="ow">88ff617b-5ea5-40ba-9e1b-4fb14e20da08.gml</document>
+         <document type="op">0036_dc-2022-5217.gml</document>
+      </ref>
+      <ref index="34" id="5321a779-b256-4f26-9856-aa513e7ab3a8">
+         <document type="ow">5321a779-b256-4f26-9856-aa513e7ab3a8.gml</document>
+         <document type="op">0037_dc-2022-5264.gml</document>
+      </ref>
+      <ref index="35" id="9a197170-8f43-46ae-90ac-cedeb4da958a">
+         <document type="ow">9a197170-8f43-46ae-90ac-cedeb4da958a.gml</document>
+         <document type="op">0038_dc-2022-5235.gml</document>
+      </ref>
+      <ref index="36" id="faca7244-c78a-4251-a6bc-bd99c5fca192">
+         <document type="ow">faca7244-c78a-4251-a6bc-bd99c5fca192.gml</document>
+         <document type="op">0039_dc-2022-5238.gml</document>
+         <document type="op">0040_dc-2022-5256.gml</document>
+      </ref>
+      <ref index="37" id="0881a1d9-4ce8-4905-bdde-ff0d2828b9d0">
+         <document type="ow">0881a1d9-4ce8-4905-bdde-ff0d2828b9d0.gml</document>
+      </ref>
+      <ref index="38" id="b545c576-9ee2-4e7a-84c2-13d31863e4a1">
+         <document type="ow">b545c576-9ee2-4e7a-84c2-13d31863e4a1.gml</document>
+         <document type="op">0041_dc-2022-5221.gml</document>
+      </ref>
+      <ref index="39" id="d3f6ffa3-dfd0-4f45-a2a6-e1cd807a1576">
+         <document type="ow">d3f6ffa3-dfd0-4f45-a2a6-e1cd807a1576.gml</document>
+         <document type="op">0078_dc-2022-5255.gml</document>
+      </ref>
+      <ref index="40" id="ae5f6c88-6709-46c1-98d3-bd449bf2b789">
+         <document type="ow">ae5f6c88-6709-46c1-98d3-bd449bf2b789.gml</document>
+         <document type="op">0001_dc-2022-5249.gml</document>
+      </ref>
+      <ref index="41" id="57c2c0c1-3ea6-4858-94eb-a86cda16021b">
+         <document type="ow">57c2c0c1-3ea6-4858-94eb-a86cda16021b.gml</document>
+         <document type="op">0002_dc-2022-5229.gml</document>
+      </ref>
+      <ref index="42" id="242a5188-0e71-4045-95c3-2656eac28397">
+         <document type="ow">242a5188-0e71-4045-95c3-2656eac28397.gml</document>
+      </ref>
+      <ref index="43" id="3e194f7a-9b6a-456e-bdc4-c13f1752a674">
+         <document type="ow">3e194f7a-9b6a-456e-bdc4-c13f1752a674.gml</document>
+      </ref>
+      <ref index="44" id="d78b7174-edec-41ec-9bf2-d93fc291536d">
+         <document type="ow">d78b7174-edec-41ec-9bf2-d93fc291536d.gml</document>
+         <document type="op">0016_dc-2022-5245.gml</document>
+      </ref>
+      <ref index="45" id="6a85dc33-3d8e-4f6b-8339-dadf9fc4d546">
+         <document type="ow">6a85dc33-3d8e-4f6b-8339-dadf9fc4d546.gml</document>
+         <document type="op">0008_dc-2022-5281.gml</document>
+         <document type="op">0025_dc-2022-5241.gml</document>
+         <document type="op">0046_dc-2022-5273.gml</document>
+         <document type="op">0049_dc-2022-5247.gml</document>
+         <document type="op">0055_dc-2022-5240.gml</document>
+         <document type="op">0062_dc-2022-5267.gml</document>
+         <document type="op">0066_dc-2022-5243.gml</document>
+         <document type="op">0068_dc-2022-5260.gml</document>
+         <document type="op">0071_dc-2022-5266.gml</document>
+      </ref>
+      <ref index="46" id="608fa890-6b2e-4c62-afb9-aeb5fcb7a2be">
+         <document type="ow">608fa890-6b2e-4c62-afb9-aeb5fcb7a2be.gml</document>
+         <document type="op">0009_dc-2022-5230.gml</document>
+         <document type="op">0026_dc-2022-5291.gml</document>
+         <document type="op">0047_dc-2022-5285.gml</document>
+         <document type="op">0050_dc-2022-5220.gml</document>
+         <document type="op">0056_dc-2022-5223.gml</document>
+         <document type="op">0063_dc-2022-5295.gml</document>
+         <document type="op">0067_dc-2022-5290.gml</document>
+         <document type="op">0069_dc-2022-5224.gml</document>
+         <document type="op">0072_dc-2022-5263.gml</document>
+      </ref>
+      <ref index="47" id="3dc111bc-df49-4d90-a176-6cb3ce7458f7">
+         <document type="ow">3dc111bc-df49-4d90-a176-6cb3ce7458f7.gml</document>
+         <document type="op">0030_dc-2022-5257.gml</document>
+      </ref>
+      <ref index="48" id="b1b12977-eac4-4c17-b2e7-068b1d8fcc2e">
+         <document type="ow">b1b12977-eac4-4c17-b2e7-068b1d8fcc2e.gml</document>
+         <document type="op">0034_dc-2022-5222.gml</document>
+      </ref>
+      <ref index="49" id="0c5f3419-eb67-46eb-bee6-217e5d038cf3">
+         <document type="ow">0c5f3419-eb67-46eb-bee6-217e5d038cf3.gml</document>
+      </ref>
+      <ref index="50" id="3c056b6f-22f7-43db-92c5-0dbeed4586fb">
+         <document type="ow">3c056b6f-22f7-43db-92c5-0dbeed4586fb.gml</document>
+      </ref>
+      <ref index="51" id="bb9e7308-f68c-491e-a4b2-42f103c8cc3c">
+         <document type="ow">bb9e7308-f68c-491e-a4b2-42f103c8cc3c.gml</document>
+      </ref>
+      <ref index="52" id="1cda3859-a20b-41af-8a66-876b340b871d">
+         <document type="ow">1cda3859-a20b-41af-8a66-876b340b871d.gml</document>
+      </ref>
+      <ref index="53" id="e89ce22a-6e75-48a8-b0fb-4e482f09e0fc">
+         <document type="ow">e89ce22a-6e75-48a8-b0fb-4e482f09e0fc.gml</document>
+      </ref>
+      <ref index="54" id="97b87f0f-0e62-4b32-8def-c1868893cf06">
+         <document type="ow">97b87f0f-0e62-4b32-8def-c1868893cf06.gml</document>
+      </ref>
+      <ref index="55" id="3169bf17-00a9-4524-b9df-668193775d66">
+         <document type="ow">3169bf17-00a9-4524-b9df-668193775d66.gml</document>
+         <document type="op">0058_dc-2022-5258.gml</document>
+      </ref>
+      <ref index="56" id="3f9fbe3f-068d-440a-8513-79b1519a53fd">
+         <document type="ow">3f9fbe3f-068d-440a-8513-79b1519a53fd.gml</document>
+      </ref>
+      <ref index="57" id="3a8ab447-cb6e-4f47-afa4-4af63fbbbd78">
+         <document type="ow">3a8ab447-cb6e-4f47-afa4-4af63fbbbd78.gml</document>
+      </ref>
+      <ref index="58" id="4f361eaf-1527-42fb-bb20-cd9bb09c34a7">
+         <document type="ow">4f361eaf-1527-42fb-bb20-cd9bb09c34a7.gml</document>
+      </ref>
+      <ref index="59" id="ff04b60f-fe2a-486c-bcba-a83564254c3b">
+         <document type="ow">ff04b60f-fe2a-486c-bcba-a83564254c3b.gml</document>
+      </ref>
+      <ref index="60" id="c232e605-5e3c-4559-9fe3-d8dcc5bea571">
+         <document type="ow">c232e605-5e3c-4559-9fe3-d8dcc5bea571.gml</document>
+      </ref>
+      <ref index="61" id="40eac2ae-6601-474f-9374-113885ba9ebc">
+         <document type="ow">40eac2ae-6601-474f-9374-113885ba9ebc.gml</document>
+      </ref>
+      <ref index="62" id="3e8b60e4-51ce-4563-8075-64379a9ea12f">
+         <document type="ow">3e8b60e4-51ce-4563-8075-64379a9ea12f.gml</document>
+         <document type="op">0070_dc-2022-5236.gml</document>
+      </ref>
+      <ref index="63" id="bc1599d8-9743-40b6-8bd3-8ccd830b0153">
+         <document type="ow">bc1599d8-9743-40b6-8bd3-8ccd830b0153.gml</document>
+      </ref>
+      <ref index="64" id="f694d931-2546-4dd4-adac-c7b4727a8694">
+         <document type="ow">f694d931-2546-4dd4-adac-c7b4727a8694.gml</document>
+      </ref>
+      <ref index="65" id="77f0312c-4285-43f9-9d9c-56959d3d13f7">
+         <document type="ow">77f0312c-4285-43f9-9d9c-56959d3d13f7.gml</document>
+         <document type="op">0073_dc-2022-5265.gml</document>
+      </ref>
+      <ref index="66" id="b2fa0c3f-742b-4637-be3d-ba19d44658a8">
+         <document type="ow">b2fa0c3f-742b-4637-be3d-ba19d44658a8.gml</document>
+      </ref>
+      <ref index="67" id="ec49e596-b109-4995-8985-3be8034abf89">
+         <document type="ow">ec49e596-b109-4995-8985-3be8034abf89.gml</document>
+         <document type="op">0077_dc-2022-5277.gml</document>
+      </ref>
+      <ref index="68" id="ff3f9a97-6825-4b5a-aca5-1251a73e5bb1">
+         <document type="ow">ff3f9a97-6825-4b5a-aca5-1251a73e5bb1.gml</document>
+         <document type="op">0011_dc-2022-5294.gml</document>
+         <document type="op">0032_dc-2022-5218.gml</document>
+      </ref>
+      <ref index="69" id="6fba34d5-d0e6-460a-9a2a-cf068c327820">
+         <document type="ow">6fba34d5-d0e6-460a-9a2a-cf068c327820.gml</document>
+      </ref>
+      <ref index="70" id="3784853c-7ec5-4ffc-9f8e-46a5e1d2da28">
+         <document type="ow">3784853c-7ec5-4ffc-9f8e-46a5e1d2da28.gml</document>
+      </ref>
+      <ref index="71" id="38f9a00e-d1d2-45f4-8edf-583682e99912">
+         <document type="ow">38f9a00e-d1d2-45f4-8edf-583682e99912.gml</document>
+         <document type="op">0011_dc-2022-5294.gml</document>
+         <document type="op">0032_dc-2022-5218.gml</document>
+      </ref>
+      <ref index="72" id="242a6763-39df-48ca-a54c-090edd77c39f">
+         <document type="ow">242a6763-39df-48ca-a54c-090edd77c39f.gml</document>
+      </ref>
+      <ref index="73" id="0eac0b0e-45bc-45ca-a37f-bb3ba70bc773">
+         <document type="ow">0eac0b0e-45bc-45ca-a37f-bb3ba70bc773.gml</document>
+         <document type="op">0060_dc-2022-5289.gml</document>
+      </ref>
+      <ref index="74" id="5bcf96ed-04dc-46f8-910c-564ce90ae0c8">
+         <document type="ow">5bcf96ed-04dc-46f8-910c-564ce90ae0c8.gml</document>
+         <document type="op">0003_dc-2022-5234.gml</document>
+      </ref>
+      <ref index="75" id="776f0ba1-9d3d-4b75-b538-c0a113dea866">
+         <document type="ow">776f0ba1-9d3d-4b75-b538-c0a113dea866.gml</document>
+         <document type="op">0057_dc-2022-5261.gml</document>
+      </ref>
+      <ref index="76" id="85bcb4ee-a222-4d97-bab0-4770ad8a0170">
+         <document type="ow">85bcb4ee-a222-4d97-bab0-4770ad8a0170.gml</document>
+         <document type="op">0004_dc-2022-5270.gml</document>
+      </ref>
+      <ref index="77" id="5ecf244b-a6e5-4d51-840d-d30ddd001d16">
+         <document type="ow">5ecf244b-a6e5-4d51-840d-d30ddd001d16.gml</document>
+         <document type="op">0004_dc-2022-5270.gml</document>
+      </ref>
+      <ref index="78" id="6b4d3d5f-02fd-4dea-8899-9c7509e1c22c">
+         <document type="ow">6b4d3d5f-02fd-4dea-8899-9c7509e1c22c.gml</document>
+         <document type="op">0080_dc-2022-5242.gml</document>
+      </ref>
+      <ref index="79" id="12cabbe9-195b-413c-a0c4-914f4c3eb89f">
+         <document type="ow">12cabbe9-195b-413c-a0c4-914f4c3eb89f.gml</document>
+         <document type="op">0080_dc-2022-5242.gml</document>
+      </ref>
+   </refs>
+   <!--elke noemer, met een verwijzing naar de documenten in OP en OW met een overeenkomstige noemer-->
+   <noemers>
+      <noemer index="1" waarde="horeca categorie 6 begane grond">
+         <document type="ow">0881a1d9-4ce8-4905-bdde-ff0d2828b9d0.gml</document>
+         <document type="op">0040_dc-2022-5256.gml</document>
+      </noemer>
+      <noemer index="2" waarde="religie">
+         <document type="ow">0c49bb18-c022-4f48-b63e-79f4ddfac186.gml</document>
+         <document type="op">0053_dc-2022-5215.gml</document>
+         <document type="op">0064_dc-2022-5287.gml</document>
+      </noemer>
+      <noemer index="3" waarde="kinderopvang">
+         <document type="ow">0c5f3419-eb67-46eb-bee6-217e5d038cf3.gml</document>
+         <document type="op">0046_dc-2022-5273.gml</document>
+      </noemer>
+      <noemer index="4" waarde="op slot gebieden">
+         <document type="ow">0eac0b0e-45bc-45ca-a37f-bb3ba70bc773.gml</document>
+         <document type="op">0060_dc-2022-5289.gml</document>
+      </noemer>
+      <noemer index="5" waarde="wonen Prinsejagt-Driehoeksbos">
+         <document type="ow">12cabbe9-195b-413c-a0c4-914f4c3eb89f.gml</document>
+         <document type="op">0080_dc-2022-5242.gml</document>
+      </noemer>
+      <noemer index="6" waarde="Lage verwachting">
+         <document type="ow">18d11ef7-97d8-43a2-be80-71d9a4875cb0.gml</document>
+         <document type="op">0004_dc-2022-5270.gml</document>
+         <document type="op">0048_dc-2022-5284.gml</document>
+      </noemer>
+      <noemer index="7" waarde="levensbeschouwelijke voorzieningen begane grond">
+         <document type="ow">1cda3859-a20b-41af-8a66-876b340b871d.gml</document>
+         <document type="op">0050_dc-2022-5220.gml</document>
+      </noemer>
+      <noemer index="8" waarde="seksinrichting">
+         <document type="ow">1fb492ac-19c7-49bd-b6d0-190af3fb4053.gml</document>
+         <document type="op">0065_dc-2022-5231.gml</document>
+      </noemer>
+      <noemer index="9" waarde="garagebox">
+         <document type="ow">21af98a1-240c-4910-af6f-53e7bc996d6e.gml</document>
+         <document type="op">0028_dc-2022-5253.gml</document>
+      </noemer>
+      <noemer index="10" waarde="beschermd en/of verzorgd wonen">
+         <document type="ow">242a5188-0e71-4045-95c3-2656eac28397.gml</document>
+         <document type="op">0008_dc-2022-5281.gml</document>
+      </noemer>
+      <noemer index="11" waarde="centrumgebied">
+         <document type="ow">242a6763-39df-48ca-a54c-090edd77c39f.gml</document>
+         <document type="op">0015_dc-2022-5272.gml</document>
+      </noemer>
+      <noemer index="12" waarde="karakteristiek">
+         <document type="ow">2ce081a1-67f0-4736-91e5-98d38307e2e9.gml</document>
+         <document type="op">0045_dc-2022-5252.gml</document>
+      </noemer>
+      <noemer index="13" waarde="Bedrijf">
+         <document type="ow">2cee8c21-df22-46b0-aaa0-0121dbf3fd5a.gml</document>
+         <document type="op">0005_dc-2022-5271.gml</document>
+      </noemer>
+      <noemer index="14" waarde="nutsvoorzieningen">
+         <document type="ow">3169bf17-00a9-4524-b9df-668193775d66.gml</document>
+         <document type="op">0058_dc-2022-5258.gml</document>
+      </noemer>
+      <noemer index="15" waarde="horeca categorie 1a begane grond">
+         <document type="ow">374382dd-7e0d-469a-8222-29244ba3d29b.gml</document>
+         <document type="op">0035_dc-2022-5278.gml</document>
+      </noemer>
+      <noemer index="16" waarde="maximum bouwhoogte (m) : 10">
+         <document type="ow">3784853c-7ec5-4ffc-9f8e-46a5e1d2da28.gml</document>
+         <document type="op">0011_dc-2022-5294.gml</document>
+      </noemer>
+      <noemer index="17" waarde="maximum bouwhoogte (m) : 12">
+         <document type="ow">38f9a00e-d1d2-45f4-8edf-583682e99912.gml</document>
+         <document type="op">0011_dc-2022-5294.gml</document>
+      </noemer>
+      <noemer index="18"
+              waarde="openbare dienstverlening en openbaar bestuur begane grond">
+         <document type="ow">3a8ab447-cb6e-4f47-afa4-4af63fbbbd78.gml</document>
+         <document type="op">0063_dc-2022-5295.gml</document>
+      </noemer>
+      <noemer index="19" waarde="kinderopvang begane grond">
+         <document type="ow">3c056b6f-22f7-43db-92c5-0dbeed4586fb.gml</document>
+         <document type="op">0047_dc-2022-5285.gml</document>
+      </noemer>
+      <noemer index="20" waarde="geluidwerende voorzieningen">
+         <document type="ow">3dc111bc-df49-4d90-a176-6cb3ce7458f7.gml</document>
+         <document type="op">0030_dc-2022-5257.gml</document>
+      </noemer>
+      <noemer index="21" waarde="beschermd en/of verzorgd wonen begane grond">
+         <document type="ow">3e194f7a-9b6a-456e-bdc4-c13f1752a674.gml</document>
+         <document type="op">0009_dc-2022-5230.gml</document>
+      </noemer>
+      <noemer index="22" waarde="onzelfstandige woonruimte">
+         <document type="ow">3e19f2b1-6692-404f-9a21-de0f744c5003.gml</document>
+         <document type="op">0059_dc-2022-5262.gml</document>
+      </noemer>
+      <noemer index="23" waarde="speelvoorzieningen">
+         <document type="ow">3e8b60e4-51ce-4563-8075-64379a9ea12f.gml</document>
+         <document type="op">0070_dc-2022-5236.gml</document>
+      </noemer>
+      <noemer index="24" waarde="openbare dienstverlening en openbaar bestuur">
+         <document type="ow">3f9fbe3f-068d-440a-8513-79b1519a53fd.gml</document>
+         <document type="op">0062_dc-2022-5267.gml</document>
+      </noemer>
+      <noemer index="25" waarde="sociaal-medische voorzieningen begane grond">
+         <document type="ow">40eac2ae-6601-474f-9374-113885ba9ebc.gml</document>
+         <document type="op">0069_dc-2022-5224.gml</document>
+      </noemer>
+      <noemer index="26" waarde="detailhandel begane grond en op verdiepingingen">
+         <document type="ow">49940098-6e7b-46e7-aad2-3233b777a1b7.gml</document>
+         <document type="op">0019_dc-2022-5216.gml</document>
+         <document type="op">0021_dc-2022-5232.gml</document>
+      </noemer>
+      <noemer index="27" waarde="sociaal-culturele voorzieningen">
+         <document type="ow">4f361eaf-1527-42fb-bb20-cd9bb09c34a7.gml</document>
+         <document type="op">0066_dc-2022-5243.gml</document>
+      </noemer>
+      <noemer index="28" waarde="horeca categorie 2b begane grond">
+         <document type="ow">5321a779-b256-4f26-9856-aa513e7ab3a8.gml</document>
+         <document type="op">0037_dc-2022-5264.gml</document>
+      </noemer>
+      <noemer index="29" waarde="activiteiten ten dienste van maatschappelijk">
+         <document type="ow">57c2c0c1-3ea6-4858-94eb-a86cda16021b.gml</document>
+         <document type="op">0002_dc-2022-5229.gml</document>
+      </noemer>
+      <noemer index="30" waarde="agrarisch met detailhandel">
+         <document type="ow">5bcf96ed-04dc-46f8-910c-564ce90ae0c8.gml</document>
+         <document type="op">0003_dc-2022-5234.gml</document>
+      </noemer>
+      <noemer index="31" waarde="Hoge verwachting">
+         <document type="ow">5ecf244b-a6e5-4d51-840d-d30ddd001d16.gml</document>
+         <document type="op">0004_dc-2022-5270.gml</document>
+      </noemer>
+      <noemer index="32" waarde="educatieve voorzieningen begane grond">
+         <document type="ow">608fa890-6b2e-4c62-afb9-aeb5fcb7a2be.gml</document>
+         <document type="op">0026_dc-2022-5291.gml</document>
+      </noemer>
+      <noemer index="33" waarde="educatieve voorzieningen">
+         <document type="ow">6a85dc33-3d8e-4f6b-8339-dadf9fc4d546.gml</document>
+         <document type="op">0025_dc-2022-5241.gml</document>
+      </noemer>
+      <noemer index="34" waarde="wonen Hemelrijken">
+         <document type="ow">6b4d3d5f-02fd-4dea-8899-9c7509e1c22c.gml</document>
+         <document type="op">0080_dc-2022-5242.gml</document>
+      </noemer>
+      <noemer index="35" waarde="Verkeer">
+         <document type="ow">6becebe7-a955-42d2-9997-99c72c82f92d.gml</document>
+         <document type="op">0074_dc-2022-5237.gml</document>
+      </noemer>
+      <noemer index="36" waarde="maximum goothoogte (m) : 10">
+         <document type="ow">6fba34d5-d0e6-460a-9a2a-cf068c327820.gml</document>
+         <document type="op">0032_dc-2022-5218.gml</document>
+      </noemer>
+      <noemer index="37" waarde="geen bijbehorende bouwwerken">
+         <document type="ow">75a87788-8621-49c2-8d59-b42c9006fee2.gml</document>
+         <document type="op">0029_dc-2022-5293.gml</document>
+      </noemer>
+      <noemer index="38" waarde="natuur">
+         <document type="ow">776f0ba1-9d3d-4b75-b538-c0a113dea866.gml</document>
+         <document type="op">0057_dc-2022-5261.gml</document>
+      </noemer>
+      <noemer index="39" waarde="tuinen">
+         <document type="ow">77f0312c-4285-43f9-9d9c-56959d3d13f7.gml</document>
+         <document type="op">0073_dc-2022-5265.gml</document>
+      </noemer>
+      <noemer index="40" waarde="wonen">
+         <document type="ow">7d8b75bd-5111-4530-9400-a708f2aa020d.gml</document>
+         <document type="op">0079_dc-2022-5219.gml</document>
+         <document type="op">0081_dc-2022-5226.gml</document>
+      </noemer>
+      <noemer index="41" waarde="Middelhoge verwachting">
+         <document type="ow">85bcb4ee-a222-4d97-bab0-4770ad8a0170.gml</document>
+         <document type="op">0004_dc-2022-5270.gml</document>
+      </noemer>
+      <noemer index="42" waarde="horeca categorie 1b begane grond">
+         <document type="ow">88ff617b-5ea5-40ba-9e1b-4fb14e20da08.gml</document>
+         <document type="op">0036_dc-2022-5217.gml</document>
+      </noemer>
+      <noemer index="43" waarde="Gemeentelijk monument">
+         <document type="ow">8ceeed04-61f4-4d30-8286-9743497ef4d2.gml</document>
+         <document type="op">0010_dc-2022-5276.gml</document>
+         <document type="op">0031_dc-2022-5254.gml</document>
+      </noemer>
+      <noemer index="44" waarde="medische voorzieningen begane grond">
+         <document type="ow">97b87f0f-0e62-4b32-8def-c1868893cf06.gml</document>
+         <document type="op">0056_dc-2022-5223.gml</document>
+      </noemer>
+      <noemer index="45" waarde="verkeer uitgesloten">
+         <document type="ow">9836ffe4-8668-42bc-905a-c74a794daed1.gml</document>
+         <document type="op">0075_dc-2022-5275.gml</document>
+      </noemer>
+      <noemer index="46" waarde="horeca categorie 3 begane grond">
+         <document type="ow">9a197170-8f43-46ae-90ac-cedeb4da958a.gml</document>
+         <document type="op">0038_dc-2022-5235.gml</document>
+      </noemer>
+      <noemer index="47" waarde="casino">
+         <document type="ow">9d738533-f3b0-4040-8c1f-d97765e1cf5f.gml</document>
+         <document type="op">0014_dc-2022-5225.gml</document>
+      </noemer>
+      <noemer index="48" waarde="detailhandel volumineus">
+         <document type="ow">a095c487-51f0-498f-86b2-6ecda30c5c99.gml</document>
+         <document type="op">0020_dc-2022-5250.gml</document>
+         <document type="op">0021_dc-2022-5232.gml</document>
+      </noemer>
+      <noemer index="49" waarde="maatschappelijk begane grond">
+         <document type="ow">a284e0fa-978c-4340-ba3a-2a65d5228d68.gml</document>
+         <document type="op">0051_dc-2022-5246.gml</document>
+         <document type="op">0053_dc-2022-5215.gml</document>
+      </noemer>
+      <noemer index="50" waarde="erven en terreinen">
+         <document type="ow">aa0919fa-0a77-42b0-8e97-6086122c49b1.gml</document>
+         <document type="op">0027_dc-2022-5280.gml</document>
+      </noemer>
+      <noemer index="51" waarde="(ondergrondse) parkeervoorzieningen">
+         <document type="ow">ae5f6c88-6709-46c1-98d3-bd449bf2b789.gml</document>
+         <document type="op">0001_dc-2022-5249.gml</document>
+      </noemer>
+      <noemer index="52" waarde="groenvoorzieningen">
+         <document type="ow">b1b12977-eac4-4c17-b2e7-068b1d8fcc2e.gml</document>
+         <document type="op">0034_dc-2022-5222.gml</document>
+      </noemer>
+      <noemer index="53" waarde="voorzieningen voor opwekken duurzame energie">
+         <document type="ow">b2fa0c3f-742b-4637-be3d-ba19d44658a8.gml</document>
+         <document type="op">0076_dc-2022-5268.gml</document>
+      </noemer>
+      <noemer index="54" waarde="groentest2">
+         <document type="ow">b519ce5a-467b-489c-8365-849a0b051aaa.gml</document>
+         <document type="op">0033_dc-2022-5279.gml</document>
+      </noemer>
+      <noemer index="55" waarde="kantoor">
+         <document type="ow">b545c576-9ee2-4e7a-84c2-13d31863e4a1.gml</document>
+         <document type="op">0041_dc-2022-5221.gml</document>
+      </noemer>
+      <noemer index="56" waarde="bedrijf categorie 1 en 2">
+         <document type="ow">b57f4d44-3397-4872-9222-f2352986a181.gml</document>
+         <document type="op">0006_dc-2022-5227.gml</document>
+      </noemer>
+      <noemer index="57" waarde="kantoren begane grond">
+         <document type="ow">b962f047-14f1-44eb-89c9-bc1834ff59a3.gml</document>
+         <document type="op">0042_dc-2022-5228.gml</document>
+         <document type="op">0043_dc-2022-5274.gml</document>
+      </noemer>
+      <noemer index="58" waarde="levensbeschouwelijke voorzieningen">
+         <document type="ow">bb9e7308-f68c-491e-a4b2-42f103c8cc3c.gml</document>
+         <document type="op">0049_dc-2022-5247.gml</document>
+      </noemer>
+      <noemer index="59" waarde="sport en sportieve recreatie">
+         <document type="ow">bc1599d8-9743-40b6-8bd3-8ccd830b0153.gml</document>
+         <document type="op">0071_dc-2022-5266.gml</document>
+      </noemer>
+      <noemer index="60" waarde="dienstverlening begane grond">
+         <document type="ow">c10e5ca1-06be-49c3-b8df-ceb2258e237b.gml</document>
+         <document type="op">0023_dc-2022-5251.gml</document>
+      </noemer>
+      <noemer index="61" waarde="sociaal-medische voorzieningen">
+         <document type="ow">c232e605-5e3c-4559-9fe3-d8dcc5bea571.gml</document>
+         <document type="op">0068_dc-2022-5260.gml</document>
+      </noemer>
+      <noemer index="62" waarde="maatschappelijk begane grond en eerste verdieping">
+         <document type="ow">c5406512-793b-4f99-b419-b7fd90ff8e1b.gml</document>
+         <document type="op">0052_dc-2022-5292.gml</document>
+         <document type="op">0053_dc-2022-5215.gml</document>
+      </noemer>
+      <noemer index="63" waarde="openbaar gebied">
+         <document type="ow">cf820277-7baa-4280-a435-3e693264bc81.gml</document>
+         <document type="op">0061_dc-2022-5233.gml</document>
+      </noemer>
+      <noemer index="64" waarde="wegen en paden">
+         <document type="ow">d3f6ffa3-dfd0-4f45-a2a6-e1cd807a1576.gml</document>
+         <document type="op">0078_dc-2022-5255.gml</document>
+      </noemer>
+      <noemer index="65" waarde="detailhandel begane grond">
+         <document type="ow">d6166ab8-aada-486d-b537-0a1c57446d3d.gml</document>
+         <document type="op">0018_dc-2022-5269.gml</document>
+         <document type="op">0021_dc-2022-5232.gml</document>
+      </noemer>
+      <noemer index="66" waarde="bouwvlak">
+         <document type="ow">d6a3acfd-16b9-49e1-9dda-54b77c7f2333.gml</document>
+         <document type="op">0012_dc-2022-5282.gml</document>
+      </noemer>
+      <noemer index="67" waarde="dakterrassen">
+         <document type="ow">d78b7174-edec-41ec-9bf2-d93fc291536d.gml</document>
+         <document type="op">0016_dc-2022-5245.gml</document>
+      </noemer>
+      <noemer index="68" waarde="maximum bouwhoogte 9 meter">
+         <document type="ow">db38b7a9-8a52-4867-b087-df3a7f37d5b9.gml</document>
+         <document type="op">0011_dc-2022-5294.gml</document>
+         <document type="op">0054_dc-2022-5283.gml</document>
+      </noemer>
+      <noemer index="69" waarde="dienstverlening begane grond en eerste verdieping">
+         <document type="ow">de643956-d6ad-4b46-9f50-a34f0d33a5a8.gml</document>
+         <document type="op">0024_dc-2022-5244.gml</document>
+      </noemer>
+      <noemer index="70" waarde="kantoren begane grond en eerste verdieping">
+         <document type="ow">de643956-d6ad-4b46-9f50-a34f0d33a5a8.gml</document>
+         <document type="op">0042_dc-2022-5228.gml</document>
+         <document type="op">0044_dc-2022-5286.gml</document>
+      </noemer>
+      <noemer index="71" waarde="bedrijf categorie 1 en 2 op begane grond">
+         <document type="ow">e30539fb-a049-425a-b60e-c00e53aa9963.gml</document>
+         <document type="op">0007_dc-2022-5248.gml</document>
+      </noemer>
+      <noemer index="72" waarde="medische voorzieningen">
+         <document type="ow">e89ce22a-6e75-48a8-b0fb-4e482f09e0fc.gml</document>
+         <document type="op">0055_dc-2022-5240.gml</document>
+      </noemer>
+      <noemer index="73" waarde="water en waterhuishoudkundige voorzieningen">
+         <document type="ow">ec49e596-b109-4995-8985-3be8034abf89.gml</document>
+         <document type="op">0077_dc-2022-5277.gml</document>
+      </noemer>
+      <noemer index="74" waarde="cafe">
+         <document type="ow">f35c4bf4-6b53-4489-bbd9-6aafb1e6cf37.gml</document>
+         <document type="op">0013_dc-2022-5259.gml</document>
+      </noemer>
+      <noemer index="75" waarde="sport en sportieve recreatie begane grond">
+         <document type="ow">f694d931-2546-4dd4-adac-c7b4727a8694.gml</document>
+         <document type="op">0072_dc-2022-5263.gml</document>
+      </noemer>
+      <noemer index="76" waarde="dienstverlening">
+         <document type="ow">f97f54ac-12b3-485d-80e4-a2d81aa9a0ad.gml</document>
+         <document type="op">0022_dc-2022-5288.gml</document>
+      </noemer>
+      <noemer index="77" waarde="horeca categorie 5 begane grond">
+         <document type="ow">faca7244-c78a-4251-a6bc-bd99c5fca192.gml</document>
+         <document type="op">0039_dc-2022-5238.gml</document>
+      </noemer>
+      <noemer index="78" waarde="sociaal-culturele voorzieningen begane grond">
+         <document type="ow">ff04b60f-fe2a-486c-bcba-a83564254c3b.gml</document>
+         <document type="op">0067_dc-2022-5290.gml</document>
+      </noemer>
+      <noemer index="79" waarde="maximum goothoogte (m) : 6">
+         <document type="ow">ff3f9a97-6825-4b5a-aca5-1251a73e5bb1.gml</document>
+         <document type="op">0032_dc-2022-5218.gml</document>
+      </noemer>
+      <noemer index="80" waarde="detailhandel">
+         <document type="ow">ffa57e46-49f5-4a47-ad18-242d9923c93a.gml</document>
+         <document type="op">0017_dc-2022-5239.gml</document>
+         <document type="op">0021_dc-2022-5232.gml</document>
+      </noemer>
+      <noemer index="81" waarde="Ambtsgebied Gemeente Eindhoven">
+         <document type="ow">GM0772.gml</document>
+      </noemer>
+   </noemers>
+   <!--elke content bevat de hash van de onderliggende posList, met een verwijzing naar de documenten in OP en OW waarvan de hash van de onderliggende posList overeenkomt-->
+   <contents>
+      <content index="1" hash="3a16797524eb69155c70b27f57ca7f6a">
+         <document type="ow" id="0881a1d9-4ce8-4905-bdde-ff0d2828b9d0">0881a1d9-4ce8-4905-bdde-ff0d2828b9d0.gml</document>
+         <document type="ow" id="faca7244-c78a-4251-a6bc-bd99c5fca192">faca7244-c78a-4251-a6bc-bd99c5fca192.gml</document>
+         <document type="op" id="faca7244-c78a-4251-a6bc-bd99c5fca192">0039_dc-2022-5238.gml</document>
+         <document type="op" id="faca7244-c78a-4251-a6bc-bd99c5fca192">0040_dc-2022-5256.gml</document>
+      </content>
+      <content index="2" hash="8a7c7c7ae2a1ba1c843f56a559aaa8b1">
+         <document type="ow" id="0c49bb18-c022-4f48-b63e-79f4ddfac186">0c49bb18-c022-4f48-b63e-79f4ddfac186.gml</document>
+      </content>
+      <content index="3" hash="7ac8871d6a5e35bc102d4255c465bced">
+         <document type="ow" id="0c5f3419-eb67-46eb-bee6-217e5d038cf3">0c5f3419-eb67-46eb-bee6-217e5d038cf3.gml</document>
+         <document type="ow" id="242a5188-0e71-4045-95c3-2656eac28397">242a5188-0e71-4045-95c3-2656eac28397.gml</document>
+         <document type="ow" id="3f9fbe3f-068d-440a-8513-79b1519a53fd">3f9fbe3f-068d-440a-8513-79b1519a53fd.gml</document>
+         <document type="ow" id="4f361eaf-1527-42fb-bb20-cd9bb09c34a7">4f361eaf-1527-42fb-bb20-cd9bb09c34a7.gml</document>
+         <document type="ow" id="6a85dc33-3d8e-4f6b-8339-dadf9fc4d546">6a85dc33-3d8e-4f6b-8339-dadf9fc4d546.gml</document>
+         <document type="ow" id="bb9e7308-f68c-491e-a4b2-42f103c8cc3c">bb9e7308-f68c-491e-a4b2-42f103c8cc3c.gml</document>
+         <document type="ow" id="bc1599d8-9743-40b6-8bd3-8ccd830b0153">bc1599d8-9743-40b6-8bd3-8ccd830b0153.gml</document>
+         <document type="ow" id="c232e605-5e3c-4559-9fe3-d8dcc5bea571">c232e605-5e3c-4559-9fe3-d8dcc5bea571.gml</document>
+         <document type="ow" id="e89ce22a-6e75-48a8-b0fb-4e482f09e0fc">e89ce22a-6e75-48a8-b0fb-4e482f09e0fc.gml</document>
+         <document type="op" id="6a85dc33-3d8e-4f6b-8339-dadf9fc4d546">0008_dc-2022-5281.gml</document>
+         <document type="op" id="6a85dc33-3d8e-4f6b-8339-dadf9fc4d546">0025_dc-2022-5241.gml</document>
+         <document type="op" id="6a85dc33-3d8e-4f6b-8339-dadf9fc4d546">0046_dc-2022-5273.gml</document>
+         <document type="op" id="6a85dc33-3d8e-4f6b-8339-dadf9fc4d546">0049_dc-2022-5247.gml</document>
+         <document type="op" id="6a85dc33-3d8e-4f6b-8339-dadf9fc4d546">0055_dc-2022-5240.gml</document>
+         <document type="op" id="6a85dc33-3d8e-4f6b-8339-dadf9fc4d546">0062_dc-2022-5267.gml</document>
+         <document type="op" id="6a85dc33-3d8e-4f6b-8339-dadf9fc4d546">0066_dc-2022-5243.gml</document>
+         <document type="op" id="6a85dc33-3d8e-4f6b-8339-dadf9fc4d546">0068_dc-2022-5260.gml</document>
+         <document type="op" id="6a85dc33-3d8e-4f6b-8339-dadf9fc4d546">0071_dc-2022-5266.gml</document>
+      </content>
+      <content index="4" hash="6f9196564bd36063f198774f1007b046">
+         <document type="ow" id="0eac0b0e-45bc-45ca-a37f-bb3ba70bc773">0eac0b0e-45bc-45ca-a37f-bb3ba70bc773.gml</document>
+         <document type="op" id="0eac0b0e-45bc-45ca-a37f-bb3ba70bc773">0060_dc-2022-5289.gml</document>
+      </content>
+      <content index="5" hash="849267622dcce481e263b0f588f1b16e">
+         <document type="ow" id="12cabbe9-195b-413c-a0c4-914f4c3eb89f">12cabbe9-195b-413c-a0c4-914f4c3eb89f.gml</document>
+         <document type="op" id="12cabbe9-195b-413c-a0c4-914f4c3eb89f">0080_dc-2022-5242.gml</document>
+      </content>
+      <content index="6" hash="17066142c6f0e6e461ec0a9f47cd5213">
+         <document type="ow" id="18d11ef7-97d8-43a2-be80-71d9a4875cb0">18d11ef7-97d8-43a2-be80-71d9a4875cb0.gml</document>
+      </content>
+      <content index="7" hash="3412fb491fda03da607648b3442d755c">
+         <document type="ow" id="1cda3859-a20b-41af-8a66-876b340b871d">1cda3859-a20b-41af-8a66-876b340b871d.gml</document>
+         <document type="ow" id="3a8ab447-cb6e-4f47-afa4-4af63fbbbd78">3a8ab447-cb6e-4f47-afa4-4af63fbbbd78.gml</document>
+         <document type="ow" id="3c056b6f-22f7-43db-92c5-0dbeed4586fb">3c056b6f-22f7-43db-92c5-0dbeed4586fb.gml</document>
+         <document type="ow" id="3e194f7a-9b6a-456e-bdc4-c13f1752a674">3e194f7a-9b6a-456e-bdc4-c13f1752a674.gml</document>
+         <document type="ow" id="40eac2ae-6601-474f-9374-113885ba9ebc">40eac2ae-6601-474f-9374-113885ba9ebc.gml</document>
+         <document type="ow" id="608fa890-6b2e-4c62-afb9-aeb5fcb7a2be">608fa890-6b2e-4c62-afb9-aeb5fcb7a2be.gml</document>
+         <document type="ow" id="97b87f0f-0e62-4b32-8def-c1868893cf06">97b87f0f-0e62-4b32-8def-c1868893cf06.gml</document>
+         <document type="ow" id="f694d931-2546-4dd4-adac-c7b4727a8694">f694d931-2546-4dd4-adac-c7b4727a8694.gml</document>
+         <document type="ow" id="ff04b60f-fe2a-486c-bcba-a83564254c3b">ff04b60f-fe2a-486c-bcba-a83564254c3b.gml</document>
+         <document type="op" id="608fa890-6b2e-4c62-afb9-aeb5fcb7a2be">0009_dc-2022-5230.gml</document>
+         <document type="op" id="608fa890-6b2e-4c62-afb9-aeb5fcb7a2be">0026_dc-2022-5291.gml</document>
+         <document type="op" id="608fa890-6b2e-4c62-afb9-aeb5fcb7a2be">0047_dc-2022-5285.gml</document>
+         <document type="op" id="608fa890-6b2e-4c62-afb9-aeb5fcb7a2be">0050_dc-2022-5220.gml</document>
+         <document type="op" id="608fa890-6b2e-4c62-afb9-aeb5fcb7a2be">0056_dc-2022-5223.gml</document>
+         <document type="op" id="608fa890-6b2e-4c62-afb9-aeb5fcb7a2be">0063_dc-2022-5295.gml</document>
+         <document type="op" id="608fa890-6b2e-4c62-afb9-aeb5fcb7a2be">0067_dc-2022-5290.gml</document>
+         <document type="op" id="608fa890-6b2e-4c62-afb9-aeb5fcb7a2be">0069_dc-2022-5224.gml</document>
+         <document type="op" id="608fa890-6b2e-4c62-afb9-aeb5fcb7a2be">0072_dc-2022-5263.gml</document>
+      </content>
+      <content index="8" hash="1deae7e11b34bd3515ab0d7b523df270">
+         <document type="ow" id="1fb492ac-19c7-49bd-b6d0-190af3fb4053">1fb492ac-19c7-49bd-b6d0-190af3fb4053.gml</document>
+      </content>
+      <content index="9" hash="6b00cbda8c0187a3035bbb48c053d591">
+         <document type="ow" id="21af98a1-240c-4910-af6f-53e7bc996d6e">21af98a1-240c-4910-af6f-53e7bc996d6e.gml</document>
+      </content>
+      <content index="10" hash="babe08db79515ff94f90a0172a37a465">
+         <document type="ow" id="242a6763-39df-48ca-a54c-090edd77c39f">242a6763-39df-48ca-a54c-090edd77c39f.gml</document>
+         <document type="op" id="0afddb0e-2cae-4dcd-92a3-9a23b3292a93">0015_dc-2022-5272.gml</document>
+      </content>
+      <content index="11" hash="a8f7a6565b847f2e353e812ca5b11c70">
+         <document type="ow" id="2ce081a1-67f0-4736-91e5-98d38307e2e9">2ce081a1-67f0-4736-91e5-98d38307e2e9.gml</document>
+      </content>
+      <content index="12" hash="1f619c6282e6e018f163c3d97bc54063">
+         <document type="ow" id="2cee8c21-df22-46b0-aaa0-0121dbf3fd5a">2cee8c21-df22-46b0-aaa0-0121dbf3fd5a.gml</document>
+         <document type="op" id="2cee8c21-df22-46b0-aaa0-0121dbf3fd5a">0005_dc-2022-5271.gml</document>
+      </content>
+      <content index="13" hash="327bf3e01413ced39bf753a7718a8830">
+         <document type="ow" id="3169bf17-00a9-4524-b9df-668193775d66">3169bf17-00a9-4524-b9df-668193775d66.gml</document>
+         <document type="op" id="3169bf17-00a9-4524-b9df-668193775d66">0058_dc-2022-5258.gml</document>
+      </content>
+      <content index="14" hash="cc968c56aa5d84f9ead062e5c1384cc8">
+         <document type="ow" id="374382dd-7e0d-469a-8222-29244ba3d29b">374382dd-7e0d-469a-8222-29244ba3d29b.gml</document>
+         <document type="op" id="374382dd-7e0d-469a-8222-29244ba3d29b">0035_dc-2022-5278.gml</document>
+      </content>
+      <content index="15" hash="37b70029e1eaf5df06b2b61fc6926039">
+         <document type="ow" id="3784853c-7ec5-4ffc-9f8e-46a5e1d2da28">3784853c-7ec5-4ffc-9f8e-46a5e1d2da28.gml</document>
+         <document type="ow" id="ff3f9a97-6825-4b5a-aca5-1251a73e5bb1">ff3f9a97-6825-4b5a-aca5-1251a73e5bb1.gml</document>
+         <document type="op" id="ff3f9a97-6825-4b5a-aca5-1251a73e5bb1">0011_dc-2022-5294.gml</document>
+         <document type="op" id="ff3f9a97-6825-4b5a-aca5-1251a73e5bb1">0032_dc-2022-5218.gml</document>
+      </content>
+      <content index="16" hash="d15bfe307fa3bdd289568af01fd30443">
+         <document type="ow" id="38f9a00e-d1d2-45f4-8edf-583682e99912">38f9a00e-d1d2-45f4-8edf-583682e99912.gml</document>
+         <document type="ow" id="6fba34d5-d0e6-460a-9a2a-cf068c327820">6fba34d5-d0e6-460a-9a2a-cf068c327820.gml</document>
+         <document type="op" id="38f9a00e-d1d2-45f4-8edf-583682e99912">0011_dc-2022-5294.gml</document>
+         <document type="op" id="38f9a00e-d1d2-45f4-8edf-583682e99912">0032_dc-2022-5218.gml</document>
+      </content>
+      <content index="17" hash="2e8616b545193b4aae2be82a30632166">
+         <document type="ow" id="3dc111bc-df49-4d90-a176-6cb3ce7458f7">3dc111bc-df49-4d90-a176-6cb3ce7458f7.gml</document>
+         <document type="op" id="3dc111bc-df49-4d90-a176-6cb3ce7458f7">0030_dc-2022-5257.gml</document>
+      </content>
+      <content index="18" hash="795b16123c6cc261b96ea7b222fbab17">
+         <document type="ow" id="3e19f2b1-6692-404f-9a21-de0f744c5003">3e19f2b1-6692-404f-9a21-de0f744c5003.gml</document>
+         <document type="op" id="3e19f2b1-6692-404f-9a21-de0f744c5003">0059_dc-2022-5262.gml</document>
+      </content>
+      <content index="19" hash="e288c0df4957589df4aa9bb5ef1a2f77">
+         <document type="ow" id="3e8b60e4-51ce-4563-8075-64379a9ea12f">3e8b60e4-51ce-4563-8075-64379a9ea12f.gml</document>
+         <document type="op" id="3e8b60e4-51ce-4563-8075-64379a9ea12f">0070_dc-2022-5236.gml</document>
+      </content>
+      <content index="20" hash="14e59e6031b08eaeb234d2a0447d2053">
+         <document type="ow" id="49940098-6e7b-46e7-aad2-3233b777a1b7">49940098-6e7b-46e7-aad2-3233b777a1b7.gml</document>
+         <document type="ow" id="f97f54ac-12b3-485d-80e4-a2d81aa9a0ad">f97f54ac-12b3-485d-80e4-a2d81aa9a0ad.gml</document>
+         <document type="op" id="49940098-6e7b-46e7-aad2-3233b777a1b7">0019_dc-2022-5216.gml</document>
+         <document type="op" id="49940098-6e7b-46e7-aad2-3233b777a1b7">0021_dc-2022-5232.gml</document>
+         <document type="op" id="49940098-6e7b-46e7-aad2-3233b777a1b7">0022_dc-2022-5288.gml</document>
+      </content>
+      <content index="21" hash="4ba81fe3373c1692181116a42f6cdff9">
+         <document type="ow" id="5321a779-b256-4f26-9856-aa513e7ab3a8">5321a779-b256-4f26-9856-aa513e7ab3a8.gml</document>
+         <document type="op" id="5321a779-b256-4f26-9856-aa513e7ab3a8">0037_dc-2022-5264.gml</document>
+      </content>
+      <content index="22" hash="e3f6a90076209a5621ba67b6f7eb30a2">
+         <document type="ow" id="57c2c0c1-3ea6-4858-94eb-a86cda16021b">57c2c0c1-3ea6-4858-94eb-a86cda16021b.gml</document>
+         <document type="op" id="57c2c0c1-3ea6-4858-94eb-a86cda16021b">0002_dc-2022-5229.gml</document>
+      </content>
+      <content index="23" hash="6077f1234c8bda303b6199c61af19d2f">
+         <document type="ow" id="5bcf96ed-04dc-46f8-910c-564ce90ae0c8">5bcf96ed-04dc-46f8-910c-564ce90ae0c8.gml</document>
+         <document type="op" id="5bcf96ed-04dc-46f8-910c-564ce90ae0c8">0003_dc-2022-5234.gml</document>
+      </content>
+      <content index="24" hash="c94e18fe95398a92f38c17eab2707fe6">
+         <document type="ow" id="5ecf244b-a6e5-4d51-840d-d30ddd001d16">5ecf244b-a6e5-4d51-840d-d30ddd001d16.gml</document>
+         <document type="op" id="5ecf244b-a6e5-4d51-840d-d30ddd001d16">0004_dc-2022-5270.gml</document>
+      </content>
+      <content index="25" hash="7a66208bfd5ba27312446307d5e81709">
+         <document type="ow" id="6b4d3d5f-02fd-4dea-8899-9c7509e1c22c">6b4d3d5f-02fd-4dea-8899-9c7509e1c22c.gml</document>
+         <document type="op" id="6b4d3d5f-02fd-4dea-8899-9c7509e1c22c">0080_dc-2022-5242.gml</document>
+      </content>
+      <content index="26" hash="f110a65093407fa89500d4142a83beed">
+         <document type="ow" id="6becebe7-a955-42d2-9997-99c72c82f92d">6becebe7-a955-42d2-9997-99c72c82f92d.gml</document>
+         <document type="op" id="6becebe7-a955-42d2-9997-99c72c82f92d">0074_dc-2022-5237.gml</document>
+      </content>
+      <content index="27" hash="88e334373ffbee00c2e6055e8c0959fb">
+         <document type="ow" id="75a87788-8621-49c2-8d59-b42c9006fee2">75a87788-8621-49c2-8d59-b42c9006fee2.gml</document>
+         <document type="op" id="75a87788-8621-49c2-8d59-b42c9006fee2">0029_dc-2022-5293.gml</document>
+      </content>
+      <content index="28" hash="0d3833d65820ec9be8599da1f658a699">
+         <document type="ow" id="776f0ba1-9d3d-4b75-b538-c0a113dea866">776f0ba1-9d3d-4b75-b538-c0a113dea866.gml</document>
+         <document type="op" id="776f0ba1-9d3d-4b75-b538-c0a113dea866">0057_dc-2022-5261.gml</document>
+      </content>
+      <content index="29" hash="4d9c71b5468eebb34fd113ed9953145c">
+         <document type="ow" id="77f0312c-4285-43f9-9d9c-56959d3d13f7">77f0312c-4285-43f9-9d9c-56959d3d13f7.gml</document>
+         <document type="op" id="77f0312c-4285-43f9-9d9c-56959d3d13f7">0073_dc-2022-5265.gml</document>
+      </content>
+      <content index="30" hash="9258e764f5ea7d875a11d6bac570c3eb">
+         <document type="ow" id="7d8b75bd-5111-4530-9400-a708f2aa020d">7d8b75bd-5111-4530-9400-a708f2aa020d.gml</document>
+         <document type="op" id="7d8b75bd-5111-4530-9400-a708f2aa020d">0079_dc-2022-5219.gml</document>
+         <document type="op" id="7d8b75bd-5111-4530-9400-a708f2aa020d">0081_dc-2022-5226.gml</document>
+      </content>
+      <content index="31" hash="e8ab206baf8a4db959e85bc4fefb442e">
+         <document type="ow" id="85bcb4ee-a222-4d97-bab0-4770ad8a0170">85bcb4ee-a222-4d97-bab0-4770ad8a0170.gml</document>
+         <document type="op" id="85bcb4ee-a222-4d97-bab0-4770ad8a0170">0004_dc-2022-5270.gml</document>
+      </content>
+      <content index="32" hash="4e85d87bf03203ee4bcf8e400932d35a">
+         <document type="ow" id="88ff617b-5ea5-40ba-9e1b-4fb14e20da08">88ff617b-5ea5-40ba-9e1b-4fb14e20da08.gml</document>
+         <document type="op" id="88ff617b-5ea5-40ba-9e1b-4fb14e20da08">0036_dc-2022-5217.gml</document>
+      </content>
+      <content index="33" hash="fd472ac01a23df5b038a49ccbe50b607">
+         <document type="ow" id="8ceeed04-61f4-4d30-8286-9743497ef4d2">8ceeed04-61f4-4d30-8286-9743497ef4d2.gml</document>
+      </content>
+      <content index="34" hash="00c0cb2106b8e3ef82b03b87ace5d422">
+         <document type="ow" id="9836ffe4-8668-42bc-905a-c74a794daed1">9836ffe4-8668-42bc-905a-c74a794daed1.gml</document>
+      </content>
+      <content index="35" hash="0d2c885641fc0b8816a2e4072bc6ff8c">
+         <document type="ow" id="9a197170-8f43-46ae-90ac-cedeb4da958a">9a197170-8f43-46ae-90ac-cedeb4da958a.gml</document>
+         <document type="op" id="9a197170-8f43-46ae-90ac-cedeb4da958a">0038_dc-2022-5235.gml</document>
+      </content>
+      <content index="36" hash="79e3c9fc6dd5c2cc84ffc7ed7cdf9e30">
+         <document type="ow" id="9d738533-f3b0-4040-8c1f-d97765e1cf5f">9d738533-f3b0-4040-8c1f-d97765e1cf5f.gml</document>
+      </content>
+      <content index="37" hash="5b8310a11d890d6a0813b655bd655598">
+         <document type="ow" id="a095c487-51f0-498f-86b2-6ecda30c5c99">a095c487-51f0-498f-86b2-6ecda30c5c99.gml</document>
+      </content>
+      <content index="38" hash="ca86feb9d1ac3b3d6dcb5c4c1f74413b">
+         <document type="ow" id="a284e0fa-978c-4340-ba3a-2a65d5228d68">a284e0fa-978c-4340-ba3a-2a65d5228d68.gml</document>
+         <document type="ow" id="c10e5ca1-06be-49c3-b8df-ceb2258e237b">c10e5ca1-06be-49c3-b8df-ceb2258e237b.gml</document>
+         <document type="op" id="c10e5ca1-06be-49c3-b8df-ceb2258e237b">0023_dc-2022-5251.gml</document>
+         <document type="op" id="c10e5ca1-06be-49c3-b8df-ceb2258e237b">0051_dc-2022-5246.gml</document>
+         <document type="op" id="c10e5ca1-06be-49c3-b8df-ceb2258e237b">0053_dc-2022-5215.gml</document>
+      </content>
+      <content index="39" hash="e967c429038f60d8997c28eac519f0dc">
+         <document type="ow" id="aa0919fa-0a77-42b0-8e97-6086122c49b1">aa0919fa-0a77-42b0-8e97-6086122c49b1.gml</document>
+         <document type="ow" id="b2fa0c3f-742b-4637-be3d-ba19d44658a8">b2fa0c3f-742b-4637-be3d-ba19d44658a8.gml</document>
+         <document type="op" id="aa0919fa-0a77-42b0-8e97-6086122c49b1">0027_dc-2022-5280.gml</document>
+         <document type="op" id="aa0919fa-0a77-42b0-8e97-6086122c49b1">0076_dc-2022-5268.gml</document>
+      </content>
+      <content index="40" hash="0d006a170386bea8242a03b5ba79e637">
+         <document type="ow" id="ae5f6c88-6709-46c1-98d3-bd449bf2b789">ae5f6c88-6709-46c1-98d3-bd449bf2b789.gml</document>
+         <document type="op" id="ae5f6c88-6709-46c1-98d3-bd449bf2b789">0001_dc-2022-5249.gml</document>
+      </content>
+      <content index="41" hash="18f3f501e6870ee25201f5cf151ed8a7">
+         <document type="ow" id="b1b12977-eac4-4c17-b2e7-068b1d8fcc2e">b1b12977-eac4-4c17-b2e7-068b1d8fcc2e.gml</document>
+         <document type="op" id="b1b12977-eac4-4c17-b2e7-068b1d8fcc2e">0034_dc-2022-5222.gml</document>
+      </content>
+      <content index="42" hash="dbd428b26928ff3cfb1150eba4512801">
+         <document type="ow" id="b519ce5a-467b-489c-8365-849a0b051aaa">b519ce5a-467b-489c-8365-849a0b051aaa.gml</document>
+         <document type="op" id="b519ce5a-467b-489c-8365-849a0b051aaa">0033_dc-2022-5279.gml</document>
+      </content>
+      <content index="43" hash="174164b590fd3be51c0d3256535eea17">
+         <document type="ow" id="b545c576-9ee2-4e7a-84c2-13d31863e4a1">b545c576-9ee2-4e7a-84c2-13d31863e4a1.gml</document>
+         <document type="op" id="b545c576-9ee2-4e7a-84c2-13d31863e4a1">0041_dc-2022-5221.gml</document>
+      </content>
+      <content index="44" hash="10660e1f3613c3f5d80b971200e28854">
+         <document type="ow" id="b57f4d44-3397-4872-9222-f2352986a181">b57f4d44-3397-4872-9222-f2352986a181.gml</document>
+      </content>
+      <content index="45" hash="af7efc447996785851d2aa21a4fbb249">
+         <document type="ow" id="b962f047-14f1-44eb-89c9-bc1834ff59a3">b962f047-14f1-44eb-89c9-bc1834ff59a3.gml</document>
+         <document type="op" id="b962f047-14f1-44eb-89c9-bc1834ff59a3">0007_dc-2022-5248.gml</document>
+         <document type="op" id="b962f047-14f1-44eb-89c9-bc1834ff59a3">0042_dc-2022-5228.gml</document>
+         <document type="op" id="b962f047-14f1-44eb-89c9-bc1834ff59a3">0043_dc-2022-5274.gml</document>
+      </content>
+      <content index="46" hash="0e85c31bed6da267d0983cbf4d9339b0">
+         <document type="ow" id="c5406512-793b-4f99-b419-b7fd90ff8e1b">c5406512-793b-4f99-b419-b7fd90ff8e1b.gml</document>
+         <document type="op" id="c5406512-793b-4f99-b419-b7fd90ff8e1b">0052_dc-2022-5292.gml</document>
+         <document type="op" id="c5406512-793b-4f99-b419-b7fd90ff8e1b">0053_dc-2022-5215.gml</document>
+      </content>
+      <content index="47" hash="d2695ad75cc95c4fbd48512c574fc4e5">
+         <document type="ow" id="cf820277-7baa-4280-a435-3e693264bc81">cf820277-7baa-4280-a435-3e693264bc81.gml</document>
+      </content>
+      <content index="48" hash="f2f79a50596b8ba15820e7a5ad031205">
+         <document type="ow" id="d3f6ffa3-dfd0-4f45-a2a6-e1cd807a1576">d3f6ffa3-dfd0-4f45-a2a6-e1cd807a1576.gml</document>
+         <document type="op" id="d3f6ffa3-dfd0-4f45-a2a6-e1cd807a1576">0078_dc-2022-5255.gml</document>
+      </content>
+      <content index="49" hash="9f9ef4921f82a02fb94807ba097cdd48">
+         <document type="ow" id="d6166ab8-aada-486d-b537-0a1c57446d3d">d6166ab8-aada-486d-b537-0a1c57446d3d.gml</document>
+         <document type="op" id="d6166ab8-aada-486d-b537-0a1c57446d3d">0018_dc-2022-5269.gml</document>
+         <document type="op" id="d6166ab8-aada-486d-b537-0a1c57446d3d">0021_dc-2022-5232.gml</document>
+      </content>
+      <content index="50" hash="8fa27bee2c858c0932051c8f4810d1cd">
+         <document type="ow" id="d6a3acfd-16b9-49e1-9dda-54b77c7f2333">d6a3acfd-16b9-49e1-9dda-54b77c7f2333.gml</document>
+         <document type="op" id="d6a3acfd-16b9-49e1-9dda-54b77c7f2333">0012_dc-2022-5282.gml</document>
+      </content>
+      <content index="51" hash="f2e1927210998921a3dcd8bea30ccf53">
+         <document type="ow" id="d78b7174-edec-41ec-9bf2-d93fc291536d">d78b7174-edec-41ec-9bf2-d93fc291536d.gml</document>
+         <document type="op" id="d78b7174-edec-41ec-9bf2-d93fc291536d">0016_dc-2022-5245.gml</document>
+      </content>
+      <content index="52" hash="77303bcb29365dcd42f8e5e12d97623d">
+         <document type="ow" id="db38b7a9-8a52-4867-b087-df3a7f37d5b9">db38b7a9-8a52-4867-b087-df3a7f37d5b9.gml</document>
+         <document type="op" id="db38b7a9-8a52-4867-b087-df3a7f37d5b9">0011_dc-2022-5294.gml</document>
+         <document type="op" id="db38b7a9-8a52-4867-b087-df3a7f37d5b9">0054_dc-2022-5283.gml</document>
+      </content>
+      <content index="53" hash="cc05a298d6d20dc0e0354b1e1293972d">
+         <document type="ow" id="de643956-d6ad-4b46-9f50-a34f0d33a5a8">de643956-d6ad-4b46-9f50-a34f0d33a5a8.gml</document>
+         <document type="op" id="de643956-d6ad-4b46-9f50-a34f0d33a5a8">0024_dc-2022-5244.gml</document>
+         <document type="op" id="de643956-d6ad-4b46-9f50-a34f0d33a5a8">0042_dc-2022-5228.gml</document>
+         <document type="op" id="de643956-d6ad-4b46-9f50-a34f0d33a5a8">0044_dc-2022-5286.gml</document>
+      </content>
+      <content index="54" hash="81de4589c550614a27b69bf233307385">
+         <document type="ow" id="e30539fb-a049-425a-b60e-c00e53aa9963">e30539fb-a049-425a-b60e-c00e53aa9963.gml</document>
+      </content>
+      <content index="55" hash="4dbc27160505a75600b9699ccd903af8">
+         <document type="ow" id="ec49e596-b109-4995-8985-3be8034abf89">ec49e596-b109-4995-8985-3be8034abf89.gml</document>
+         <document type="op" id="ec49e596-b109-4995-8985-3be8034abf89">0077_dc-2022-5277.gml</document>
+      </content>
+      <content index="56" hash="8de00851e013e9496247f5e1d8deb270">
+         <document type="ow" id="f35c4bf4-6b53-4489-bbd9-6aafb1e6cf37">f35c4bf4-6b53-4489-bbd9-6aafb1e6cf37.gml</document>
+      </content>
+      <content index="57" hash="32d80a4ea0e9b3d086689ea6dbea3ba4">
+         <document type="ow" id="ffa57e46-49f5-4a47-ad18-242d9923c93a">ffa57e46-49f5-4a47-ad18-242d9923c93a.gml</document>
+         <document type="op" id="ffa57e46-49f5-4a47-ad18-242d9923c93a">0017_dc-2022-5239.gml</document>
+         <document type="op" id="ffa57e46-49f5-4a47-ad18-242d9923c93a">0021_dc-2022-5232.gml</document>
+      </content>
+      <content index="58" hash="813e0e5e2151aa0a849d01e1b7f5f210">
+         <document type="ow" id="GM0772">GM0772.gml</document>
+      </content>
+      <content index="59" hash="5c2e2726aef5914153e0a504d0cd5dd8">
+         <document type="op" id="5c2f1d15-2268-4575-af45-d09bd595558a">0004_dc-2022-5270.gml</document>
+         <document type="op" id="5c2f1d15-2268-4575-af45-d09bd595558a">0048_dc-2022-5284.gml</document>
+      </content>
+      <content index="60" hash="25902881d384633fd8df6e42b0f2e5ad">
+         <document type="op" id="468f6b8e-74c5-4b9f-b033-369f01c827a4">0006_dc-2022-5227.gml</document>
+      </content>
+      <content index="61" hash="2f614ed2cf3311d388f833e8b1f61792">
+         <document type="op" id="85c1dd9d-8eaa-4456-8cfd-0ca758367d6d">0010_dc-2022-5276.gml</document>
+         <document type="op" id="85c1dd9d-8eaa-4456-8cfd-0ca758367d6d">0031_dc-2022-5254.gml</document>
+      </content>
+      <content index="62" hash="1332e364118486c319048beab89bc499">
+         <document type="op" id="ff611e3d-db09-4630-a4e5-caed845ee05f">0013_dc-2022-5259.gml</document>
+      </content>
+      <content index="63" hash="78ab26f8cca7a1018214105ec53687d6">
+         <document type="op" id="91bdd651-b6d9-4345-84d2-444fb6bf2f79">0014_dc-2022-5225.gml</document>
+      </content>
+      <content index="64" hash="2bdbbf591401954fdbcfc2a9634005a7">
+         <document type="op" id="79bb5d36-4fdd-45f4-9a04-8f6d93866ac3">0020_dc-2022-5250.gml</document>
+         <document type="op" id="79bb5d36-4fdd-45f4-9a04-8f6d93866ac3">0021_dc-2022-5232.gml</document>
+      </content>
+      <content index="65" hash="92e8654e2bca05671f86d52b5a4cdc92">
+         <document type="op" id="8876048a-29e2-483d-a367-7b9a85454724">0028_dc-2022-5253.gml</document>
+      </content>
+      <content index="66" hash="61687a2cda7a5ecc8d6973897c7313e8">
+         <document type="op" id="d0fc2673-4e54-4471-9aae-eb8efa4e5c80">0045_dc-2022-5252.gml</document>
+      </content>
+      <content index="67" hash="6580c75b174947687118cfa59ae29ba6">
+         <document type="op" id="11506fcf-bbbd-43c7-95b6-753a964454ea">0053_dc-2022-5215.gml</document>
+         <document type="op" id="11506fcf-bbbd-43c7-95b6-753a964454ea">0064_dc-2022-5287.gml</document>
+      </content>
+      <content index="68" hash="292e1ea3917121da63d0589981cd6e35">
+         <document type="op" id="74a9543f-5b8b-4cc5-b115-162924cd51d9">0061_dc-2022-5233.gml</document>
+      </content>
+      <content index="69" hash="e07690dd111fec158715f651264df2dc">
+         <document type="op" id="b7c178dc-8b7d-4021-b5b9-66ea6fd756a4">0065_dc-2022-5231.gml</document>
+      </content>
+      <content index="70" hash="a58a5e2956cc1617d4abd04de4c77eff">
+         <document type="op" id="c144006e-e260-46bb-bbbd-d40866c8a962">0075_dc-2022-5275.gml</document>
+      </content>
+   </contents>
+   <!--guids-->
+   <guids>
+      <guid index="1" type="ow">
+         <id>0881a1d9-4ce8-4905-bdde-ff0d2828b9d0</id>
+         <content>3a16797524eb69155c70b27f57ca7f6a</content>
+         <document>0881a1d9-4ce8-4905-bdde-ff0d2828b9d0.gml</document>
+         <noemer>horeca categorie 6 begane grond</noemer>
+      </guid>
+      <guid index="2" type="ow">
+         <id>0c49bb18-c022-4f48-b63e-79f4ddfac186</id>
+         <content>8a7c7c7ae2a1ba1c843f56a559aaa8b1</content>
+         <document>0c49bb18-c022-4f48-b63e-79f4ddfac186.gml</document>
+         <noemer>religie</noemer>
+      </guid>
+      <guid index="3" type="ow">
+         <id>0c5f3419-eb67-46eb-bee6-217e5d038cf3</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>0c5f3419-eb67-46eb-bee6-217e5d038cf3.gml</document>
+         <noemer>kinderopvang</noemer>
+      </guid>
+      <guid index="4" type="ow">
+         <id>0eac0b0e-45bc-45ca-a37f-bb3ba70bc773</id>
+         <content>6f9196564bd36063f198774f1007b046</content>
+         <document>0eac0b0e-45bc-45ca-a37f-bb3ba70bc773.gml</document>
+         <noemer>op slot gebieden</noemer>
+      </guid>
+      <guid index="5" type="ow">
+         <id>12cabbe9-195b-413c-a0c4-914f4c3eb89f</id>
+         <content>849267622dcce481e263b0f588f1b16e</content>
+         <document>12cabbe9-195b-413c-a0c4-914f4c3eb89f.gml</document>
+         <noemer>wonen Prinsejagt-Driehoeksbos</noemer>
+      </guid>
+      <guid index="6" type="ow">
+         <id>18d11ef7-97d8-43a2-be80-71d9a4875cb0</id>
+         <content>17066142c6f0e6e461ec0a9f47cd5213</content>
+         <document>18d11ef7-97d8-43a2-be80-71d9a4875cb0.gml</document>
+         <noemer>Lage verwachting</noemer>
+      </guid>
+      <guid index="7" type="ow">
+         <id>1cda3859-a20b-41af-8a66-876b340b871d</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>1cda3859-a20b-41af-8a66-876b340b871d.gml</document>
+         <noemer>levensbeschouwelijke voorzieningen begane grond</noemer>
+      </guid>
+      <guid index="8" type="ow">
+         <id>1fb492ac-19c7-49bd-b6d0-190af3fb4053</id>
+         <content>1deae7e11b34bd3515ab0d7b523df270</content>
+         <document>1fb492ac-19c7-49bd-b6d0-190af3fb4053.gml</document>
+         <noemer>seksinrichting</noemer>
+      </guid>
+      <guid index="9" type="ow">
+         <id>21af98a1-240c-4910-af6f-53e7bc996d6e</id>
+         <content>6b00cbda8c0187a3035bbb48c053d591</content>
+         <document>21af98a1-240c-4910-af6f-53e7bc996d6e.gml</document>
+         <noemer>garagebox</noemer>
+      </guid>
+      <guid index="10" type="ow">
+         <id>242a5188-0e71-4045-95c3-2656eac28397</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>242a5188-0e71-4045-95c3-2656eac28397.gml</document>
+         <noemer>beschermd en/of verzorgd wonen</noemer>
+      </guid>
+      <guid index="11" type="ow">
+         <id>242a6763-39df-48ca-a54c-090edd77c39f</id>
+         <content>babe08db79515ff94f90a0172a37a465</content>
+         <document>242a6763-39df-48ca-a54c-090edd77c39f.gml</document>
+         <noemer>centrumgebied</noemer>
+      </guid>
+      <guid index="12" type="ow">
+         <id>2ce081a1-67f0-4736-91e5-98d38307e2e9</id>
+         <content>a8f7a6565b847f2e353e812ca5b11c70</content>
+         <document>2ce081a1-67f0-4736-91e5-98d38307e2e9.gml</document>
+         <noemer>karakteristiek</noemer>
+      </guid>
+      <guid index="13" type="ow">
+         <id>2cee8c21-df22-46b0-aaa0-0121dbf3fd5a</id>
+         <content>1f619c6282e6e018f163c3d97bc54063</content>
+         <document>2cee8c21-df22-46b0-aaa0-0121dbf3fd5a.gml</document>
+         <noemer>Bedrijf</noemer>
+      </guid>
+      <guid index="14" type="ow">
+         <id>3169bf17-00a9-4524-b9df-668193775d66</id>
+         <content>327bf3e01413ced39bf753a7718a8830</content>
+         <document>3169bf17-00a9-4524-b9df-668193775d66.gml</document>
+         <noemer>nutsvoorzieningen</noemer>
+      </guid>
+      <guid index="15" type="ow">
+         <id>374382dd-7e0d-469a-8222-29244ba3d29b</id>
+         <content>cc968c56aa5d84f9ead062e5c1384cc8</content>
+         <document>374382dd-7e0d-469a-8222-29244ba3d29b.gml</document>
+         <noemer>horeca categorie 1a begane grond</noemer>
+      </guid>
+      <guid index="16" type="ow">
+         <id>3784853c-7ec5-4ffc-9f8e-46a5e1d2da28</id>
+         <content>37b70029e1eaf5df06b2b61fc6926039</content>
+         <document>3784853c-7ec5-4ffc-9f8e-46a5e1d2da28.gml</document>
+         <noemer>maximum bouwhoogte (m) : 10</noemer>
+      </guid>
+      <guid index="17" type="ow">
+         <id>38f9a00e-d1d2-45f4-8edf-583682e99912</id>
+         <content>d15bfe307fa3bdd289568af01fd30443</content>
+         <document>38f9a00e-d1d2-45f4-8edf-583682e99912.gml</document>
+         <noemer>maximum bouwhoogte (m) : 12</noemer>
+      </guid>
+      <guid index="18" type="ow">
+         <id>3a8ab447-cb6e-4f47-afa4-4af63fbbbd78</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>3a8ab447-cb6e-4f47-afa4-4af63fbbbd78.gml</document>
+         <noemer>openbare dienstverlening en openbaar bestuur begane grond</noemer>
+      </guid>
+      <guid index="19" type="ow">
+         <id>3c056b6f-22f7-43db-92c5-0dbeed4586fb</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>3c056b6f-22f7-43db-92c5-0dbeed4586fb.gml</document>
+         <noemer>kinderopvang begane grond</noemer>
+      </guid>
+      <guid index="20" type="ow">
+         <id>3dc111bc-df49-4d90-a176-6cb3ce7458f7</id>
+         <content>2e8616b545193b4aae2be82a30632166</content>
+         <document>3dc111bc-df49-4d90-a176-6cb3ce7458f7.gml</document>
+         <noemer>geluidwerende voorzieningen</noemer>
+      </guid>
+      <guid index="21" type="ow">
+         <id>3e194f7a-9b6a-456e-bdc4-c13f1752a674</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>3e194f7a-9b6a-456e-bdc4-c13f1752a674.gml</document>
+         <noemer>beschermd en/of verzorgd wonen begane grond</noemer>
+      </guid>
+      <guid index="22" type="ow">
+         <id>3e19f2b1-6692-404f-9a21-de0f744c5003</id>
+         <content>795b16123c6cc261b96ea7b222fbab17</content>
+         <document>3e19f2b1-6692-404f-9a21-de0f744c5003.gml</document>
+         <noemer>onzelfstandige woonruimte</noemer>
+      </guid>
+      <guid index="23" type="ow">
+         <id>3e8b60e4-51ce-4563-8075-64379a9ea12f</id>
+         <content>e288c0df4957589df4aa9bb5ef1a2f77</content>
+         <document>3e8b60e4-51ce-4563-8075-64379a9ea12f.gml</document>
+         <noemer>speelvoorzieningen</noemer>
+      </guid>
+      <guid index="24" type="ow">
+         <id>3f9fbe3f-068d-440a-8513-79b1519a53fd</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>3f9fbe3f-068d-440a-8513-79b1519a53fd.gml</document>
+         <noemer>openbare dienstverlening en openbaar bestuur</noemer>
+      </guid>
+      <guid index="25" type="ow">
+         <id>40eac2ae-6601-474f-9374-113885ba9ebc</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>40eac2ae-6601-474f-9374-113885ba9ebc.gml</document>
+         <noemer>sociaal-medische voorzieningen begane grond</noemer>
+      </guid>
+      <guid index="26" type="ow">
+         <id>49940098-6e7b-46e7-aad2-3233b777a1b7</id>
+         <content>14e59e6031b08eaeb234d2a0447d2053</content>
+         <document>49940098-6e7b-46e7-aad2-3233b777a1b7.gml</document>
+         <noemer>detailhandel begane grond en op verdiepingingen</noemer>
+      </guid>
+      <guid index="27" type="ow">
+         <id>4f361eaf-1527-42fb-bb20-cd9bb09c34a7</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>4f361eaf-1527-42fb-bb20-cd9bb09c34a7.gml</document>
+         <noemer>sociaal-culturele voorzieningen</noemer>
+      </guid>
+      <guid index="28" type="ow">
+         <id>5321a779-b256-4f26-9856-aa513e7ab3a8</id>
+         <content>4ba81fe3373c1692181116a42f6cdff9</content>
+         <document>5321a779-b256-4f26-9856-aa513e7ab3a8.gml</document>
+         <noemer>horeca categorie 2b begane grond</noemer>
+      </guid>
+      <guid index="29" type="ow">
+         <id>57c2c0c1-3ea6-4858-94eb-a86cda16021b</id>
+         <content>e3f6a90076209a5621ba67b6f7eb30a2</content>
+         <document>57c2c0c1-3ea6-4858-94eb-a86cda16021b.gml</document>
+         <noemer>activiteiten ten dienste van maatschappelijk</noemer>
+      </guid>
+      <guid index="30" type="ow">
+         <id>5bcf96ed-04dc-46f8-910c-564ce90ae0c8</id>
+         <content>6077f1234c8bda303b6199c61af19d2f</content>
+         <document>5bcf96ed-04dc-46f8-910c-564ce90ae0c8.gml</document>
+         <noemer>agrarisch met detailhandel</noemer>
+      </guid>
+      <guid index="31" type="ow">
+         <id>5ecf244b-a6e5-4d51-840d-d30ddd001d16</id>
+         <content>c94e18fe95398a92f38c17eab2707fe6</content>
+         <document>5ecf244b-a6e5-4d51-840d-d30ddd001d16.gml</document>
+         <noemer>Hoge verwachting</noemer>
+      </guid>
+      <guid index="32" type="ow">
+         <id>608fa890-6b2e-4c62-afb9-aeb5fcb7a2be</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>608fa890-6b2e-4c62-afb9-aeb5fcb7a2be.gml</document>
+         <noemer>educatieve voorzieningen begane grond</noemer>
+      </guid>
+      <guid index="33" type="ow">
+         <id>6a85dc33-3d8e-4f6b-8339-dadf9fc4d546</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>6a85dc33-3d8e-4f6b-8339-dadf9fc4d546.gml</document>
+         <noemer>educatieve voorzieningen</noemer>
+      </guid>
+      <guid index="34" type="ow">
+         <id>6b4d3d5f-02fd-4dea-8899-9c7509e1c22c</id>
+         <content>7a66208bfd5ba27312446307d5e81709</content>
+         <document>6b4d3d5f-02fd-4dea-8899-9c7509e1c22c.gml</document>
+         <noemer>wonen Hemelrijken</noemer>
+      </guid>
+      <guid index="35" type="ow">
+         <id>6becebe7-a955-42d2-9997-99c72c82f92d</id>
+         <content>f110a65093407fa89500d4142a83beed</content>
+         <document>6becebe7-a955-42d2-9997-99c72c82f92d.gml</document>
+         <noemer>Verkeer</noemer>
+      </guid>
+      <guid index="36" type="ow">
+         <id>6fba34d5-d0e6-460a-9a2a-cf068c327820</id>
+         <content>d15bfe307fa3bdd289568af01fd30443</content>
+         <document>6fba34d5-d0e6-460a-9a2a-cf068c327820.gml</document>
+         <noemer>maximum goothoogte (m) : 10</noemer>
+      </guid>
+      <guid index="37" type="ow">
+         <id>75a87788-8621-49c2-8d59-b42c9006fee2</id>
+         <content>88e334373ffbee00c2e6055e8c0959fb</content>
+         <document>75a87788-8621-49c2-8d59-b42c9006fee2.gml</document>
+         <noemer>geen bijbehorende bouwwerken</noemer>
+      </guid>
+      <guid index="38" type="ow">
+         <id>776f0ba1-9d3d-4b75-b538-c0a113dea866</id>
+         <content>0d3833d65820ec9be8599da1f658a699</content>
+         <document>776f0ba1-9d3d-4b75-b538-c0a113dea866.gml</document>
+         <noemer>natuur</noemer>
+      </guid>
+      <guid index="39" type="ow">
+         <id>77f0312c-4285-43f9-9d9c-56959d3d13f7</id>
+         <content>4d9c71b5468eebb34fd113ed9953145c</content>
+         <document>77f0312c-4285-43f9-9d9c-56959d3d13f7.gml</document>
+         <noemer>tuinen</noemer>
+      </guid>
+      <guid index="40" type="ow">
+         <id>7d8b75bd-5111-4530-9400-a708f2aa020d</id>
+         <content>9258e764f5ea7d875a11d6bac570c3eb</content>
+         <document>7d8b75bd-5111-4530-9400-a708f2aa020d.gml</document>
+         <noemer>wonen</noemer>
+      </guid>
+      <guid index="41" type="ow">
+         <id>85bcb4ee-a222-4d97-bab0-4770ad8a0170</id>
+         <content>e8ab206baf8a4db959e85bc4fefb442e</content>
+         <document>85bcb4ee-a222-4d97-bab0-4770ad8a0170.gml</document>
+         <noemer>Middelhoge verwachting</noemer>
+      </guid>
+      <guid index="42" type="ow">
+         <id>88ff617b-5ea5-40ba-9e1b-4fb14e20da08</id>
+         <content>4e85d87bf03203ee4bcf8e400932d35a</content>
+         <document>88ff617b-5ea5-40ba-9e1b-4fb14e20da08.gml</document>
+         <noemer>horeca categorie 1b begane grond</noemer>
+      </guid>
+      <guid index="43" type="ow">
+         <id>8ceeed04-61f4-4d30-8286-9743497ef4d2</id>
+         <content>fd472ac01a23df5b038a49ccbe50b607</content>
+         <document>8ceeed04-61f4-4d30-8286-9743497ef4d2.gml</document>
+         <noemer>Gemeentelijk monument</noemer>
+      </guid>
+      <guid index="44" type="ow">
+         <id>97b87f0f-0e62-4b32-8def-c1868893cf06</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>97b87f0f-0e62-4b32-8def-c1868893cf06.gml</document>
+         <noemer>medische voorzieningen begane grond</noemer>
+      </guid>
+      <guid index="45" type="ow">
+         <id>9836ffe4-8668-42bc-905a-c74a794daed1</id>
+         <content>00c0cb2106b8e3ef82b03b87ace5d422</content>
+         <document>9836ffe4-8668-42bc-905a-c74a794daed1.gml</document>
+         <noemer>verkeer uitgesloten</noemer>
+      </guid>
+      <guid index="46" type="ow">
+         <id>9a197170-8f43-46ae-90ac-cedeb4da958a</id>
+         <content>0d2c885641fc0b8816a2e4072bc6ff8c</content>
+         <document>9a197170-8f43-46ae-90ac-cedeb4da958a.gml</document>
+         <noemer>horeca categorie 3 begane grond</noemer>
+      </guid>
+      <guid index="47" type="ow">
+         <id>9d738533-f3b0-4040-8c1f-d97765e1cf5f</id>
+         <content>79e3c9fc6dd5c2cc84ffc7ed7cdf9e30</content>
+         <document>9d738533-f3b0-4040-8c1f-d97765e1cf5f.gml</document>
+         <noemer>casino</noemer>
+      </guid>
+      <guid index="48" type="ow">
+         <id>a095c487-51f0-498f-86b2-6ecda30c5c99</id>
+         <content>5b8310a11d890d6a0813b655bd655598</content>
+         <document>a095c487-51f0-498f-86b2-6ecda30c5c99.gml</document>
+         <noemer>detailhandel volumineus</noemer>
+      </guid>
+      <guid index="49" type="ow">
+         <id>a284e0fa-978c-4340-ba3a-2a65d5228d68</id>
+         <content>ca86feb9d1ac3b3d6dcb5c4c1f74413b</content>
+         <document>a284e0fa-978c-4340-ba3a-2a65d5228d68.gml</document>
+         <noemer>maatschappelijk begane grond</noemer>
+      </guid>
+      <guid index="50" type="ow">
+         <id>aa0919fa-0a77-42b0-8e97-6086122c49b1</id>
+         <content>e967c429038f60d8997c28eac519f0dc</content>
+         <document>aa0919fa-0a77-42b0-8e97-6086122c49b1.gml</document>
+         <noemer>erven en terreinen</noemer>
+      </guid>
+      <guid index="51" type="ow">
+         <id>ae5f6c88-6709-46c1-98d3-bd449bf2b789</id>
+         <content>0d006a170386bea8242a03b5ba79e637</content>
+         <document>ae5f6c88-6709-46c1-98d3-bd449bf2b789.gml</document>
+         <noemer>(ondergrondse) parkeervoorzieningen</noemer>
+      </guid>
+      <guid index="52" type="ow">
+         <id>b1b12977-eac4-4c17-b2e7-068b1d8fcc2e</id>
+         <content>18f3f501e6870ee25201f5cf151ed8a7</content>
+         <document>b1b12977-eac4-4c17-b2e7-068b1d8fcc2e.gml</document>
+         <noemer>groenvoorzieningen</noemer>
+      </guid>
+      <guid index="53" type="ow">
+         <id>b2fa0c3f-742b-4637-be3d-ba19d44658a8</id>
+         <content>e967c429038f60d8997c28eac519f0dc</content>
+         <document>b2fa0c3f-742b-4637-be3d-ba19d44658a8.gml</document>
+         <noemer>voorzieningen voor opwekken duurzame energie</noemer>
+      </guid>
+      <guid index="54" type="ow">
+         <id>b519ce5a-467b-489c-8365-849a0b051aaa</id>
+         <content>dbd428b26928ff3cfb1150eba4512801</content>
+         <document>b519ce5a-467b-489c-8365-849a0b051aaa.gml</document>
+         <noemer>groentest2</noemer>
+      </guid>
+      <guid index="55" type="ow">
+         <id>b545c576-9ee2-4e7a-84c2-13d31863e4a1</id>
+         <content>174164b590fd3be51c0d3256535eea17</content>
+         <document>b545c576-9ee2-4e7a-84c2-13d31863e4a1.gml</document>
+         <noemer>kantoor</noemer>
+      </guid>
+      <guid index="56" type="ow">
+         <id>b57f4d44-3397-4872-9222-f2352986a181</id>
+         <content>10660e1f3613c3f5d80b971200e28854</content>
+         <document>b57f4d44-3397-4872-9222-f2352986a181.gml</document>
+         <noemer>bedrijf categorie 1 en 2</noemer>
+      </guid>
+      <guid index="57" type="ow">
+         <id>b962f047-14f1-44eb-89c9-bc1834ff59a3</id>
+         <content>af7efc447996785851d2aa21a4fbb249</content>
+         <document>b962f047-14f1-44eb-89c9-bc1834ff59a3.gml</document>
+         <noemer>kantoren begane grond</noemer>
+      </guid>
+      <guid index="58" type="ow">
+         <id>bb9e7308-f68c-491e-a4b2-42f103c8cc3c</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>bb9e7308-f68c-491e-a4b2-42f103c8cc3c.gml</document>
+         <noemer>levensbeschouwelijke voorzieningen</noemer>
+      </guid>
+      <guid index="59" type="ow">
+         <id>bc1599d8-9743-40b6-8bd3-8ccd830b0153</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>bc1599d8-9743-40b6-8bd3-8ccd830b0153.gml</document>
+         <noemer>sport en sportieve recreatie</noemer>
+      </guid>
+      <guid index="60" type="ow">
+         <id>c10e5ca1-06be-49c3-b8df-ceb2258e237b</id>
+         <content>ca86feb9d1ac3b3d6dcb5c4c1f74413b</content>
+         <document>c10e5ca1-06be-49c3-b8df-ceb2258e237b.gml</document>
+         <noemer>dienstverlening begane grond</noemer>
+      </guid>
+      <guid index="61" type="ow">
+         <id>c232e605-5e3c-4559-9fe3-d8dcc5bea571</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>c232e605-5e3c-4559-9fe3-d8dcc5bea571.gml</document>
+         <noemer>sociaal-medische voorzieningen</noemer>
+      </guid>
+      <guid index="62" type="ow">
+         <id>c5406512-793b-4f99-b419-b7fd90ff8e1b</id>
+         <content>0e85c31bed6da267d0983cbf4d9339b0</content>
+         <document>c5406512-793b-4f99-b419-b7fd90ff8e1b.gml</document>
+         <noemer>maatschappelijk begane grond en eerste verdieping</noemer>
+      </guid>
+      <guid index="63" type="ow">
+         <id>cf820277-7baa-4280-a435-3e693264bc81</id>
+         <content>d2695ad75cc95c4fbd48512c574fc4e5</content>
+         <document>cf820277-7baa-4280-a435-3e693264bc81.gml</document>
+         <noemer>openbaar gebied</noemer>
+      </guid>
+      <guid index="64" type="ow">
+         <id>d3f6ffa3-dfd0-4f45-a2a6-e1cd807a1576</id>
+         <content>f2f79a50596b8ba15820e7a5ad031205</content>
+         <document>d3f6ffa3-dfd0-4f45-a2a6-e1cd807a1576.gml</document>
+         <noemer>wegen en paden</noemer>
+      </guid>
+      <guid index="65" type="ow">
+         <id>d6166ab8-aada-486d-b537-0a1c57446d3d</id>
+         <content>9f9ef4921f82a02fb94807ba097cdd48</content>
+         <document>d6166ab8-aada-486d-b537-0a1c57446d3d.gml</document>
+         <noemer>detailhandel begane grond</noemer>
+      </guid>
+      <guid index="66" type="ow">
+         <id>d6a3acfd-16b9-49e1-9dda-54b77c7f2333</id>
+         <content>8fa27bee2c858c0932051c8f4810d1cd</content>
+         <document>d6a3acfd-16b9-49e1-9dda-54b77c7f2333.gml</document>
+         <noemer>bouwvlak</noemer>
+      </guid>
+      <guid index="67" type="ow">
+         <id>d78b7174-edec-41ec-9bf2-d93fc291536d</id>
+         <content>f2e1927210998921a3dcd8bea30ccf53</content>
+         <document>d78b7174-edec-41ec-9bf2-d93fc291536d.gml</document>
+         <noemer>dakterrassen</noemer>
+      </guid>
+      <guid index="68" type="ow">
+         <id>db38b7a9-8a52-4867-b087-df3a7f37d5b9</id>
+         <content>77303bcb29365dcd42f8e5e12d97623d</content>
+         <document>db38b7a9-8a52-4867-b087-df3a7f37d5b9.gml</document>
+         <noemer>maximum bouwhoogte 9 meter</noemer>
+      </guid>
+      <guid index="69" type="ow">
+         <id>de643956-d6ad-4b46-9f50-a34f0d33a5a8</id>
+         <content>cc05a298d6d20dc0e0354b1e1293972d</content>
+         <document>de643956-d6ad-4b46-9f50-a34f0d33a5a8.gml</document>
+         <noemer>dienstverlening begane grond en eerste verdieping</noemer>
+         <noemer>kantoren begane grond en eerste verdieping</noemer>
+      </guid>
+      <guid index="70" type="ow">
+         <id>e30539fb-a049-425a-b60e-c00e53aa9963</id>
+         <content>81de4589c550614a27b69bf233307385</content>
+         <document>e30539fb-a049-425a-b60e-c00e53aa9963.gml</document>
+         <noemer>bedrijf categorie 1 en 2 op begane grond</noemer>
+      </guid>
+      <guid index="71" type="ow">
+         <id>e89ce22a-6e75-48a8-b0fb-4e482f09e0fc</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>e89ce22a-6e75-48a8-b0fb-4e482f09e0fc.gml</document>
+         <noemer>medische voorzieningen</noemer>
+      </guid>
+      <guid index="72" type="ow">
+         <id>ec49e596-b109-4995-8985-3be8034abf89</id>
+         <content>4dbc27160505a75600b9699ccd903af8</content>
+         <document>ec49e596-b109-4995-8985-3be8034abf89.gml</document>
+         <noemer>water en waterhuishoudkundige voorzieningen</noemer>
+      </guid>
+      <guid index="73" type="ow">
+         <id>f35c4bf4-6b53-4489-bbd9-6aafb1e6cf37</id>
+         <content>8de00851e013e9496247f5e1d8deb270</content>
+         <document>f35c4bf4-6b53-4489-bbd9-6aafb1e6cf37.gml</document>
+         <noemer>cafe</noemer>
+      </guid>
+      <guid index="74" type="ow">
+         <id>f694d931-2546-4dd4-adac-c7b4727a8694</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>f694d931-2546-4dd4-adac-c7b4727a8694.gml</document>
+         <noemer>sport en sportieve recreatie begane grond</noemer>
+      </guid>
+      <guid index="75" type="ow">
+         <id>f97f54ac-12b3-485d-80e4-a2d81aa9a0ad</id>
+         <content>14e59e6031b08eaeb234d2a0447d2053</content>
+         <document>f97f54ac-12b3-485d-80e4-a2d81aa9a0ad.gml</document>
+         <noemer>dienstverlening</noemer>
+      </guid>
+      <guid index="76" type="ow">
+         <id>faca7244-c78a-4251-a6bc-bd99c5fca192</id>
+         <content>3a16797524eb69155c70b27f57ca7f6a</content>
+         <document>faca7244-c78a-4251-a6bc-bd99c5fca192.gml</document>
+         <noemer>horeca categorie 5 begane grond</noemer>
+      </guid>
+      <guid index="77" type="ow">
+         <id>ff04b60f-fe2a-486c-bcba-a83564254c3b</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>ff04b60f-fe2a-486c-bcba-a83564254c3b.gml</document>
+         <noemer>sociaal-culturele voorzieningen begane grond</noemer>
+      </guid>
+      <guid index="78" type="ow">
+         <id>ff3f9a97-6825-4b5a-aca5-1251a73e5bb1</id>
+         <content>37b70029e1eaf5df06b2b61fc6926039</content>
+         <document>ff3f9a97-6825-4b5a-aca5-1251a73e5bb1.gml</document>
+         <noemer>maximum goothoogte (m) : 6</noemer>
+      </guid>
+      <guid index="79" type="ow">
+         <id>ffa57e46-49f5-4a47-ad18-242d9923c93a</id>
+         <content>32d80a4ea0e9b3d086689ea6dbea3ba4</content>
+         <document>ffa57e46-49f5-4a47-ad18-242d9923c93a.gml</document>
+         <noemer>detailhandel</noemer>
+      </guid>
+      <guid index="80" type="ow">
+         <id>GM0772</id>
+         <content>813e0e5e2151aa0a849d01e1b7f5f210</content>
+         <document>GM0772.gml</document>
+         <noemer>Ambtsgebied Gemeente Eindhoven</noemer>
+      </guid>
+      <guid index="1" type="op">
+         <id>ae5f6c88-6709-46c1-98d3-bd449bf2b789</id>
+         <content>0d006a170386bea8242a03b5ba79e637</content>
+         <document>0001_dc-2022-5249.gml</document>
+         <noemer>(ondergrondse) parkeervoorzieningen</noemer>
+      </guid>
+      <guid index="2" type="op">
+         <id>57c2c0c1-3ea6-4858-94eb-a86cda16021b</id>
+         <content>e3f6a90076209a5621ba67b6f7eb30a2</content>
+         <document>0002_dc-2022-5229.gml</document>
+         <noemer>activiteiten ten dienste van maatschappelijk</noemer>
+      </guid>
+      <guid index="3" type="op">
+         <id>5bcf96ed-04dc-46f8-910c-564ce90ae0c8</id>
+         <content>6077f1234c8bda303b6199c61af19d2f</content>
+         <document>0003_dc-2022-5234.gml</document>
+         <noemer>agrarisch met detailhandel</noemer>
+      </guid>
+      <guid index="4" type="op">
+         <id>85bcb4ee-a222-4d97-bab0-4770ad8a0170</id>
+         <content>e8ab206baf8a4db959e85bc4fefb442e</content>
+         <document>0004_dc-2022-5270.gml</document>
+         <noemer>Middelhoge verwachting</noemer>
+      </guid>
+      <guid index="5" type="op">
+         <id>5c2f1d15-2268-4575-af45-d09bd595558a</id>
+         <content>5c2e2726aef5914153e0a504d0cd5dd8</content>
+         <document>0004_dc-2022-5270.gml</document>
+         <noemer>Lage verwachting</noemer>
+      </guid>
+      <guid index="6" type="op">
+         <id>5ecf244b-a6e5-4d51-840d-d30ddd001d16</id>
+         <content>c94e18fe95398a92f38c17eab2707fe6</content>
+         <document>0004_dc-2022-5270.gml</document>
+         <noemer>Hoge verwachting</noemer>
+      </guid>
+      <guid index="7" type="op">
+         <id>2cee8c21-df22-46b0-aaa0-0121dbf3fd5a</id>
+         <content>1f619c6282e6e018f163c3d97bc54063</content>
+         <document>0005_dc-2022-5271.gml</document>
+         <noemer>Bedrijf</noemer>
+      </guid>
+      <guid index="8" type="op">
+         <id>468f6b8e-74c5-4b9f-b033-369f01c827a4</id>
+         <content>25902881d384633fd8df6e42b0f2e5ad</content>
+         <document>0006_dc-2022-5227.gml</document>
+         <noemer>bedrijf categorie 1 en 2</noemer>
+      </guid>
+      <guid index="9" type="op">
+         <id>b962f047-14f1-44eb-89c9-bc1834ff59a3</id>
+         <content>af7efc447996785851d2aa21a4fbb249</content>
+         <document>0007_dc-2022-5248.gml</document>
+         <noemer>bedrijf categorie 1 en 2 op begane grond</noemer>
+      </guid>
+      <guid index="10" type="op">
+         <id>6a85dc33-3d8e-4f6b-8339-dadf9fc4d546</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>0008_dc-2022-5281.gml</document>
+         <noemer>beschermd en/of verzorgd wonen</noemer>
+      </guid>
+      <guid index="11" type="op">
+         <id>608fa890-6b2e-4c62-afb9-aeb5fcb7a2be</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>0009_dc-2022-5230.gml</document>
+         <noemer>beschermd en/of verzorgd wonen begane grond</noemer>
+      </guid>
+      <guid index="12" type="op">
+         <id>85c1dd9d-8eaa-4456-8cfd-0ca758367d6d</id>
+         <content>2f614ed2cf3311d388f833e8b1f61792</content>
+         <document>0010_dc-2022-5276.gml</document>
+         <noemer>Gemeentelijk monument</noemer>
+      </guid>
+      <guid index="13" type="op">
+         <id>ff3f9a97-6825-4b5a-aca5-1251a73e5bb1</id>
+         <content>37b70029e1eaf5df06b2b61fc6926039</content>
+         <document>0011_dc-2022-5294.gml</document>
+         <noemer>maximum bouwhoogte (m) : 10</noemer>
+      </guid>
+      <guid index="14" type="op">
+         <id>db38b7a9-8a52-4867-b087-df3a7f37d5b9</id>
+         <content>77303bcb29365dcd42f8e5e12d97623d</content>
+         <document>0011_dc-2022-5294.gml</document>
+         <noemer>maximum bouwhoogte 9 meter</noemer>
+      </guid>
+      <guid index="15" type="op">
+         <id>38f9a00e-d1d2-45f4-8edf-583682e99912</id>
+         <content>d15bfe307fa3bdd289568af01fd30443</content>
+         <document>0011_dc-2022-5294.gml</document>
+         <noemer>maximum bouwhoogte (m) : 12</noemer>
+      </guid>
+      <guid index="16" type="op">
+         <id>d6a3acfd-16b9-49e1-9dda-54b77c7f2333</id>
+         <content>8fa27bee2c858c0932051c8f4810d1cd</content>
+         <document>0012_dc-2022-5282.gml</document>
+         <noemer>bouwvlak</noemer>
+      </guid>
+      <guid index="17" type="op">
+         <id>ff611e3d-db09-4630-a4e5-caed845ee05f</id>
+         <content>1332e364118486c319048beab89bc499</content>
+         <document>0013_dc-2022-5259.gml</document>
+         <noemer>cafe</noemer>
+      </guid>
+      <guid index="18" type="op">
+         <id>91bdd651-b6d9-4345-84d2-444fb6bf2f79</id>
+         <content>78ab26f8cca7a1018214105ec53687d6</content>
+         <document>0014_dc-2022-5225.gml</document>
+         <noemer>casino</noemer>
+      </guid>
+      <guid index="19" type="op">
+         <id>0afddb0e-2cae-4dcd-92a3-9a23b3292a93</id>
+         <content>babe08db79515ff94f90a0172a37a465</content>
+         <document>0015_dc-2022-5272.gml</document>
+         <noemer>centrumgebied</noemer>
+      </guid>
+      <guid index="20" type="op">
+         <id>d78b7174-edec-41ec-9bf2-d93fc291536d</id>
+         <content>f2e1927210998921a3dcd8bea30ccf53</content>
+         <document>0016_dc-2022-5245.gml</document>
+         <noemer>dakterrassen</noemer>
+      </guid>
+      <guid index="21" type="op">
+         <id>ffa57e46-49f5-4a47-ad18-242d9923c93a</id>
+         <content>32d80a4ea0e9b3d086689ea6dbea3ba4</content>
+         <document>0017_dc-2022-5239.gml</document>
+         <noemer>detailhandel</noemer>
+      </guid>
+      <guid index="22" type="op">
+         <id>d6166ab8-aada-486d-b537-0a1c57446d3d</id>
+         <content>9f9ef4921f82a02fb94807ba097cdd48</content>
+         <document>0018_dc-2022-5269.gml</document>
+         <noemer>detailhandel begane grond</noemer>
+      </guid>
+      <guid index="23" type="op">
+         <id>49940098-6e7b-46e7-aad2-3233b777a1b7</id>
+         <content>14e59e6031b08eaeb234d2a0447d2053</content>
+         <document>0019_dc-2022-5216.gml</document>
+         <noemer>detailhandel begane grond en op verdiepingingen</noemer>
+      </guid>
+      <guid index="24" type="op">
+         <id>79bb5d36-4fdd-45f4-9a04-8f6d93866ac3</id>
+         <content>2bdbbf591401954fdbcfc2a9634005a7</content>
+         <document>0020_dc-2022-5250.gml</document>
+         <noemer>detailhandel volumineus</noemer>
+      </guid>
+      <guid index="25" type="op">
+         <id>ffa57e46-49f5-4a47-ad18-242d9923c93a</id>
+         <content>32d80a4ea0e9b3d086689ea6dbea3ba4</content>
+         <document>0021_dc-2022-5232.gml</document>
+         <noemer>detailhandel</noemer>
+      </guid>
+      <guid index="26" type="op">
+         <id>d6166ab8-aada-486d-b537-0a1c57446d3d</id>
+         <content>9f9ef4921f82a02fb94807ba097cdd48</content>
+         <document>0021_dc-2022-5232.gml</document>
+         <noemer>detailhandel begane grond</noemer>
+      </guid>
+      <guid index="27" type="op">
+         <id>49940098-6e7b-46e7-aad2-3233b777a1b7</id>
+         <content>14e59e6031b08eaeb234d2a0447d2053</content>
+         <document>0021_dc-2022-5232.gml</document>
+         <noemer>detailhandel begane grond en op verdiepingingen</noemer>
+      </guid>
+      <guid index="28" type="op">
+         <id>79bb5d36-4fdd-45f4-9a04-8f6d93866ac3</id>
+         <content>2bdbbf591401954fdbcfc2a9634005a7</content>
+         <document>0021_dc-2022-5232.gml</document>
+         <noemer>detailhandel volumineus</noemer>
+      </guid>
+      <guid index="29" type="op">
+         <id>49940098-6e7b-46e7-aad2-3233b777a1b7</id>
+         <content>14e59e6031b08eaeb234d2a0447d2053</content>
+         <document>0022_dc-2022-5288.gml</document>
+         <noemer>dienstverlening</noemer>
+      </guid>
+      <guid index="30" type="op">
+         <id>c10e5ca1-06be-49c3-b8df-ceb2258e237b</id>
+         <content>ca86feb9d1ac3b3d6dcb5c4c1f74413b</content>
+         <document>0023_dc-2022-5251.gml</document>
+         <noemer>dienstverlening begane grond</noemer>
+      </guid>
+      <guid index="31" type="op">
+         <id>de643956-d6ad-4b46-9f50-a34f0d33a5a8</id>
+         <content>cc05a298d6d20dc0e0354b1e1293972d</content>
+         <document>0024_dc-2022-5244.gml</document>
+         <noemer>dienstverlening begane grond en eerste verdieping</noemer>
+      </guid>
+      <guid index="32" type="op">
+         <id>6a85dc33-3d8e-4f6b-8339-dadf9fc4d546</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>0025_dc-2022-5241.gml</document>
+         <noemer>educatieve voorzieningen</noemer>
+      </guid>
+      <guid index="33" type="op">
+         <id>608fa890-6b2e-4c62-afb9-aeb5fcb7a2be</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>0026_dc-2022-5291.gml</document>
+         <noemer>educatieve voorzieningen begane grond</noemer>
+      </guid>
+      <guid index="34" type="op">
+         <id>aa0919fa-0a77-42b0-8e97-6086122c49b1</id>
+         <content>e967c429038f60d8997c28eac519f0dc</content>
+         <document>0027_dc-2022-5280.gml</document>
+         <noemer>erven en terreinen</noemer>
+      </guid>
+      <guid index="35" type="op">
+         <id>8876048a-29e2-483d-a367-7b9a85454724</id>
+         <content>92e8654e2bca05671f86d52b5a4cdc92</content>
+         <document>0028_dc-2022-5253.gml</document>
+         <noemer>garagebox</noemer>
+      </guid>
+      <guid index="36" type="op">
+         <id>75a87788-8621-49c2-8d59-b42c9006fee2</id>
+         <content>88e334373ffbee00c2e6055e8c0959fb</content>
+         <document>0029_dc-2022-5293.gml</document>
+         <noemer>geen bijbehorende bouwwerken</noemer>
+      </guid>
+      <guid index="37" type="op">
+         <id>3dc111bc-df49-4d90-a176-6cb3ce7458f7</id>
+         <content>2e8616b545193b4aae2be82a30632166</content>
+         <document>0030_dc-2022-5257.gml</document>
+         <noemer>geluidwerende voorzieningen</noemer>
+      </guid>
+      <guid index="38" type="op">
+         <id>85c1dd9d-8eaa-4456-8cfd-0ca758367d6d</id>
+         <content>2f614ed2cf3311d388f833e8b1f61792</content>
+         <document>0031_dc-2022-5254.gml</document>
+         <noemer>Gemeentelijk monument</noemer>
+      </guid>
+      <guid index="39" type="op">
+         <id>ff3f9a97-6825-4b5a-aca5-1251a73e5bb1</id>
+         <content>37b70029e1eaf5df06b2b61fc6926039</content>
+         <document>0032_dc-2022-5218.gml</document>
+         <noemer>maximum goothoogte (m) : 6</noemer>
+      </guid>
+      <guid index="40" type="op">
+         <id>38f9a00e-d1d2-45f4-8edf-583682e99912</id>
+         <content>d15bfe307fa3bdd289568af01fd30443</content>
+         <document>0032_dc-2022-5218.gml</document>
+         <noemer>maximum goothoogte (m) : 10</noemer>
+      </guid>
+      <guid index="41" type="op">
+         <id>b519ce5a-467b-489c-8365-849a0b051aaa</id>
+         <content>dbd428b26928ff3cfb1150eba4512801</content>
+         <document>0033_dc-2022-5279.gml</document>
+         <noemer>groentest2</noemer>
+      </guid>
+      <guid index="42" type="op">
+         <id>b1b12977-eac4-4c17-b2e7-068b1d8fcc2e</id>
+         <content>18f3f501e6870ee25201f5cf151ed8a7</content>
+         <document>0034_dc-2022-5222.gml</document>
+         <noemer>groenvoorzieningen</noemer>
+      </guid>
+      <guid index="43" type="op">
+         <id>374382dd-7e0d-469a-8222-29244ba3d29b</id>
+         <content>cc968c56aa5d84f9ead062e5c1384cc8</content>
+         <document>0035_dc-2022-5278.gml</document>
+         <noemer>horeca categorie 1a begane grond</noemer>
+      </guid>
+      <guid index="44" type="op">
+         <id>88ff617b-5ea5-40ba-9e1b-4fb14e20da08</id>
+         <content>4e85d87bf03203ee4bcf8e400932d35a</content>
+         <document>0036_dc-2022-5217.gml</document>
+         <noemer>horeca categorie 1b begane grond</noemer>
+      </guid>
+      <guid index="45" type="op">
+         <id>5321a779-b256-4f26-9856-aa513e7ab3a8</id>
+         <content>4ba81fe3373c1692181116a42f6cdff9</content>
+         <document>0037_dc-2022-5264.gml</document>
+         <noemer>horeca categorie 2b begane grond</noemer>
+      </guid>
+      <guid index="46" type="op">
+         <id>9a197170-8f43-46ae-90ac-cedeb4da958a</id>
+         <content>0d2c885641fc0b8816a2e4072bc6ff8c</content>
+         <document>0038_dc-2022-5235.gml</document>
+         <noemer>horeca categorie 3 begane grond</noemer>
+      </guid>
+      <guid index="47" type="op">
+         <id>faca7244-c78a-4251-a6bc-bd99c5fca192</id>
+         <content>3a16797524eb69155c70b27f57ca7f6a</content>
+         <document>0039_dc-2022-5238.gml</document>
+         <noemer>horeca categorie 5 begane grond</noemer>
+      </guid>
+      <guid index="48" type="op">
+         <id>faca7244-c78a-4251-a6bc-bd99c5fca192</id>
+         <content>3a16797524eb69155c70b27f57ca7f6a</content>
+         <document>0040_dc-2022-5256.gml</document>
+         <noemer>horeca categorie 6 begane grond</noemer>
+      </guid>
+      <guid index="49" type="op">
+         <id>b545c576-9ee2-4e7a-84c2-13d31863e4a1</id>
+         <content>174164b590fd3be51c0d3256535eea17</content>
+         <document>0041_dc-2022-5221.gml</document>
+         <noemer>kantoor</noemer>
+      </guid>
+      <guid index="50" type="op">
+         <id>b962f047-14f1-44eb-89c9-bc1834ff59a3</id>
+         <content>af7efc447996785851d2aa21a4fbb249</content>
+         <document>0042_dc-2022-5228.gml</document>
+         <noemer>kantoren begane grond</noemer>
+      </guid>
+      <guid index="51" type="op">
+         <id>de643956-d6ad-4b46-9f50-a34f0d33a5a8</id>
+         <content>cc05a298d6d20dc0e0354b1e1293972d</content>
+         <document>0042_dc-2022-5228.gml</document>
+         <noemer>kantoren begane grond en eerste verdieping</noemer>
+      </guid>
+      <guid index="52" type="op">
+         <id>b962f047-14f1-44eb-89c9-bc1834ff59a3</id>
+         <content>af7efc447996785851d2aa21a4fbb249</content>
+         <document>0043_dc-2022-5274.gml</document>
+         <noemer>kantoren begane grond</noemer>
+      </guid>
+      <guid index="53" type="op">
+         <id>de643956-d6ad-4b46-9f50-a34f0d33a5a8</id>
+         <content>cc05a298d6d20dc0e0354b1e1293972d</content>
+         <document>0044_dc-2022-5286.gml</document>
+         <noemer>kantoren begane grond en eerste verdieping</noemer>
+      </guid>
+      <guid index="54" type="op">
+         <id>d0fc2673-4e54-4471-9aae-eb8efa4e5c80</id>
+         <content>61687a2cda7a5ecc8d6973897c7313e8</content>
+         <document>0045_dc-2022-5252.gml</document>
+         <noemer>karakteristiek</noemer>
+      </guid>
+      <guid index="55" type="op">
+         <id>6a85dc33-3d8e-4f6b-8339-dadf9fc4d546</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>0046_dc-2022-5273.gml</document>
+         <noemer>kinderopvang</noemer>
+      </guid>
+      <guid index="56" type="op">
+         <id>608fa890-6b2e-4c62-afb9-aeb5fcb7a2be</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>0047_dc-2022-5285.gml</document>
+         <noemer>kinderopvang begane grond</noemer>
+      </guid>
+      <guid index="57" type="op">
+         <id>5c2f1d15-2268-4575-af45-d09bd595558a</id>
+         <content>5c2e2726aef5914153e0a504d0cd5dd8</content>
+         <document>0048_dc-2022-5284.gml</document>
+         <noemer>Lage verwachting</noemer>
+      </guid>
+      <guid index="58" type="op">
+         <id>6a85dc33-3d8e-4f6b-8339-dadf9fc4d546</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>0049_dc-2022-5247.gml</document>
+         <noemer>levensbeschouwelijke voorzieningen</noemer>
+      </guid>
+      <guid index="59" type="op">
+         <id>608fa890-6b2e-4c62-afb9-aeb5fcb7a2be</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>0050_dc-2022-5220.gml</document>
+         <noemer>levensbeschouwelijke voorzieningen begane grond</noemer>
+      </guid>
+      <guid index="60" type="op">
+         <id>c10e5ca1-06be-49c3-b8df-ceb2258e237b</id>
+         <content>ca86feb9d1ac3b3d6dcb5c4c1f74413b</content>
+         <document>0051_dc-2022-5246.gml</document>
+         <noemer>maatschappelijk begane grond</noemer>
+      </guid>
+      <guid index="61" type="op">
+         <id>c5406512-793b-4f99-b419-b7fd90ff8e1b</id>
+         <content>0e85c31bed6da267d0983cbf4d9339b0</content>
+         <document>0052_dc-2022-5292.gml</document>
+         <noemer>maatschappelijk begane grond en eerste verdieping</noemer>
+      </guid>
+      <guid index="62" type="op">
+         <id>c10e5ca1-06be-49c3-b8df-ceb2258e237b</id>
+         <content>ca86feb9d1ac3b3d6dcb5c4c1f74413b</content>
+         <document>0053_dc-2022-5215.gml</document>
+         <noemer>maatschappelijk begane grond</noemer>
+      </guid>
+      <guid index="63" type="op">
+         <id>11506fcf-bbbd-43c7-95b6-753a964454ea</id>
+         <content>6580c75b174947687118cfa59ae29ba6</content>
+         <document>0053_dc-2022-5215.gml</document>
+         <noemer>religie</noemer>
+      </guid>
+      <guid index="64" type="op">
+         <id>c5406512-793b-4f99-b419-b7fd90ff8e1b</id>
+         <content>0e85c31bed6da267d0983cbf4d9339b0</content>
+         <document>0053_dc-2022-5215.gml</document>
+         <noemer>maatschappelijk begane grond en eerste verdieping</noemer>
+      </guid>
+      <guid index="65" type="op">
+         <id>db38b7a9-8a52-4867-b087-df3a7f37d5b9</id>
+         <content>77303bcb29365dcd42f8e5e12d97623d</content>
+         <document>0054_dc-2022-5283.gml</document>
+         <noemer>maximum bouwhoogte 9 meter</noemer>
+      </guid>
+      <guid index="66" type="op">
+         <id>6a85dc33-3d8e-4f6b-8339-dadf9fc4d546</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>0055_dc-2022-5240.gml</document>
+         <noemer>medische voorzieningen</noemer>
+      </guid>
+      <guid index="67" type="op">
+         <id>608fa890-6b2e-4c62-afb9-aeb5fcb7a2be</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>0056_dc-2022-5223.gml</document>
+         <noemer>medische voorzieningen begane grond</noemer>
+      </guid>
+      <guid index="68" type="op">
+         <id>776f0ba1-9d3d-4b75-b538-c0a113dea866</id>
+         <content>0d3833d65820ec9be8599da1f658a699</content>
+         <document>0057_dc-2022-5261.gml</document>
+         <noemer>natuur</noemer>
+      </guid>
+      <guid index="69" type="op">
+         <id>3169bf17-00a9-4524-b9df-668193775d66</id>
+         <content>327bf3e01413ced39bf753a7718a8830</content>
+         <document>0058_dc-2022-5258.gml</document>
+         <noemer>nutsvoorzieningen</noemer>
+      </guid>
+      <guid index="70" type="op">
+         <id>3e19f2b1-6692-404f-9a21-de0f744c5003</id>
+         <content>795b16123c6cc261b96ea7b222fbab17</content>
+         <document>0059_dc-2022-5262.gml</document>
+         <noemer>onzelfstandige woonruimte</noemer>
+      </guid>
+      <guid index="71" type="op">
+         <id>0eac0b0e-45bc-45ca-a37f-bb3ba70bc773</id>
+         <content>6f9196564bd36063f198774f1007b046</content>
+         <document>0060_dc-2022-5289.gml</document>
+         <noemer>op slot gebieden</noemer>
+      </guid>
+      <guid index="72" type="op">
+         <id>74a9543f-5b8b-4cc5-b115-162924cd51d9</id>
+         <content>292e1ea3917121da63d0589981cd6e35</content>
+         <document>0061_dc-2022-5233.gml</document>
+         <noemer>openbaar gebied</noemer>
+      </guid>
+      <guid index="73" type="op">
+         <id>6a85dc33-3d8e-4f6b-8339-dadf9fc4d546</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>0062_dc-2022-5267.gml</document>
+         <noemer>openbare dienstverlening en openbaar bestuur</noemer>
+      </guid>
+      <guid index="74" type="op">
+         <id>608fa890-6b2e-4c62-afb9-aeb5fcb7a2be</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>0063_dc-2022-5295.gml</document>
+         <noemer>openbare dienstverlening en openbaar bestuur begane grond</noemer>
+      </guid>
+      <guid index="75" type="op">
+         <id>11506fcf-bbbd-43c7-95b6-753a964454ea</id>
+         <content>6580c75b174947687118cfa59ae29ba6</content>
+         <document>0064_dc-2022-5287.gml</document>
+         <noemer>religie</noemer>
+      </guid>
+      <guid index="76" type="op">
+         <id>b7c178dc-8b7d-4021-b5b9-66ea6fd756a4</id>
+         <content>e07690dd111fec158715f651264df2dc</content>
+         <document>0065_dc-2022-5231.gml</document>
+         <noemer>seksinrichting</noemer>
+      </guid>
+      <guid index="77" type="op">
+         <id>6a85dc33-3d8e-4f6b-8339-dadf9fc4d546</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>0066_dc-2022-5243.gml</document>
+         <noemer>sociaal-culturele voorzieningen</noemer>
+      </guid>
+      <guid index="78" type="op">
+         <id>608fa890-6b2e-4c62-afb9-aeb5fcb7a2be</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>0067_dc-2022-5290.gml</document>
+         <noemer>sociaal-culturele voorzieningen begane grond</noemer>
+      </guid>
+      <guid index="79" type="op">
+         <id>6a85dc33-3d8e-4f6b-8339-dadf9fc4d546</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>0068_dc-2022-5260.gml</document>
+         <noemer>sociaal-medische voorzieningen</noemer>
+      </guid>
+      <guid index="80" type="op">
+         <id>608fa890-6b2e-4c62-afb9-aeb5fcb7a2be</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>0069_dc-2022-5224.gml</document>
+         <noemer>sociaal-medische voorzieningen begane grond</noemer>
+      </guid>
+      <guid index="81" type="op">
+         <id>3e8b60e4-51ce-4563-8075-64379a9ea12f</id>
+         <content>e288c0df4957589df4aa9bb5ef1a2f77</content>
+         <document>0070_dc-2022-5236.gml</document>
+         <noemer>speelvoorzieningen</noemer>
+      </guid>
+      <guid index="82" type="op">
+         <id>6a85dc33-3d8e-4f6b-8339-dadf9fc4d546</id>
+         <content>7ac8871d6a5e35bc102d4255c465bced</content>
+         <document>0071_dc-2022-5266.gml</document>
+         <noemer>sport en sportieve recreatie</noemer>
+      </guid>
+      <guid index="83" type="op">
+         <id>608fa890-6b2e-4c62-afb9-aeb5fcb7a2be</id>
+         <content>3412fb491fda03da607648b3442d755c</content>
+         <document>0072_dc-2022-5263.gml</document>
+         <noemer>sport en sportieve recreatie begane grond</noemer>
+      </guid>
+      <guid index="84" type="op">
+         <id>77f0312c-4285-43f9-9d9c-56959d3d13f7</id>
+         <content>4d9c71b5468eebb34fd113ed9953145c</content>
+         <document>0073_dc-2022-5265.gml</document>
+         <noemer>tuinen</noemer>
+      </guid>
+      <guid index="85" type="op">
+         <id>6becebe7-a955-42d2-9997-99c72c82f92d</id>
+         <content>f110a65093407fa89500d4142a83beed</content>
+         <document>0074_dc-2022-5237.gml</document>
+         <noemer>Verkeer</noemer>
+      </guid>
+      <guid index="86" type="op">
+         <id>c144006e-e260-46bb-bbbd-d40866c8a962</id>
+         <content>a58a5e2956cc1617d4abd04de4c77eff</content>
+         <document>0075_dc-2022-5275.gml</document>
+         <noemer>verkeer uitgesloten</noemer>
+      </guid>
+      <guid index="87" type="op">
+         <id>aa0919fa-0a77-42b0-8e97-6086122c49b1</id>
+         <content>e967c429038f60d8997c28eac519f0dc</content>
+         <document>0076_dc-2022-5268.gml</document>
+         <noemer>voorzieningen voor opwekken duurzame energie</noemer>
+      </guid>
+      <guid index="88" type="op">
+         <id>ec49e596-b109-4995-8985-3be8034abf89</id>
+         <content>4dbc27160505a75600b9699ccd903af8</content>
+         <document>0077_dc-2022-5277.gml</document>
+         <noemer>water en waterhuishoudkundige voorzieningen</noemer>
+      </guid>
+      <guid index="89" type="op">
+         <id>d3f6ffa3-dfd0-4f45-a2a6-e1cd807a1576</id>
+         <content>f2f79a50596b8ba15820e7a5ad031205</content>
+         <document>0078_dc-2022-5255.gml</document>
+         <noemer>wegen en paden</noemer>
+      </guid>
+      <guid index="90" type="op">
+         <id>7d8b75bd-5111-4530-9400-a708f2aa020d</id>
+         <content>9258e764f5ea7d875a11d6bac570c3eb</content>
+         <document>0079_dc-2022-5219.gml</document>
+         <noemer>wonen</noemer>
+      </guid>
+      <guid index="91" type="op">
+         <id>6b4d3d5f-02fd-4dea-8899-9c7509e1c22c</id>
+         <content>7a66208bfd5ba27312446307d5e81709</content>
+         <document>0080_dc-2022-5242.gml</document>
+         <noemer>wonen Hemelrijken</noemer>
+      </guid>
+      <guid index="92" type="op">
+         <id>12cabbe9-195b-413c-a0c4-914f4c3eb89f</id>
+         <content>849267622dcce481e263b0f588f1b16e</content>
+         <document>0080_dc-2022-5242.gml</document>
+         <noemer>wonen Prinsejagt-Driehoeksbos</noemer>
+      </guid>
+      <guid index="93" type="op">
+         <id>7d8b75bd-5111-4530-9400-a708f2aa020d</id>
+         <content>9258e764f5ea7d875a11d6bac570c3eb</content>
+         <document>0081_dc-2022-5226.gml</document>
+         <noemer>wonen</noemer>
+      </guid>
+   </guids>
+</test>

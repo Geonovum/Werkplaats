@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                              schemaversie="1.2.0"
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
@@ -15,7 +14,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>0074_dc-2022-5237.gml</bestandsnaam>
-                  <hash>f98c9316b1276a28fcc457c5d3340fee34651e6841da351d6cc3de2663fec42b2573c4609600174ada7e15e154e4928a1bbfe8d7158d44dd3d29c2b232f4307c</hash>
+                  <hash>71176bd63915f832b14618be9fafe9fc1fbd116b673311ae45e03e0f84b655df3d7e5926540b90da9b6ed73eb927b1af1c206965f1953e968529cb00c3a1145f</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
