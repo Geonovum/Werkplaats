@@ -2,8 +2,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_kapelle</FRBRWork>
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>gm0678_besluitgebied.gml</bestandsnaam>
-                  <hash>bd467c2ac3f628868d66b3d543ae531140975bc8a81894ffae3be7c6706c410db3b950e370f58fdc8722ee598272538f19584dd35de6eb3355191dea635d9513</hash>
+                  <hash>89977c6235fb0622d9b005384751df41dff373fa9fe9465bbe3925fba13735b1e7a3dd18efdc2728bd7f50be0b8dcd66d7c42d1788806b526d94e8181d1ba242</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
