@@ -261,7 +261,7 @@
                <rol:naam>gebruik gemeentelijk monument</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Monumentenactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActInOmgevingsplan"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0772.activiteit.ActInOmgevingsplanGem"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -348,7 +348,7 @@
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0772.activiteit.ActInOmgevingsplanGem"/>
                </rol:gerelateerdeActiviteit>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActInOmgevingsplan"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0772.activiteit.ActInOmgevingsplanGem"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <geo:GeoInformatieObjectVaststelling xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                                      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                                     schemaversie="1.3.0"
-                                     xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.3.0/imop-geo.xsd">
+                                     schemaversie="1.1.0"
+                                     xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.1.0/imop-geo.xsd">
    <geo:context>
       <gio:GeografischeContext xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/">
          <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
@@ -19,8 +19,8 @@
                <geo:geometrie>
                   <basisgeo:Geometrie xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0"
                                       xmlns:gml="http://www.opengis.net/gml/3.2"
-                                      gml:id="id_94a0f3ad-084e-4670-a44d-9415e8b04666">
-                     <basisgeo:id>6a85dc33-3d8e-4f6b-8339-dadf9fc4d546</basisgeo:id>
+                                      gml:id="id_886bfaf2-84b3-4360-8529-d02daf5b3ff1">
+                     <basisgeo:id>886bfaf2-84b3-4360-8529-d02daf5b3ff1</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
