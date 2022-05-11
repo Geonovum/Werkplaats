@@ -11,12 +11,12 @@
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0703/nld@2021-03-01;1</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/mnre1045/2021/EZvb17ZW380-3001-gm0703</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>gm0703_besluitgebied.gml</bestandsnaam>
-                  <hash>3089370a26f3edccd46c96b20f73e70a9f3d6ab46d87252213ed9760b04018c3770f6d82847a4e62e0eab62bd71d6ce98c54c0ae0fa70bbecc86311391250c4b</hash>
+                  <hash>fe04b5a8de7da54103cd0185909724b8ce680b43cf7893ec703676a8d694b23d3acba81039374dd377de002f61c1e019c18ecdae66324e01a33f09e246b5263d</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -82,16 +82,14 @@
                   <doel>/join/id/proces/mnre1045/2021/Instelling_gm0678</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_kapelle/nld@2021-03-01;1</instrumentVersie>
-               <eId>
-cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId>!initieel_gm0678#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2021/Instelling_gm0703</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/mnre1045/2021/voorbeschermingsregels_gemeente_reimerswaal/nld@2021-03-01;1</instrumentVersie>
-               <eId>
-cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId>!initieel_gm0703#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -207,7 +205,7 @@ cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
                         <Inhoud>
                            <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan <IntIoRef eId="art_o_1__ref_o_1"
                                         wId="mnre1045_1__art_o_1__ref_o_1"
-                                        ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">gemeente Borsele</IntIoRef> gelden de navolgende voorbeschermingsregels. Voor zover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
+                                        ref="mnre1045_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">gemeente Borsele</IntIoRef> gelden de navolgende voorbeschermingsregels. Voor zover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
                         </Inhoud>
                      </Artikel>
                   </Conditie>
@@ -390,7 +388,7 @@ cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
                         <Inhoud>
                            <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan <IntIoRef eId="art_o_1__ref_o_1"
                                         wId="mnre1045_1__art_o_1__ref_o_1"
-                                        ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">gemeente Kapelle</IntIoRef> gelden de navolgende voorbeschermingsregels. Voor zover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
+                                        ref="mnre1045_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">gemeente Kapelle</IntIoRef> gelden de navolgende voorbeschermingsregels. Voor zover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
                         </Inhoud>
                      </Artikel>
                   </Conditie>
@@ -541,8 +539,8 @@ cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
                         <Inhoud>
                            <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan <IntIoRef eId="art_o_1__ref_o_1"
                                         wId="mnre1045_1__art_o_1__ref_o_1"
-                                        ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">gemeente Reimerswaal</IntIoRef> gelden de navolgende voorbeschermingsregels. Voor zover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
-                        </Inhoud>
+                                        ref="mnre1045_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">gemeente Reimerswaal</IntIoRef> gelden de navolgende voorbeschermingsregels. Voor zover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
+                        </Inhoud>             
                      </Artikel>
                   </Conditie>
                   <Hoofdstuk eId="chp_1" wId="mnre1045_1__chp_1">

@@ -335,7 +335,7 @@
                                      type="expliciet">
                                  <Lijstaanhef>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
                                               wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
-                                              ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
+                                              ref="pv27_1__cmp_o_2__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
                                  <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_a"
                                      wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -359,7 +359,7 @@
                            <Inhoud>
                               <Al>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.4__ref_o_1"
                                            wId="pv27_1__chp_1__subchp_1.3__art_1.4__ref_o_1"
-                                           ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
+                                           ref="pv27_1__cmp_o_2__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
                            </Inhoud>
                         </Artikel>
                         <Artikel eId="chp_1__subchp_1.3__art_1.5"
@@ -585,15 +585,41 @@
                   </Divisietekst>
                </Bijlage>
                <Bijlage xmlns:dso="https://www.dso.nl/"
-                        eId="cmp_o_2"
-                        wId="pv27_1__cmp_o_2"
-                        dso:niveau="1">
+                  eId="cmp_o_2"
+                  wId="pv27_1__cmp_o_2"
+                  dso:niveau="1">
+                  <Kop>
+                     <Opschrift>Overzicht informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_o_2__content_o_1" wId="pv27_1__cmp_o_2__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_o_2__content_o_1__list_o_1"
+                           wId="pv27_1__cmp_o_2__content_o_1__list_o_1">
+                           <Begrip eId="cmp_o_2__content_o_1__list_o_1__item_o_1"
+                              wId="pv27_1__cmp_o_2__content_o_1__list_o_1__item_o_1">
+                              <Term>voorbeschermd provinciaal monument</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_o_2__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       wId="pv27_1__cmp_o_2__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0373/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0373/nld@2021-06-21;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+               <Toelichting xmlns:dso="https://www.dso.nl/"
+                  eId="recital_o_1"
+                  wId="pv27_1__recital_o_1"
+                  dso:niveau="1">
                   <Kop>
                      <Opschrift>Toelichting</Opschrift>
                   </Kop>
-                  <Divisietekst eId="cmp_o_2__content_o_1"
-                                wId="pv27_1__cmp_o_2__content_o_1"
-                                dso:niveau="2">
+                  <Divisietekst eId="recital_o_1__content_o_1"
+                     wId="pv27_1__recital_o_1__content_o_1"
+                     dso:niveau="2">
                      <Kop>
                         <Opschrift>Geitenhouderij</Opschrift>
                      </Kop>
@@ -603,9 +629,9 @@
                         <Al>Het is niet toegestaan om nieuwvestiging, uitbreiding van geitenhouderijen of (gedeeltelijke) omschakeling van een agrarisch bedrijf naar een geitenhouderij te realiseren. Hierin wordt specifiek verwezen naar uitbreiding als ‘uitbreiding van het aantal dieren’. Vernieuwen of toevoegen van stallen, bijvoorbeeld gericht op het verbeteren van dierenwelzijn, wordt niet door dit verbod geraakt zolang het aantal dieren daarbij niet wordt uitgebreid.</Al>
                      </Inhoud>
                   </Divisietekst>
-                  <Divisietekst eId="cmp_o_2__content_o_2"
-                                wId="pv27_1__cmp_o_2__content_o_2"
-                                dso:niveau="2">
+                  <Divisietekst eId="recital_o_1__content_o_2"
+                     wId="pv27_1__recital_o_1__content_o_2"
+                     dso:niveau="2">
                      <Kop>
                         <Opschrift>Windturbines</Opschrift>
                      </Kop>
@@ -613,9 +639,9 @@
                         <Al>De Omgevingsverordening NH2022 bevat een instructieregel die ertoe strekt dat in het omgevingsplan een bouw c.q. opschalingsverbod voor windturbines wordt opgenomen. Voor de periode die gemeenten nodig hebben om deze instructieregels uit te voeren, gelden deze voorbeschermingsregels, die een direct werkend verbod op het bouwen van windturbines behelzen. Vervanging van een of meer vergunde en gebouwde windturbines is mogelijk, mits sprake is van vervanging door eenzelfde aantal of minder windturbines met eenzelfde of vergelijkbare ashoogte, rotordiameter en verschijningsvorm. De rotordiameter ziet op de afstand vanaf het hart van de as tot de tip van het rotorblad. De ashoogte betreft de afstand vanaf maaiveldhoogte ter plaatse tot het hart van de rotor-as. De verschijningsvorm betreft het uiterlijk van de windturbine zoals dat wordt bepaald door de vorm van de mast, het samenstel van de rotorbladen en de vorm van de gondel. Met vergelijkbare ashoogte wordt bedoeld: de huidige ashoogte met een maximale afwijking van 10%. Met vergelijkbare rotordiameter wordt bedoeld: de huidige rotordiameter met een maximale afwijking van 10%. Ook moet worden voldaan aan het vereiste zoals geformuleerd in artikel 6.27 lid 2 sub e (gulden snede) (vlak voor vaststelling nog checken of verwijzing klopt). Vervanging van windturbines heeft vaak ook een beperkte mate van opschaling tot gevolg omdat innovatievere windturbines doorgaans een groter vermogen hebben. Daarom dient in het kader van het belang van een goede fysieke leefomgeving bij een iets grotere ashoogte of rotordiameter (van maximaal 10%) te worden aangetoond dat het woon-en leefklimaat van omwonenden niet verslechtert. Bijvoorbeeld op basis van akoestisch onderzoek en overig relevant onderzoek. Voorts zou –indien mogelijk- aan de omgevingsvergunning (onderdeel milieu) een voorschrift verbonden kunnen worden inhoudende dat ten minste de voor de inrichting in aanmerking komende best beschikbare technieken worden toegepast.</Al>
                      </Inhoud>
                   </Divisietekst>
-                  <Divisietekst eId="cmp_o_2__content_o_3"
-                                wId="pv27_1__cmp_o_2__content_o_3"
-                                dso:niveau="2">
+                  <Divisietekst eId="recital_o_1__content_o_3"
+                     wId="pv27_1__recital_o_1__content_o_3"
+                     dso:niveau="2">
                      <Kop>
                         <Opschrift>Provinciale monumenten</Opschrift>
                      </Kop>
@@ -624,33 +650,7 @@
                         <Al>De provincie wil deze taakverdeling behouden onder de Omgevingswet. De provincie heeft daarom instructieregels opgenomen in de Omgevingsverordening NH2022 om gemeenten een vergunningenstelsel voor provinciale monumenten in het omgevingsplan te laten opnemen. Voor de periode die gemeenten nodig hebben om deze instructieregels uit te voeren, gelden deze voorbeschermingsregels die een zorgplicht, een vergunningenstelsel en een adviesrecht instellen.</Al>
                      </Inhoud>
                   </Divisietekst>
-               </Bijlage>
-               <Bijlage xmlns:dso="https://www.dso.nl/"
-                        eId="cmp_o_3"
-                        wId="pv27_1__cmp_o_3"
-                        dso:niveau="1">
-                  <Kop>
-                     <Opschrift>Overzicht informatieobjecten</Opschrift>
-                  </Kop>
-                  <Divisietekst eId="cmp_o_3__content_o_1" wId="pv27_1__cmp_o_3__content_o_1">
-                     <Inhoud>
-                        <Begrippenlijst eId="cmp_o_3__content_o_1__list_o_1"
-                                        wId="pv27_1__cmp_o_3__content_o_1__list_o_1">
-                           <Begrip eId="cmp_o_3__content_o_1__list_o_1__item_o_1"
-                                   wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1">
-                              <Term>voorbeschermd provinciaal monument</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0373/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0373/nld@2021-06-21;1</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                        </Begrippenlijst>
-                     </Inhoud>
-                  </Divisietekst>
-               </Bijlage>
+               </Toelichting>
             </RegelingTijdelijkdeel>
          </WijzigBijlage>
          <WijzigBijlage eId="cmp_II" wId="pv27_1__cmp_II">
@@ -812,7 +812,7 @@
                                      type="expliciet">
                                  <Lijstaanhef>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
                                               wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
-                                              ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
+                                              ref="pv27_1__cmp_o_2__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
                                  <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_a"
                                      wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -836,7 +836,7 @@
                            <Inhoud>
                               <Al>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.4__ref_o_1"
                                            wId="pv27_1__chp_1__subchp_1.3__art_1.4__ref_o_1"
-                                           ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
+                                           ref="pv27_1__cmp_o_2__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
                            </Inhoud>
                         </Artikel>
                         <Artikel eId="chp_1__subchp_1.3__art_1.5"
@@ -1062,15 +1062,41 @@
                   </Divisietekst>
                </Bijlage>
                <Bijlage xmlns:dso="https://www.dso.nl/"
-                        eId="cmp_o_2"
-                        wId="pv27_1__cmp_o_2"
-                        dso:niveau="1">
+                  eId="cmp_o_2"
+                  wId="pv27_1__cmp_o_2"
+                  dso:niveau="1">
+                  <Kop>
+                     <Opschrift>Overzicht informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_o_2__content_o_1" wId="pv27_1__cmp_o_2__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_o_2__content_o_1__list_o_1"
+                           wId="pv27_1__cmp_o_2__content_o_1__list_o_1">
+                           <Begrip eId="cmp_o_2__content_o_1__list_o_1__item_o_1"
+                              wId="pv27_1__cmp_o_2__content_o_1__list_o_1__item_o_1">
+                              <Term>voorbeschermd provinciaal monument</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_o_2__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       wId="pv27_1__cmp_o_2__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441/nld@2021-06-21;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+               <Toelichting xmlns:dso="https://www.dso.nl/"
+                  eId="recital_o_1"
+                  wId="pv27_1__recital_o_1"
+                  dso:niveau="1">
                   <Kop>
                      <Opschrift>Toelichting</Opschrift>
                   </Kop>
-                  <Divisietekst eId="cmp_o_2__content_o_1"
-                                wId="pv27_1__cmp_o_2__content_o_1"
-                                dso:niveau="2">
+                  <Divisietekst eId="recital_o_1__content_o_1"
+                     wId="pv27_1__recital_o_1__content_o_1"
+                     dso:niveau="2">
                      <Kop>
                         <Opschrift>Geitenhouderij</Opschrift>
                      </Kop>
@@ -1080,9 +1106,9 @@
                         <Al>Het is niet toegestaan om nieuwvestiging, uitbreiding van geitenhouderijen of (gedeeltelijke) omschakeling van een agrarisch bedrijf naar een geitenhouderij te realiseren. Hierin wordt specifiek verwezen naar uitbreiding als ‘uitbreiding van het aantal dieren’. Vernieuwen of toevoegen van stallen, bijvoorbeeld gericht op het verbeteren van dierenwelzijn, wordt niet door dit verbod geraakt zolang het aantal dieren daarbij niet wordt uitgebreid.</Al>
                      </Inhoud>
                   </Divisietekst>
-                  <Divisietekst eId="cmp_o_2__content_o_2"
-                                wId="pv27_1__cmp_o_2__content_o_2"
-                                dso:niveau="2">
+                  <Divisietekst eId="recital_o_1__content_o_2"
+                     wId="pv27_1__recital_o_1__content_o_2"
+                     dso:niveau="2">
                      <Kop>
                         <Opschrift>Windturbines</Opschrift>
                      </Kop>
@@ -1090,9 +1116,9 @@
                         <Al>De Omgevingsverordening NH2022 bevat een instructieregel die ertoe strekt dat in het omgevingsplan een bouw c.q. opschalingsverbod voor windturbines wordt opgenomen. Voor de periode die gemeenten nodig hebben om deze instructieregels uit te voeren, gelden deze voorbeschermingsregels, die een direct werkend verbod op het bouwen van windturbines behelzen. Vervanging van een of meer vergunde en gebouwde windturbines is mogelijk, mits sprake is van vervanging door eenzelfde aantal of minder windturbines met eenzelfde of vergelijkbare ashoogte, rotordiameter en verschijningsvorm. De rotordiameter ziet op de afstand vanaf het hart van de as tot de tip van het rotorblad. De ashoogte betreft de afstand vanaf maaiveldhoogte ter plaatse tot het hart van de rotor-as. De verschijningsvorm betreft het uiterlijk van de windturbine zoals dat wordt bepaald door de vorm van de mast, het samenstel van de rotorbladen en de vorm van de gondel. Met vergelijkbare ashoogte wordt bedoeld: de huidige ashoogte met een maximale afwijking van 10%. Met vergelijkbare rotordiameter wordt bedoeld: de huidige rotordiameter met een maximale afwijking van 10%. Ook moet worden voldaan aan het vereiste zoals geformuleerd in artikel 6.27 lid 2 sub e (gulden snede) (vlak voor vaststelling nog checken of verwijzing klopt). Vervanging van windturbines heeft vaak ook een beperkte mate van opschaling tot gevolg omdat innovatievere windturbines doorgaans een groter vermogen hebben. Daarom dient in het kader van het belang van een goede fysieke leefomgeving bij een iets grotere ashoogte of rotordiameter (van maximaal 10%) te worden aangetoond dat het woon-en leefklimaat van omwonenden niet verslechtert. Bijvoorbeeld op basis van akoestisch onderzoek en overig relevant onderzoek. Voorts zou –indien mogelijk- aan de omgevingsvergunning (onderdeel milieu) een voorschrift verbonden kunnen worden inhoudende dat ten minste de voor de inrichting in aanmerking komende best beschikbare technieken worden toegepast.</Al>
                      </Inhoud>
                   </Divisietekst>
-                  <Divisietekst eId="cmp_o_2__content_o_3"
-                                wId="pv27_1__cmp_o_2__content_o_3"
-                                dso:niveau="2">
+                  <Divisietekst eId="recital_o_1__content_o_3"
+                     wId="pv27_1__recital_o_1__content_o_3"
+                     dso:niveau="2">
                      <Kop>
                         <Opschrift>Provinciale monumenten</Opschrift>
                      </Kop>
@@ -1101,33 +1127,7 @@
                         <Al>De provincie wil deze taakverdeling behouden onder de Omgevingswet. De provincie heeft daarom instructieregels opgenomen in de Omgevingsverordening NH2022 om gemeenten een vergunningenstelsel voor provinciale monumenten in het omgevingsplan te laten opnemen. Voor de periode die gemeenten nodig hebben om deze instructieregels uit te voeren, gelden deze voorbeschermingsregels die een zorgplicht, een vergunningenstelsel en een adviesrecht instellen.</Al>
                      </Inhoud>
                   </Divisietekst>
-               </Bijlage>
-               <Bijlage xmlns:dso="https://www.dso.nl/"
-                        eId="cmp_o_3"
-                        wId="pv27_1__cmp_o_3"
-                        dso:niveau="1">
-                  <Kop>
-                     <Opschrift>Overzicht informatieobjecten</Opschrift>
-                  </Kop>
-                  <Divisietekst eId="cmp_o_3__content_o_1" wId="pv27_1__cmp_o_3__content_o_1">
-                     <Inhoud>
-                        <Begrippenlijst eId="cmp_o_3__content_o_1__list_o_1"
-                                        wId="pv27_1__cmp_o_3__content_o_1__list_o_1">
-                           <Begrip eId="cmp_o_3__content_o_1__list_o_1__item_o_1"
-                                   wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1">
-                              <Term>voorbeschermd provinciaal monument</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441/nld@2021-06-21;1</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                        </Begrippenlijst>
-                     </Inhoud>
-                  </Divisietekst>
-               </Bijlage>
+               </Toelichting>
             </RegelingTijdelijkdeel>
          </WijzigBijlage>
          <WijzigBijlage eId="cmp_III" wId="pv27_1__cmp_III">
@@ -1289,7 +1289,7 @@
                                      type="expliciet">
                                  <Lijstaanhef>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
                                               wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
-                                              ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
+                                              ref="pv27_1__cmp_o_2__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
                                  <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_a"
                                      wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -1313,7 +1313,7 @@
                            <Inhoud>
                               <Al>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.4__ref_o_1"
                                            wId="pv27_1__chp_1__subchp_1.3__art_1.4__ref_o_1"
-                                           ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
+                                           ref="pv27_1__cmp_o_2__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
                            </Inhoud>
                         </Artikel>
                         <Artikel eId="chp_1__subchp_1.3__art_1.5"
@@ -1539,15 +1539,41 @@
                   </Divisietekst>
                </Bijlage>
                <Bijlage xmlns:dso="https://www.dso.nl/"
-                        eId="cmp_o_2"
-                        wId="pv27_1__cmp_o_2"
-                        dso:niveau="1">
+                  eId="cmp_o_2"
+                  wId="pv27_1__cmp_o_2"
+                  dso:niveau="1">
+                  <Kop>
+                     <Opschrift>Overzicht informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_o_2__content_o_1" wId="pv27_1__cmp_o_2__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_o_2__content_o_1__list_o_1"
+                           wId="pv27_1__cmp_o_2__content_o_1__list_o_1">
+                           <Begrip eId="cmp_o_2__content_o_1__list_o_1__item_o_1"
+                              wId="pv27_1__cmp_o_2__content_o_1__list_o_1__item_o_1">
+                              <Term>voorbeschermd provinciaal monument</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_o_2__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       wId="pv27_1__cmp_o_2__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0388/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0388/nld@2021-06-21;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                  eId="recital_o_1"
+                  wId="pv27_1__recital_o_1"
+                  dso:niveau="1">
                   <Kop>
                      <Opschrift>Toelichting</Opschrift>
                   </Kop>
-                  <Divisietekst eId="cmp_o_2__content_o_1"
-                                wId="pv27_1__cmp_o_2__content_o_1"
-                                dso:niveau="2">
+                  <Divisietekst eId="recital_o_1__content_o_1"
+                     wId="pv27_1__recital_o_1__content_o_1"
+                     dso:niveau="2">
                      <Kop>
                         <Opschrift>Geitenhouderij</Opschrift>
                      </Kop>
@@ -1557,9 +1583,9 @@
                         <Al>Het is niet toegestaan om nieuwvestiging, uitbreiding van geitenhouderijen of (gedeeltelijke) omschakeling van een agrarisch bedrijf naar een geitenhouderij te realiseren. Hierin wordt specifiek verwezen naar uitbreiding als ‘uitbreiding van het aantal dieren’. Vernieuwen of toevoegen van stallen, bijvoorbeeld gericht op het verbeteren van dierenwelzijn, wordt niet door dit verbod geraakt zolang het aantal dieren daarbij niet wordt uitgebreid.</Al>
                      </Inhoud>
                   </Divisietekst>
-                  <Divisietekst eId="cmp_o_2__content_o_2"
-                                wId="pv27_1__cmp_o_2__content_o_2"
-                                dso:niveau="2">
+                  <Divisietekst eId="recital_o_1__content_o_2"
+                     wId="pv27_1__recital_o_1__content_o_2"
+                     dso:niveau="2">
                      <Kop>
                         <Opschrift>Windturbines</Opschrift>
                      </Kop>
@@ -1567,41 +1593,15 @@
                         <Al>De Omgevingsverordening NH2022 bevat een instructieregel die ertoe strekt dat in het omgevingsplan een bouw c.q. opschalingsverbod voor windturbines wordt opgenomen. Voor de periode die gemeenten nodig hebben om deze instructieregels uit te voeren, gelden deze voorbeschermingsregels, die een direct werkend verbod op het bouwen van windturbines behelzen. Vervanging van een of meer vergunde en gebouwde windturbines is mogelijk, mits sprake is van vervanging door eenzelfde aantal of minder windturbines met eenzelfde of vergelijkbare ashoogte, rotordiameter en verschijningsvorm. De rotordiameter ziet op de afstand vanaf het hart van de as tot de tip van het rotorblad. De ashoogte betreft de afstand vanaf maaiveldhoogte ter plaatse tot het hart van de rotor-as. De verschijningsvorm betreft het uiterlijk van de windturbine zoals dat wordt bepaald door de vorm van de mast, het samenstel van de rotorbladen en de vorm van de gondel. Met vergelijkbare ashoogte wordt bedoeld: de huidige ashoogte met een maximale afwijking van 10%. Met vergelijkbare rotordiameter wordt bedoeld: de huidige rotordiameter met een maximale afwijking van 10%. Ook moet worden voldaan aan het vereiste zoals geformuleerd in artikel 6.27 lid 2 sub e (gulden snede) (vlak voor vaststelling nog checken of verwijzing klopt). Vervanging van windturbines heeft vaak ook een beperkte mate van opschaling tot gevolg omdat innovatievere windturbines doorgaans een groter vermogen hebben. Daarom dient in het kader van het belang van een goede fysieke leefomgeving bij een iets grotere ashoogte of rotordiameter (van maximaal 10%) te worden aangetoond dat het woon-en leefklimaat van omwonenden niet verslechtert. Bijvoorbeeld op basis van akoestisch onderzoek en overig relevant onderzoek. Voorts zou –indien mogelijk- aan de omgevingsvergunning (onderdeel milieu) een voorschrift verbonden kunnen worden inhoudende dat ten minste de voor de inrichting in aanmerking komende best beschikbare technieken worden toegepast.</Al>
                      </Inhoud>
                   </Divisietekst>
-                  <Divisietekst eId="cmp_o_2__content_o_3"
-                                wId="pv27_1__cmp_o_2__content_o_3"
-                                dso:niveau="2">
+                  <Divisietekst eId="recital_o_1__content_o_3"
+                     wId="pv27_1__recital_o_1__content_o_3"
+                     dso:niveau="2">
                      <Kop>
                         <Opschrift>Provinciale monumenten</Opschrift>
                      </Kop>
                      <Inhoud>
                         <Al>Gedeputeerde staten kunnen provinciale monumenten aanwijzen en schrappen, en stellen regels voor het verrichten van activiteiten aan een monument. Tot aan de invoering van de Omgevingswet zijn de gemeenten bevoegd om aanvragen voor omgevingsvergunningen voor activiteiten af te handelen die zien op wijzigingen van een provinciaal monument. Hetzelfde geldt voor toezicht en handhaving met betrekking tot provinciale monumenten.</Al>
                         <Al>De provincie wil deze taakverdeling behouden onder de Omgevingswet. De provincie heeft daarom instructieregels opgenomen in de Omgevingsverordening NH2022 om gemeenten een vergunningenstelsel voor provinciale monumenten in het omgevingsplan te laten opnemen. Voor de periode die gemeenten nodig hebben om deze instructieregels uit te voeren, gelden deze voorbeschermingsregels die een zorgplicht, een vergunningenstelsel en een adviesrecht instellen.</Al>
-                     </Inhoud>
-                  </Divisietekst>
-               </Bijlage>
-               <Bijlage xmlns:dso="https://www.dso.nl/"
-                        eId="cmp_o_3"
-                        wId="pv27_1__cmp_o_3"
-                        dso:niveau="1">
-                  <Kop>
-                     <Opschrift>Overzicht informatieobjecten</Opschrift>
-                  </Kop>
-                  <Divisietekst eId="cmp_o_3__content_o_1" wId="pv27_1__cmp_o_3__content_o_1">
-                     <Inhoud>
-                        <Begrippenlijst eId="cmp_o_3__content_o_1__list_o_1"
-                                        wId="pv27_1__cmp_o_3__content_o_1__list_o_1">
-                           <Begrip eId="cmp_o_3__content_o_1__list_o_1__item_o_1"
-                                   wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1">
-                              <Term>voorbeschermd provinciaal monument</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0388/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0388/nld@2021-06-21;1</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                        </Begrippenlijst>
                      </Inhoud>
                   </Divisietekst>
                </Bijlage>
@@ -1616,7 +1616,7 @@
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
-               <FRBRWork>/akn/nl/act/gm0373/2020/omgevingsplan</FRBRWork>
+               <FRBRWork>/akn/nl/act/gm0373/2021/omgevingsplanBergen</FRBRWork>
                <soortWork>/join/id/stop/work_019</soortWork>
             </WorkIdentificatie>
          </isTijdelijkDeelVan>
@@ -1654,7 +1654,7 @@
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
-               <FRBRWork>/akn/nl/act/gm0441/2020/omgevingsplan</FRBRWork>
+               <FRBRWork>/akn/nl/act/gm0441/2021/omgevingsplanSchagen</FRBRWork>
                <soortWork>/join/id/stop/work_019</soortWork>
             </WorkIdentificatie>
          </isTijdelijkDeelVan>
@@ -1692,7 +1692,7 @@
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
-               <FRBRWork>/akn/nl/act/gm0388/2020/omgevingsplan</FRBRWork>
+               <FRBRWork>/akn/nl/act/gm0388/2021/omgevingsplan3Enkhuizen</FRBRWork>
                <soortWork>/join/id/stop/work_019</soortWork>
             </WorkIdentificatie>
          </isTijdelijkDeelVan>

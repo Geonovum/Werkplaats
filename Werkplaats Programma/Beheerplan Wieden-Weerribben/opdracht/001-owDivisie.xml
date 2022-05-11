@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Werkplaats Natuurbeheerplan Wieden voor TPOD-programma</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>provincie Overijssel</sl:gebied>
+         <sl:leveringsId>WiedenWeerribben_2022-04-11_001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Divisie</sl:objectType>
+            <sl:objectType>Divisietekst</sl:objectType>
+            <sl:objectType>Tekstdeel</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="pv23_1__div_1__div_1.1">
+               <vt:identificatie>nl.imow-pv23.divisie.20220411000002</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-pv23.tekstdeel.20220411000002</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</vt:thema>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-pv23.divisie.20220411000002"/>
+               </vt:divisieaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="pv23_1__div_3__content_3.1">
+               <vt:identificatie>nl.imow-pv23.divisietekst.20220411000003</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-pv23.tekstdeel.20220411000003</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-pv23.divisietekst.20220411000003"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.000000010019003280001588922537"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.000000010019003280003168799798"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.000000010019003280001411125197"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.000000010019003280003092384753"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.000000010019003280002206927372"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.000000010019003280003137276935"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.000000010019003280003231845413"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.0000000100190032800084938397"/>
+               </vt:hoofdlijnaanduiding>
+               <vt:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-pv23.gebied.000000010019003280001350371212"/>
+               </vt:locatieaanduiding>
+               <vt:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.000000010019003280001867792838"/>
+               </vt:gebiedsaanwijzing>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="pv23_1__div_3__content_3.2">
+               <vt:identificatie>nl.imow-pv23.divisietekst.20220411000004</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-pv23.tekstdeel.20220411000004</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-pv23.divisietekst.20220411000004"/>
+               </vt:divisieaanduiding>
+               <vt:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-pv23.gebied.000000010019003280002671053534"/>
+               </vt:locatieaanduiding>
+               <vt:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.000000010019003280002398045039"/>
+               </vt:gebiedsaanwijzing>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="pv23_1__div_5__div_5.4__content_5.4.1">
+               <vt:identificatie>nl.imow-pv23.divisietekst.20220411000006</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-pv23.tekstdeel.20220411000006</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-pv23.divisietekst.20220411000006"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.000000010019003280001588922537"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.000000010019003280003168799798"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.000000010019003280001411125197"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.000000010019003280003092384753"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.000000010019003280002206927372"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.000000010019003280003137276935"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.000000010019003280003231845413"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-pv23.hoofdlijn.0000000100190032800084938397"/>
+               </vt:hoofdlijnaanduiding>
+               <vt:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-pv23.gebied.000000010019003280003002536370"/>
+               </vt:locatieaanduiding>
+               <vt:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.000000010019003280001807107605"/>
+               </vt:gebiedsaanwijzing>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="pv23_1__div_5__div_5.4__div_5.4.2__div_o_1__content_o_1">
+               <vt:identificatie>nl.imow-pv23.divisietekst.20220411000007</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-pv23.tekstdeel.20220411000007</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-pv23.divisietekst.20220411000007"/>
+               </vt:divisieaanduiding>
+               <vt:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.00000001001900328000456677000"/>
+               </vt:gebiedsaanwijzing>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="pv23_1__div_5__div_5.4__div_5.4.2__div_o_1__content_o_3">
+               <vt:identificatie>nl.imow-pv23.divisietekst.20220411000008</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-pv23.tekstdeel.20220411000008</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-pv23.divisietekst.20220411000008"/>
+               </vt:divisieaanduiding>
+               <vt:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.00000001001900328000140138818"/>
+               </vt:gebiedsaanwijzing>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="pv23_1__div_6__div_6.1__content_6.1.1">
+               <vt:identificatie>nl.imow-pv23.divisietekst.20220411000009</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-pv23.tekstdeel.20220411000009</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-pv23.divisietekst.20220411000009"/>
+               </vt:divisieaanduiding>
+               <vt:kaartaanduiding>
+                  <k:KaartRef xlink:href="nl.imow-pv23.kaart.20220001"/>
+               </vt:kaartaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="pv23_1__div_6__div_6.1__content_6.1.2">
+               <vt:identificatie>nl.imow-pv23.divisietekst.20220411000010</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-pv23.tekstdeel.20220411000010</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-pv23.divisietekst.20220411000010"/>
+               </vt:divisieaanduiding>
+               <vt:kaartaanduiding>
+                  <k:KaartRef xlink:href="nl.imow-pv23.kaart.20220002"/>
+               </vt:kaartaanduiding>
+               <vt:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-pv23.gebied.000000010019003280003808890144"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv23.gebied.000000010019003280001858418498"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv23.gebied.000000010019003280004054723567"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv23.gebied.000000010019003280001916084414"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv23.gebied.000000010019003280002145524246"/>
+               </vt:locatieaanduiding>
+               <vt:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.00000001001900328000909919562"/>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.00000001001900328000343099718"/>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.000000010019003280004054723567"/>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.000000010019003280001916084414"/>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.000000010019003280002145524246"/>
+               </vt:gebiedsaanwijzing>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

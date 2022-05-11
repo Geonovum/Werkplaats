@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<publicatieOpdracht xmlns="http://www.overheid.nl/2017/lvbb">
+   <idLevering>GW_Eindhoven_009</idLevering>
+   <idBevoegdGezag>00000001001902763000</idBevoegdGezag>
+   <idAanleveraar>00000003560458830000</idAanleveraar>
+   <publicatie>besluit.xml</publicatie>
+   <datumBekendmaking>2022-05-11</datumBekendmaking>
+</publicatieOpdracht>

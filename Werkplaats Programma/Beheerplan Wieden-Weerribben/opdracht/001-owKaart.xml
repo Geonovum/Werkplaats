@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Werkplaats Natuurbeheerplan Wieden voor TPOD-programma</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>provincie Overijssel</sl:gebied>
+         <sl:leveringsId>>WiedenWeerribben_2022-04-11_001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Kaart</sl:objectType>
+            <sl:objectType>Kaartlaag</sl:objectType>
+            <sl:objectType>SymbolisatieItem</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <k:Kaart>
+               <k:identificatie>nl.imow-pv23.kaart.20220001</k:identificatie>
+               <k:naam>Natura2000 vogelrichtlijn</k:naam>
+               <k:uitsnede>
+                  <k:Kaartextent>
+                     <k:minX>188883</k:minX>
+                     <k:minY>516498</k:minY>
+                     <k:maxX>206919</k:maxX>
+                     <k:maxY>536640</k:maxY>
+                  </k:Kaartextent>
+               </k:uitsnede>
+               <k:kaartlagen>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-pv23.kaartlaag.202200010001</k:identificatie>
+                     <k:naam>De Wieden</k:naam>
+                     <k:niveau>1</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.000000010019003280001867792838"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-pv23.kaartlaag.202200010002</k:identificatie>
+                     <k:naam>De Weerribben</k:naam>
+                     <k:niveau>2</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.000000010019003280002398045039"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-pv23.kaartlaag.202200010003</k:identificatie>
+                     <k:naam>Vogelrichtlijn</k:naam>
+                     <k:niveau>3</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.00000001001900328000909919562"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-pv23.kaartlaag.202200010004</k:identificatie>
+                     <k:naam>Grote Karekiet</k:naam>
+                     <k:niveau>4</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.00000001001900328000343099718"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+               </k:kaartlagen>
+            </k:Kaart>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <k:Kaart>
+               <k:identificatie>nl.imow-pv23.kaart.20220002</k:identificatie>
+               <k:naam>Natura2000 maatregelengebieden</k:naam>
+               <k:uitsnede>
+                  <k:Kaartextent>
+                     <k:minX>188883</k:minX>
+                     <k:minY>516498</k:minY>
+                     <k:maxX>206919</k:maxX>
+                     <k:maxY>536640</k:maxY>
+                  </k:Kaartextent>
+               </k:uitsnede>
+               <k:kaartlagen>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-pv23.kaartlaag.202200010001</k:identificatie>
+                     <k:naam>Vogelrichtlijn Grote Karekiet</k:naam>
+                     <k:niveau>1</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.00000001001900328000909919562"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-pv23.kaartlaag.202200010002</k:identificatie>
+                     <k:naam>Leefgebied Grote Karekiet</k:naam>
+                     <k:niveau>2</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.00000001001900328000343099718"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-pv23.kaartlaag.202200010003</k:identificatie>
+                     <k:naam>Omgeving rietzones</k:naam>
+                     <k:niveau>3</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.000000010019003280001916084414"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-pv23.kaartlaag.202200010004</k:identificatie>
+                     <k:naam>Effectzone 300 m De Wieden</k:naam>
+                     <k:niveau>4</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.00000001001900328000456677000"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+               </k:kaartlagen>
+            </k:Kaart>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- De Wieden -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>vsg102</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.000000010019003280001867792838"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- De Weerribben -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>vsg104</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.000000010019003280002398045039"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- vogelrichtlijn -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>vsg401</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.00000001001900328000909919562"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- Leefgebied Grote Karekiet -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>vszt013</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.00000001001900328000343099718"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- omgeving rietzones -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>vag214</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.000000010019003280001916084414"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand><!-- effectzones 300 m De Wieden -->
+         <ow-dc:owObject>
+            <s:SymbolisatieItem>
+               <s:symboolcode>vag422</s:symboolcode>
+               <s:gebiedsaanwijzingSymbolisatie>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.00000001001900328000456677000"/>
+               </s:gebiedsaanwijzingSymbolisatie>
+            </s:SymbolisatieItem>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

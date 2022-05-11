@@ -28,7 +28,7 @@
             <rg:Regelingsgebied>
                <rg:identificatie>nl.imow-mnre1045.regelingsgebied.067820210623000001</rg:identificatie>
                <rg:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.ambtsgebied.00000001003214369000"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.ambtsgebied.Kapelle"/>
                </rg:locatieaanduiding>
             </rg:Regelingsgebied>
          </ow-dc:owObject>
