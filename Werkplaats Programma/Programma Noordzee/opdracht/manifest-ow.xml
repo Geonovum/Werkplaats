@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Aanleveringen xmlns:ogc="http://www.opengis.net/ogc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:se="http://www.opengis.net/se" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.geostandaarden.nl/bestanden-ow/manifest-ow">
+  <domein>omgevingswet</domein>
+  <IMOWversie>2.0.0</IMOWversie>
+  <Aanlevering>
+    <WorkIDRegeling>/akn/nl/act/mnre1130/2022/work-U2022-U03-U24</WorkIDRegeling>
+    <DoelID>/join/id/proces/mnre1130/2022/doel__143_40843</DoelID>
+    <Bestand>
+      <naam>pub20220522112802-locatie.xml</naam>
+      <objecttype>Gebied</objecttype>
+      <objecttype>Lijn</objecttype>
+      <objecttype>Gebiedengroep</objecttype>
+      <objecttype>Lijnengroep</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>pub20220522112802-gebiedsaanwijzing.xml</naam>
+      <objecttype>Gebiedsaanwijzing</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>pub20220522112802-regelingsgebied.xml</naam>
+      <objecttype>Regelingsgebied</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>pub20220522112802-vrijetekst.xml</naam>
+      <objecttype>Divisie</objecttype>
+      <objecttype>Tekstdeel</objecttype>
+      <objecttype>Divisietekst</objecttype>
+    </Bestand>
+  </Aanlevering>
+</Aanleveringen>

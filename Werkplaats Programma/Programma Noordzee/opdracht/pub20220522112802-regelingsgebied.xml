@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<owBestand xmlns:ogc="http://www.opengis.net/ogc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:se="http://www.opengis.net/se" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+  <standBestand xmlns="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek">
+    <dataset>Dataset voor mnre1130 van maandag 23 mei 2022 11:20:43</dataset>
+    <inhoud>
+      <gebied>Gebied voor mnre1130 van maandag 23 mei 2022 11:20:43</gebied>
+      <leveringsId>pub20220522112802</leveringsId>
+      <objectTypen>
+        <objectType>Regelingsgebied</objectType>
+      </objectTypen>
+    </inhoud>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Regelingsgebied xmlns="http://www.geostandaarden.nl/imow/regelingsgebied">
+          <identificatie>nl.imow-mnre1130.regelingsgebied.d160b2ececee43c999ec731053ad04d9</identificatie>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebied.ff957ac09d6e4cadbba2fce4391c0652" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Regelingsgebied>
+      </owObject>
+    </stand>
+  </standBestand>
+</owBestand>
