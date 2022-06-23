@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns:se="http://www.opengis.net/se" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ogc="http://www.opengis.net/ogc" schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__Toepassen_voorkeursvolgorde_14089bd1</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__Toepassen_voorkeursvolgorde_14089bd1/nld@2022-06-09;2</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>pub20220602160056-gio14089bd1-1.gml</bestandsnaam>
+            <hash>e3750333b01f6d56fde99191dc04d3cfca5a7d1e9cc364ce7318d209b689f436fbc4d3c3ad98a1b5ea9bfaf7d68319279d9314c17264cff006a1932d63901361</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <alternatieveTitels>
+        <alternatieveTitel>Gebiedsaanwijzing: Toepassen voorkeursvolgorde</alternatieveTitel>
+      </alternatieveTitels>
+      <eindverantwoordelijke>/tooi/id/ministerie/mnre1130</eindverantwoordelijke>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <maker>/tooi/id/ministerie/mnre1130</maker>
+      <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
+      <officieleTitel>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__Toepassen_voorkeursvolgorde_14089bd1</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+    </InformatieObjectMetadata>
+    <JuridischeBorgingVan schemaversie="1.3.0" xmlns="https://standaarden.overheid.nl/stop/imop/gio/">
+      <Object>
+        <domein>http://www.geostandaarden.nl/imow/</domein>
+        <domeinObjectID>nl.imow-mnre1130.gebiedsaanwijzing.9e056d8352504ac6a1af10937bb601f3</domeinObjectID>
+      </Object>
+    </JuridischeBorgingVan>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>

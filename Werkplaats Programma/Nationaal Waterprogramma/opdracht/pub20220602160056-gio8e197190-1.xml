@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns:se="http://www.opengis.net/se" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ogc="http://www.opengis.net/ogc" schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__Aangewezen_windenergiegebied_in_Programma_Noordzee_8e197190</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__Aangewezen_windenergiegebied_in_Programma_Noordzee_8e197190/nld@2022-06-09;2</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>pub20220602160056-gio8e197190-1.gml</bestandsnaam>
+            <hash>dcbe8f53950044ed891b8b6c824ff4bcf2f973d7c34480466e01c649b63e6436c9ac8f0c982f450cb1a29ae6c99df17aef26f3fd5c369676e4edd631f9e40cd1</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <alternatieveTitels>
+        <alternatieveTitel>Gebiedsaanwijzing: Aangewezen windenergiegebied in Programma Noordzee</alternatieveTitel>
+      </alternatieveTitels>
+      <eindverantwoordelijke>/tooi/id/ministerie/mnre1130</eindverantwoordelijke>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <maker>/tooi/id/ministerie/mnre1130</maker>
+      <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
+      <officieleTitel>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__Aangewezen_windenergiegebied_in_Programma_Noordzee_8e197190</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+    </InformatieObjectMetadata>
+    <JuridischeBorgingVan schemaversie="1.3.0" xmlns="https://standaarden.overheid.nl/stop/imop/gio/">
+      <Object>
+        <domein>http://www.geostandaarden.nl/imow/</domein>
+        <domeinObjectID>nl.imow-mnre1130.gebiedsaanwijzing.60bd9fbb0ee641d4bd22f8c795adb73e</domeinObjectID>
+      </Object>
+    </JuridischeBorgingVan>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>

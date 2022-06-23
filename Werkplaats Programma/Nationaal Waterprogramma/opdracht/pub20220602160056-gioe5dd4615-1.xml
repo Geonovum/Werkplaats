@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns:se="http://www.opengis.net/se" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ogc="http://www.opengis.net/ogc" schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__In_evenwicht_houden_kustfundament_e5dd4615</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__In_evenwicht_houden_kustfundament_e5dd4615/nld@2022-06-09;2</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>pub20220602160056-gioe5dd4615-1.gml</bestandsnaam>
+            <hash>fd3a9ba9bbf263893e3a68e6f81def2e3424b18cd783896b40ea1122cf52253370cf448567286c0b0d20f2cfbb7acccf00d88b155e2845b1ad55a4a7b37d8dbe</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <alternatieveTitels>
+        <alternatieveTitel>Gebiedsaanwijzing: In evenwicht houden kustfundament</alternatieveTitel>
+      </alternatieveTitels>
+      <eindverantwoordelijke>/tooi/id/ministerie/mnre1130</eindverantwoordelijke>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <maker>/tooi/id/ministerie/mnre1130</maker>
+      <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
+      <officieleTitel>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__In_evenwicht_houden_kustfundament_e5dd4615</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+    </InformatieObjectMetadata>
+    <JuridischeBorgingVan schemaversie="1.3.0" xmlns="https://standaarden.overheid.nl/stop/imop/gio/">
+      <Object>
+        <domein>http://www.geostandaarden.nl/imow/</domein>
+        <domeinObjectID>nl.imow-mnre1130.gebiedsaanwijzing.86cdff0749d340f0bc0e43b0f8d5778d</domeinObjectID>
+      </Object>
+    </JuridischeBorgingVan>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>

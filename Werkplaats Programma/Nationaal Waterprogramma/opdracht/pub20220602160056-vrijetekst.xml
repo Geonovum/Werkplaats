@@ -1,0 +1,1484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<owBestand xmlns:se="http://www.opengis.net/se" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ogc="http://www.opengis.net/ogc" xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+   <standBestand xmlns="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek">
+      <dataset>Dataset voor mnre1130 van vrijdag 3 juni 2022 16:00:39</dataset>
+      <inhoud>
+         <gebied>Gebied voor mnre1130 van vrijdag 3 juni 2022 16:00:39</gebied>
+         <leveringsId>pub20220602160056-001</leveringsId>
+         <objectTypen>
+            <objectType>Divisie</objectType>
+            <objectType>Tekstdeel</objectType>
+            <objectType>Divisietekst</objectType>
+            <objectType>Hoofdlijn</objectType>
+         </objectTypen>
+      </inhoud>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisie wId="mnre1130_971a5dca914646e08c5db2568306409d__div_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisie.b92dbc29055f4c0c885a6297df4b2f65</identificatie>
+            </Divisie>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.a9562ae002534ac0b365109c5fc00bf9</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisieRef type="simple" xlink:href="nl.imow-mnre1130.divisie.b92dbc29055f4c0c885a6297df4b2f65" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisie wId="mnre1130_18773c3aab234623864b7ea3e9d25094__div_1__div_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisie.0f62d90be3834e3eb437b146ccdf72f7</identificatie>
+            </Divisie>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.8ce176dcbb464755b8bf5883c0a4dce5</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisieRef type="simple" xlink:href="nl.imow-mnre1130.divisie.0f62d90be3834e3eb437b146ccdf72f7" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_5ef31489b6394784b9400c172de501b6__div_1__div_2__content_2.1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.9a0c37503b16499d8fd2c4042035906b</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.0ba943bea2c24cf7bed8d8e7685911bf</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.9a0c37503b16499d8fd2c4042035906b" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_f57e3fa26f234436a8e1785efc812aa9__div_1__div_2__content_2.2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.467d7be33653417685185abcf5103254</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.699154a790dc40d0b96f61c4b7d2d315</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.467d7be33653417685185abcf5103254" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_3a71af0735ec4fffa8a10ca1ea9afde5__div_1__content_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.3303340522974763aa002c38e76c4be4</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.da961d05538042819a85ff1abc800922</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.3303340522974763aa002c38e76c4be4" />
+               </divisieaanduiding>
+               <hoofdlijnaanduiding>
+                  <HoofdlijnRef type="simple" xlink:href="nl.imow-mnre1130.hoofdlijn.8c78cf75c2b44001afa1c136875d4ce5" />
+               </hoofdlijnaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.0b5fbdbc82614a8383b36e3b61cb937b" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijn.b2223a2ee09c4ed0995871102599d9c2" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <!--LocatieRef xlink:href="nl.imow-mnre1130.gebied.6d159b6ee0064e13bc16a0de1fb1e4fa" xmlns="http://www.geostandaarden.nl/imow/locatie" /-->
+                  <!-- Deze verwijst nu naar de PNZ-versie -->
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.b87d6e77a4884a10a014358c6abc5b39" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.439b9a8356bb4c068071ec3918e4727d" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijn.77f217abc5b045018f242212fa6414a9" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.11a5a9b3f8674d39ac33fae94a31ece9" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.5b38844122f2472f93ad935295296df1" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.12629bc6919b482e9b56289b95579adb" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.ef882da3aab34f50acc973ee158e259c" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.dfd480e954dd496fbcdee9829e820da9" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.1799fef997f649e78f2126ec0a5402dc" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.0fd6a6fbf13b4cdaba8bfbf240f3bf91" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.89dc9c87c24948dabfa2b8ab6bf454c9" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.ff2f3a3b012c448ea5fadfef9a3e13c7" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Hoofdlijn xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.hoofdlijn.8c78cf75c2b44001afa1c136875d4ce5</identificatie>
+               <soort>Belang</soort>
+               <naam>Bevoegdhedenverdeling Nederland - Duitsland</naam>
+            </Hoofdlijn>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisie wId="mnre1130_670e05ec27324b5aa868b4d5f261c53b__div_A" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisie.9c7562b092384424b3a01a2b1a0b3014</identificatie>
+            </Divisie>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.51de83ba138345f4b446212d86086c4a</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisieRef type="simple" xlink:href="nl.imow-mnre1130.divisie.9c7562b092384424b3a01a2b1a0b3014" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisie wId="mnre1130_162d627da25f4fb3b7840a698f6b53d4__div_A__div_6" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisie.7163b643da004736b7ddf10d439a27e8</identificatie>
+            </Divisie>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.7f8cd89272f34cd9b6e14cf33a42a287</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisieRef type="simple" xlink:href="nl.imow-mnre1130.divisie.7163b643da004736b7ddf10d439a27e8" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.dea17436e6dc45fb88dae6256fd0b3aa" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.a10c1e4588dc487e85a3ac136565aca8" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_70b8057f749a4d0a89be90f4c8dff59e__div_A__div_6__content_6.1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.06f94718a1124675b17434aaf8222bd2</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.9122eb9a20eb43f6be77f2ad418b7d59</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.06f94718a1124675b17434aaf8222bd2" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_a39442f7348441b0930f5d95a72e5cb0__div_A__div_6__content_6.2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.827246b226fd4168ace3f6b4de3142fc</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.caadbb901fdc42edbc84a436e1a9542b</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.827246b226fd4168ace3f6b4de3142fc" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisie wId="mnre1130_c05d915c5356442d94e1db92c4be9085__div_A__div_9" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisie.92e11487d15e499aa9c2572a24c24431</identificatie>
+            </Divisie>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.d8df238952db4c39a6217465977e2798</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</thema>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</thema>
+               <divisieaanduiding>
+                  <DivisieRef type="simple" xlink:href="nl.imow-mnre1130.divisie.92e11487d15e499aa9c2572a24c24431" />
+               </divisieaanduiding>
+               <kaartaanduiding>
+                  <KaartRef type="simple" xlink:href="nl.imow-mnre1130.kaart.22cf4d2afcc04bf586741c74716e9df3" xmlns="http://www.geostandaarden.nl/imow/kaart" />
+                  <KaartRef type="simple" xlink:href="nl.imow-mnre1130.kaart.6bfd4192776a47aaa6c2498a05c036ed" xmlns="http://www.geostandaarden.nl/imow/kaart" />
+               </kaartaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_4057efccdd4146a39da5616bba81f284__div_A__div_9__content_9.1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.9c7a5ae3c9734f8fb0b10279ff8f2971</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.c9fa65617a7744abb1a6a938548d4daa</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.9c7a5ae3c9734f8fb0b10279ff8f2971" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_f8d25df8cbf84af4952071558553d762__div_A__div_9__content_9.2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.38833cdf86cf41ea8804a0fd125900a0</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.ded008818a6142c4b8885dcdce8c52fe</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.38833cdf86cf41ea8804a0fd125900a0" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_33c6f6065b77477ba1d7aba5bc40e592__div_A__div_9__content_9.3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.ebc9ebe30c5e431aa23165700f7a65da</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.828d595fcc7e4dc3b2ae20d8a3f9a9b8</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.ebc9ebe30c5e431aa23165700f7a65da" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_eb48d151b4b74d4c8da31ad49dc942ea__div_A__div_9__content_9.4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.05703476f5214e76b35d01d9154aef10</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.f276da6372bd40c8b734f70695faf722</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.05703476f5214e76b35d01d9154aef10" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_f343ce84f4604c8f8fa2a7d9debd0e41__div_A__div_9__content_9.5" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.ae24f9bfa28d4793a198cb1bda220987</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.a2df7dcd7dba450eb5ca07398135306a</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.ae24f9bfa28d4793a198cb1bda220987" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_650841d7f51540ffaa88786007822f81__div_A__div_9__content_9.6" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.4e43b81fcf904848903b4b8278602ea0</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.6486ec3734694415b323494ec3cc7aa0</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.4e43b81fcf904848903b4b8278602ea0" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_bd6bb7164c09482390f05e88680089cc__div_A__div_9__content_9.7" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.7a4d994a44474e8eae814979d037eb15</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.d1aceb2ecc664739b542c2e9009892f9</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.7a4d994a44474e8eae814979d037eb15" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_2704a31895e74fb2abbcf0caf416c4ce__div_A__content_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.a9f7c8b0bf4549aeb4ccee93b83d6d2d</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.36dd2266fcdd4b9981f86728cf8d3932</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</thema>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.a9f7c8b0bf4549aeb4ccee93b83d6d2d" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.c3d3c489f8dd43909cd69f2747166f70" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.c8c6496ab2594ce0885a2f1f1b1cf1c5" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.4540847d68a34d05963feb9338d867cd" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.8ff4fe453f59458abe4561bbc35aebac" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_0da8d977002a41d39d53fd3679c418fd__div_A__content_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.e67a30f4ba4a442b8c2402f3fbcab241</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.298486f6ddd24c7ca88535f3ea6fb7dd</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.e67a30f4ba4a442b8c2402f3fbcab241" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.f977fadf648d49d19365b1b817c2b7d2" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.483bad1768334ffda7292148916ee912" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.992be3bbffca4c1cbd0e0fb53893e196" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.da44fdaf19684a369fcf19d63bc5a70b" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.d2f9a2e51d10415b862b14cdcc7cddaf" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.e370b794d3be487b90af443d184df86e" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.0863e7ca5b1d4a2dbd754df3f8c09874" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.1e83c6c4a0a74bc4b10bdd32ead39469" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.86cdff0749d340f0bc0e43b0f8d5778d" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.894df63b6f814c3cbf116bc27208db93" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_7990a614e0d0458c888eff2cbf777b03__div_A__content_5" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.e3903c20dc3748a399ed33cb532bd0b3</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.59ad8b03bc224b1a873586a7f2e291bf</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.e3903c20dc3748a399ed33cb532bd0b3" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.cabb7c5609fc4858b3b08ba8fc398075" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.punt.ca8b729f1fb64e7e868b1fa86d256225" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.punt.28c25c49ce2c4830bf24fe0c20592457" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.punt.c1276428d8aa4fe898ea332712d92154" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.1b5a9e1eeb914fafaf55c7bd94992bdf" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.punt.18b87ec758eb45f694c96f7bb23161fe" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.punt.2b60fcde913a49e0ac23f6bec992749d" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.adade74061484a54a720940ccd9c9edb" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.c8c6496ab2594ce0885a2f1f1b1cf1c5" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.9e056d8352504ac6a1af10937bb601f3" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.98d303664fb549adaf2e7bbccf1877b6" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.b5c3b8ac28c047b6a588017b81411cd1" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.7f56e554fc0340f0811a869a1b74fcb8" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.2913129761c24c739bd03e266ee97762" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.f977c198ef4f418badd392c5eb881f01" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.376fd2f03ea34c02b1defb0fd6a4258f" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.afa536939d7f48dd8a8b9a2777bab3f5" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.8ff4fe453f59458abe4561bbc35aebac" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_9f0bc487ddd74dc797a581d394d3533d__div_A__content_6" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.0924dfd331cf47f59108864db310fa62</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.1a63cc0630db4432aa992608edf3c166</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.0924dfd331cf47f59108864db310fa62" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.adade74061484a54a720940ccd9c9edb" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.afa536939d7f48dd8a8b9a2777bab3f5" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_dd973e88745043ce87b9a32c4da9e6b9__div_A__content_8" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.f370802b86504c4f9f1b62d97d526f45</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.ae70b62deee14482998e04160f3316e0</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.f370802b86504c4f9f1b62d97d526f45" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.439b9a8356bb4c068071ec3918e4727d" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.11a5a9b3f8674d39ac33fae94a31ece9" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.5b38844122f2472f93ad935295296df1" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.1799fef997f649e78f2126ec0a5402dc" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.89dc9c87c24948dabfa2b8ab6bf454c9" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.ff2f3a3b012c448ea5fadfef9a3e13c7" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisie wId="mnre1130_cb08220883c64261b03d6f2a2deb3f71__div_B" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisie.fc62398a07f949ca9afe7b535b1fbf8b</identificatie>
+            </Divisie>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.c39413f7cbcf485686912974498940ec</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisieRef type="simple" xlink:href="nl.imow-mnre1130.divisie.fc62398a07f949ca9afe7b535b1fbf8b" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisie wId="mnre1130_94375ea76a9842a5b29c96e98b1837ca__div_B__div_16" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisie.f3fc87395b644cfb96764cf9d4632b4b</identificatie>
+            </Divisie>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.6959cefa2d834f7a8316457131dc80f4</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisieRef type="simple" xlink:href="nl.imow-mnre1130.divisie.f3fc87395b644cfb96764cf9d4632b4b" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_692b47ecee904e279add3c256b52a089__div_B__div_16__content_16.1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.42eb0774635c4063b38c8c1b563483e9</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.4ef80b1f0fea4e9888a7488794b3a8e6</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.42eb0774635c4063b38c8c1b563483e9" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_d84bf04559a84dc59eb47a45207d4248__div_B__div_16__content_16.2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.2d9f260a477e4c3fb4b9d7f80aeeb8aa</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.2e8ed37121c4412a8cba63aa69e4f043</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.2d9f260a477e4c3fb4b9d7f80aeeb8aa" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_6a5677f9df6f482b8aabdde678615c3d__div_B__div_16__content_16.3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.3f5e4446a15f4b90a667b9bb525bec81</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.de2ea829cc124bd297813597207be99b</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.3f5e4446a15f4b90a667b9bb525bec81" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_8e86efaed6fe414e99b9febeae1b6eb4__div_B__div_16__content_16.4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.56cc4737f05f460b98e0c14f680c9cd2</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.0a835716df0947dea301759d8684cdf0</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.56cc4737f05f460b98e0c14f680c9cd2" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_182cca1a18e74305bf0a60d80de0a15c__div_B__div_16__content_16.5" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.dfd68fe43a7b4af1a7c6308e3bc5783e</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.1a9c313b88cd492398a97699a7ccb988</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.dfd68fe43a7b4af1a7c6308e3bc5783e" />
+               </divisieaanduiding>
+               <hoofdlijnaanduiding>
+                  <HoofdlijnRef type="simple" xlink:href="nl.imow-mnre1130.hoofdlijn.a5b5506b3c1743b9b9550a14fb2af4be" />
+               </hoofdlijnaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.54c10b7f689a4ec5917f7d1465db31d0" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.0b7092356b514f83bfba9d821f789afe" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Hoofdlijn xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.hoofdlijn.a5b5506b3c1743b9b9550a14fb2af4be</identificatie>
+               <soort>Belang</soort>
+               <naam>Beschermen winbare zandvoorraad</naam>
+            </Hoofdlijn>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_1a08e07582184a86a995c1e933d8cb61__div_B__div_16__content_16.6" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.2dd5e3f1715c414b9da164f35b615b60</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.92393d37eac04449b48e25eaf98c7f81</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.2dd5e3f1715c414b9da164f35b615b60" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_3413475f874a48539ff1589da1d1d241__div_B__div_16__content_16.7" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.4752c0c3c789412e98fc56bceaecaefa</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.c7b5745c79b2429aae768cbc162d04e8</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.4752c0c3c789412e98fc56bceaecaefa" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_b51797851b28415ba0c122e3f14f39d9__div_B__div_16__content_16.8" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.2cb8bbc7e551477c93febdbb88351f25</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.1cc452782abb479186e1103fabb1a9f2</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.2cb8bbc7e551477c93febdbb88351f25" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.54c10b7f689a4ec5917f7d1465db31d0" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.0b7092356b514f83bfba9d821f789afe" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_fad7c48bbe3b4faf955af4ad9974aa95__div_B__div_16__content_16.9" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.a6ebc043d28c4abe9a41a717926fc7ed</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.76dcd6ba4d8144248927055a8b43ebe1</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.a6ebc043d28c4abe9a41a717926fc7ed" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_03f65956e192453f8351a09bf22329aa__div_B__div_16__content_16.10" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.9623478f7ecd4a58861e212ed149b1db</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.545c341ea65f4b53badf9f4b681637fc</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.9623478f7ecd4a58861e212ed149b1db" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_c778a8bfdad14d9aa182c9c3f20f3373__div_B__div_16__content_16.11" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.5691ce6b8be84a6fa38c61b5c4b25bed</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.e346ec30791246d88e5cf7b3034adbcb</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.5691ce6b8be84a6fa38c61b5c4b25bed" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisie wId="mnre1130_6c2f2b814526459a93131da63f4f7caa__div_B__div_17" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisie.3f9d68a7612946c0acab8ea3b46562f0</identificatie>
+            </Divisie>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.42ff0500b1d547f8a82d106ca947107c</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisieRef type="simple" xlink:href="nl.imow-mnre1130.divisie.3f9d68a7612946c0acab8ea3b46562f0" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_213936880d5c4d80a435f874ec16f3a4__div_B__div_17__content_17.1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.9fd65296b26c42f2bda4d0e1dfa6b501</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.157fa5b195cb4969ad8df9f133fe977d</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.9fd65296b26c42f2bda4d0e1dfa6b501" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_be41351dec0b49d3b89907c6fbf71b4b__div_B__div_17__content_17.2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.3357758ea5354f648ba3abbbe51c0745</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.71631c557f954e3eb182395f36ba2d7f</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.3357758ea5354f648ba3abbbe51c0745" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_11ce42e8b0ba40e3aac099203140c82c__div_B__div_17__content_17.3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.1f609ff2f3bd450990b10c986fee602a</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.6b3e31090ff543349e6b82feafd74b03</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.1f609ff2f3bd450990b10c986fee602a" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_37b836edf10042bdb3d665581c5f037d__div_B__content_10" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.e12499635f0a45a7b971575178f6c93f</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.ee8d1616e18c44e1a2f29adf6857c402</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.e12499635f0a45a7b971575178f6c93f" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_b68899870d4d4fa785d81f7cf02f92e5__div_B__content_11" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.5713f00ca6be449ea3c0c410db2520e8</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.364915575c4a48baab795e025b499c47</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.5713f00ca6be449ea3c0c410db2520e8" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.c3d3c489f8dd43909cd69f2747166f70" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.4540847d68a34d05963feb9338d867cd" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_cdd6e245ed284fc98aa017708f1258ca__div_B__content_12" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.fbbd68c72c0940d9844d1fd5529e168a</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.ebd370a767d942db9385e0190401706b</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.fbbd68c72c0940d9844d1fd5529e168a" />
+               </divisieaanduiding>
+               <kaartaanduiding>
+                  <KaartRef type="simple" xlink:href="nl.imow-mnre1130.kaart.ac8bfb3a2bd945759b536a6436e7bcfc" xmlns="http://www.geostandaarden.nl/imow/kaart" />
+               </kaartaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.f977fadf648d49d19365b1b817c2b7d2" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.483bad1768334ffda7292148916ee912" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.992be3bbffca4c1cbd0e0fb53893e196" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.da44fdaf19684a369fcf19d63bc5a70b" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.e370b794d3be487b90af443d184df86e" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.0863e7ca5b1d4a2dbd754df3f8c09874" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.1e83c6c4a0a74bc4b10bdd32ead39469" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.86cdff0749d340f0bc0e43b0f8d5778d" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_879bce6728a2468cabdac3c6efa7de42__div_B__content_13" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.900d463f453247bbb9f250af6fcca222</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.690e016aac9448509284f78cdf070e5a</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.900d463f453247bbb9f250af6fcca222" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.1b5a9e1eeb914fafaf55c7bd94992bdf" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.punt.18b87ec758eb45f694c96f7bb23161fe" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.c8c6496ab2594ce0885a2f1f1b1cf1c5" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.2913129761c24c739bd03e266ee97762" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.f977c198ef4f418badd392c5eb881f01" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.8ff4fe453f59458abe4561bbc35aebac" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_b7794917b5274b4b83d4d6e9a6f4cd5c__div_B__content_14" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.e4171be0dd104aa2a9aa7882cfe6cf3e</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.b0362a83a00a40558a581cdc67a7100f</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.e4171be0dd104aa2a9aa7882cfe6cf3e" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.dea17436e6dc45fb88dae6256fd0b3aa" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.a10c1e4588dc487e85a3ac136565aca8" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_eef7fd55b14249509a8509d2cbf0b621__div_B__content_15" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.0cf5f97b3ef2433f9c3b4c3c43a38d3f</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.cbed6a99477045b29306e1ee2816dc52</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.0cf5f97b3ef2433f9c3b4c3c43a38d3f" />
+               </divisieaanduiding>
+               <hoofdlijnaanduiding>
+                  <HoofdlijnRef type="simple" xlink:href="nl.imow-mnre1130.hoofdlijn.fe44d1a6aa564e95a85f332114713871" />
+               </hoofdlijnaanduiding>
+               <kaartaanduiding>
+                  <KaartRef type="simple" xlink:href="nl.imow-mnre1130.kaart.ac8bfb3a2bd945759b536a6436e7bcfc" xmlns="http://www.geostandaarden.nl/imow/kaart" />
+               </kaartaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.a108221ea71a4f33bb60b23b2c05721b" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.c3d231901a42411d9772401199384438" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.038620316dd54fb6a77826905ef64d8b" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.d85fb4196472487f8566cd641f577e73" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.1e840681b05e428e87324a04db112ea0" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.a5438f7c24b64085872d1829f5c8a92d" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.f0da7fa35aac4e2189734a992bee16fd" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.1b38563bac3d449aa6e73dcd276fadb1" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.558b559e3a8742dfa2326c88b1bce95f" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.c7fc163523e64ce19fddb93c75189a60" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.cb7806a4217e49558f898d20844d34a6" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.8216bf6d346349e399de81691d18cf2b" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.0e519934821d4453a82454c8ab2dc297" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.a568995082a0407ba109255ca2a27664" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.8d53b232b2f04afeb5dd7667931da0e1" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.964c1dc45839453e867aa83e1083d8b9" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.7d9e9850887d47a8a007356e36778acc" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.97db9cf0530944e39202f9b4a6e40dbe" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Hoofdlijn xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.hoofdlijn.fe44d1a6aa564e95a85f332114713871</identificatie>
+               <soort>Belang</soort>
+               <naam>Veilige en vlotte scheepvaart</naam>
+            </Hoofdlijn>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisie wId="mnre1130_67c950dc21fd4ed2b018e89bae9b70a0__div_C" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisie.2f821ba83fe54d5883473381d43463b6</identificatie>
+            </Divisie>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.cedb96e833c74d8bba4b3c6784e531ee</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisieRef type="simple" xlink:href="nl.imow-mnre1130.divisie.2f821ba83fe54d5883473381d43463b6" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_579dda9b4cb64ca198c060c6ea906131__div_C__content_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.555a47df18a64aeb91fe492a12c6fd3b</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.32092ac31a7e4cc89fbd96f37bc7b296</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</thema>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.555a47df18a64aeb91fe492a12c6fd3b" />
+               </divisieaanduiding>
+               <hoofdlijnaanduiding>
+                  <HoofdlijnRef type="simple" xlink:href="nl.imow-mnre1130.hoofdlijn.87c54a6f85d04fadac771de346b8a95b" />
+               </hoofdlijnaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.439b9a8356bb4c068071ec3918e4727d" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.fb47f9cea54e4307a93039162f853872" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.72845b2860994d59836f2e44d04656fc" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.f1d33f7033f94a43b08571bb7a2a586f" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.d2f9a2e51d10415b862b14cdcc7cddaf" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.11a5a9b3f8674d39ac33fae94a31ece9" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.5b38844122f2472f93ad935295296df1" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.1799fef997f649e78f2126ec0a5402dc" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.21837b1f2efe491888e10f03d622e2f8" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.cfd2759975a844f2a461ffb495180f3c" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.894df63b6f814c3cbf116bc27208db93" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.89dc9c87c24948dabfa2b8ab6bf454c9" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.ff2f3a3b012c448ea5fadfef9a3e13c7" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Hoofdlijn xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.hoofdlijn.87c54a6f85d04fadac771de346b8a95b</identificatie>
+               <soort>Belang</soort>
+               <naam>Bescherming van diersoorten en habitats</naam>
+            </Hoofdlijn>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_a65232ccef324af39890fea28179f86c__div_C__content_19" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.acd693c7d7c14484bde9a5d3abb9ac0d</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.ea0c79ac685c4006887f91cf81fe2efd</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.acd693c7d7c14484bde9a5d3abb9ac0d" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.1b5a9e1eeb914fafaf55c7bd94992bdf" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.2913129761c24c739bd03e266ee97762" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_376d8a1a3b2d448d9c85529a2e9799cc__div_C__content_20" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.677dbee9223a471ab69f0e0eb72542f1</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.117a276ff406481d84ec6b83f8e830ca</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.677dbee9223a471ab69f0e0eb72542f1" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.punt.28c25c49ce2c4830bf24fe0c20592457" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.punt.c1276428d8aa4fe898ea332712d92154" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.b5c3b8ac28c047b6a588017b81411cd1" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.7f56e554fc0340f0811a869a1b74fcb8" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_d50bd938e3274952b0dd58b58f1dec82__div_C__content_21" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.33da9947917b4c5bb97195b472156877</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.5f83e3f8777b4207a7c309868bcd8ccf</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.33da9947917b4c5bb97195b472156877" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.punt.2b60fcde913a49e0ac23f6bec992749d" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.376fd2f03ea34c02b1defb0fd6a4258f" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_3084443a42544eb284dca38c642c0941__div_C__content_22" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.1d617dcc016a476b8ee66b4905c5a66f</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.51da5ae3d3c549c2883f68af855ce528</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.1d617dcc016a476b8ee66b4905c5a66f" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.punt.ca8b729f1fb64e7e868b1fa86d256225" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.98d303664fb549adaf2e7bbccf1877b6" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_57895f6a9f2c4ea3b73530b2032d2813__div_C__content_23" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.bd84abe70c7940a584243643ec91e159</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.cc276efe6bb9439fac0a12ecb6ff1621</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.bd84abe70c7940a584243643ec91e159" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <!--LocatieRef xlink:href="nl.imow-mnre1130.gebied.6d159b6ee0064e13bc16a0de1fb1e4fa" xmlns="http://www.geostandaarden.nl/imow/locatie" /-->
+                  <!-- Deze verwijst nu naar de PNZ-versie -->
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.b87d6e77a4884a10a014358c6abc5b39" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.dfd480e954dd496fbcdee9829e820da9" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_2d84fbcf449f4e97a168ffc37ef17301__div_C__content_24" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.546b473f041d4bf5b057cae52be95d80</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.f1b785fd4d8146f2b2db1fc119a50506</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.546b473f041d4bf5b057cae52be95d80" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.punt.18b87ec758eb45f694c96f7bb23161fe" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.f977c198ef4f418badd392c5eb881f01" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Divisietekst wId="mnre1130_ce0c419c37884f63a8fba9bc6c7237b3__div_C__content_25" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.divisietekst.1ccedde700c74c239c590203be867df7</identificatie>
+            </Divisietekst>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.a399dffbf9674543a148d7fe924823c7</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.1ccedde700c74c239c590203be867df7" />
+               </divisieaanduiding>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.2033fad661344782971853ac44d7c2ce</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.3303340522974763aa002c38e76c4be4" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijn.b8198a47659f4070bb7cc2964bfc6849" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.c6876b0729f24d2cbef965e59cb3fd83" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.ec26fa18f3bf40c7b3ae801980a47367</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.bd84abe70c7940a584243643ec91e159" />
+               </divisieaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.da44fdaf19684a369fcf19d63bc5a70b" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.86cdff0749d340f0bc0e43b0f8d5778d" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.aedea4ab47704f2cbb94a587bf66d263</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</thema>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/ExterneVeiligheid</thema>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</thema>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.555a47df18a64aeb91fe492a12c6fd3b" />
+               </divisieaanduiding>
+               <hoofdlijnaanduiding>
+                  <HoofdlijnRef type="simple" xlink:href="nl.imow-mnre1130.hoofdlijn.994aa2625e4b414b8d689c43cee12bdc" />
+                  <HoofdlijnRef type="simple" xlink:href="nl.imow-mnre1130.hoofdlijn.775ef80da9d942b595acf7929c2ae145" />
+               </hoofdlijnaanduiding>
+               <kaartaanduiding>
+                  <KaartRef type="simple" xlink:href="nl.imow-mnre1130.kaart.ac8bfb3a2bd945759b536a6436e7bcfc" xmlns="http://www.geostandaarden.nl/imow/kaart" />
+                  <KaartRef type="simple" xlink:href="nl.imow-mnre1130.kaart.8a9030b323a04424b5b06809bf2af50b" xmlns="http://www.geostandaarden.nl/imow/kaart" />
+                  <KaartRef type="simple" xlink:href="nl.imow-mnre1130.kaart.6bfd4192776a47aaa6c2498a05c036ed" xmlns="http://www.geostandaarden.nl/imow/kaart" />
+               </kaartaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.a108221ea71a4f33bb60b23b2c05721b" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.c3d231901a42411d9772401199384438" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.5d3c0a50d2634244a0d15d7f03536426" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.eef1a0c18cfd4e69a5523f6ba49c6598" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.eaaeda09d7414f58b4be7dbd68dfc517" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.f0da7fa35aac4e2189734a992bee16fd" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.1b38563bac3d449aa6e73dcd276fadb1" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.558b559e3a8742dfa2326c88b1bce95f" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.c7fc163523e64ce19fddb93c75189a60" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.aa92de176f894f60aa0caa8938ce24b1" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.a420ddb733f04e8c9fa8490b89f51971" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.cc62717d486a44c683c02d3716ac0831" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.c4b4de6c0a5c404ea8dfa2710276ab33" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.0a320e47ecaf423489978cc06c082865" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.f8a165cfef44458d8c77d5f44db12ba8" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.77280916187c47f1ab118e60c3bf92fb" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.d90f3e91a4a2475db1d2a68208614396" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.9e545be017cb47d4aaf494404ce696e3" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.95f8335cad1b42d68fbacee259227af8" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.51ba7c90857043c38d7218e8b3800686" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.adf0ede79aed48e5827306c7752f3b13" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.54c10b7f689a4ec5917f7d1465db31d0" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.cb7806a4217e49558f898d20844d34a6" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.8216bf6d346349e399de81691d18cf2b" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.bfbef92cbf714dd8b54d706c4b443aaa" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.09823c6849a647ec8a5c9990c10870bd" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.38b0e70fe09d452b8db4369d6d7cb78c" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.7d9e9850887d47a8a007356e36778acc" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.97db9cf0530944e39202f9b4a6e40dbe" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.abe70229cb314236afaffe9698852efb" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.c6b2c31c11e644ffa0af9b2d9d6d38fd" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.09ba27b7cfb04f239e4d9ead9088f664" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.21dad7dbf29746c3849b862d926125ba" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.e12d2a5c254a4c52be6193e6f26e7d6e" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.60bd9fbb0ee641d4bd22f8c795adb73e" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.e7fd463aed0447739aad7957adeaa049" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.0d81036c27a647c1989f4af704ce9c12" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.8ecfbf2dd91e4afaa160e1fe5f6c8d0a" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.79df9b38cc89449cabe4858e25d27bd7" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.a59132c58a8840968879cb8fdc18c143" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.f68556b93dae467b846888fc60796385" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.0b7092356b514f83bfba9d821f789afe" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Hoofdlijn xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.hoofdlijn.994aa2625e4b414b8d689c43cee12bdc</identificatie>
+               <soort>Belang</soort>
+               <naam>Ruimte voor militaire oefeningen</naam>
+            </Hoofdlijn>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Hoofdlijn xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.hoofdlijn.775ef80da9d942b595acf7929c2ae145</identificatie>
+               <soort>Belang</soort>
+               <naam>Ruimte voor windenergie op zee</naam>
+            </Hoofdlijn>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.419751cf229544029bad83051060c95a</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</thema>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</thema>
+               <divisieaanduiding>
+                  <DivisietekstRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.f370802b86504c4f9f1b62d97d526f45" />
+               </divisieaanduiding>
+               <kaartaanduiding>
+                  <KaartRef type="simple" xlink:href="nl.imow-mnre1130.kaart.ac8bfb3a2bd945759b536a6436e7bcfc" xmlns="http://www.geostandaarden.nl/imow/kaart" />
+                  <KaartRef type="simple" xlink:href="nl.imow-mnre1130.kaart.6bfd4192776a47aaa6c2498a05c036ed" xmlns="http://www.geostandaarden.nl/imow/kaart" />
+               </kaartaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.a108221ea71a4f33bb60b23b2c05721b" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.c3d231901a42411d9772401199384438" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.038620316dd54fb6a77826905ef64d8b" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.d85fb4196472487f8566cd641f577e73" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.1e840681b05e428e87324a04db112ea0" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.puntengroep.a5438f7c24b64085872d1829f5c8a92d" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.5d3c0a50d2634244a0d15d7f03536426" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.eef1a0c18cfd4e69a5523f6ba49c6598" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.f0da7fa35aac4e2189734a992bee16fd" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.1b38563bac3d449aa6e73dcd276fadb1" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.558b559e3a8742dfa2326c88b1bce95f" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.c7fc163523e64ce19fddb93c75189a60" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.cc62717d486a44c683c02d3716ac0831" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.c4b4de6c0a5c404ea8dfa2710276ab33" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.9e545be017cb47d4aaf494404ce696e3" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebied.95f8335cad1b42d68fbacee259227af8" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.51ba7c90857043c38d7218e8b3800686" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.adf0ede79aed48e5827306c7752f3b13" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.cb7806a4217e49558f898d20844d34a6" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.8216bf6d346349e399de81691d18cf2b" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.0e519934821d4453a82454c8ab2dc297" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.a568995082a0407ba109255ca2a27664" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.8d53b232b2f04afeb5dd7667931da0e1" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.964c1dc45839453e867aa83e1083d8b9" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.bfbef92cbf714dd8b54d706c4b443aaa" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.09823c6849a647ec8a5c9990c10870bd" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.7d9e9850887d47a8a007356e36778acc" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.97db9cf0530944e39202f9b4a6e40dbe" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.09ba27b7cfb04f239e4d9ead9088f664" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.21dad7dbf29746c3849b862d926125ba" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.8ecfbf2dd91e4afaa160e1fe5f6c8d0a" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.79df9b38cc89449cabe4858e25d27bd7" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.a59132c58a8840968879cb8fdc18c143" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.f68556b93dae467b846888fc60796385" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Tekstdeel xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+               <identificatie>nl.imow-mnre1130.tekstdeel.f83233ae400b493c8c732441e436f0e2</identificatie>
+               <idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</idealisatie>
+               <thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</thema>
+               <divisieaanduiding>
+                  <DivisieRef type="simple" xlink:href="nl.imow-mnre1130.divisietekst.a6ebc043d28c4abe9a41a717926fc7ed" />
+               </divisieaanduiding>
+               <kaartaanduiding>
+                  <KaartRef type="simple" xlink:href="nl.imow-mnre1130.kaart.22cf4d2afcc04bf586741c74716e9df3" xmlns="http://www.geostandaarden.nl/imow/kaart" />
+               </kaartaanduiding>
+               <locatieaanduiding>
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.72845b2860994d59836f2e44d04656fc" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.f1d33f7033f94a43b08571bb7a2a586f" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+                  <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.fb47f9cea54e4307a93039162f853872" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+               </locatieaanduiding>
+               <gebiedsaanwijzing>
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.cfd2759975a844f2a461ffb495180f3c" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.21837b1f2efe491888e10f03d622e2f8" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                  <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.1b7152c73b174e0fb1b637b8e6b77153" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+               </gebiedsaanwijzing>
+            </Tekstdeel>
+         </owObject>
+      </stand>
+   </standBestand>
+</owBestand>

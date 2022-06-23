@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<owBestand xmlns:se="http://www.opengis.net/se" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ogc="http://www.opengis.net/ogc" xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+   <standBestand xmlns="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek">
+      <dataset>Dataset voor mnre1130 van vrijdag 3 juni 2022 16:00:39</dataset>
+      <inhoud>
+         <gebied>Gebied voor mnre1130 van vrijdag 3 juni 2022 16:00:39</gebied>
+         <leveringsId>pub20220602160056-001</leveringsId>
+         <objectTypen>
+            <objectType>Kaart</objectType>
+         </objectTypen>
+      </inhoud>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Kaart xmlns="http://www.geostandaarden.nl/imow/kaart">
+               <identificatie>nl.imow-mnre1130.kaart.22cf4d2afcc04bf586741c74716e9df3</identificatie>
+               <naam>Natuur</naam>
+               <nummer />
+               <uitsnede>
+                  <Kaartextent>
+                     <minX>-15520.861</minX>
+                     <minY>308158.364</minY>
+                     <maxX>276784.499</maxX>
+                     <maxY>852886.811</maxY>
+                  </Kaartextent>
+               </uitsnede>
+               <kaartlagen>
+                  <Kaartlaag>
+                     <identificatie>nl.imow-mnre1130.kaartlaag.3d1fa9b84ad147d6922088371245bdbf</identificatie>
+                     <naam>Natura 2000 gebied</naam>
+                     <niveau>1</niveau>
+                     <gebiedsaanwijzingweergave>
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.21837b1f2efe491888e10f03d622e2f8" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.cfd2759975a844f2a461ffb495180f3c" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.1b7152c73b174e0fb1b637b8e6b77153" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                     </gebiedsaanwijzingweergave>
+                  </Kaartlaag>
+               </kaartlagen>
+            </Kaart>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Kaart xmlns="http://www.geostandaarden.nl/imow/kaart">
+               <identificatie>nl.imow-mnre1130.kaart.6bfd4192776a47aaa6c2498a05c036ed</identificatie>
+               <naam>Energievoorziening</naam>
+               <nummer />
+               <uitsnede>
+                  <Kaartextent>
+                     <minX>-26614.612</minX>
+                     <minY>399771.415</minY>
+                     <maxX>201436.355</maxX>
+                     <maxY>712085.56</maxY>
+                  </Kaartextent>
+               </uitsnede>
+               <kaartlagen>
+                  <Kaartlaag>
+                     <identificatie>nl.imow-mnre1130.kaartlaag.0f696030f280488198bef65a973adb9f</identificatie>
+                     <naam>Windturbinegebied</naam>
+                     <niveau>1</niveau>
+                     <gebiedsaanwijzingweergave>
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.60bd9fbb0ee641d4bd22f8c795adb73e" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.e12d2a5c254a4c52be6193e6f26e7d6e" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.09ba27b7cfb04f239e4d9ead9088f664" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                     </gebiedsaanwijzingweergave>
+                  </Kaartlaag>
+               </kaartlagen>
+            </Kaart>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Kaart xmlns="http://www.geostandaarden.nl/imow/kaart">
+               <identificatie>nl.imow-mnre1130.kaart.ac8bfb3a2bd945759b536a6436e7bcfc</identificatie>
+               <naam>Water en Watersystemen</naam>
+               <nummer />
+               <uitsnede>
+                  <Kaartextent>
+                     <minX>-41195.112</minX>
+                     <minY>312631.352</minY>
+                     <maxX>276577.861</maxX>
+                     <maxY>866614.786</maxY>
+                  </Kaartextent>
+               </uitsnede>
+               <kaartlagen>
+                  <Kaartlaag>
+                     <identificatie>nl.imow-mnre1130.kaartlaag.328114d2e4ad46918b652504326d2c64</identificatie>
+                     <naam>Vaarweg</naam>
+                     <niveau>1</niveau>
+                     <gebiedsaanwijzingweergave>
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.09823c6849a647ec8a5c9990c10870bd" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.bfbef92cbf714dd8b54d706c4b443aaa" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.8ecfbf2dd91e4afaa160e1fe5f6c8d0a" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.0e519934821d4453a82454c8ab2dc297" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.a568995082a0407ba109255ca2a27664" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.8d53b232b2f04afeb5dd7667931da0e1" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.a59132c58a8840968879cb8fdc18c143" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.e7fd463aed0447739aad7957adeaa049" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.79df9b38cc89449cabe4858e25d27bd7" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.7d9e9850887d47a8a007356e36778acc" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.cb7806a4217e49558f898d20844d34a6" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.8216bf6d346349e399de81691d18cf2b" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                     </gebiedsaanwijzingweergave>
+                  </Kaartlaag>
+                  <Kaartlaag>
+                     <identificatie>nl.imow-mnre1130.kaartlaag.29238eabe9b0495480abf68913f6d4b8</identificatie>
+                     <naam>Specifiek benoemd gebied</naam>
+                     <niveau>1</niveau>
+                     <gebiedsaanwijzingweergave>
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.0fd6a6fbf13b4cdaba8bfbf240f3bf91" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.ef882da3aab34f50acc973ee158e259c" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.c6876b0729f24d2cbef965e59cb3fd83" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.0d81036c27a647c1989f4af704ce9c12" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.0863e7ca5b1d4a2dbd754df3f8c09874" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.964c1dc45839453e867aa83e1083d8b9" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.8ff4fe453f59458abe4561bbc35aebac" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.89dc9c87c24948dabfa2b8ab6bf454c9" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.a10c1e4588dc487e85a3ac136565aca8" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.f68556b93dae467b846888fc60796385" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.9e056d8352504ac6a1af10937bb601f3" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                     </gebiedsaanwijzingweergave>
+                  </Kaartlaag>
+               </kaartlagen>
+            </Kaart>
+         </owObject>
+      </stand>
+      <stand>
+         <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+            <Kaart xmlns="http://www.geostandaarden.nl/imow/kaart">
+               <identificatie>nl.imow-mnre1130.kaart.8a9030b323a04424b5b06809bf2af50b</identificatie>
+               <naam>Defensie</naam>
+               <nummer />
+               <uitsnede>
+                  <Kaartextent>
+                     <minX>36551.519</minX>
+                     <minY>529524.722</minY>
+                     <maxX>210565.627</maxX>
+                     <maxY>668462.431</maxY>
+                  </Kaartextent>
+               </uitsnede>
+               <kaartlagen>
+                  <Kaartlaag>
+                     <identificatie>nl.imow-mnre1130.kaartlaag.c8129bf6accf4f8790d710cd9c301d23</identificatie>
+                     <naam>Militair Terrein</naam>
+                     <niveau>1</niveau>
+                     <gebiedsaanwijzingweergave>
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.c6b2c31c11e644ffa0af9b2d9d6d38fd" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                        <GebiedsaanwijzingRef type="simple" xlink:href="nl.imow-mnre1130.gebiedsaanwijzing.abe70229cb314236afaffe9698852efb" xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" />
+                     </gebiedsaanwijzingweergave>
+                  </Kaartlaag>
+               </kaartlagen>
+            </Kaart>
+         </owObject>
+      </stand>
+   </standBestand>
+</owBestand>
