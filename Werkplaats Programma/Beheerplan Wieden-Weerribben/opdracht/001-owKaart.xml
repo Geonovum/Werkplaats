@@ -144,7 +144,7 @@
       <sl:stand><!-- vogelrichtlijn -->
          <ow-dc:owObject>
             <s:SymbolisatieItem>
-               <s:symboolcode>vsg401</s:symboolcode>
+               <s:symboolcode>vag401</s:symboolcode>
                <s:gebiedsaanwijzingSymbolisatie>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv23.gebiedsaanwijzing.00000001001900328000909919562"/>
                </s:gebiedsaanwijzingSymbolisatie>
