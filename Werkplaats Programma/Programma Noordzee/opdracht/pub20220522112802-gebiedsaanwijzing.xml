@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<owBestand xmlns:ogc="http://www.opengis.net/ogc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:se="http://www.opengis.net/se" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+  <standBestand xmlns="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek">
+    <dataset>Dataset voor mnre1130 van maandag 23 mei 2022 11:20:43</dataset>
+    <inhoud>
+      <gebied>Gebied voor mnre1130 van maandag 23 mei 2022 11:20:43</gebied>
+      <leveringsId>pub20220522112802</leveringsId>
+      <objectTypen>
+        <objectType>Gebiedsaanwijzing</objectType>
+      </objectTypen>
+    </inhoud>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.a8935af936ec446b83fe7f3a4e3210a3</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Basislijn</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/SpecifiekBenoemdGebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.lijn.bbf92d0db98a431da7611c4e767d0960" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.fff42021190f4f518a2f0a4542091e36</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>12 nautische mijl vanaf de basislijn</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Oppervlaktewaterlichaam</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.lijn.2339c7af7652477bbc0f758be6101309" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.72c12d17ba46487db295b22dea4eb286</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Mariene wateren, Territoriale Zee</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/OppervlaktewaterlichaamPrimair</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebied.93b723129edb494cb5ea8af486500edf" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.f110cb966f6b4ccb8c9428a3db7771d4</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Mariene wateren, Exclusieve Economische Zone (EEZ)</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/OppervlaktewaterlichaamPrimair</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebied.293b336a04f94953be3789b31cd8aa99" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.8ae8038074964272b124943472abb940</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Verdragsgebied Eems-Dollard</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Bergingsgebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebied.b87d6e77a4884a10a014358c6abc5b39" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.3a5ec18702394d79bfea2085ae97def8</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Grens Exclusieve Economische Zone (EEZ)</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/SpecifiekBenoemdGebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebied.409a3f91486f4434bc1aca0393d23d3f" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.d8f617f60d5945c1a61931fb9ff1e378</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Bevoegdheidslijn</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/SpecifiekBenoemdGebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.lijn.041606210dfd41dc896a73fa0b1802ed" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.9034df7c7cb94c09afcd8c35907a14e9</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Zones waar visserijactiviteiten (deels) worden beperkt</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Reserveringsgebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.3502d96564f243d1b7fdd794639ccecc" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.bfc6fd200608486bb5a5054cada56988</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Natuur</type>
+          <naam>Aangewezen Natura 2000 / KRM-gebieden</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Natura2000Gebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.c0548d1618ed4528a07a73a7d68aa634" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.09e6f047a9dd46588a78ddb543d41cff" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.d00a6bccf80b45a39910ed5bc3d87da7</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Energievoorziening</type>
+          <naam>Windparken in gebruik</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Windturbinegebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.4b77368b966c4a0aaf967b2c83939874" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.12e4ffc9975146ecad40ea2b6acdb43e</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Energievoorziening</type>
+          <naam>Windparken in aanbouw of inpassingsruimte binnen windenergiegebied (Routekaart 2023)</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Maatregelengebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.f4d3bc1c32094d29a5b47d7f03321189" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.5483444030a34171bf307762fe11fb37</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Energievoorziening</type>
+          <naam>Aangewezen windenergiegebied, windparken in voorbereiding (Routekaart 2030)</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Maatregelengebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.3627421b3184458babc1e79aecb14d9e" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.9d4fa959b3cb4f6db4f7a5b67d312880</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Energievoorziening</type>
+          <naam>Aangewezen windenergiegebied in Programma Noordzee met als voorwaarde: tot en met 2030 maximaal 10 GW + 0,7 GW realiseren in deze gebieden tezamen</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Maatregelengebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.4962e563b4554f78b09e956132ec79fc" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.a568eb01abd54ce888da2fa20224c9ab</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Scheepvaartinfrastructuur</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.7bd4f8e6e1fa4799a7015d1b91a229ca" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.f4fa5262c8344281b07b849ae23f569e</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Separatiezone</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/SpecifiekBenoemdGebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.4d210e2024e147ac84d92aae2bd8eeb0" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.a865c7b9804f40379b61ecfcab6a2f12</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Ruimte voor clearway IJmuiden-Newcastle en verbinding met toekomstige Northern Sea route (zie Zoekgebiedenkaart)</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/SpecifiekBenoemdGebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebied.94820cbb91c742e8abdb3c4c6c9914b2" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.7b33b7d0fb0843db9f2759dd37d4f654</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Geul-as</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/SpecifiekBenoemdGebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.cd5c81caca584f29b576cbe971621876" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.0579ed652ffa4a4ca6aa03220d39ee70</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Special area</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/SpecifiekBenoemdGebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.7199047fa141400487016caa47368a8e" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.77ebcafafcef42c98a905732d7e5b84c</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Ankergebieden</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.cd31b62d88e24d3aa9dbbc83da83cc7b" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.f474a4c974724bbb80b1652a3a227d3f</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Ruimte voor clearway IJmuiden-Newcastle door windenergiegebied</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/SpecifiekBenoemdGebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.d1a1803a0fc0457f8d3033c37e4d371c" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.0b51020f4be74c46be2adc3caa1fb74c</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Ruimte voor mogelijke extra bufferzone scheepvaartveiligheid</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/SpecifiekBenoemdGebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebied.05060fb39d7d4555afee3a761324b756" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.6ecf6a8a7c464c4db81c467a781781af</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Borssele Pass</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebied.6a83cab09de4431f9189abc864bc9256" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.e54330229c43454c871bb6e7d7068a88</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Scheepvaartinfrastructuur (lijnen)</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Vaarweg</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.0875013459514ef78a3b04ce47c290fd" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+            <LocatieRef xlink:href="nl.imow-mnre1130.lijnengroep.da8232e2eb1f4bb7b4b512fc933ca7d6" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.a24aba0d707f4cda9bc214962a062245</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</type>
+          <naam>Reserveringsgebied voor zandwinning</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Reserveringsgebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebied.ba23b78108894f5792c02e53985ac22d" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.d530e36f0c9e4ebf9c445d9c6f1cdec4</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Leiding</type>
+          <naam>Voorkeurstraces voor kabels en leidingen</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/leiding/id/concept/TraceHoogspanning</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.a9d4b55744484a1ba8ccd5af5bb097ee" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.78eaef3e5dad4c7098bf7d172448c23d</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Defensie</type>
+          <naam>Militaire oefen- en schietgebieden</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/defensie/id/concept/Maatregelengebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.8732e38076f545f6aac32aa9b6e73631" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Gebiedsaanwijzing xmlns="http://www.geostandaarden.nl/imow/gebiedsaanwijzing">
+          <identificatie>nl.imow-mnre1130.gebiedsaanwijzing.fd3e164ff79149699a81b084cac59986</identificatie>
+          <type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Defensie</type>
+          <naam>Manoeuvrezones militair oefengebied</naam>
+          <groep>http://standaarden.omgevingswet.overheid.nl/defensie/id/concept/Maatregelengebied</groep>
+          <locatieaanduiding>
+            <LocatieRef xlink:href="nl.imow-mnre1130.gebiedengroep.2028a83f744044de831bec6e82fe3a60" xmlns="http://www.geostandaarden.nl/imow/locatie" />
+          </locatieaanduiding>
+        </Gebiedsaanwijzing>
+      </owObject>
+    </stand>
+  </standBestand>
+</owBestand>

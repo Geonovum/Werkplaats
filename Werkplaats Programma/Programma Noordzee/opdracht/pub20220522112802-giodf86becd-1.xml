@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns:ogc="http://www.opengis.net/ogc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:se="http://www.opengis.net/se" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xs="http://www.w3.org/2001/XMLSchema" schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__Aangewezen_windenergiegebied__windparken_in_voorbereiding__Routekaart_2030__df86becd</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__Aangewezen_windenergiegebied__windparken_in_voorbereiding__Routekaart_2030__df86becd/nld@2022-05-22;1</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>pub20220522112802-giodf86becd-1.gml</bestandsnaam>
+            <hash>f6fe33ab33734b4f1a56466215adde77262f04b1fb7a355cffb30d93708f50fdadae19b28cd933e5177b48a785b5d74219b55d53dd503a071db4b0b659ffdc25</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <alternatieveTitels>
+        <alternatieveTitel>Gebiedsaanwijzing: Aangewezen windenergiegebied, windparken in voorbereiding (Routekaart 2030)</alternatieveTitel>
+      </alternatieveTitels>
+      <eindverantwoordelijke>/tooi/id/ministerie/mnre1130</eindverantwoordelijke>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <maker>/tooi/id/ministerie/mnre1130</maker>
+      <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
+      <officieleTitel>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__Aangewezen_windenergiegebied__windparken_in_voorbereiding__Routekaart_2030__df86becd</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+    </InformatieObjectMetadata>
+    <JuridischeBorgingVan schemaversie="1.3.0" xmlns="https://standaarden.overheid.nl/stop/imop/gio/">
+      <Object>
+        <domein>http://www.geostandaarden.nl/imow/</domein>
+        <domeinObjectID>nl.imow-mnre1130.gebiedsaanwijzing.5483444030a34171bf307762fe11fb37</domeinObjectID>
+      </Object>
+    </JuridischeBorgingVan>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>

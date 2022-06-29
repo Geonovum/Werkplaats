@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns:ogc="http://www.opengis.net/ogc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:se="http://www.opengis.net/se" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xs="http://www.w3.org/2001/XMLSchema" schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__Basislijn_d486b334</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__Basislijn_d486b334/nld@2022-05-22;1</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>pub20220522112802-giod486b334-1.gml</bestandsnaam>
+            <hash>f9aabf16c074841f737487b2cb2c10be04ffc6eb2aab8b33b9e1a1a67e457992c776f8b888347def70175ef1dae758c432c1c3eae5e05723af2c623a51ebd75b</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <alternatieveTitels>
+        <alternatieveTitel>Gebiedsaanwijzing: Basislijn</alternatieveTitel>
+      </alternatieveTitels>
+      <eindverantwoordelijke>/tooi/id/ministerie/mnre1130</eindverantwoordelijke>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <maker>/tooi/id/ministerie/mnre1130</maker>
+      <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
+      <officieleTitel>/join/id/regdata/mnre1130/2022/Gebiedsaanwijzing__Basislijn_d486b334</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+    </InformatieObjectMetadata>
+    <JuridischeBorgingVan schemaversie="1.3.0" xmlns="https://standaarden.overheid.nl/stop/imop/gio/">
+      <Object>
+        <domein>http://www.geostandaarden.nl/imow/</domein>
+        <domeinObjectID>nl.imow-mnre1130.gebiedsaanwijzing.a8935af936ec446b83fe7f3a4e3210a3</domeinObjectID>
+      </Object>
+    </JuridischeBorgingVan>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>
