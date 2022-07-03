@@ -710,7 +710,7 @@
                                  versnellingsweken hebben maatschappelijke organisaties, economic boards of kennisinstellingen ook direct meegedaan. Bij het verder uitwerken van de opgaven en de uitvoering van de omgevingsagenda zal de bestaande regionale samenwerking met kennisinstellingen, private partijen en maatschappelijke organisaties worden benutten.</Al>
                               <Al>De volledige beschrijving van het ontwikkelproces van de omgevingsagenda is te vinden op het leerplatform Mirt : https://mirt.mett.nl/pilot+omgevingsagenda+oost/</Al>
                               <Figuur wId="mnre1034_0.1__div_1__div_o_1__content_o_3" eId="div_1__div_o_1__content_o_3">
-                                 <Illustratie naam="" breedte="991" hoogte="1844" uitlijning="start" formaat="image/png" dpi="96"/>
+                                 <Illustratie naam="Omgevingsopgaven_p13.png" breedte="991" hoogte="1844" uitlijning="start" formaat="image/png" dpi="96"/>
                                  <Bijschrift locatie="boven">De werking van omgevingsopgaven als vliegwiel voor het perspectief op Oost-Nederland.</Bijschrift>
                               </Figuur>
                            </Inhoud>
@@ -850,6 +850,20 @@
                                  <Al>Verstedelijking met behoud van landschap en leefklimaat is een grote uitdaging. Er zijn verschillende ruimtelijke groeiscenario’s te bedenken voor deze verstedelijkingsopgave. Elk scenario kent voor- en nadelen op het gebied van bereikbaarheid, landschap, leefklimaat, woonmilieus en energietransitie. We gaan samen onderzoeken welk scenario de agglomeratiekracht, leefbaarheid en duurzaamheid van de groene metropoolregio het beste versterkt.</Al>
                                  <Al>Er moet ook ruimte gevonden voor de groei van bedrijvigheid en werkgelegenheid binnen de regio. De regio zet hierbij sterk in op versterking van de circulaire economie, doorbouwend op aanwezige initiatieven. Versterking van de inhoudelijke cross-overs tussen campus- en innovatieclusters op het gebied van Food (Campus Wageningen, Kennisas), Health &amp; High Tech (Novio Tech, Heijendaal) en Energy (Industriepark Kleefse Waard, Arnhems Buiten) is cruciaal voor
                                     het innovatieklimaat en daarmee de economische ontwikkeling van de regio. Om investeringskansen uit binnen- en buitenland te benutten is een duidelijk gemeenschappelijk perspectief nodig: dat betekent keuzes maken over welk cluster(s) nationaal en internationaal ‘in de etalage’ wordt gezet.</Al>
+                                 <Figuur wId="mnre1034_0.1__div_2__div_o_1__div_o_1__content_o_2__img_o_1" eId="div_2__div_o_1__div_o_1__content_o_2__img_o_1">
+                                    <Illustratie naam="Industriepark_p19.png" breedte="1405" hoogte="698" uitlijning="center" formaat="image/png" dpi="96"/>
+                                 </Figuur>
+                                 <Al><strong>Selectie van lopende Rijk-regio samenwerkingstrajecten</strong></Al>
+                                 <table wId="mnre1034_0.1__div_2__div_o_1__div_o_1__content_o_2__table_1" eId="div_2__div_o_1__div_o_1__content_o_2__table_1">
+                                    <tgroup cols="1" align="left">
+                                       <colspec/>
+                                       <tbody valign="bottom">
+                                          <row>
+                                             <entry></entry>
+                                          </row>
+                                       </tbody>
+                                    </tgroup>
+                                 </table>
                               </Inhoud>
                            </Divisietekst>
                            <Divisietekst eId="div_2__div_o_1__div_o_1__content_o_3"
@@ -5212,7 +5226,7 @@
          <versienummer>1</versienummer>
       </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <soortRegeling>/join/id/stop/regelingtype_010</soortRegeling>
+         <soortRegeling>/join/id/stop/regelingtype_007</soortRegeling><!-- 007 = projectbesluit (voor de pre) | 010 = Programma (voor de acc) -->
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1034</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1034</maker>
          <officieleTitel>Bijlage I: Omgevingsagenda Oost-Nederland</officieleTitel>
