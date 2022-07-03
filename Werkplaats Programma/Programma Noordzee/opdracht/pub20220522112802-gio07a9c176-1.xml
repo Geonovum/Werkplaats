@@ -7,6 +7,7 @@
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata schemaversie="1.2.0" xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftGeboorteregeling>/akn/nl/act/mnre1130/2022/work-U2022-U03-U24</heeftGeboorteregeling>
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
