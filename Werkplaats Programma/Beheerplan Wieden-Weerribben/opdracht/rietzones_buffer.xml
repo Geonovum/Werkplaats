@@ -1,32 +1,36 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
-  <InformatieObjectVersie>
-    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/pv23/2022/rietzones_buffer</FRBRWork>
-      <FRBRExpression>/join/id/regdata/pv23/2022/rietzones_buffer/nld@2022;1</FRBRExpression>
-      <soortWork>/join/id/stop/work_010</soortWork>
-    </ExpressionIdentificatie>
-    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling>/akn/nl/act/pv23/2022/WiedenWeerribben-001</heeftGeboorteregeling>
-      <heeftBestanden>
-        <heeftBestand>
-          <Bestand>
-            <bestandsnaam>rietzones_buffer.gml</bestandsnaam>
-            <hash>b0674b0b38fad7de2397bfaa953fe3711f6e4ca635559017e5e16bf1af7cc99d2ede958aa3e3b4cd63fa5a5b49df1591b472c5847ca1f21d4c8b2e90f52f6721</hash>
-          </Bestand>
-        </heeftBestand>
-      </heeftBestanden>
-    </InformatieObjectVersieMetadata>
-    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <eindverantwoordelijke>/tooi/id/provincie/pv23</eindverantwoordelijke>
-      <maker>/tooi/id/provincie/pv23</maker>
-      <alternatieveTitels>
-        <alternatieveTitel/>
-      </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/pv23/2022/rietzones_buffer</officieleTitel>
-      <publicatieinstructie>TeConsolideren</publicatieinstructie>
-      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-      <naamInformatieObject>rietzones_buffer</naamInformatieObject>
-    </InformatieObjectMetadata>
-  </InformatieObjectVersie>
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/pv23/2022/rietzones_buffer</FRBRWork>
+         <FRBRExpression>/join/id/regdata/pv23/2022/rietzones_buffer/nld@2022;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/pv23/2022/WiedenWeerribben-001</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>rietzones_buffer.gml</bestandsnaam>
+                  <hash>638d95ef0afe0f73eaa1567ca1f8137be8fea171a1b0ae95d9adbc3a9a83eb8d5e441a7adfe9809a37dca5aefd7f96984f6d662e2bf000a2ddedf18cfbeb39b3</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv23</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv23</maker>
+         <alternatieveTitels>
+            <alternatieveTitel/>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/pv23/2022/rietzones_buffer</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <naamInformatieObject>rietzones_buffer</naamInformatieObject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
 </AanleveringInformatieObject>
