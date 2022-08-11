@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/mnre1045/2022/1723080826</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1045/2022/1723080826/nld@2022-08-11</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>or_buisleidingen_reserveringsgebieden_2021-07-13.gml</bestandsnaam>
+            <hash>fd9046f4dd77dc198ec93c38393f0b43d6e4c91b78d76ece73e106e699932cb8ddb26170cd3a4b93626d9ae66cd14ed88293d79216800bed7f50dfcd51bf72c5</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+      <heeftGeboorteregeling>/akn/nl/act/mnre1045/2022/PE001-001</heeftGeboorteregeling>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+      <maker>/tooi/id/ministerie/mnre1045</maker>
+      <officieleTitel>/join/id/regdata/mnre1045/2022/1723080826</officieleTitel>
+      <naamInformatieObject>tracés van buisleidingenstroken</naamInformatieObject>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>

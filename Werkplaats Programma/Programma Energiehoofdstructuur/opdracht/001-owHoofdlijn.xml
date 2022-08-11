@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Programma Energiehoofdstructuur </sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Nederland</sl:gebied>
+         <sl:leveringsId>PE001_2022-08-11_001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Hoofdlijn</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.000000010032143690003832812035</vt:identificatie>
+               <vt:soort>Beleidsuitspraak</vt:soort>
+               <vt:naam>Bovengrond-tenzij voor 220/380kV</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.00000001003214369000911741956</vt:identificatie>
+               <vt:soort>Beleidsuitspraak</vt:soort>
+               <vt:naam>110/150 kV en lager ondergronds, tenzij</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.000000010032143690001033573713</vt:identificatie>
+               <vt:soort>Beleidsuitspraak</vt:soort>
+               <vt:naam>Bij voorkeur combineren op één mast </vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.000000010032143690003166899272</vt:identificatie>
+               <vt:soort>Beleidsuitspraak</vt:soort>
+               <vt:naam>Magneetvelden</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.00000001003214369000283381478</vt:identificatie>
+               <vt:soort>Beleidsuitspraak</vt:soort>
+               <vt:naam>Rechtstandsprincipe</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.00000001003214369000520818234</vt:identificatie>
+               <vt:soort>Beleidsuitspraak</vt:soort>
+               <vt:naam>Aanleg van AC, tenzij</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

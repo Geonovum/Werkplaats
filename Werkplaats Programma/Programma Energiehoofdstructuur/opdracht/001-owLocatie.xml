@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Programma Energiehoofdstructuur </sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Nederland</sl:gebied>
+         <sl:leveringsId>PE001_2022-08-11_001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Ambtsgebied</sl:objectType>
+            <sl:objectType>Gebiedengroep</sl:objectType>
+            <sl:objectType>Gebied</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Ambtsgebied>
+               <l:identificatie>nl.imow-mnre1045.ambtsgebied.00000001003214369000</l:identificatie>
+               <l:noemer>Nederland + EEZ</l:noemer>
+               <l:bestuurlijkeGrenzenVerwijzing>
+                  <l:BestuurlijkeGrenzenVerwijzing>
+                     <l:bestuurlijkeGrenzenID>LND6030.B</l:bestuurlijkeGrenzenID>
+                     <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+                     <l:geldigOp>2021-01-01</l:geldigOp>
+                  </l:BestuurlijkeGrenzenVerwijzing>
+               </l:bestuurlijkeGrenzenVerwijzing>
+            </l:Ambtsgebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--or_elektriciteit_locaties_grootschalige_opwekking_nw1.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.20220811001</l:identificatie>
+               <l:noemer>vestigingsplaatsen voor grootschalige elektriciteitsopwekking &gt;500MW</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001001"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001002"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001003"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001004"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001005"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001006"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001007"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001008"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001009"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001010"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001011"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001012"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001013"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001014"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001015"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001016"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001017"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001018"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001019"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001020"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811001021"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001001</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Amer Geertruidenberg</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ada7d069-bbf6-4f9e-becd-42417507ea27"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001002</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Amsterdams Havengebied/Noordzeekanaal</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="431f99a1-de79-470b-ac6d-999448fa43a4"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001003</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Borssele/Vlissingen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ff39600a-177e-4787-a548-b60f6eb6dd7e"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001004</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Buggenum</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="50219fa8-3fc0-4551-b151-8e352ee1acd7"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001005</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Burgum</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="d0b62e94-53df-4f1e-8394-dc4e0cd8dfeb"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001006</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Delfzijl</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="d15968b7-3131-49ad-8fdc-42b43a1d185a"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001007</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Diemen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="27a6e2b1-014e-4552-8294-334ff3be56ba"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001008</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Eemshaven</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="372c5e6b-5721-4740-8001-b03bcd4b2c1a"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001009</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Flevo</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="df140ab8-6ab0-4604-8534-b2a88c4231b7"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001010</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Geleen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f57c8296-f1fb-47c4-bd7c-2259a6445737"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001011</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Harculo</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="432a5000-ff0c-43c2-b25b-1bd6530d9bb0"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001012</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Hemweg</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="56e4c802-88dc-41bb-bd60-a164c67f6b75"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001013</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Maasbracht</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="8d90f634-5179-48c6-bc1d-d762449566ab"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001014</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Maasvlakte II</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="e093cbc9-1945-4c39-a862-b7cb25adfe5e"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001015</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Maasvlakte I</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9be62787-90ff-4916-9e78-e045730eeb19"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001016</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Moerdijk</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="4d2d4724-f4fa-4733-a508-582e1b234b11"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001017</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Nijmegen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="202b3846-5f32-4ea6-85a4-0cd1150f0a22"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001018</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Rijnmond/Rotterdams Havengebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="752465df-87e5-48ee-b43a-c096d0e1a0f0"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001019</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Terneuzen/Sas van Gent</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="6d6e01c3-4682-4012-a46c-a41699933ab2"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001020</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Utrecht</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ddf87c96-af1d-4032-bbe6-7497b103bddc"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811001021</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige electriciteitsopwekking Velsen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="3b65ce87-0608-4b5a-ba7b-e81d0431e8a3"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--or_elektriciteit_vestigingsplaats_kernenergie.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.20220811002</l:identificatie>
+               <l:noemer>vestigingsplaatsen voor kernenergiecentrales</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811002001"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811002002"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811002003"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811002001</l:identificatie>
+               <l:noemer>Reservering vestigingsplaats kernenergie Eemshaven</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="7f84e9a1-3add-4dc9-8504-3cb6cb77d05c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811002002</l:identificatie>
+               <l:noemer>Reservering vestigingsplaats kernenergie Borssele/Vlissingen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ddfd6daf-db57-4404-a514-77d7820b3dbe"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811002003</l:identificatie>
+               <l:noemer>Reservering vestigingsplaats kernenergie Maasvlakte I</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="474765ef-9d64-40e0-8ece-03d42b255309"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--or_elektriciteit_hoogspanningsverbindingen_nw1.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.20220811003</l:identificatie>
+               <l:noemer>reserveringen voor hoogspanningsverbindingen</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003001"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003002"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003003"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003004"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003005"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003006"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003007"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003008"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003009"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003010"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003011"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003012"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003013"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003014"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003015"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003016"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003017"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003018"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003019"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003020"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003021"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003022"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003023"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003024"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003025"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003026"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003027"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003028"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003029"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003030"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003031"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003032"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003033"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003034"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003035"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003036"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003037"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003038"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003039"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003040"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003041"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003042"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003043"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003044"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003045"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003046"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003047"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003048"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003049"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003050"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003051"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003052"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003053"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003054"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003055"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003056"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003057"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003058"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003059"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003060"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003061"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003062"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003063"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003064"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003065"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003066"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003067"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003068"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003069"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003070"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003071"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003072"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003073"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003074"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003075"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003076"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003077"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003078"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003079"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003080"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003081"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003082"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003083"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003084"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003085"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003086"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003087"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003088"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003089"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003090"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003091"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003092"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003093"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003094"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003095"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003096"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003097"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003098"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003099"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003100"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003101"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811003102"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003001</l:identificatie>
+               <l:noemer>hoogspanningsstation Eemshaven Synergieweg 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="376361d0-c1dc-4b86-9361-61e59be9c07b"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003002</l:identificatie>
+               <l:noemer>hoogspanningsstation Hoek van Holland 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="37243b26-0aca-4405-9560-e30a8f3885ff"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003003</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Maasbracht-Dodewaard 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="0bf9b297-ac14-4907-938e-d68730cf62aa"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003004</l:identificatie>
+               <l:noemer>platformen Hollandse Kust (zuid) Alpha en Beta – Maasvlakte</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="0ece0031-53c5-45f5-87c9-685407a35ada"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003005</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Zeyerveen-Hessenweg 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="cb8173fd-f512-48b1-b7dc-5a20aa42f355"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003006</l:identificatie>
+               <l:noemer>hoogspanningsstation Oostzaan 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f7efed14-5609-4647-93d4-d18019767bc8"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003007</l:identificatie>
+               <l:noemer>hoogspanningsstation Vierverlaten 380 (inclusief 220 deel)</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="4fe02ea7-4a47-479a-a14c-b481ad3e7546"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003008</l:identificatie>
+               <l:noemer>platformen Borssele Alpha en Beta – Borssele</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="2ad7022e-ec34-42ca-a778-9bbb12ee1cee"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003009</l:identificatie>
+               <l:noemer>hoogspanningsstation Eemshaven Oudeschip 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9b6b51c5-b361-411b-a879-c80b7c70657f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003010</l:identificatie>
+               <l:noemer>hoogspanningsstation Meeden 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="bc80118f-391a-49e4-8360-73898a9398a0"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003011</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Rilland-Zandvliet 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="98834031-9583-4b5a-9c89-3ea4e7cf38bc"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003012</l:identificatie>
+               <l:noemer>hoogspanningsstation Eemshaven 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ccb8937d-3d9e-46a7-a259-c987baad7b3a"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003013</l:identificatie>
+               <l:noemer>hoogspanningsstation Borssele 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="bdd4d168-e186-41de-adad-ec3a4610bc96"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003014</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Louwsmeer-Bergum 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="c21d0865-0f53-40ca-a6af-d63a006366a2"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003015</l:identificatie>
+               <l:noemer>hoogspanningsstation Louwsmeer 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="885d9c24-e9ca-4b8d-ab12-b85a5df7c549"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003016</l:identificatie>
+               <l:noemer>hoogspanningsstation Vierverlaten 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="902fdf9d-84c6-4be3-a92f-e158a2fb9b94"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003017</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Simonshaven-Crayestein 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f9f02b29-9790-4004-ab4e-0e145002a56f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003018</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Beverwijk - Vijfhuizen - Bleiswijk 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="259adaca-2734-4273-9a15-9aedd6b253c9"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003019</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Meeden-Diele 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="2ceb4da6-53fa-4de0-805d-2bf6f1137b59"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003020</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Kreekrak-Zandvliet 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b17910ad-6107-4cb5-b638-1ee124f18dd8"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003021</l:identificatie>
+               <l:noemer>hoogspanningsstation Westerlee 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f730c047-2a6c-4c1d-9dfb-985ced529596"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003022</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Kreekrak-Borssele 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="68c33547-793e-4653-9a4a-37443b0da2d1"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003023</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Cobra: Eemshaven Oudeschip-Endrup (Denemarken)</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="c9642b18-fac5-43e8-ab67-72da3cacb298"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003024</l:identificatie>
+               <l:noemer>hoogspanningsstation Wateringen 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="7d8c289a-0ea5-46fe-829e-c10edd8a4845"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003025</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Diemen-Lelystad 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="3d074d0d-49b1-459d-9ad8-ee317f1087f4"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003026</l:identificatie>
+               <l:noemer>hoogspanningsstation Delesto 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="eeac5ccf-a1fa-4579-8fa7-8fcda59f124f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003027</l:identificatie>
+               <l:noemer>hoogspanningsstation Ens 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="6c2dbb1c-fffe-43af-9fd6-9be6cb347680"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003028</l:identificatie>
+               <l:noemer>hoogspanningsstation Oostpolder 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="053a6143-208f-4ee5-a92c-bda38d5029cc"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003029</l:identificatie>
+               <l:noemer>hoogspanningsstation Boxmeer 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="c134f355-9c67-417c-9676-d7c16a5836b7"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003030</l:identificatie>
+               <l:noemer>hoogspanningsverbinding NorNed:Eemshaven-Feda (noorwegen)</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="dbcb75d1-75b5-41bd-ace9-c5102fe1c481"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003031</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Oudehaske-Ens 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="1aee6321-1be5-4d8a-9655-ed1a9fef9ed0"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003032</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Van Eyck-Maasbracht 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="59a22d96-cb15-464d-8c79-d831f87395db"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003033</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Doetinchem-Hengelo 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="7ce2bdd9-ad23-4fee-833c-774ab1eca72f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003034</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Maasbracht-Graetheide 150</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9fa21382-533a-4785-bca8-12413344a4a0"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003035</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Crayestein-Krimpen a/d IJssel 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="1a54ae35-0095-472d-8797-8d80d70e57f3"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003036</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Schildmeer-Weiwerd 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ea765ebc-f8d7-4fa0-a035-21e59b80a193"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003037</l:identificatie>
+               <l:noemer>hoogspanningsstation Zeyerveen 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="db57a4eb-5579-4c8f-9fca-00d552940ec7"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003038</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Krimpen a/d IJssel-Diemen 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="902c9ce0-eeca-49ea-82d2-d311c9324dfd"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003039</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Krimpen a/d IJssel-Bleiswijk 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="c43851f8-c0e7-4b3f-82c1-1cbd9a79db1b"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003040</l:identificatie>
+               <l:noemer>hoogspanningsstation Simonshaven 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9fda4701-c8f5-4aec-b9a8-5876e9054271"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003041</l:identificatie>
+               <l:noemer>hoogspanningsstation Bergum 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="844588ea-a552-4e7a-a315-49b3dc08add5"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003042</l:identificatie>
+               <l:noemer>hoogspanningsstation Lelystad 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="341a06c4-f159-446d-a005-b1d6ad5bf6f2"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003043</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Lelystad-Ens 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ceb3f31f-4822-44ff-8709-6e7adb51b3f3"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003044</l:identificatie>
+               <l:noemer>hoogspanningsstation Hengelo 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="27725798-6ce2-422b-b045-2d77fecc2549"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003045</l:identificatie>
+               <l:noemer>hoogspanningsstation Hessenweg-Ens 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="030357c5-09da-43a7-8c26-aac936ac04f8"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003046</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Dodewaard-Doetinchem 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="bb7554ed-9dc9-4869-9db6-c946e00f5481"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003047</l:identificatie>
+               <l:noemer>hoogspanningsstation Eemshaven Converterstation 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="995cc257-ffcc-4356-8f7b-32267b965117"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003048</l:identificatie>
+               <l:noemer>hoogspanningsstation Zeeuwse Kust Landstation 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a7e6b42f-6ea1-4017-b1fb-7eaf4224f344"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003049</l:identificatie>
+               <l:noemer>hoogspanningsstation Meeden 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f70e80d1-bb58-4b71-aae3-5a9f98ef1f22"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003050</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Schildmeer-Meeden 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="c0c07f57-538a-49c0-a58a-b050d3b717ab"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003051</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Borssele-Rilland 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b7e115d6-cd08-4185-9263-e31e22da93e5"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003052</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Robbenplaat-Schildmeer 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="2de46d9d-94f6-42dc-9b63-6bd51223b28c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003053</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Eemshaven-Eemshaven Converterstation 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="0a4e8de2-6b1b-4c98-81da-83522e326b51"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003054</l:identificatie>
+               <l:noemer>hoogspanningsstation Ens 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="c80a0fe2-2643-4bf2-8ec0-990f3369b821"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003055</l:identificatie>
+               <l:noemer>hoogspanningsstation Eemshaven Oost 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="5f3b9591-4d67-43d3-969b-75af09166047"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003056</l:identificatie>
+               <l:noemer>hoogspanningsstation Eemshaven 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="1252c388-1975-444f-8776-eee09aa8d760"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003057</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Doetinchem-Niederrhein 380 (Duitsland)</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="d16d5611-1fc3-4698-bc56-bd9559e0b0fb"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003058</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Maasbracht-Siersdorf 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="d9fd3c5c-8a47-4002-9166-a129c7ac2d87"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003059</l:identificatie>
+               <l:noemer>hoogspanningsstation Waddenweg Converterstation 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="5599cf50-5b5c-4470-9625-73da7e91033a"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003060</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Geertruidenberg-Rilland 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="fbea332f-88dc-4dd5-97b4-4b9fb0bcff2a"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003061</l:identificatie>
+               <l:noemer>hoogspanningsstation Krimpen a/d IJssel 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="fbcee163-cd7b-4774-bc7e-f3fad495c24a"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003062</l:identificatie>
+               <l:noemer>hoogspanningsstation Bleiswijk 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a28107af-549b-48dc-b99f-bc9c36feb56c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003063</l:identificatie>
+               <l:noemer>hoogspanningsstation Rilland 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9dacabe6-db44-45f9-9297-7aa62c13d6e2"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003064</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Wateringen - Bleiswijk 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f2ebf252-0a00-45df-b0a1-3de65282746d"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003065</l:identificatie>
+               <l:noemer>hoogspanningsstation Breukelen Kortrijk 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="e28a6203-a418-49dc-a496-e16a0481b292"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003066</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Eemshaven-Meeden 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9e6b552e-1e3a-4edb-ba65-898c33d38bab"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003067</l:identificatie>
+               <l:noemer>hoogspanningsstation Maasvlakte 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a0fe6c35-4237-4155-ab30-9128c83da321"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003068</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Ens-Zwolle 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="43fb973a-ae4e-4808-bda9-064b8606d23f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003069</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Geertruidenberg-Eindhoven 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f50023ad-86ea-4e11-a063-16840ba2a06e"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003070</l:identificatie>
+               <l:noemer>hoogspanningsstation Vijfhuizen 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="dfd2efcf-b719-4910-8b84-802e274d71d9"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003071</l:identificatie>
+               <l:noemer>hoogspanningsstation Dodewaard380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ef1c9c1e-915e-42bc-92f9-8898b9c88f8c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003072</l:identificatie>
+               <l:noemer>hoogspanningsstation Beverwijk 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="daa1dcc7-b92f-47c6-b249-bff7322f9df9"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003073</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Vierverlaten-Robbenplaat 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f2318620-4a2b-4200-9289-31338abb8ec6"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003074</l:identificatie>
+               <l:noemer>hoogspanningsstation Geertruidenberg 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="5ab33117-8cf2-4bc3-aeea-2f38db72d02a"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003075</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Eemshaven-Eemshaven Oudeschip 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b9086078-b2cc-447e-9df8-46f67bdaf588"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003076</l:identificatie>
+               <l:noemer>hoogspanningsstation Oudehaske 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="d227a2d2-083f-4a4d-80e0-763998a40fd9"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003077</l:identificatie>
+               <l:noemer>hoogspanningsstation Weiwerd 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a9c8d75f-9ced-4db9-9023-e01e0c0c8882"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003078</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Beverwijk-Oostzaan 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ff66726c-0778-430e-b31e-a1b31703e5c0"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003079</l:identificatie>
+               <l:noemer>hoogspanningsstation Robbenplaat 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="dea0ab7a-dae7-44de-ac3a-f275a6d880e8"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003080</l:identificatie>
+               <l:noemer>hoogspanningsstation Eemshaven Tijdelijk 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="092e22b5-39ac-4784-ab77-1e0bd846e4af"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003081</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Vierverlaten-Zeyerveen 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="5a547f92-4f0c-4bb4-a32e-81ba986b6795"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003082</l:identificatie>
+               <l:noemer>hoogspanningsverbinding BritNed: Maasvlakte-Grain (Groot Brittanië)</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="784bee11-7a68-4b0c-be38-2fdc79097183"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003083</l:identificatie>
+               <l:noemer>hoogspanningsstation Zwolle 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="8b0a67b7-5991-4831-8f8b-fe2979c3ad86"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003084</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Hessenweg-Ens 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="e26f1cc8-aa95-479c-bc7d-38a2ea9e776b"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003085</l:identificatie>
+               <l:noemer>hoogspanningsstation Diemen 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="6b94c1ed-f67b-437e-9050-833f5fac27d7"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003086</l:identificatie>
+               <l:noemer>hoogspanningsstation Eindhoven 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="33b53ee7-3b5e-433c-ac93-9759ddac3b8c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003087</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Bergum-Vierverlaten 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="bc253f9a-7fd4-4139-a929-77102c4ab1c1"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003088</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Louwsmeer-Oudehaske 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="63b2b659-49f9-42e2-a07c-c3def06ece34"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003089</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Zwolle-Hengelo 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="5faaf1fe-a642-4fa7-b5f8-f60304340a76"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003090</l:identificatie>
+               <l:noemer>hoogspanningsstation Crayestein 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="97085096-9dd0-4541-9d7c-7721fe6093c5"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003091</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Gronau-Hengelo 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="0e07059c-3a34-4c60-977d-1cbd44f46fca"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003092</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Krimpen a/d IJssel-Geertruidenberg 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="06687d91-18e6-451f-900b-e794cd42a7ee"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003093</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Oostzaan-Diemen 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="736bc256-35c9-4d71-ae10-433cc14ee2a0"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003094</l:identificatie>
+               <l:noemer>hoogspanningsstation Doetinchem 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="3b246d1b-1290-4691-a9b1-b9435e32ad3d"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003095</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Geertuidenberg - Rilland 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="2ac740f3-9569-46b3-a95a-5ce3fd427277"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003096</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Maasbracht-Eindhoven 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="08ca3e11-fdd4-4e0f-ac44-47fea8af9392"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003097</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Westerlee- Wateringen 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b9c50246-37dc-443b-83de-a1f16bd5b129"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003098</l:identificatie>
+               <l:noemer>hoogspanningsstation Maasbracht 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="6f029dae-a9e5-4c9a-8ce7-713ea5ae6384"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003099</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Zwolle-Meeden 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="98510a65-f435-4470-8899-555ab54cfdf1"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003100</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Eemshaven- Robbenplaat 220</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="154f6d0b-8c9c-40e7-87ee-0592f1d6e0be"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003101</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Westerlee-Maasvlakte 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="d084e38b-9202-405f-9328-375909b009c3"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811003102</l:identificatie>
+               <l:noemer>hoogspanningsverbinding Maasvlakte-Simonshaven 380</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ef4afa03-4fff-4aa2-9612-231cf035901b"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--or_buisleidingen_reserveringsgebieden_2021-07-13.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.20220811004</l:identificatie>
+               <l:noemer>tracés van buisleidingenstroken</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.20220811004001"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.20220811004001</l:identificatie>
+               <l:noemer>tracés van buisleidingenstroken</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ab51e868-d4ed-40c7-9397-9eb53640bff4"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>
