@@ -18,7 +18,7 @@
       <sl:dataset>Programma Energiehoofdstructuur </sl:dataset>
       <sl:inhoud>
          <sl:gebied>Nederland</sl:gebied>
-         <sl:leveringsId>PE001_2022-08-11_001</sl:leveringsId>
+         <sl:leveringsId>PE001_2022-08-16_001</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Regelingsgebied</sl:objectType>
          </sl:objectTypen>
@@ -26,9 +26,9 @@
       <sl:stand>
          <ow-dc:owObject>
             <rg:Regelingsgebied>
-               <rg:identificatie>nl.imow-mnre1045.regelingsgebied.00000001003214369000</rg:identificatie>
+               <rg:identificatie>nl.imow-mnre1045.regelingsgebied.20220816001</rg:identificatie>
                <rg:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.ambtsgebied.00000001003214369000"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.ambtsgebied.20220816001"/>
                </rg:locatieaanduiding>
             </rg:Regelingsgebied>
          </ow-dc:owObject>

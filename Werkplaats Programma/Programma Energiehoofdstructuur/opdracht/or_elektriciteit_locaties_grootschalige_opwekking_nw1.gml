@@ -14,8 +14,8 @@
     </geo:context>
     <geo:vastgesteldeVersie>
         <geo:GeoInformatieObjectVersie>
-            <geo:FRBRWork>/join/id/regdata/mnre1045/2022/3371840052</geo:FRBRWork>
-            <geo:FRBRExpression>/join/id/regdata/mnre1045/2022/3371840052/nld@2022-08-11</geo:FRBRExpression>
+            <geo:FRBRWork>/join/id/regdata/mnre1045/2022/20220816003</geo:FRBRWork>
+            <geo:FRBRExpression>/join/id/regdata/mnre1045/2022/20220816003/nld@2022-08-16</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
                     <geo:naam>Vestigingsplaats voor grootschalige electriciteitsopwekking Velsen</geo:naam>

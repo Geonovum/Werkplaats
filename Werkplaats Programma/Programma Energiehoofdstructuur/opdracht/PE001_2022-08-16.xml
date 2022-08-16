@@ -5,15 +5,21 @@
                     xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/bill/mnre1045/2022/PE001</FRBRWork>
-         <FRBRExpression>/akn/nl/bill/mnre1045/2022/PE001/nld@2022-08-11;1</FRBRExpression>
+         <FRBRWork>/akn/nl/bill/mnre1045/2022/PE001-002</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/mnre1045/2022/PE001-002/nld@2022-08-16;1</FRBRExpression>
          <soortWork>/join/id/stop/work_003</soortWork>
       </ExpressionIdentificatie>
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1045</maker>
          <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
-         <officieleTitel>Programma Energiehoofdstructuur </officieleTitel>
+         <officieleTitel>Programma Energiehoofdstructuur</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Programma Energiehoofdstructuur</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
          <onderwerpen>
             <onderwerp>/tooi/def/concept/c_85a72eb3</onderwerp>
          </onderwerpen>
@@ -22,10 +28,10 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
          <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/3371840052/nld@2022-08-11</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/942220963/nld@2022-08-11</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/1408509672/nld@2022-08-11</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/1723080826/nld@2022-08-11</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/20220816003/nld@2022-08-16</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/20220816004/nld@2022-08-16</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/20220816002/nld@2022-08-16</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/20220816001/nld@2022-08-16</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -46,45 +52,46 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/mnre1045/2022/Instelling</doel>
+                  <doel>/join/id/proces/mnre1045/2022/Instelling-002</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/mnre1045/2022/PE001-001/nld@2022-08-11;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/mnre1045/2022/PE001-002/nld@2022-08-16;1</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/mnre1045/2022/Instelling</doel>
+                  <doel>/join/id/proces/mnre1045/2022/Instelling-002</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/3371840052/nld@2022-08-11</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/20220816003/nld@2022-08-16</instrumentVersie>
                <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/mnre1045/2022/Instelling</doel>
+                  <doel>/join/id/proces/mnre1045/2022/Instelling-002</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/942220963/nld@2022-08-11</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/20220816004/nld@2022-08-16</instrumentVersie>
                <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/mnre1045/2022/Instelling</doel>
+                  <doel>/join/id/proces/mnre1045/2022/Instelling-002</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/1408509672/nld@2022-08-11</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/20220816002/nld@2022-08-16</instrumentVersie>
                <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/mnre1045/2022/Instelling</doel>
+                  <doel>/join/id/proces/mnre1045/2022/Instelling-002</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/1723080826/nld@2022-08-11</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/20220816001/nld@2022-08-16</instrumentVersie>
                <eId>!initieel_reg#cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/join/id/proces/mnre1045/2022/Instelling</doel>
+               <doel>/join/id/proces/mnre1045/2022/Instelling-002</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2023-01-01</datum>
+               <!-- moet eigenlijk 2022-08-17 zijn -->
+               <datum>2022-08-17</datum>
                <eId>art_II</eId>
             </Tijdstempel>
          </Tijdstempels>
@@ -125,7 +132,7 @@
                <Nummer>I</Nummer>
             </Kop>
             <RegelingVrijetekst componentnaam="initieel_reg"
-                                wordt="/akn/nl/act/mnre1045/2022/PE001-001/nld@2022-08-11;1">
+                                wordt="/akn/nl/act/mnre1045/2022/PE001-002/nld@2022-08-16;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Programma Energiehoofdstructuur</Al>
                </RegelingOpschrift>
@@ -1267,7 +1274,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/3371840052/nld@2022-08-11">/join/id/regdata/mnre1045/2022/3371840052/nld@2022-08-11</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/20220816003/nld@2022-08-16">/join/id/regdata/mnre1045/2022/20220816003/nld@2022-08-16</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -1278,7 +1285,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/942220963/nld@2022-08-11">/join/id/regdata/mnre1045/2022/942220963/nld@2022-08-11</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/20220816004/nld@2022-08-16">/join/id/regdata/mnre1045/2022/20220816004/nld@2022-08-16</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -1289,7 +1296,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/1408509672/nld@2022-08-11">/join/id/regdata/mnre1045/2022/1408509672/nld@2022-08-11</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/20220816002/nld@2022-08-16">/join/id/regdata/mnre1045/2022/20220816002/nld@2022-08-16</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -1300,7 +1307,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/1723080826/nld@2022-08-11">/join/id/regdata/mnre1045/2022/1723080826/nld@2022-08-11</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/20220816001/nld@2022-08-16">/join/id/regdata/mnre1045/2022/20220816001/nld@2022-08-16</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -1314,8 +1321,8 @@
    </BesluitVersie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/mnre1045/2022/PE001-001</FRBRWork>
-         <FRBRExpression>/akn/nl/act/mnre1045/2022/PE001-001/nld@2022-08-11;1</FRBRExpression>
+         <FRBRWork>/akn/nl/act/mnre1045/2022/PE001-002</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2022/PE001-002/nld@2022-08-16;1</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -1327,6 +1334,12 @@
          <maker>/tooi/id/ministerie/mnre1045</maker>
          <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
          <officieleTitel>Programma Energiehoofdstructuur</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Programma Energiehoofdstructuur</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
          <overheidsdomeinen>
             <overheidsdomein>/tooi/def/concept/c_86b84a9d</overheidsdomein>
          </overheidsdomeinen>

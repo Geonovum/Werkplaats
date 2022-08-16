@@ -4,8 +4,8 @@
                xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/generiek/manifest-ow.xsd">
    <domein>omgevingswet</domein>
    <Aanlevering>
-      <WorkIDRegeling>/akn/nl/act/mnre1045/2022/PE001-001</WorkIDRegeling>
-      <DoelID>/join/id/proces/mnre1045/2022/Instelling</DoelID>
+      <WorkIDRegeling>/akn/nl/act/mnre1045/2022/PE001-002</WorkIDRegeling>
+      <DoelID>/join/id/proces/mnre1045/2022/Instelling-002</DoelID>
       <Bestand>
          <naam>001-owDivisie.xml</naam>
          <objecttype>Divisie</objecttype>

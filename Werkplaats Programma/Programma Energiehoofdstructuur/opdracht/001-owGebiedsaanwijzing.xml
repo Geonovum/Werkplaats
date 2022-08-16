@@ -18,7 +18,7 @@
       <sl:dataset>Programma Energiehoofdstructuur </sl:dataset>
       <sl:inhoud>
          <sl:gebied>Nederland</sl:gebied>
-         <sl:leveringsId>PE001_2022-08-11_001</sl:leveringsId>
+         <sl:leveringsId>PE001_2022-08-16_001</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Gebiedsaanwijzing</sl:objectType>
          </sl:objectTypen>
@@ -26,12 +26,12 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690001788564390</ga:identificatie>
+               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.20220816001</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Energievoorziening</ga:type>
                <ga:naam>vestigingsplaatsen voor grootschalige elektriciteitsopwekking &gt;500MW</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/GrootschaligeElektriciteitsopwekking</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.20220811001"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.20220816001"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -39,12 +39,12 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690002092321686</ga:identificatie>
+               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.20220816002</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Energievoorziening</ga:type>
                <ga:naam>vestigingsplaatsen voor kernenergiecentrales</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Kernenergiegebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.20220811002"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.20220816002"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -52,12 +52,12 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690001307463245</ga:identificatie>
+               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.20220816003</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Energievoorziening</ga:type>
                <ga:naam>reserveringen voor hoogspanningsverbindingen</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Hoogspanningsverbinding</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.20220811003"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.20220816003"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -65,12 +65,12 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690001453215867</ga:identificatie>
+               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.20220816004</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/ExterneVeiligheid</ga:type>
                <ga:naam>tracés van buisleidingenstroken</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/externeveiligheid/id/concept/BelemmeringengebiedBuisleidingen</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.20220811004"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.20220816004"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>

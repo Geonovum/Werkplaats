@@ -15,8 +15,8 @@
     </geo:context>
     <geo:vastgesteldeVersie>
         <geo:GeoInformatieObjectVersie>
-            <geo:FRBRWork>/join/id/regdata/mnre1045/2022/942220963</geo:FRBRWork>
-            <geo:FRBRExpression>/join/id/regdata/mnre1045/2022/942220963/nld@2022-08-11</geo:FRBRExpression>
+            <geo:FRBRWork>/join/id/regdata/mnre1045/2022/20220816004</geo:FRBRWork>
+            <geo:FRBRExpression>/join/id/regdata/mnre1045/2022/20220816004/nld@2022-08-16</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
                     <geo:naam>Reservering vestigingsplaats kernenergie Eemshaven</geo:naam>

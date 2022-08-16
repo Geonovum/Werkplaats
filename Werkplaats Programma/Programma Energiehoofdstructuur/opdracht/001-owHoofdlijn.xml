@@ -18,7 +18,7 @@
       <sl:dataset>Programma Energiehoofdstructuur </sl:dataset>
       <sl:inhoud>
          <sl:gebied>Nederland</sl:gebied>
-         <sl:leveringsId>PE001_2022-08-11_001</sl:leveringsId>
+         <sl:leveringsId>PE001_2022-08-16_001</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Hoofdlijn</sl:objectType>
          </sl:objectTypen>
@@ -26,7 +26,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Hoofdlijn>
-               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.000000010032143690003832812035</vt:identificatie>
+               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.20220816001</vt:identificatie>
                <vt:soort>Beleidsuitspraak</vt:soort>
                <vt:naam>Bovengrond-tenzij voor 220/380kV</vt:naam>
             </vt:Hoofdlijn>
@@ -35,7 +35,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Hoofdlijn>
-               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.00000001003214369000911741956</vt:identificatie>
+               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.20220816002</vt:identificatie>
                <vt:soort>Beleidsuitspraak</vt:soort>
                <vt:naam>110/150 kV en lager ondergronds, tenzij</vt:naam>
             </vt:Hoofdlijn>
@@ -44,7 +44,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Hoofdlijn>
-               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.000000010032143690001033573713</vt:identificatie>
+               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.20220816003</vt:identificatie>
                <vt:soort>Beleidsuitspraak</vt:soort>
                <vt:naam>Bij voorkeur combineren op één mast </vt:naam>
             </vt:Hoofdlijn>
@@ -53,7 +53,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Hoofdlijn>
-               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.000000010032143690003166899272</vt:identificatie>
+               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.20220816004</vt:identificatie>
                <vt:soort>Beleidsuitspraak</vt:soort>
                <vt:naam>Magneetvelden</vt:naam>
             </vt:Hoofdlijn>
@@ -62,7 +62,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Hoofdlijn>
-               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.00000001003214369000283381478</vt:identificatie>
+               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.20220816005</vt:identificatie>
                <vt:soort>Beleidsuitspraak</vt:soort>
                <vt:naam>Rechtstandsprincipe</vt:naam>
             </vt:Hoofdlijn>
@@ -71,7 +71,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Hoofdlijn>
-               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.00000001003214369000520818234</vt:identificatie>
+               <vt:identificatie>nl.imow-mnre1045.hoofdlijn.20220816006</vt:identificatie>
                <vt:soort>Beleidsuitspraak</vt:soort>
                <vt:naam>Aanleg van AC, tenzij</vt:naam>
             </vt:Hoofdlijn>
