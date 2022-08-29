@@ -72,14 +72,14 @@
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/mnre1045/2022/Instelling_gm0654</doel>
+                  <doel>/join/id/proces/mnre1045/2022/Instelling_gemeente</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_borsele/nld@2022-03-01;1</instrumentVersie>
                <eId>!initieel_gm0654#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/mnre1045/2022/Instelling_gm0678</doel>
+                  <doel>/join/id/proces/mnre1045/2022/Instelling_gemeente</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_kapelle/nld@2022-03-01;1</instrumentVersie>
                <eId>
@@ -87,7 +87,7 @@
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/mnre1045/2022/Instelling_gm0703</doel>
+                  <doel>/join/id/proces/mnre1045/2022/Instelling_gemeente</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/mnre1045/2022/voorbeschermingsregels_gemeente_reimerswaal/nld@2022-03-01;1</instrumentVersie>
                <eId>
