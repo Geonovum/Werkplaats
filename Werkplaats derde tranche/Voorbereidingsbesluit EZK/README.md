@@ -1,4 +1,4 @@
-# Voorbereidingsbesluit hoogspanningsverbinding Zuid-West 380 kV, Borssele-Rilland (EZK)
+# Voorbereidingsbesluit hoogspanningsverbinding Zuid-West 380 kV, Borsele-Rilland (EZK)
 ## 2021-03-03
 - Het besluitgedeelte staat nu in het word-bestand (bewerkt) tussen de titel en de eerste hoofdstukkop. Dit is niet optimaal. Afgesproken is om ook het besluitgedeelte op te nemen in het sjabloon. Hiervoor komt er een opmaakprofiel 'Titel' bij om de titel van besluit en regeling te markeren. De plaats van element 'Conditie' wordt dan ook direct duidelijk, namelijk tussen titel en hoofdstukkop in.
 - De transformatie word2imop heeft wat metadata omtrent document en procedure nodig. Deze heb ik zelf aangevuld, maar misschien is hier nog een check op nodig. Aan documentgegevens hebben we wel overheidsdomein en onderwerpen nodig.
@@ -9,3 +9,5 @@
 - Aan de activiteit hangt geen locatie. Ik neem aan dat die hetzelfde is als de geometrie?
 ## 2022-03-01
 - Ten behoeve van de werkplaats een volledig herziene versie geplaatst.
+## 2022-08-15
+- Nieuwe versie ten behoeve van functionele voorbeeldbestanden.
