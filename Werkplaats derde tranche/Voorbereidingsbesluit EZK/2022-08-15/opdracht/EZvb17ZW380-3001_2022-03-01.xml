@@ -37,9 +37,9 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
          <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Borsele/nld@2022-03-01;1</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Kapelle/nld@2022-03-01;1</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Reimerswaal/nld@2022-03-01;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Borsele/nld@2022-03-01;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Kapelle/nld@2022-03-01;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Reimerswaal/nld@2022-03-01;1</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -83,14 +83,14 @@
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Borsele/nld@2022-03-01;1</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Borsele/nld@2022-03-01;1</instrumentVersie>
                <eId>!initieel_gm0654#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Kapelle/nld@2022-03-01;1</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Kapelle/nld@2022-03-01;1</instrumentVersie>
                <eId>
 !initieel_gm0678#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
@@ -98,7 +98,7 @@
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Reimerswaal/nld@2022-03-01;1</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Reimerswaal/nld@2022-03-01;1</instrumentVersie>
                <eId>
 !initieel_gm0703#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
@@ -143,21 +143,21 @@
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
                </Kop>
-               <Wat>Voor het omgevingsplan van de gemeente Borsele gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_I">bijlage I</IntRef>. </Wat>
+               <Wat>Voor het omgevingsplan van de gemeente Borsele gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_A">bijlage A</IntRef>. </Wat>
             </WijzigArtikel>
             <WijzigArtikel eId="art_III" wId="mnre1045_1__art_III">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>III</Nummer>
                </Kop>
-               <Wat>Voor het omgevingsplan van de gemeente Kapelle gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_II">bijlage II</IntRef>.</Wat>
+               <Wat>Voor het omgevingsplan van de gemeente Kapelle gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_B">bijlage B</IntRef>.</Wat>
             </WijzigArtikel>
             <WijzigArtikel eId="art_IV" wId="mnre1045_1__art_IV">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>IV</Nummer>
                </Kop>
-               <Wat>Voor het omgevingsplan van de gemeente Reimerswaal gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_III">bijlage III</IntRef>.</Wat>
+               <Wat>Voor het omgevingsplan van de gemeente Reimerswaal gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_C">bijlage C</IntRef>.</Wat>
             </WijzigArtikel>
             <Artikel eId="art_V" wId="mnre1045_1__art_V">
                <Kop>
@@ -183,16 +183,16 @@
                <Al>Minister van Infrastructuur en Milieu</Al>
             </Ondertekening>
          </Sluiting>
-         <WijzigBijlage eId="cmp_I" wId="mnre1045_1__cmp_I">
+         <WijzigBijlage eId="cmp_A" wId="mnre1045_1__cmp_A">
             <Kop>
                <Label>Bijlage</Label>
-               <Nummer>I</Nummer>
-               <Opschrift>Voorbereidingsbesluit gemeente Borsele</Opschrift>
+               <Nummer>A</Nummer>
+               <Opschrift>Voorbeschermingsregels uit voorbereidingsbesluit Zuid-West 380 kV Oost - Borsele</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_gm0654"
                                    wordt="/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0654/nld@2022-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
+                  <Al>Voorbeschermingsregels uit voorbereidingsbesluit Zuid-West 380 kV Oost - Borsele</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>
@@ -223,7 +223,7 @@
                               <Lijst eId="chp_1__art_1.1__para_1__list_o_1"
                                      wId="mnre1045_1__chp_1__art_1.1__para_1__list_o_1"
                                      type="expliciet">
-                                 <Lijstaanhef>Ter plaatse van de locatie <IntIoRef eId="chp_1__art_1.1__para_1__list_o_1__ref_o_1" wId="mnre1045_1__chp_1__art_1.1__para_1__list_o_1__ref_o_1" ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Hoogspanningsverbinding 360 kV Oost - Borsele</IntIoRef> is het verboden om zonder omgevingsvergunning de volgende werken, geen bouwwerken zijnde, en werkzaamheden uit te voeren:</Lijstaanhef>
+                                 <Lijstaanhef>Ter plaatse van de locatie <IntIoRef eId="chp_1__art_1.1__para_1__list_o_1__ref_o_1" wId="mnre1045_1__chp_1__art_1.1__para_1__list_o_1__ref_o_1" ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Hoogspanningsverbinding 380 kV Oost - Borsele</IntIoRef> is het verboden om zonder omgevingsvergunning de volgende werken, geen bouwwerken zijnde, en werkzaamheden uit te voeren:</Lijstaanhef>
                                  <Li eId="chp_1__art_1.1__para_1__list_o_1__item_a"
                                      wId="mnre1045_1__chp_1__art_1.1__para_1__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -308,7 +308,7 @@
                               <Lijst eId="chp_1__art_1.2__para_1__list_o_1"
                                      wId="mnre1045_1__chp_1__art_1.2__para_1__list_o_1"
                                      type="expliciet">
-                                 <Lijstaanhef>Ter plaatse van de locatie <IntIoRef eId="chp_1__art_1.2__para_1__list_o_1__ref_o_1" wId="mnre1045_1__chp_1__art_1.2__para_1__list_o_1__ref_o_1" ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Hoogspanningsverbinding 360 kV Oost - Borsele</IntIoRef> is het verboden om zonder of in afwijking van een omgevingsvergunning het bestaande gebruik van gronden en bouwwerken te wijzigen ten behoeve van:</Lijstaanhef>
+                                 <Lijstaanhef>Ter plaatse van de locatie <IntIoRef eId="chp_1__art_1.2__para_1__list_o_1__ref_o_1" wId="mnre1045_1__chp_1__art_1.2__para_1__list_o_1__ref_o_1" ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Hoogspanningsverbinding 380 kV Oost - Borsele</IntIoRef> is het verboden om zonder of in afwijking van een omgevingsvergunning het bestaande gebruik van gronden en bouwwerken te wijzigen ten behoeve van:</Lijstaanhef>
                                  <Li eId="chp_1__art_1.2__para_1__list_o_1__item_a"
                                      wId="mnre1045_1__chp_1__art_1.2__para_1__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -325,7 +325,7 @@
                         <Lid eId="chp_1__art_1.2__para_2" wId="mnre1045_1__chp_1__art_1.2__para_2">
                            <LidNummer>2.</LidNummer>
                            <Inhoud>
-                              <Al>De vergunning, bedoeld in het eerste lid, wordt geweigerd indien het voorgenomen gebruik naar het oordeel van het bevoegd gezag de locatie als bedoeld in het eerste lid, minder geschikt maakt voor de verwezenlijking van deze voorbeschermingsregels en de regels die zullen gelden na wijziging van het omgevingsplan overeenkomstig het voorbereidingsbesluit dat deze voorbeschermingsregels heeft ingesteld.</Al>
+                              <Al>De vergunning, bedoeld in het eerste lid, wordt geweigerd indien het voorgenomen gebruik naar het oordeel van het bevoegd gezag de locatie als bedoeld in het eerste lid, minder geschikt maakt voor de verwezenlijking van deze voorbeschermingsregels en het in voorbereiding zijnde projectbesluit.</Al>
                            </Inhoud>
                         </Lid>
                         <Lid eId="chp_1__art_1.2__para_3" wId="mnre1045_1__chp_1__art_1.2__para_3">
@@ -349,12 +349,12 @@
                                         wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1">
                            <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1"
                                    wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1">
-                              <Term>Hoogspanningsverbinding 360 kV Oost – Borsele</Term>
+                              <Term>Hoogspanningsverbinding 380 kV Oost – Borsele</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Borsele/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Borsele/nld@2022-03-01;1</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Borsele/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Borsele/nld@2022-03-01;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -364,16 +364,16 @@
                </Bijlage>
             </RegelingTijdelijkdeel>
          </WijzigBijlage>
-         <WijzigBijlage eId="cmp_II" wId="mnre1045_1__cmp_II">
+         <WijzigBijlage eId="cmp_B" wId="mnre1045_1__cmp_B">
             <Kop>
                <Label>Bijlage</Label>
-               <Nummer>II</Nummer>
-               <Opschrift>Voorbereidingsbesluit gemeente Kapelle</Opschrift>
+               <Nummer>B</Nummer>
+               <Opschrift>Voorbeschermingsregels uit voorbereidingsbesluit Zuid-West 380 kV Oost - Kapelle</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_gm0678"
                                    wordt="/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0678/nld@2022-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
+                  <Al>Voorbeschermingsregels uit voorbereidingsbesluit Zuid-West 380 kV Oost - Kapelle</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>
@@ -404,7 +404,7 @@
                               <Lijst eId="chp_1__art_1.1__para_1__list_o_1"
                                      wId="mnre1045_1__chp_1__art_1.1__para_1__list_o_1"
                                      type="expliciet">
-                                 <Lijstaanhef>Ter plaatse van de locatie <IntIoRef eId="chp_1__art_1.1__para_1__list_o_1__ref_o_1" wId="mnre1045_1__chp_1__art_1.1__para_1__list_o_1__ref_o_1" ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Hoogspanningsverbinding 360 kV Oost - Kapelle</IntIoRef> is het verboden om zonder omgevingsvergunning de volgende werken, geen bouwwerken zijnde, en werkzaamheden uit te voeren:</Lijstaanhef>
+                                 <Lijstaanhef>Ter plaatse van de locatie <IntIoRef eId="chp_1__art_1.1__para_1__list_o_1__ref_o_1" wId="mnre1045_1__chp_1__art_1.1__para_1__list_o_1__ref_o_1" ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Hoogspanningsverbinding 380 kV Oost - Kapelle</IntIoRef> is het verboden om zonder omgevingsvergunning de volgende werken, geen bouwwerken zijnde, en werkzaamheden uit te voeren:</Lijstaanhef>
                                  <Li eId="chp_1__art_1.1__para_1__list_o_1__item_a"
                                      wId="mnre1045_1__chp_1__art_1.1__para_1__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -488,7 +488,7 @@
                               <Lijst eId="chp_1__art_1.2__para_1__list_o_1"
                                      wId="mnre1045_1__chp_1__art_1.2__para_1__list_o_1"
                                      type="expliciet">
-                                 <Lijstaanhef>Ter plaatse van de locatie <IntIoRef eId="chp_1__art_1.2__para_1__list_o_1__ref_o_1" wId="mnre1045_1__chp_1__art_1.2__para_1__list_o_1__ref_o_1" ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Hoogspanningsverbinding 360 kV Oost - Kapelle</IntIoRef> is het verboden om zonder of in afwijking van een omgevingsvergunning het bestaande gebruik van gronden en bouwwerken te wijzigen ten behoeve van:</Lijstaanhef>
+                                 <Lijstaanhef>Ter plaatse van de locatie <IntIoRef eId="chp_1__art_1.2__para_1__list_o_1__ref_o_1" wId="mnre1045_1__chp_1__art_1.2__para_1__list_o_1__ref_o_1" ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Hoogspanningsverbinding 380 kV Oost - Kapelle</IntIoRef> is het verboden om zonder of in afwijking van een omgevingsvergunning het bestaande gebruik van gronden en bouwwerken te wijzigen ten behoeve van:</Lijstaanhef>
                                  <Li eId="chp_1__art_1.2__para_1__list_o_1__item_a"
                                      wId="mnre1045_1__chp_1__art_1.2__para_1__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -505,7 +505,7 @@
                         <Lid eId="chp_1__art_1.2__para_2" wId="mnre1045_1__chp_1__art_1.2__para_2">
                            <LidNummer>2.</LidNummer>
                            <Inhoud>
-                              <Al>De vergunning, bedoeld in het eerste lid, wordt geweigerd indien het voorgenomen gebruik naar het oordeel van het bevoegd gezag de locatie als bedoeld in het eerste lid, minder geschikt maakt voor de verwezenlijking van deze voorbeschermingsregels en de regels die zullen gelden na wijziging van het omgevingsplan overeenkomstig het voorbereidingsbesluit dat deze voorbeschermingsregels heeft ingesteld.</Al>
+                              <Al>De vergunning, bedoeld in het eerste lid, wordt geweigerd indien het voorgenomen gebruik naar het oordeel van het bevoegd gezag de locatie als bedoeld in het eerste lid, minder geschikt maakt voor de verwezenlijking van deze voorbeschermingsregels en het in voorbereiding zijnde projectbesluit.</Al>
                            </Inhoud>
                         </Lid>
                         <Lid eId="chp_1__art_1.2__para_3" wId="mnre1045_1__chp_1__art_1.2__para_3">
@@ -529,12 +529,12 @@
                                         wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1">
                            <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1"
                                    wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1">
-                              <Term>Hoogspanningsverbinding 360 kV Oost – Kapelle</Term>
+                              <Term>Hoogspanningsverbinding 380 kV Oost – Kapelle</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Kapelle/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Kapelle/nld@2022-03-01;1</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Kapelle/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Kapelle/nld@2022-03-01;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -544,16 +544,16 @@
                </Bijlage>
             </RegelingTijdelijkdeel>
          </WijzigBijlage>
-         <WijzigBijlage eId="cmp_III" wId="mnre1045_1__cmp_III">
+         <WijzigBijlage eId="cmp_C" wId="mnre1045_1__cmp_C">
             <Kop>
                <Label>Bijlage</Label>
-               <Nummer>III</Nummer>
-               <Opschrift>Voorbereidingsbesluit gemeente Reimerswaal</Opschrift>
+               <Nummer>C</Nummer>
+               <Opschrift>Voorbeschermingsregels uit voorbereidingsbesluit Zuid-West 380 kV Oost - Reimerswaal</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="initieel_gm0703"
                                    wordt="/akn/nl/act/mnre1045/2022/EZvb17ZW380-3001-gm0703/nld@2022-03-01;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Voorbereidingsbesluit Zuid-West 380 kV Oost (Rilland-Tilburg)</Al>
+                  <Al>Voorbeschermingsregels uit voorbereidingsbesluit Zuid-West 380 kV Oost - Reimerswaal</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>
@@ -584,7 +584,7 @@
                               <Lijst eId="chp_1__art_1.1__para_1__list_o_1"
                                      wId="mnre1045_1__chp_1__art_1.1__para_1__list_o_1"
                                      type="expliciet">
-                                 <Lijstaanhef>Ter plaatse van de locatie <IntIoRef eId="chp_1__art_1.1__para_1__list_o_1__ref_o_1" wId="mnre1045_1__chp_1__art_1.1__para_1__list_o_1__ref_o_1" ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Hoogspanningsverbinding 360 kV Oost - Reimerswaal</IntIoRef> is het verboden om zonder omgevingsvergunning de volgende werken, geen bouwwerken zijnde, en werkzaamheden uit te voeren:</Lijstaanhef>
+                                 <Lijstaanhef>Ter plaatse van de locatie <IntIoRef eId="chp_1__art_1.1__para_1__list_o_1__ref_o_1" wId="mnre1045_1__chp_1__art_1.1__para_1__list_o_1__ref_o_1" ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Hoogspanningsverbinding 380 kV Oost - Reimerswaal</IntIoRef> is het verboden om zonder omgevingsvergunning de volgende werken, geen bouwwerken zijnde, en werkzaamheden uit te voeren:</Lijstaanhef>
                                  <Li eId="chp_1__art_1.1__para_1__list_o_1__item_a"
                                      wId="mnre1045_1__chp_1__art_1.1__para_1__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -668,7 +668,7 @@
                               <Lijst eId="chp_1__art_1.2__para_1__list_o_1"
                                      wId="mnre1045_1__chp_1__art_1.2__para_1__list_o_1"
                                      type="expliciet">
-                                 <Lijstaanhef>Ter plaatse van de locatie <IntIoRef eId="chp_1__art_1.2__para_1__list_o_1__ref_o_1" wId="mnre1045_1__chp_1__art_1.2__para_1__list_o_1__ref_o_1" ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Hoogspanningsverbinding 360 kV Oost - Reimerswaal</IntIoRef> is het verboden om zonder of in afwijking van een omgevingsvergunning het bestaande gebruik van gronden en bouwwerken te wijzigen ten behoeve van:</Lijstaanhef>
+                                 <Lijstaanhef>Ter plaatse van de locatie <IntIoRef eId="chp_1__art_1.2__para_1__list_o_1__ref_o_1" wId="mnre1045_1__chp_1__art_1.2__para_1__list_o_1__ref_o_1" ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Hoogspanningsverbinding 380 kV Oost - Reimerswaal</IntIoRef> is het verboden om zonder of in afwijking van een omgevingsvergunning het bestaande gebruik van gronden en bouwwerken te wijzigen ten behoeve van:</Lijstaanhef>
                                  <Li eId="chp_1__art_1.2__para_1__list_o_1__item_a"
                                      wId="mnre1045_1__chp_1__art_1.2__para_1__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -685,7 +685,7 @@
                         <Lid eId="chp_1__art_1.2__para_2" wId="mnre1045_1__chp_1__art_1.2__para_2">
                            <LidNummer>2.</LidNummer>
                            <Inhoud>
-                              <Al>De vergunning, bedoeld in het eerste lid, wordt geweigerd indien het voorgenomen gebruik naar het oordeel van het bevoegd gezag de locatie als bedoeld in het eerste lid, minder geschikt maakt voor de verwezenlijking van deze voorbeschermingsregels en de regels die zullen gelden na wijziging van het omgevingsplan overeenkomstig het voorbereidingsbesluit dat deze voorbeschermingsregels heeft ingesteld.</Al>
+                              <Al>De vergunning, bedoeld in het eerste lid, wordt geweigerd indien het voorgenomen gebruik naar het oordeel van het bevoegd gezag de locatie als bedoeld in het eerste lid, minder geschikt maakt voor de verwezenlijking van deze voorbeschermingsregels en het in voorbereiding zijnde projectbesluit.</Al>
                            </Inhoud>
                         </Lid>
                         <Lid eId="chp_1__art_1.2__para_3" wId="mnre1045_1__chp_1__art_1.2__para_3">
@@ -709,12 +709,12 @@
                                         wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1">
                            <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1"
                                    wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1">
-                              <Term>Hoogspanningsverbinding 360 kV Oost – Reimerswaal</Term>
+                              <Term>Hoogspanningsverbinding 380 kV Oost – Reimerswaal</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Reimerswaal/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Reimerswaal/nld@2022-03-01;1</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Reimerswaal/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Reimerswaal/nld@2022-03-01;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>

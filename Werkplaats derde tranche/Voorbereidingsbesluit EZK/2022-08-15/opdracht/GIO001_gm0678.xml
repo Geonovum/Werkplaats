@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Kapelle</FRBRWork>
-         <FRBRExpression>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Kapelle/nld@2022-03-01;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Kapelle</FRBRWork>
+         <FRBRExpression>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Kapelle/nld@2022-03-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>gm0678_besluitgebied.gml</bestandsnaam>
-                  <hash>a6daf7e3759fdfa453660cdb3bc53d9b62a9d00a646193c8f9ed6f8d7c674c2fae5a7cbea8ec0e3b74a4dd65b72be2fcf21da6e679dbd70d8ecd82ecebff94d1</hash>
+                  <hash>98e162f753fd1e9c591c44b213121b6265a26db015e0e0fdfe0fd742dad751af6e3b9d67ca019980e85f9e5dcb5546e5015b897223430747cbc725a418641c4e</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel>Voorbeschermingsregels gemeente Kapelle</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Kapelle</officieleTitel>
+         <officieleTitel>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Kapelle</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <naamInformatieObject>Voorbeschermingsregels gemeente Kapelle</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>

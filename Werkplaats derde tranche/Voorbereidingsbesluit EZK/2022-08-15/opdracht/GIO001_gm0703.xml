@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Reimerswaal</FRBRWork>
-         <FRBRExpression>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Reimerswaal/nld@2022-03-01;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Reimerswaal</FRBRWork>
+         <FRBRExpression>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Reimerswaal/nld@2022-03-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>gm0703_besluitgebied.gml</bestandsnaam>
-                  <hash>49ab08c9ad05af871d19670340e1ae70cb98cb5e6e3ce43d9450b1478ea089ad882be0ded710c526970346bb1a84f59b8da862737f5d39d8d2cf8d071f5ed44e</hash>
+                  <hash>86467a1546bf358890bcbe58593c89730a9358f3162171d88ae184cefa6818ebc08fa22cc2bcbabb7c657c7fad1916292b016924ccf98cbe2b5e73c5f62529d8</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel>Voorbeschermingsregels gemeente Reimerswaal</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_360_kV_Oost_–_Reimerswaal</officieleTitel>
+         <officieleTitel>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Reimerswaal</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <naamInformatieObject>Voorbeschermingsregels gemeente Reimerswaal</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
