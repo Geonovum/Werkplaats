@@ -81,7 +81,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="mnre1045_1__chp_1__art_1.2__para_1">
+            <r:Regeltekst wId="mnre1045_1__chp_1__art_1.1__para_2">
                <r:identificatie>nl.imow-mnre1045.regeltekst.065420220301000003</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -97,6 +97,69 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.065420220301000001"/>
                </r:locatieaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="mnre1045_1__chp_1__art_1.1__para_3">
+               <r:identificatie>nl.imow-mnre1045.regeltekst.065420220301000004</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-mnre1045.juridischeregel.065420220301000004</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-mnre1045.regeltekst.065420220301000004"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.065420220301000001"/>
+               </r:locatieaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="mnre1045_1__chp_1__art_1.1__para_4">
+               <r:identificatie>nl.imow-mnre1045.regeltekst.065420220301000005</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-mnre1045.juridischeregel.065420220301000005</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-mnre1045.regeltekst.065420220301000005"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.065420220301000001"/>
+               </r:locatieaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="mnre1045_1__chp_1__art_1.2__para_1">
+               <r:identificatie>nl.imow-mnre1045.regeltekst.065420220301000006</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-mnre1045.juridischeregel.065420220301000006</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-mnre1045.regeltekst.065420220301000006"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.065420220301000001"/>
+               </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.06543058972279"/>
                   <r:ActiviteitLocatieaanduiding>
@@ -107,6 +170,48 @@
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="mnre1045_1__chp_1__art_1.2__para_2">
+               <r:identificatie>nl.imow-mnre1045.regeltekst.065420220301000007</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-mnre1045.juridischeregel.065420220301000007</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-mnre1045.regeltekst.065420220301000007"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.065420220301000001"/>
+               </r:locatieaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="mnre1045_1__chp_1__art_1.2__para_3">
+               <r:identificatie>nl.imow-mnre1045.regeltekst.065420220301000008</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-mnre1045.juridischeregel.065420220301000008</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-mnre1045.regeltekst.065420220301000008"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.065420220301000001"/>
+               </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
