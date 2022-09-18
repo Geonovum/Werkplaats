@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:r="http://www.geostandaarden.nl/imow/regels" xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst" xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" xmlns:p="http://www.geostandaarden.nl/imow/pons" xmlns:l="http://www.geostandaarden.nl/imow/locatie" xmlns:k="http://www.geostandaarden.nl/imow/kaart" xmlns:op="http://www.geostandaarden.nl/imow/opobject" xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek" xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen" xmlns:ow="http://www.geostandaarden.nl/imow/owobject" xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied" xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand" xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand                     https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+	<sl:standBestand>
+		<sl:dataset>gemeente Breda</sl:dataset>
+		<sl:inhoud>
+			<sl:gebied>gemeente Breda</sl:gebied>
+			<sl:leveringsId>00000000-0000-0000-0000-000000000000</sl:leveringsId>
+			<sl:objectTypen>
+				<sl:objectType>Ambtsgebied</sl:objectType>
+				<sl:objectType>Gebied</sl:objectType>
+				<sl:objectType>Gebiedengroep</sl:objectType>
+			</sl:objectTypen>
+		</sl:inhoud>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-gm0758.gebiedengroep.004000000000000000000084</l:identificatie>
+					<l:noemer>Eureka terras</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000084e17673"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-gm0758.gebiedengroep.004000000000000000000070</l:identificatie>
+					<l:noemer>Woongebied Eureka</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000070e13488"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-gm0758.gebiedengroep.004000000000000000000083</l:identificatie>
+					<l:noemer>Eureka zone gevelafstand 2</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000083e17672"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-gm0758.gebiedengroep.004000000000000000000068</l:identificatie>
+					<l:noemer>Eureka geluidsaandachtsgebied gemeentewegen</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000068e13486"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-gm0758.gebiedengroep.004000000000000000000081</l:identificatie>
+					<l:noemer>Eureka verblijf</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000081e17666"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-gm0758.gebiedengroep.004000000000000000000060</l:identificatie>
+					<l:noemer>Eureka geluidsaandachtsgebied spoorwegen</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000060e13096"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-gm0758.gebiedengroep.004000000000000000000089</l:identificatie>
+					<l:noemer>Eureka zone gevelafstand 1</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000089e17684"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-gm0758.gebiedengroep.004000000000000000000063</l:identificatie>
+					<l:noemer>Eureka aantoonbaar te verwachten archeologische monumenten</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000063e13101"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-gm0758.gebiedengroep.004000000000000000000082</l:identificatie>
+					<l:noemer>Eureka wonen</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000082e17671"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000082e17670"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000082e17669"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000082e17668"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000082e17667"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-gm0758.gebiedengroep.004000000000000000000076</l:identificatie>
+					<l:noemer>Eureka zone gevelafstand 3</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000076e15656"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-gm0758.gebiedengroep.004000000000000000000069</l:identificatie>
+					<l:noemer>Eureka de plint</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000069e13487"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-gm0758.gebiedengroep.004000000000000000000085</l:identificatie>
+					<l:noemer>Eureka groen</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000085e17674"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-gm0758.gebiedengroep.004000000000000000000071</l:identificatie>
+					<l:noemer>Eureka maximum bouwhoogte (m)</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000071e13502"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000071e13501"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000071e13500"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000071e13499"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000071e13497"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000071e13496"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000071e13495"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000071e13494"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000071e13493"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000071e13492"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000071e13491"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000071e13490"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000071e13489"/>
+						<l:GebiedRef xlink:href="nl.imow-gm0758.gebied.004000000000000000000071e13498"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000084e17673</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="33655812-f338-4e80-ad12-0148c2488bce"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000070e13488</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="a6f774b5-8a4b-46fd-8d7c-3ced13d8eb78"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000083e17672</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="d06de956-f1de-4117-bd39-cba83cc4fa8d"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000068e13486</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="1a4df671-3c1b-4250-a4b1-5d9c6a93f67f"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000081e17666</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="c4376d1e-791d-44dd-bab1-401718a85f10"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000060e13096</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="986fe9e9-c254-481b-9743-a3dc792ddabd"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000089e17684</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="62c9e19b-b692-47f2-99cc-ed7be1a26b82"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000063e13101</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="d5c38dda-009a-4473-a96c-e1479b79ba21"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000082e17671</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="593c5930-6612-48ae-8073-1403ca4f4330"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000082e17670</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="ca503f41-c568-4b13-991d-9c945cab7abd"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000082e17669</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="261df448-2bb8-4a39-93cd-50ea249627e9"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000082e17668</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="422f1544-1fb2-41bd-91a0-55e01cbd65c4"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000082e17667</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="7a25a50c-b8f8-4199-8f51-406915650804"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000076e15656</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="48e1039c-330c-4231-93c9-c12892bc19ab"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000069e13487</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="4309e3c0-0d11-4759-ba31-239ff90a4888"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000085e17674</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="84435443-a8a2-40c4-a28c-6e61ae0a9593"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000071e13502</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="08fc5b42-425b-40dc-9f94-65e8b3bf6850"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000071e13501</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="29327ae0-fbce-41bf-bb84-3f57f509617e"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000071e13500</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="88168290-1094-45fd-bbf9-c2d8b826efe3"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000071e13499</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="2f3e4bfe-203c-4e29-be00-8739531c0aa5"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000071e13497</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="72b5028c-8739-493f-812e-d20d2ccc406d"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000071e13496</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="3a247162-6b94-49dd-93aa-ac806a2f6d47"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000071e13495</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="45cbbfd0-0230-4d81-81e9-562bbfe0b4e4"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000071e13494</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="9bc9d294-50de-4452-86ec-0fd9fd6dc82f"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000071e13493</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="a6c6bf8a-42d8-4f80-8062-6b3b1d6e33bb"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000071e13492</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="372722da-04d6-40ab-a5b9-b0f600311c7b"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000071e13491</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="d2999be1-4d2c-4201-b46a-7f443d119038"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000071e13490</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="74eb4658-58e7-424f-8604-9bcf55ea56dc"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000071e13489</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="d5f12815-a454-48ce-91c7-850ae7d876ff"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-gm0758.gebied.004000000000000000000071e13498</l:identificatie>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="92e813dc-cef6-424c-ac90-d1efde792a0e"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Ambtsgebied>
+					<l:identificatie>nl.imow-gm0758.ambtsgebied.004000000000000000000758</l:identificatie>
+					<l:noemer>gemeente Breda</l:noemer>
+					<l:bestuurlijkeGrenzenVerwijzing>
+						<l:BestuurlijkeGrenzenVerwijzing>
+							<l:bestuurlijkeGrenzenID>GM0758</l:bestuurlijkeGrenzenID>
+							<l:domein>NL.BI.BestuurlijkGebied</l:domein>
+							<l:geldigOp>2022-08-16</l:geldigOp>
+						</l:BestuurlijkeGrenzenVerwijzing>
+					</l:bestuurlijkeGrenzenVerwijzing>
+				</l:Ambtsgebied>
+			</ow-dc:owObject>
+		</sl:stand>
+	</sl:standBestand>
+</ow-dc:owBestand>

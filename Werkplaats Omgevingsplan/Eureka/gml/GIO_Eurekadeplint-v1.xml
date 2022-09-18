@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+	<InformatieObjectVersie>
+		<ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.3.0">
+			<FRBRWork>/join/id/regdata/gm0758/2022/21gio69</FRBRWork>
+			<FRBRExpression>/join/id/regdata/gm0758/2022/21gio69/nld@2022-08-16;1</FRBRExpression>
+			<soortWork>/join/id/stop/work_010</soortWork>
+		</ExpressionIdentificatie>
+		<InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.3.0">
+			<heeftGeboorteregeling>/akn/nl/act/gm0758/2022/omgevingsplan_pre</heeftGeboorteregeling>
+			<heeftBestanden>
+				<heeftBestand>
+					<Bestand>
+						<bestandsnaam>gml_Eurekadeplint-v1.gml</bestandsnaam>
+						<hash>441d71d93cbc59e4533f1cbb57b6750a16320a813101cfa67e5b52e6141003a3b6e120aa118f4269db8c22f3ca8cdb427402169a4b278ea6b5e0f316d7fb7187</hash>
+					</Bestand>
+				</heeftBestand>
+			</heeftBestanden>
+		</InformatieObjectVersieMetadata>
+		<InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.3.0">
+			<eindverantwoordelijke>/tooi/id/gemeente/gm0758</eindverantwoordelijke>
+			<maker>/tooi/id/gemeente/gm0758</maker>
+			<naamInformatieObject>eurekadeplint</naamInformatieObject>
+			<officieleTitel>/join/id/regdata/gm0758/2022/21gio69</officieleTitel>
+			<publicatieinstructie>TeConsolideren</publicatieinstructie>
+			<formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+		</InformatieObjectMetadata>
+	</InformatieObjectVersie>
+</AanleveringInformatieObject>

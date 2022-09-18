@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+	<InformatieObjectVersie>
+		<ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.3.0">
+			<FRBRWork>/join/id/regdata/gm0758/2022/21gio81</FRBRWork>
+			<FRBRExpression>/join/id/regdata/gm0758/2022/21gio81/nld@2022-08-16;1</FRBRExpression>
+			<soortWork>/join/id/stop/work_010</soortWork>
+		</ExpressionIdentificatie>
+		<InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.3.0">
+			<heeftGeboorteregeling>/akn/nl/act/gm0758/2022/omgevingsplan_pre</heeftGeboorteregeling>
+			<heeftBestanden>
+				<heeftBestand>
+					<Bestand>
+						<bestandsnaam>gml_Eurekaverblijf-v1.gml</bestandsnaam>
+						<hash>47c29eb0a58f1b7176e6829c902587c8bfc7ecf06e151c99cec04b379a4cbc1f2d8e850e21c2a4c9cb4f34c9c42c681c50ceeceb7157a319162d9ca1e3df1e12</hash>
+					</Bestand>
+				</heeftBestand>
+			</heeftBestanden>
+		</InformatieObjectVersieMetadata>
+		<InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.3.0">
+			<eindverantwoordelijke>/tooi/id/gemeente/gm0758</eindverantwoordelijke>
+			<maker>/tooi/id/gemeente/gm0758</maker>
+			<naamInformatieObject>eurekaverblijf</naamInformatieObject>
+			<officieleTitel>/join/id/regdata/gm0758/2022/21gio81</officieleTitel>
+			<publicatieinstructie>TeConsolideren</publicatieinstructie>
+			<formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+		</InformatieObjectMetadata>
+	</InformatieObjectVersie>
+</AanleveringInformatieObject>

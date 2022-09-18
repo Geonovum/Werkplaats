@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+	<InformatieObjectVersie>
+		<ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.3.0">
+			<FRBRWork>/join/id/regdata/gm0758/2022/21gio63</FRBRWork>
+			<FRBRExpression>/join/id/regdata/gm0758/2022/21gio63/nld@2022-08-16;1</FRBRExpression>
+			<soortWork>/join/id/stop/work_010</soortWork>
+		</ExpressionIdentificatie>
+		<InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.3.0">
+			<heeftGeboorteregeling>/akn/nl/act/gm0758/2022/omgevingsplan_pre</heeftGeboorteregeling>
+			<heeftBestanden>
+				<heeftBestand>
+					<Bestand>
+						<bestandsnaam>gml_Eurekaaantoonbaarteverwachtenarcheologischemonumenten-v1.gml</bestandsnaam>
+						<hash>0a9ced5090abcc2dbbe118cdec04fc529f728102ed2b6f417e061bd167704c54371dd63fd5281764e27738240fac145303d54a9ad4918f83fdd05b9adb9acfad</hash>
+					</Bestand>
+				</heeftBestand>
+			</heeftBestanden>
+		</InformatieObjectVersieMetadata>
+		<InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.3.0">
+			<eindverantwoordelijke>/tooi/id/gemeente/gm0758</eindverantwoordelijke>
+			<maker>/tooi/id/gemeente/gm0758</maker>
+			<naamInformatieObject>eurekaaantoonbaarteverwachtenarcheologischemonumenten</naamInformatieObject>
+			<officieleTitel>/join/id/regdata/gm0758/2022/21gio63</officieleTitel>
+			<publicatieinstructie>TeConsolideren</publicatieinstructie>
+			<formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+		</InformatieObjectMetadata>
+	</InformatieObjectVersie>
+</AanleveringInformatieObject>
