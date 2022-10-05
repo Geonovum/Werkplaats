@@ -28,7 +28,7 @@
             <ga:Gebiedsaanwijzing>
                <ga:identificatie>nl.imow-gm0599.gebiedsaanwijzing.000000010018763870003103802160</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
-               <ga:naam>geen</ga:naam>
+               <ga:naam>Woongebied-Transformatie</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Transformatiegebied</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm0599.gebiedengroep.000000010018763870001021646139"/>
@@ -41,7 +41,7 @@
             <ga:Gebiedsaanwijzing>
                <ga:identificatie>nl.imow-gm0599.gebiedsaanwijzing.000000010018763870001977302106</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Bouw</ga:type>
-               <ga:naam>geen</ga:naam>
+               <ga:naam>Bouwvlak</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/bouw/id/concept/Bouwvlak</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm0599.gebiedengroep.000000010018763870001547110529"/>
