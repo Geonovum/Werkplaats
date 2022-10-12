@@ -14,8 +14,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Kapelle</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Kapelle/nld@2022-03-01;1</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_Kapelle</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_Kapelle/nld@2022-03-01;1</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:naam>Voorbeschermingsregels gemeente Kapelle</geo:naam>

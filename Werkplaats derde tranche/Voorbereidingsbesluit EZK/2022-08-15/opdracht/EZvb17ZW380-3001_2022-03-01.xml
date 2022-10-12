@@ -37,9 +37,9 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
          <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Borsele/nld@2022-03-01;1</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Kapelle/nld@2022-03-01;1</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Reimerswaal/nld@2022-03-01;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_Borsele/nld@2022-03-01;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_Kapelle/nld@2022-03-01;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_Reimerswaal/nld@2022-03-01;1</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -83,21 +83,21 @@
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Borsele/nld@2022-03-01;1</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_Borsele/nld@2022-03-01;1</instrumentVersie>
                <eId>!initieel_gm0654#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Kapelle/nld@2022-03-01;1</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_Kapelle/nld@2022-03-01;1</instrumentVersie>
                <eId>!initieel_gm0678#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/Instelling_gemeente</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Reimerswaal/nld@2022-03-01;1</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_Reimerswaal/nld@2022-03-01;1</instrumentVersie>
                <eId>!initieel_gm0703#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
@@ -352,7 +352,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Borsele/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Borsele/nld@2022-03-01;1</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_Borsele/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_Borsele/nld@2022-03-01;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -532,7 +532,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Kapelle/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Kapelle/nld@2022-03-01;1</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_Kapelle/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_Kapelle/nld@2022-03-01;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -712,7 +712,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Reimerswaal/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_–_Reimerswaal/nld@2022-03-01;1</ExtIoRef>
+                                              ref="/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_Reimerswaal/nld@2022-03-01;1">/join/id/regdata/mnre1045/2022/Hoogspanningsverbinding_380_kV_Oost_Reimerswaal/nld@2022-03-01;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -722,18 +722,18 @@
                </Bijlage>
             </RegelingTijdelijkdeel>
          </WijzigBijlage>
-         <Bijlage xmlns:dso="https://www.dso.nl/"
-                  eId="cmp_1"
-                  wId="mnre1045_1__cmp_1"
-                  dso:niveau="1">
+         <Motivering xmlns:dso="https://www.dso.nl/"
+            eId="acc_1"
+            wId="acc_1"
+            dso:niveau="1">
             <Kop>
                <Label>Deel</Label>
                <Nummer>1</Nummer>
                <Opschrift>Motivering</Opschrift>
             </Kop>
-            <Divisietekst eId="cmp_1__content_1"
-                          wId="mnre1045_1__cmp_1__content_1"
-                          dso:niveau="2">
+            <Divisietekst eId="acc__content_1"
+               wId="mnre1045_1__acc__content_1"
+               dso:niveau="2">
                <Kop>
                   <Nummer>1</Nummer>
                   <Opschrift>Inleiding</Opschrift>
@@ -742,9 +742,9 @@
                   <Al>Om in de toekomst voldoende capaciteit te hebben voor elektriciteitstransport moet tussen Borssele en Tilburg een nieuwe 380 kilovolt hoogspanningsverbinding worden aangelegd. In de Startnotitie voor de milieueffectrapportage "Zuid-West 380 kV verbinding Borssele - de landelijke ring" is onderzocht binnen welk gebied de verbinding kan worden aangelegd. Het besluit over het tracé van de verbinding wordt genomen door de minister van Economische Zaken (EZ) en de minister van Infrastructuur en Milieu (IenM). Dit volgt uit artikel 20a van de Elektriciteitswet 1998, waarin is bepaald dat bij die besluitvorming de rijkscoördinatieregeling (artikel 3.35 van de Wet ruimtelijke ordening) wordt toegepast. Het besluit over het tracé wordt door de ministers (het bevoegd gezag) neergelegd in twee inpassingsplannen (Zuid-West 380 kV west en Zuid-West 380 kV oost) als bedoeld in artikel 3.28 van de Wet ruimtelijke ordening. Op grond van artikel 3.35, tweede lid, gelezen in samenhang met artikel 3.28, tweede lid, van de Wet ruimtelijke ordening (Wro) zijn de beide ministers ook bevoegd gezamenlijk een voorbereidingsbesluit te nemen. In een voorbereidingsbesluit verklaren de ministers dat voor een bepaald gebied een inpassingsplan wordt voorbereid. Doel van het voorbereidingsbesluit is dat gebied te vrijwaren van andere ontwikkelingen die aan realisatie van het inpassingsplan in de weg kunnen staan.</Al>
                </Inhoud>
             </Divisietekst>
-            <Divisietekst eId="cmp_1__content_2"
-                          wId="mnre1045_1__cmp_1__content_2"
-                          dso:niveau="2">
+            <Divisietekst eId="acc__content_2"
+               wId="mnre1045_1__acc__content_2"
+               dso:niveau="2">
                <Kop>
                   <Nummer>2</Nummer>
                   <Opschrift>Het gebied</Opschrift>
@@ -758,32 +758,32 @@
                   <Al>Een complete motivering van het uiteindelijke definitieve tracé is door het bevoegd gezag neergelegd in de toelichting bij het ontwerp-inpassingsplan Zuid­ West 380 kV west. Het ontwerp-inpassingsplan heeft van 4 maart tot en met 14 april 2016 ter inzage gelegen. Een ieder heeft op alle aspecten van het tracé en de gemaakte keuzes zijn zienswijze kunnen indienen. Mede gezien de aard en hoeveelheid van de ingediende zienswijzen is het niet mogelijk gebleken binnen 12 weken een definitief inpassingsplan ter inzage te leggen. Daarmee is ook de beschermende werking vervallen. Eind 2016 zal het definitieve inpassingsplan ter inzage worden gelegd. Het is dan ook onwenselijk als in de zone ten behoeve van de nieuwe hoogspanningsverbinding ontwikkelingen plaats vinden die hiervoor een beperking of belemmering betekenen. Daarom wordt voor de periode tot de terinzagelegging van het definitieve inpassingsplan alsnog een nieuw voorbereidingsbesluit genomen. Ook nu dient de zone in dit voorbereidingsbesluit als reservering en worden, vooruitlopend op het definitieve inpassingsplan, hiermee geen onomkeerbare beslissingen over het tracé genomen.</Al>
                </Inhoud>
             </Divisietekst>
-            <Divisietekst eId="cmp_1__content_3"
-                          wId="mnre1045_1__cmp_1__content_3"
-                          dso:niveau="2">
+            <Divisietekst eId="acc__content_3"
+               wId="mnre1045_1__acc__content_3"
+               dso:niveau="2">
                <Kop>
                   <Nummer>3</Nummer>
                   <Opschrift>De zone</Opschrift>
                </Kop>
                <Inhoud>
                   <Al>Het plangebied van het voorbereidingsbesluit omvat het plangebied van het vast te stellen inpassingsplan en bestaat uit een aantal zones met verschillende breedtes.</Al>
-                  <Lijst eId="cmp_1__content_3__list_o_1"
-                         wId="mnre1045_1__cmp_1__content_3__list_o_1"
-                         type="expliciet">
+                  <Lijst eId="acc__content_3__list_o_1"
+                     wId="mnre1045_1__acc__content_3__list_o_1"
+                     type="expliciet">
                      <Lijstaanhef>Standaard:</Lijstaanhef>
-                     <Li eId="cmp_1__content_3__list_o_1__item_o_1"
-                         wId="mnre1045_1__cmp_1__content_3__list_o_1__item_o_1">
-                        <LiNummer></LiNummer>
+                     <Li eId="acc__content_3__list_o_1__item_o_1"
+                        wId="mnre1045_1__acc__content_3__list_o_1__item_o_1">
+                        <LiNummer>•</LiNummer>
                         <Al>69 meter voor het gedeelte tussen Borsele en station Willem-Annapolder (34,5 m aan weerszijden van het hart van de verbinding);</Al>
                      </Li>
-                     <Li eId="cmp_1__content_3__list_o_1__item_o_2"
-                         wId="mnre1045_1__cmp_1__content_3__list_o_1__item_o_2">
-                        <LiNummer></LiNummer>
+                     <Li eId="acc__content_3__list_o_1__item_o_2"
+                        wId="mnre1045_1__acc__content_3__list_o_1__item_o_2">
+                        <LiNummer>•</LiNummer>
                         <Al>63 meter voor het gedeelte tussen station Willem-Annapolder en station Rilland (31,5 m aan weerszijden van het hart van de verbinding);</Al>
                      </Li>
-                     <Li eId="cmp_1__content_3__list_o_1__item_o_3"
-                         wId="mnre1045_1__cmp_1__content_3__list_o_1__item_o_3">
-                        <LiNummer></LiNummer>
+                     <Li eId="acc__content_3__list_o_1__item_o_3"
+                        wId="mnre1045_1__acc__content_3__list_o_1__item_o_3">
+                        <LiNummer>•</LiNummer>
                         <Al>17 meter ter plaatse van ondergrondse 150 kV-verbindingen (2 x 8,5 m).</Al>
                      </Li>
                   </Lijst>
@@ -793,50 +793,50 @@
                   <Al>Tenslotte omvat het plangebied ook nog enkele losse 'vlekken' met een doorsnede van enkele tientallen meters (maximaal ca. 35m bij 100 m) naast de strook van de beoogde nieuwe hoogspanningsverbinding. Het gaat hier om 6 niet gerealiseerde mogelijke 'gevoelige bestemmingen'. Op deze wijze wordt voorkomen dat er voorafgaand aan de vaststelling van het inpassingsplan extra gevoelige bestemmingen kunnen ontstaan in de voorziene magneetveldzone. Deze gevallen waren in het ontwerp-inpassingsplan zoals dat recent ter inzage heeft gelegen opgenomen op de bij het ontwerp-inpassingsplan horende verbeelding.</Al>
                </Inhoud>
             </Divisietekst>
-            <Divisietekst eId="cmp_1__content_4"
-                          wId="mnre1045_1__cmp_1__content_4"
-                          dso:niveau="2">
+            <Divisietekst eId="acc__content_4"
+               wId="mnre1045_1__acc__content_4"
+               dso:niveau="2">
                <Kop>
                   <Nummer>4</Nummer>
                   <Opschrift>Gevolgen van het voorbereidingsbesluit</Opschrift>
                </Kop>
                <Inhoud>
                   <Tussenkop>Omgevingsvergunningen (bouwen, aanleggen)</Tussenkop>
-                  <Lijst eId="cmp_1__content_4__list_o_1"
-                         wId="mnre1045_1__cmp_1__content_4__list_o_1"
-                         type="expliciet">
+                  <Lijst eId="acc__content_4__list_o_1"
+                     wId="mnre1045_1__acc__content_4__list_o_1"
+                     type="expliciet">
                      <Lijstaanhef>In het gebied waarvoor het voorbereidingsbesluit geldt, zijn er beperkingen aan het bouwen van nieuwe bouwwerken en het uitvoeren van bepaalde werken en werkzaamheden. Als na het in werking treden van het voorbereidingsbesluit een aanvraag wordt gedaan voor een omgevingsvergunning voor het bouwen van een bouwwerk of het uitvoeren van een ander werk of van werkzaamheden in het gebied waarvoor het voorbereidingsbesluit geldt, worden de volgende stappen gezet (zie artikel 3.3 van Wet algemene bepalingen omgevingsrecht):</Lijstaanhef>
-                     <Li eId="cmp_1__content_4__list_o_1__item_o_1"
-                         wId="mnre1045_1__cmp_1__content_4__list_o_1__item_o_1">
-                        <LiNummer></LiNummer>
+                     <Li eId="acc__content_4__list_o_1__item_o_1"
+                        wId="mnre1045_1__acc__content_4__list_o_1__item_o_1">
+                        <LiNummer>•</LiNummer>
                         <Al>Er wordt getoetst of er, los van het voorbereidingsbesluit, een grond is de vergunning te weigeren. Als dit zo is, dan wordt de aanvraag afgewezen.</Al>
                      </Li>
-                     <Li eId="cmp_1__content_4__list_o_1__item_o_2"
-                         wId="mnre1045_1__cmp_1__content_4__list_o_1__item_o_2">
-                        <LiNummer></LiNummer>
+                     <Li eId="acc__content_4__list_o_1__item_o_2"
+                        wId="mnre1045_1__acc__content_4__list_o_1__item_o_2">
+                        <LiNummer>•</LiNummer>
                         <Al>Als dat niet zo is, dan wordt de aanvraag aangehouden. Dat betekent dat er in beginsel geen besluit wordt genomen totdat het inpassingsplan is vastgesteld en in werking is getreden.<sup>1</sup> De aanvraag wordt dan vervolgens getoetst aan het bestemmingsplan zoals dat na inwerkingtreding van het inpassingsplan is komen te luiden.</Al>
                      </Li>
-                     <Li eId="cmp_1__content_4__list_o_1__item_o_3"
-                         wId="mnre1045_1__cmp_1__content_4__list_o_1__item_o_3">
-                        <LiNummer></LiNummer>
+                     <Li eId="acc__content_4__list_o_1__item_o_3"
+                        wId="mnre1045_1__acc__content_4__list_o_1__item_o_3">
+                        <LiNummer>•</LiNummer>
                         <Al>Bij wijze van uitzondering kan de vergunning toch worden verleend, als blijkt dat de activiteit waarvoor hij wordt aangevraagd niet in strijd is met het inpassingsplan dat wordt voorbereid.</Al>
                      </Li>
                   </Lijst>
                   <Tussenkop>Vergunningstelsel in het voorbereidingsbesluit</Tussenkop>
                   <Al>In dit voorbereidingsbesluit is bepaald dat het verboden is om zonder omgevingsvergunning bepaalde werken of werkzaamheden uit te voeren in het gebied waarvoor dit voorbereidingsbesluit geldt. De werken en werkzaamheden waarvoor dit verbod geldt, zijn opgesomd in artikel 2, eerste lid, onder a tot en met f, van het besluit. In artikel 2, vierde lid, is een uitzondering op het verbod opgenomen (zie ook hierna). De omgevingsvergunning zal in de regel worden aangevraagd bij het college van burgemeester en wethouders (hierna: college), via de normale regels voor een omgevingsvergunning. Voordat het college de vergunning verleent, moet de minister van Economische Zaken en de beheerder van de hoogspanningsverbinding (TenneT) worden geraadpleegd (artikel 2, derde lid). De minister zal advies geven over de vraag of uitvoering van het werk of de werkzaamheden waarop de aanvraag betrekking heeft de grond in het gebied waarvoor dit voorbereidingsbesluit geldt minder geschikt maakt voor het verwezenlijken van de hoogspanningsverbinding. Dit vergunningstelsel geldt zolang de werking van het voorbereidingsbesluit voortduurt (zie hierna).</Al>
                   <Tussenkop>Overlap omgevingsvergunningen</Tussenkop>
-                  <Lijst eId="cmp_1__content_4__list_o_2"
-                         wId="mnre1045_1__cmp_1__content_4__list_o_2"
-                         type="expliciet">
+                  <Lijst eId="acc__content_4__list_o_2"
+                     wId="mnre1045_1__acc__content_4__list_o_2"
+                     type="expliciet">
                      <Lijstaanhef>Als gevolg van dit voorbereidingsbesluit ontstaat de mogelijkheid dat voor dezelfde activiteit twee omgevingsvergunningen nodig zijn:</Lijstaanhef>
-                     <Li eId="cmp_1__content_4__list_o_2__item_o_1"
-                         wId="mnre1045_1__cmp_1__content_4__list_o_2__item_o_1">
-                        <LiNummer></LiNummer>
+                     <Li eId="acc__content_4__list_o_2__item_o_1"
+                        wId="mnre1045_1__acc__content_4__list_o_2__item_o_1">
+                        <LiNummer>•</LiNummer>
                         <Al>een omgevingsvergunning voor 'overige werken en werkzaamheden' op grond van het gemeentelijke bestemmingsplan; én</Al>
                      </Li>
-                     <Li eId="cmp_1__content_4__list_o_2__item_o_2"
-                         wId="mnre1045_1__cmp_1__content_4__list_o_2__item_o_2">
-                        <LiNummer></LiNummer>
+                     <Li eId="acc__content_4__list_o_2__item_o_2"
+                        wId="mnre1045_1__acc__content_4__list_o_2__item_o_2">
+                        <LiNummer>•</LiNummer>
                         <Al>een omgevingsvergunning voor 'overige werken en werkzaamheden' op grond van het voorbereidingsbesluit.</Al>
                      </Li>
                   </Lijst>
@@ -856,9 +856,9 @@
                   <Al>Met het oog op dit beleid is in artikel 3, eerste lid, sub b, van dit voorbereidingsbesluit bepaald dat een omgevingsvergunning nodig is voor gebruikswijzigingen waardoor een gevoelige bestemming wordt gerealiseerd in het gebied waarvoor dit besluit geldt. Ook over deze vergunning raadpleegt het bevoegd gezag de minister van Economische Zaken (artikel 3, derde lid). Deze minister zal ook in dit kader zijn ambtgenoot van Infrastructuur en Milieu en de beheerder van de verbinding (TenneT) raadplegen.</Al>
                </Inhoud>
             </Divisietekst>
-            <Divisietekst eId="cmp_1__content_5"
-                          wId="mnre1045_1__cmp_1__content_5"
-                          dso:niveau="2">
+            <Divisietekst eId="acc__content_5"
+               wId="mnre1045_1__acc__content_5"
+               dso:niveau="2">
                <Kop>
                   <Nummer>5</Nummer>
                   <Opschrift>Gevolgen voor ontwikkelingen in het gebied</Opschrift>
@@ -867,9 +867,9 @@
                   <Al>Dit voorbereidingsbesluit heeft tot gevolg dat in het gebied waarvoor het voorbereidingsbesluit is genomen, beperkingen gelden voor de bouw en aanleg van (bouw)werken. Naar het oordeel van het bevoegd gezag zijn deze beperkingen redelijkerwijs noodzakelijk om te voorkomen dat het gebied minder geschikt wordt voor de verwezenlijking van de Zuid-West 380 kV hoogspanningsverbinding.</Al>
                </Inhoud>
             </Divisietekst>
-            <Divisietekst eId="cmp_1__content_6"
-                          wId="mnre1045_1__cmp_1__content_6"
-                          dso:niveau="2">
+            <Divisietekst eId="acc__content_6"
+               wId="mnre1045_1__acc__content_6"
+               dso:niveau="2">
                <Kop>
                   <Nummer>6</Nummer>
                   <Opschrift>Werkingsduur van het voorbereidingsbesluit</Opschrift>
@@ -877,28 +877,28 @@
                <Inhoud>
                   <Al>Het voorbereidingsbesluit vervalt op het moment dat het inpassingsplan in werking treedt. Echter, als niet binnen een jaar na de inwerkingtreding van het voorbereidingsbesluit een (ontwerp)-inpassingsplan ter inzage wordt gelegd, vervalt het voorbereidingsbesluit op dat moment. Het vergunningstelsel dat in het voorbereidingsbesluit is opgenomen, vervalt dan ook.</Al>
                   <Al>Het eerder genomen voorbereidingsbesluit voor het gedeelte tussen 380 kV station Borssele en 380 kV station Rilland dateert van 19 juni 2015 en is inmiddels vervallen.</Al>
-                  <Lijst eId="cmp_1__content_6__list_o_1"
-                         wId="mnre1045_1__cmp_1__content_6__list_o_1"
-                         type="expliciet">
-                     <Li eId="cmp_1__content_6__list_o_1__item_1"
-                         wId="mnre1045_1__cmp_1__content_6__list_o_1__item_1">
+                  <Lijst eId="acc__content_6__list_o_1"
+                     wId="mnre1045_1__acc__content_6__list_o_1"
+                     type="expliciet">
+                     <Li eId="acc__content_6__list_o_1__item_1"
+                        wId="mnre1045_1__acc__content_6__list_o_1__item_1">
                         <LiNummer>1</LiNummer>
                         <Al>In artikel 3.3,tweede lid, van de Wabo is in detail aangegeven hoe lang de aanhouding, afhankelijk van de precieze omstandigheden van het geval, duurt.</Al>
                      </Li>
-                     <Li eId="cmp_1__content_6__list_o_1__item_2"
-                         wId="mnre1045_1__cmp_1__content_6__list_o_1__item_2">
+                     <Li eId="acc__content_6__list_o_1__item_2"
+                        wId="mnre1045_1__acc__content_6__list_o_1__item_2">
                         <LiNummer>2</LiNummer>
                         <Al>In dit voorbereidingsbesluit worden onder gevaarlijke stoffen en activiteiten verstaan stoffen die bij of krachtens hoofdstuk 9 van Wet milieubeheer aangeduid zijn als milieugevaarlijk of één of meer van de volgende eigenschappen hebben: ontplofbaar, oxiderend, (zeer) licht ontvlambaar, (zeer) giftig, bijtend, irriterend of schadelijk.</Al>
                      </Li>
-                     <Li eId="cmp_1__content_6__list_o_1__item_3"
-                         wId="mnre1045_1__cmp_1__content_6__list_o_1__item_3">
+                     <Li eId="acc__content_6__list_o_1__item_3"
+                        wId="mnre1045_1__acc__content_6__list_o_1__item_3">
                         <LiNummer>3</LiNummer>
                         <Al>Brief van staatssecretaris Van Geel van VROM, gedateerd op 3 oktober 2005, kenmerk: SAS/2005183118. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu, Den Haag, verduidelijkt door de brief van minister Cramer van VROM, gedateerd op 4 november 2008, kenmerk: DGM\2008105664, Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu, Den Haag.</Al>
                      </Li>
                   </Lijst>
                </Inhoud>
             </Divisietekst>
-         </Bijlage>
+         </Motivering>
       </BesluitCompact>
    </BesluitVersie>
    <RegelingVersieInformatie>
