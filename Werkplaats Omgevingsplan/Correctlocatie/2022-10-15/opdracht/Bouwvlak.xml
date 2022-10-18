@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/gm0599/2022/1547110529</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm0599/2022/1547110529/nld@2022-10-15;2</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftGeboorteregeling>/akn/nl/act/gm0599/2022/CORRECT001</heeftGeboorteregeling>
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Bouwvlak.gml</bestandsnaam>
+            <hash>8cf3b41ff8817ec3354a028fdaf28fcfa984b362451ca4b5ab6e05ce281942998b3a52eddcda9222f089ba61622a3b86fe9377a51741e44c0081cae355604ffb</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/gemeente/gm0599</eindverantwoordelijke>
+      <maker>/tooi/id/gemeente/gm0599</maker>
+      <alternatieveTitels>
+        <alternatieveTitel/>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/gm0599/2022/1547110529</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <naamInformatieObject>Bouwvlak</naamInformatieObject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>

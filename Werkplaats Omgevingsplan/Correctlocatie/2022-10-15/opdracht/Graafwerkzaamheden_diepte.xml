@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/gm0599/2022/1748702702</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm0599/2022/1748702702/nld@2022-10-15;2</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftGeboorteregeling>/akn/nl/act/gm0599/2022/CORRECT001</heeftGeboorteregeling>
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Graafwerkzaamheden_diepte.gml</bestandsnaam>
+            <hash>f3d10e961a186abe2cfd7326b5f8451302a5f75a50e15882285515decda4a9c1af5a2f8d1a678ec47413c7c4f539b7b5fe3da99e3713f5e48b41cef65026d170</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/gemeente/gm0599</eindverantwoordelijke>
+      <maker>/tooi/id/gemeente/gm0599</maker>
+      <alternatieveTitels>
+        <alternatieveTitel/>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/gm0599/2022/1748702702</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <naamInformatieObject>Graafwerkzaamheden diepte</naamInformatieObject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>

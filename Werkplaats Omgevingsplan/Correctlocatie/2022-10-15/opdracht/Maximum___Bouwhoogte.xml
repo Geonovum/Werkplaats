@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/gm0599/2022/2042171722</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm0599/2022/2042171722/nld@2022-10-15;2</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftGeboorteregeling>/akn/nl/act/gm0599/2022/CORRECT001</heeftGeboorteregeling>
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Maximum___Bouwhoogte.gml</bestandsnaam>
+            <hash>b334a464e843eecc93cf82da0d1fb5489985218f873a47907388b38ae3ed95b93dafb52cd62a662600fe1f0d7caa36ef551b8c3ae036774c3336c2e589ed8b57</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/gemeente/gm0599</eindverantwoordelijke>
+      <maker>/tooi/id/gemeente/gm0599</maker>
+      <alternatieveTitels>
+        <alternatieveTitel/>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/gm0599/2022/2042171722</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <naamInformatieObject>Maximum bouwhoogte</naamInformatieObject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>
