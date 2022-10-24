@@ -10,6 +10,10 @@
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/gm0599/2022/2042171722</geo:FRBRWork>
       <geo:FRBRExpression>/join/id/regdata/gm0599/2022/2042171722/nld@2022-10-15;2</geo:FRBRExpression>
+      <geo:eenheidlabel>meter</geo:eenheidlabel>
+      <geo:eenheidID>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Meter</geo:eenheidID>
+      <geo:normlabel>maximum bouwhoogte</geo:normlabel>
+      <geo:normID>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumBouwhoogte</geo:normID>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Maximum bouwhoogte</geo:naam>
@@ -31,6 +35,7 @@
               </basisgeo:geometrie>
             </basisgeo:Geometrie>
           </geo:geometrie>
+          <geo:kwantitatieveNormwaarde>25</geo:kwantitatieveNormwaarde>
         </geo:Locatie>
       </geo:locaties>
     </geo:GeoInformatieObjectVersie>

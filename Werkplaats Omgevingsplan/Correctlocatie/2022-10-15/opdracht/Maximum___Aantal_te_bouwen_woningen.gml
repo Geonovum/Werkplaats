@@ -10,6 +10,10 @@
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/gm0599/2022/807083199</geo:FRBRWork>
       <geo:FRBRExpression>/join/id/regdata/gm0599/2022/807083199/nld@2022-10-15;2</geo:FRBRExpression>
+      <geo:eenheidlabel>aantal</geo:eenheidlabel>
+      <geo:eenheidID>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Aantal</geo:eenheidID>
+      <geo:normlabel>aantal woningen</geo:normlabel>
+      <geo:normID>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/AantalWoningen</geo:normID>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Maximum aantal te bouwen woningen</geo:naam>
@@ -31,6 +35,7 @@
               </basisgeo:geometrie>
             </basisgeo:Geometrie>
           </geo:geometrie>
+          <geo:kwantitatieveNormwaarde>83</geo:kwantitatieveNormwaarde>
         </geo:Locatie>
       </geo:locaties>
     </geo:GeoInformatieObjectVersie>

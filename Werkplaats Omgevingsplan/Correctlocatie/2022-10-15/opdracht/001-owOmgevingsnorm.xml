@@ -108,7 +108,7 @@
             <rol:Omgevingsnorm>
                <rol:identificatie>nl.imow-gm0599.omgevingsnorm.000000010018763870004293288552</rol:identificatie>
                <rol:naam>Graafwerkzaamheden diepte</rol:naam>
-               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumDiepte</rol:type>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/Diepte</rol:type>
                <rol:eenheid>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Centimeter</rol:eenheid>
                <rol:normwaarde>
                   <rol:Normwaarde>
@@ -128,7 +128,7 @@
             <rol:Omgevingsnorm>
                <rol:identificatie>nl.imow-gm0599.omgevingsnorm.000000010018763870003740231778</rol:identificatie>
                <rol:naam>Graafwerkzaamheden oppervlakte</rol:naam>
-               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumOppervlakte</rol:type>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/Oppervlakte</rol:type>
                <rol:eenheid>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/VierkanteMeter</rol:eenheid>
                <rol:normwaarde>
                   <rol:Normwaarde>

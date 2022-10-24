@@ -220,8 +220,7 @@
             <RegelingCompact componentnaam="regeling_002"
                              wordt="/akn/nl/act/gm0599/2022/CORRECT001/nld@2022-10-15;2">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>
-                     <br/>Basismodel Correctlocatie Rotterdam</Al>
+                  <Al>Basismodel Correctlocatie Rotterdam</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Hoofdstuk eId="chp_1" wId="gm0599_2__chp_1">
@@ -914,7 +913,7 @@
                                     <Lijst eId="chp_4__subchp_4.2__subsec_4.2.2__art_4.15__para_3__list_o_1"
                                            wId="gm0599_2__chp_4__subchp_4.2__subsec_4.2.2__art_4.15__para_3__list_o_1"
                                            type="expliciet">
-                                       <Lijstaanhef>bij het verrichten van horeca-activiteiten wordt voldaan aan:</Lijstaanhef>
+                                       <Lijstaanhef>Bij het verrichten van horeca-activiteiten wordt voldaan aan:</Lijstaanhef>
                                        <Li eId="chp_4__subchp_4.2__subsec_4.2.2__art_4.15__para_3__list_o_1__item_a"
                                            wId="gm0599_2__chp_4__subchp_4.2__subsec_4.2.2__art_4.15__para_3__list_o_1__item_a">
                                           <LiNummer>a.</LiNummer>
@@ -993,7 +992,7 @@
                                 wId="gm0599_2__chp_5__subchp_5.1__art_5.2__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
-                                 <Al>Met een maatwerkvoorschrift of vergunningvoorschrift kan worden afgeweken van de regels over activiteiten in dit hoofdstuk, tenzij anders is bepaald of hoofdstuk 5 van het Besluitkwaliteit leefomgeving zich daar tegen verzet.</Al>
+                                 <Al>Met een maatwerkvoorschrift of vergunningvoorschrift kan worden afgeweken van de regels over activiteiten in dit hoofdstuk, tenzij anders is bepaald of hoofdstuk 5 van het Besluit kwaliteit leefomgeving zich daar tegen verzet.</Al>
                               </Inhoud>
                            </Lid>
                            <Lid eId="chp_5__subchp_5.1__art_5.2__para_3"
@@ -1867,7 +1866,7 @@
                               <Inhoud>
                                  <Al>Deze paragraaf gaat over het toevoegen van een geluidgevoelig gebouw binnen een <IntIoRef eId="chp_5__subchp_5.3__subsec_5.3.1__art_5.28__ref_o_1"
                                               wId="gm0599_2__chp_5__subchp_5.3__subsec_5.3.1__art_5.28__ref_o_1"
-                                              ref="gm0599_2__cmp_o_1__content_o_1__list_o_1__item_o_11__ref_o_1">geluidaandachtsgebied</IntIoRef> van een weg of spoorweg.</Al>
+                                              ref="gm0599_2__cmp_o_1__content_o_1__list_o_1__item_o_11__ref_o_1">Geluidaandachtsgebied</IntIoRef> van een weg of spoorweg.</Al>
                               </Inhoud>
                            </Artikel>
                            <Artikel eId="chp_5__subchp_5.3__subsec_5.3.1__art_5.29"
@@ -2817,106 +2816,108 @@
                             eId="recital"
                             wId="recital"
                             dso:niveau="1">
-                  <Kop>
-                     <Opschrift>Algemene toelichting bij het basismodel omgevingsplan Correctlocatie (Rotterdam)</Opschrift>
-                  </Kop>
-                  <Divisietekst eId="recital__content_1"
-                                wId="gm0599_2__recital__content_1"
-                                dso:niveau="2">
+                  <AlgemeneToelichting wId="genrecital" eId="genrecital">
                      <Kop>
-                        <Nummer>1</Nummer>
-                        <Opschrift>Inleiding</Opschrift>
+                        <Opschrift>Algemene toelichting bij het basismodel omgevingsplan Correctlocatie (Rotterdam)</Opschrift>
                      </Kop>
-                     <Inhoud>
-                        <Al>Na inwerkingtreding van de Omgevingswet hebben gemeenten enkele jaren de tijd om een geheel nieuw, gebiedsdekkend omgevingsplan op te stellen dat voldoet aan de eisen van de wet. Deze transitie zal enige tijd in beslag nemen. Gedurende die tijd blijven - onder andere - oude bestemmingsplannen van kracht via het tijdelijke deel van het omgevingsplan. Tijdens de transitieperiode kan de behoefte ontstaan om gebiedsontwikkelingen te faciliteren, die in strijd zijn met het tijdelijk deel van het omgevingsplan. Daarvoor kan een vergunning worden verleend om af te wijken van het omgevingsplan (buitenplanse OPA) maar er kan ook worden besloten het omgevingsplan wijzigen. Dit basismodel biedt een voorbeeld van een wijziging van het omgevingsplan. Dit basismodel is gericht op een kleinschalige transformatie, waarbinnen 83 woningen en lichte horeca-activiteiten worden mogelijk gemaakt.</Al>
-                     </Inhoud>
-                  </Divisietekst>
-                  <Divisietekst eId="recital__content_2"
-                                wId="gm0599_2__recital__content_2"
-                                dso:niveau="2">
-                     <Kop>
-                        <Nummer>2</Nummer>
-                        <Opschrift>Uitgangspunten &amp; gemaakte keuzes voor dit basismodel</Opschrift>
-                     </Kop>
-                     <Inhoud>
-                        <Al>Dit basismodel is erop gericht om gemeenten tijdens de transitiefase direct te laten kennismaken met de systematiek van het omgevingsplan die ten grondslag ligt aan de meest recente geïntegreerde staalkaarten van VNG. Het basismodel toont in het klein hoe regels in die systematiek een plek krijgen. Bepalend is daarbij een werkwijze met algemene, 'thematische' regels en gebiedsgerichte regels. Het basismodel voorziet dan ook in het aanwijzen van gebiedstypen, in dit geval 'Woongebied-Transformatie'. Ook bepalend voor de systematiek van de meest recente VNG-Staalkaarten is de verdeling tussen hoofdstuk 4, aanwijzingen, en hoofdstuk 5, regels. In hoofdstuk 4 wordt per thema en per gebiedstype aangegeven welke regels daar van toepassing zijn, door middel van verwijzingen naar hoofdstuk 5. In hoofdstuk 5 zijn de materiële regels overgenomen. Voor een nadere toelichting op de systematiek van de geïntegreerde VNG-Staalkaarten wordt verwezen naar de toelichting daarbij.</Al>
-                        <Lijst eId="recital__content_2__list_o_1"
-                               wId="gm0599_2__recital__content_2__list_o_1"
-                               type="expliciet">
-                           <Lijstaanhef>In dit basismodel wordt een aantal specifieke keuzes gemaakt:</Lijstaanhef>
-                           <Li eId="recital__content_2__list_o_1__item_o_1"
-                               wId="gm0599_2__recital__content_2__list_o_1__item_o_1">
-                              <LiNummer>•</LiNummer>
-                              <Al>Geen begripsbepalingen opgenomen i.v.m. beperkte tijdsduur voor deze opdracht &amp; de focus op het illustreren van de plansystematiek;</Al>
-                           </Li>
-                           <Li eId="recital__content_2__list_o_1__item_o_2"
-                               wId="gm0599_2__recital__content_2__list_o_1__item_o_2">
-                              <LiNummer>•</LiNummer>
-                              <Al>De indeling van de VNG-staalkaart is zoveel als mogelijk gevolgd. Er is wel opnieuw genummerd (zo realistisch mogelijk), waarbij de grondslag vanuit de geconsolideerde VNG-staalkaart tussen haakjes achter de paragraaf/het artikel is benoemd. Zo zijn de regels eenvoudig herleidbaar.</Al>
-                           </Li>
-                           <Li eId="recital__content_2__list_o_1__item_o_3"
-                               wId="gm0599_2__recital__content_2__list_o_1__item_o_3">
-                              <LiNummer>•</LiNummer>
-                              <Al>Er zijn zoveel mogelijk algemene regels gesteld, waarbij het werkingsgebied beperkt is tot (maximaal) Woongebied-Transformatie, op dit moment gelijk aan de begrenzing van het plangebied. </Al>
-                           </Li>
-                           <Li eId="recital__content_2__list_o_1__item_o_4"
-                               wId="gm0599_2__recital__content_2__list_o_1__item_o_4">
-                              <LiNummer>•</LiNummer>
-                              <Al>De bruidsschat is zoveel als mogelijk buiten beschouwing gelaten. De geconsolideerde VNG-staalkaart bevat reeds een groot aantal regels die oorspronkelijk afkomstig zijn vanuit de bruidsschat. Om verwarring/doorkruising te voorkomen is gekozen deze regels niet op te nemen in het basismodel.</Al>
-                           </Li>
-                           <Li eId="recital__content_2__list_o_1__item_o_5"
-                               wId="gm0599_2__recital__content_2__list_o_1__item_o_5">
-                              <LiNummer>•</LiNummer>
-                              <Al>Er zijn alleen regels gesteld voor omgevingsaspecten waarvoor dit (op grond van onderzoeken voor het oorspronkelijke bestemmingsplan) noodzakelijk is. Dit betreft regels met betrekking tot geluid, geur en archeologie. Zodoende is er niet specifiek gekeken naar andere instructieregels dan de instructieregel uit het Bkl met betrekking tot geluidaandachtsgebieden.</Al>
-                           </Li>
-                        </Lijst>
-                     </Inhoud>
-                  </Divisietekst>
-                  <Divisietekst eId="recital__content_3"
-                                wId="gm0599_2__recital__content_3"
-                                dso:niveau="2">
-                     <Kop>
-                        <Nummer>3</Nummer>
-                        <Opschrift>Voorbeeldplan</Opschrift>
-                     </Kop>
-                     <Inhoud>
-                        <Al>Het basismodel is gebaseerd op het bestemmingsplan Correctlocatie Bergweg (NL.IMRO.0599.BP2151Correctloc-va01), vastgesteld op 2 juli 2020 door de gemeenteraad van Rotterdam.</Al>
-                        <Al>Dit bestemmingsplan betreft een transformatie naar 83 wooneenheden en een (lichte) horecagelegenheid in Rotterdam. Vanwege een hoge geluidbelasting op de geprojecteerde gevels schrijft het bestemmingsplan voor dat er geluidwerende maatregelen moeten worden getroffen. Deze maatregelen zijn in deze fictieve wijziging van het omgevingsplan van Rotterdam opgenomen als regels voor het toevoegen van een geluidgevoelig gebouw in een geluidaandachtsgebied.</Al>
-                     </Inhoud>
-                  </Divisietekst>
-                  <Divisietekst eId="recital__content_4"
-                                wId="gm0599_2__recital__content_4"
-                                dso:niveau="2">
-                     <Kop>
-                        <Nummer>4</Nummer>
-                        <Opschrift>Regels ten aanzien van milieu, parkeren, cultureel erfgoed (archeologie) en omgevingskwaliteit</Opschrift>
-                     </Kop>
-                     <Inhoud>
-                        <Al>Zoals benoemd bij de uitgangspunten stelt zijn er in deze (fictieve) wijziging van het omgevingsplan alleen regels gesteld als dit vanuit het oogpunt van een evenwichtige toedeling van functies aan locaties noodzakelijk is. Daarnaast zijn diverse regels opgenomen die in de praktijk veel voorkomen. Dit tezamen heeft geleid tot regels over o.a. geluid, geur, parkeren, cultureel erfgoed (archeologie) en omgevingskwaliteit.</Al>
-                        <Tussenkop>Milieu (geluid)</Tussenkop>
-                        <Al>Het oorspronkelijke bestemmingsplan toont aan dat er, als gevolg van wegverkeerslawaai, een hoge geluidbelasting op de geprojecteerde gevels optreedt en dat er maatregelen nodig zijn om aan een goed woon- en leefklimaat te voldoen. Deze maatregelen zijn geborgd in de planregels van het oorspronkelijke bestemmingsplan. In deze fictieve wijziging van het omgevingsplan worden geen geluidnormen gesteld, maar worden de regels in de bruidsschat aangehouden. Daarnaast worden de geluidwerende maatregelen voorgeschreven bij het toevoegen van een geluidgevoelig gebouw in een geluidaandachtsgebied.</Al>
-                        <Tussenkop>Milieu (geur)</Tussenkop>
-                        <Al>De horeca-activiteit kan mogelijk leiden tot geurhinder voor de nieuwe woningen. Daarom zijn er geurregels opgenomen, waarbij wordt gesteld dat deze pas gelden op het moment dat (de nieuwe) woningen in gebruik zijn genomen. Daarom is voor de ingebruikname van de nieuwe woningen een informatieplicht opgenomen en is er een meldingsplicht opgenomen voor het starten of wijzigen van horeca-activiteiten.</Al>
-                        <Tussenkop>Parkeren</Tussenkop>
-                        <Al>Voor deze transformatie is opgenomen dat er op eigen terrein in parkeergelegenheid moet worden voorzien. Daartoe zijn de parkeernormen van Rotterdam overgenomen in de wijziging van het omgevingsplan. Als er niet aan deze normen wordt voldaan, is een omgevingsvergunning vereist.</Al>
-                        <Tussenkop>Cultureel erfgoed (archeologie)</Tussenkop>
-                        <Al>Het oorspronkelijke bestemmingsplan bevat een archeologische dubbelbestemming. Deze is overgenomen in deze fictieve wijziging van het omgevingsplan. Hiervoor zijn twee omgevingsnormen toegepast, waarbij er een vergunningplicht geldt als voor graafwerkzaamheden beide normen worden overschreden.</Al>
-                        <Al>NB: het oorspronkelijke bestemmingsplan gaat uit van een graafdiepte onder NAP. Dit achten wij in de praktijk niet werkbaar, met name in hoger gelegen gebieden leidt dit tot verwarrende regels. Daarom hanteren we in dit basismodel het peil (zonder exact aan te geven hoe dit gemeten moet worden).</Al>
-                        <Tussenkop>Omgevingskwaliteit</Tussenkop>
-                        <Al>Artikel 5.6 lid 1 sub b van dit basismodel verplicht initiatiefnemers gegevens en bescheiden aan te leveren voor toetsing aan de beleidsregel omgevingskwaliteit van een gemeente, waarmee door de adviescommissie omgevingskwaliteit wordt beoordeeld of het uiterlijk of de plaatsing van het bouwwerk zowel op zichzelf beschouwd als in verband met de omgeving of de te verwachten ontwikkeling daarvan, bijdraagt aan het verbeteren van de omgevingskwaliteit. Dit is een beoordelingsgrond voor het verlenen van een omgevingsvergunning voor het bouwen van (in ieder geval) een hoofdgebouw.</Al>
-                     </Inhoud>
-                  </Divisietekst>
-                  <Divisietekst eId="recital__content_5"
-                                wId="gm0599_2__recital__content_5"
-                                dso:niveau="2">
-                     <Kop>
-                        <Nummer>5</Nummer>
-                        <Opschrift>Werken met omgevingsnormen</Opschrift>
-                     </Kop>
-                     <Inhoud>
-                        <Al>In dit basismodel wordt op verschillende plekken gebruik gemaakt van de annotatie omgevingsnorm. Dit maakt het mogelijk om met één regel verschillende normen op verschillende locaties te hanteren. Denk bijvoorbeeld aan een regel die de maximale bouwhoogte van hoofdgebouwen in de hele gemeente reguleert, maar waarbij de maximale bouwhoogte van locatie tot locatie verschilt. In dit basismodel is per omgevingsnorm echter maar één normwaarde van toepassing.</Al>
-                     </Inhoud>
-                  </Divisietekst>
+                     <Divisietekst eId="recital__genrecital__content_1"
+                        wId="gm0599_2__recital__genrecital__content_1"
+                        dso:niveau="2">
+                        <Kop>
+                           <Nummer>1</Nummer>
+                           <Opschrift>Inleiding</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Na inwerkingtreding van de Omgevingswet hebben gemeenten enkele jaren de tijd om een geheel nieuw, gebiedsdekkend omgevingsplan op te stellen dat voldoet aan de eisen van de wet. Deze transitie zal enige tijd in beslag nemen. Gedurende die tijd blijven - onder andere - oude bestemmingsplannen van kracht via het tijdelijke deel van het omgevingsplan. Tijdens de transitieperiode kan de behoefte ontstaan om gebiedsontwikkelingen te faciliteren, die in strijd zijn met het tijdelijk deel van het omgevingsplan. Daarvoor kan een vergunning worden verleend om af te wijken van het omgevingsplan (buitenplanse OPA) maar er kan ook worden besloten het omgevingsplan wijzigen. Dit basismodel biedt een voorbeeld van een wijziging van het omgevingsplan. Dit basismodel is gericht op een kleinschalige transformatie, waarbinnen 83 woningen en lichte horeca-activiteiten worden mogelijk gemaakt.</Al>
+                        </Inhoud>
+                     </Divisietekst>
+                     <Divisietekst eId="recital__genrecital__content_2"
+                        wId="gm0599_2__recital__genrecital__content_2"
+                        dso:niveau="2">
+                        <Kop>
+                           <Nummer>2</Nummer>
+                           <Opschrift>Uitgangspunten &amp; gemaakte keuzes voor dit basismodel</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit basismodel is erop gericht om gemeenten tijdens de transitiefase direct te laten kennismaken met de systematiek van het omgevingsplan die ten grondslag ligt aan de meest recente geïntegreerde staalkaarten van VNG. Het basismodel toont in het klein hoe regels in die systematiek een plek krijgen. Bepalend is daarbij een werkwijze met algemene, 'thematische' regels en gebiedsgerichte regels. Het basismodel voorziet dan ook in het aanwijzen van gebiedstypen, in dit geval 'Woongebied-Transformatie'. Ook bepalend voor de systematiek van de meest recente VNG-Staalkaarten is de verdeling tussen hoofdstuk 4, aanwijzingen, en hoofdstuk 5, regels. In hoofdstuk 4 wordt per thema en per gebiedstype aangegeven welke regels daar van toepassing zijn, door middel van verwijzingen naar hoofdstuk 5. In hoofdstuk 5 zijn de materiële regels overgenomen. Voor een nadere toelichting op de systematiek van de geïntegreerde VNG-Staalkaarten wordt verwezen naar de toelichting daarbij.</Al>
+                           <Lijst eId="recital__genrecital__content_2__list_o_1"
+                              wId="gm0599_2__recital__genrecital__content_2__list_o_1"
+                              type="expliciet">
+                              <Lijstaanhef>In dit basismodel wordt een aantal specifieke keuzes gemaakt:</Lijstaanhef>
+                              <Li eId="recital__genrecital__content_2__list_o_1__item_o_1"
+                                 wId="gm0599_2__recital__genrecital__content_2__list_o_1__item_o_1">
+                                 <LiNummer>•</LiNummer>
+                                 <Al>Geen begripsbepalingen opgenomen i.v.m. beperkte tijdsduur voor deze opdracht &amp; de focus op het illustreren van de plansystematiek;</Al>
+                              </Li>
+                              <Li eId="recital__genrecital__content_2__list_o_1__item_o_2"
+                                 wId="gm0599_2__recital__genrecital__content_2__list_o_1__item_o_2">
+                                 <LiNummer>•</LiNummer>
+                                 <Al>De indeling van de VNG-staalkaart is zoveel als mogelijk gevolgd. Er is wel opnieuw genummerd (zo realistisch mogelijk), waarbij de grondslag vanuit de geconsolideerde VNG-staalkaart tussen haakjes achter de paragraaf/het artikel is benoemd. Zo zijn de regels eenvoudig herleidbaar.</Al>
+                              </Li>
+                              <Li eId="recital__genrecital__content_2__list_o_1__item_o_3"
+                                 wId="gm0599_2__recital__genrecital__content_2__list_o_1__item_o_3">
+                                 <LiNummer>•</LiNummer>
+                                 <Al>Er zijn zoveel mogelijk algemene regels gesteld, waarbij het werkingsgebied beperkt is tot (maximaal) Woongebied-Transformatie, op dit moment gelijk aan de begrenzing van het plangebied. </Al>
+                              </Li>
+                              <Li eId="recital__genrecital__content_2__list_o_1__item_o_4"
+                                 wId="gm0599_2__recital__genrecital__content_2__list_o_1__item_o_4">
+                                 <LiNummer>•</LiNummer>
+                                 <Al>De bruidsschat is zoveel als mogelijk buiten beschouwing gelaten. De geconsolideerde VNG-staalkaart bevat reeds een groot aantal regels die oorspronkelijk afkomstig zijn vanuit de bruidsschat. Om verwarring/doorkruising te voorkomen is gekozen deze regels niet op te nemen in het basismodel.</Al>
+                              </Li>
+                              <Li eId="recital__genrecital__content_2__list_o_1__item_o_5"
+                                 wId="gm0599_2__recital__genrecital__content_2__list_o_1__item_o_5">
+                                 <LiNummer>•</LiNummer>
+                                 <Al>Er zijn alleen regels gesteld voor omgevingsaspecten waarvoor dit (op grond van onderzoeken voor het oorspronkelijke bestemmingsplan) noodzakelijk is. Dit betreft regels met betrekking tot geluid, geur en archeologie. Zodoende is er niet specifiek gekeken naar andere instructieregels dan de instructieregel uit het Bkl met betrekking tot geluidaandachtsgebieden.</Al>
+                              </Li>
+                           </Lijst>
+                        </Inhoud>
+                     </Divisietekst>
+                     <Divisietekst eId="recital__genrecital__content_3"
+                        wId="gm0599_2__recital__genrecital__content_3"
+                        dso:niveau="2">
+                        <Kop>
+                           <Nummer>3</Nummer>
+                           <Opschrift>Voorbeeldplan</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Het basismodel is gebaseerd op het bestemmingsplan Correctlocatie Bergweg (NL.IMRO.0599.BP2151Correctloc-va01), vastgesteld op 2 juli 2020 door de gemeenteraad van Rotterdam.</Al>
+                           <Al>Dit bestemmingsplan betreft een transformatie naar 83 wooneenheden en een (lichte) horecagelegenheid in Rotterdam. Vanwege een hoge geluidbelasting op de geprojecteerde gevels schrijft het bestemmingsplan voor dat er geluidwerende maatregelen moeten worden getroffen. Deze maatregelen zijn in deze fictieve wijziging van het omgevingsplan van Rotterdam opgenomen als regels voor het toevoegen van een geluidgevoelig gebouw in een geluidaandachtsgebied.</Al>
+                        </Inhoud>
+                     </Divisietekst>
+                     <Divisietekst eId="recital__genrecital__content_4"
+                        wId="gm0599_2__recital__genrecital__content_4"
+                        dso:niveau="2">
+                        <Kop>
+                           <Nummer>4</Nummer>
+                           <Opschrift>Regels ten aanzien van milieu, parkeren, cultureel erfgoed (archeologie) en omgevingskwaliteit</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Zoals benoemd bij de uitgangspunten stelt zijn er in deze (fictieve) wijziging van het omgevingsplan alleen regels gesteld als dit vanuit het oogpunt van een evenwichtige toedeling van functies aan locaties noodzakelijk is. Daarnaast zijn diverse regels opgenomen die in de praktijk veel voorkomen. Dit tezamen heeft geleid tot regels over o.a. geluid, geur, parkeren, cultureel erfgoed (archeologie) en omgevingskwaliteit.</Al>
+                           <Tussenkop>Milieu (geluid)</Tussenkop>
+                           <Al>Het oorspronkelijke bestemmingsplan toont aan dat er, als gevolg van wegverkeerslawaai, een hoge geluidbelasting op de geprojecteerde gevels optreedt en dat er maatregelen nodig zijn om aan een goed woon- en leefklimaat te voldoen. Deze maatregelen zijn geborgd in de planregels van het oorspronkelijke bestemmingsplan. In deze fictieve wijziging van het omgevingsplan worden geen geluidnormen gesteld, maar worden de regels in de bruidsschat aangehouden. Daarnaast worden de geluidwerende maatregelen voorgeschreven bij het toevoegen van een geluidgevoelig gebouw in een geluidaandachtsgebied.</Al>
+                           <Tussenkop>Milieu (geur)</Tussenkop>
+                           <Al>De horeca-activiteit kan mogelijk leiden tot geurhinder voor de nieuwe woningen. Daarom zijn er geurregels opgenomen, waarbij wordt gesteld dat deze pas gelden op het moment dat (de nieuwe) woningen in gebruik zijn genomen. Daarom is voor de ingebruikname van de nieuwe woningen een informatieplicht opgenomen en is er een meldingsplicht opgenomen voor het starten of wijzigen van horeca-activiteiten.</Al>
+                           <Tussenkop>Parkeren</Tussenkop>
+                           <Al>Voor deze transformatie is opgenomen dat er op eigen terrein in parkeergelegenheid moet worden voorzien. Daartoe zijn de parkeernormen van Rotterdam overgenomen in de wijziging van het omgevingsplan. Als er niet aan deze normen wordt voldaan, is een omgevingsvergunning vereist.</Al>
+                           <Tussenkop>Cultureel erfgoed (archeologie)</Tussenkop>
+                           <Al>Het oorspronkelijke bestemmingsplan bevat een archeologische dubbelbestemming. Deze is overgenomen in deze fictieve wijziging van het omgevingsplan. Hiervoor zijn twee omgevingsnormen toegepast, waarbij er een vergunningplicht geldt als voor graafwerkzaamheden beide normen worden overschreden.</Al>
+                           <Al>NB: het oorspronkelijke bestemmingsplan gaat uit van een graafdiepte onder NAP. Dit achten wij in de praktijk niet werkbaar, met name in hoger gelegen gebieden leidt dit tot verwarrende regels. Daarom hanteren we in dit basismodel het peil (zonder exact aan te geven hoe dit gemeten moet worden).</Al>
+                           <Tussenkop>Omgevingskwaliteit</Tussenkop>
+                           <Al>Artikel 5.13 lid 1 sub b van dit basismodel verplicht initiatiefnemers gegevens en bescheiden aan te leveren voor toetsing aan de beleidsregel omgevingskwaliteit van een gemeente, waarmee door de adviescommissie omgevingskwaliteit wordt beoordeeld of het uiterlijk of de plaatsing van het bouwwerk zowel op zichzelf beschouwd als in verband met de omgeving of de te verwachten ontwikkeling daarvan, bijdraagt aan het verbeteren van de omgevingskwaliteit. Dit is een beoordelingsgrond voor het verlenen van een omgevingsvergunning voor het bouwen van (in ieder geval) een hoofdgebouw.</Al>
+                        </Inhoud>
+                     </Divisietekst>
+                     <Divisietekst eId="recital__genrecital__content_5"
+                        wId="gm0599_2__recital__genrecital__content_5"
+                        dso:niveau="2">
+                        <Kop>
+                           <Nummer>5</Nummer>
+                           <Opschrift>Werken met omgevingsnormen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>In dit basismodel wordt op verschillende plekken gebruik gemaakt van de annotatie omgevingsnorm. Dit maakt het mogelijk om met één regel verschillende normen op verschillende locaties te hanteren. Denk bijvoorbeeld aan een regel die de maximale bouwhoogte van hoofdgebouwen in de hele gemeente reguleert, maar waarbij de maximale bouwhoogte van locatie tot locatie verschilt. In dit basismodel is per omgevingsnorm echter maar één normwaarde van toepassing.</Al>
+                        </Inhoud>
+                     </Divisietekst>
+                  </AlgemeneToelichting>
                </Toelichting>
             </RegelingCompact>
          </WijzigBijlage>

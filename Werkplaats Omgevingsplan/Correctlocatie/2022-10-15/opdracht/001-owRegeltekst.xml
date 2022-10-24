@@ -1902,7 +1902,7 @@
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0599.activiteit.00000001001876387000184961429"/>
                   <r:ActiviteitLocatieaanduiding><!--3287838493-->
                      <r:identificatie>nl.imow-gm0599.activiteitlocatieaanduiding.00000001001876387000D6E21306</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-gm0599.gebiedengroep.000000010018763870002715101595"/>
                      </r:locatieaanduiding>

@@ -10,6 +10,10 @@
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/gm0599/2022/3408661701</geo:FRBRWork>
       <geo:FRBRExpression>/join/id/regdata/gm0599/2022/3408661701/nld@2022-10-15;2</geo:FRBRExpression>
+      <geo:eenheidlabel>uur</geo:eenheidlabel>
+      <geo:eenheidID>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Uur</geo:eenheidID>
+      <geo:normlabel>sluitingstijd</geo:normlabel>
+      <geo:normID>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/NogToeTeVoegen</geo:normID>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Sluitingstijd</geo:naam>
@@ -31,6 +35,7 @@
               </basisgeo:geometrie>
             </basisgeo:Geometrie>
           </geo:geometrie>
+          <geo:kwantitatieveNormwaarde>23</geo:kwantitatieveNormwaarde>
         </geo:Locatie>
       </geo:locaties>
     </geo:GeoInformatieObjectVersie>
