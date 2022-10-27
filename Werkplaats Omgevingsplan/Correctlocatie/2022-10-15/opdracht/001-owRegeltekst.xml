@@ -18,7 +18,7 @@
       <sl:dataset>Basismodel Correctlocatie Rotterdam</sl:dataset>
       <sl:inhoud>
          <sl:gebied>Gemeente Rotterdam</sl:gebied>
-         <sl:leveringsId>CORRECT001_2022-10-15</sl:leveringsId>
+         <sl:leveringsId>CORRECT001_2022-10-15_002</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Regeltekst</sl:objectType>
             <sl:objectType>RegelVoorIedereen</sl:objectType>
