@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/mnre1045/2022/421406185</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1045/2022/421406185/nld@2022-11-28;1</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftGeboorteregeling>/akn/nl/act/mnre1045/2022/PEH001-001/nld@2022-11-28;1</heeftGeboorteregeling>
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>or_elektriciteit_hoogspanningsverbindingen_nw1.gml</bestandsnaam>
+            <hash>ce611d5758207ffad54f920f9ee184fae4121b93443f111264078539206eb1f1d5d06f7e393e6e20b1e3bc767ffab4f311c81137708e4bc874241ef3fcaaaa42</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+      <maker>/tooi/id/ministerie/mnre1045</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Locaties voor bestaande hoogspanningslijnen</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/mnre1045/2022/421406185</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <naamInformatieObject>Locaties voor bestaande hoogspanningslijnen</naamInformatieObject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>
