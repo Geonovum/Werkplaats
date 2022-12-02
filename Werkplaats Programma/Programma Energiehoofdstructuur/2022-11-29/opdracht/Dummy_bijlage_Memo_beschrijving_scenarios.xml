@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/mnre1045/2022/memo_beschrijving_scenarios</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1045/2022/memo_beschrijving_scenarios/nld@2022-11-28;1</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftGeboorteregeling>/akn/nl/act/mnre1045/2022/PEH001-001/nld@2022-11-28;1</heeftGeboorteregeling>
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Dummy_bijlage_Memo_beschrijving_scenarios.pdf</bestandsnaam>
+            <hash>dd9f5f06511305699680931f3260c1f478ff1490e85dcea33dae58e301519d992fc6e2763bec413e89d89987f942008de7ea878936dcd644ef4c164576b975c3</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+      <maker>/tooi/id/ministerie/mnre1045</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Memo beschrijving scenario’s</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/mnre1045/2022/memo_beschrijving_scenarios</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <naamInformatieObject>Memo beschrijving scenario’s</naamInformatieObject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>

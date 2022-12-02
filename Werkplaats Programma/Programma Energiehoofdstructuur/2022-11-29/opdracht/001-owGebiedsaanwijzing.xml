@@ -32,7 +32,7 @@
                <ga:naam>Grootschalige elektriciteitsproductie</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Infrastructuur</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690002305961014"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.0010032143690002305961014"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -45,7 +45,7 @@
                <ga:naam>Grootschalige elektriciteitsproductie</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/GrootschaligeElektriciteitsopwekking</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690002305961014"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.0010032143690002305961014"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -58,7 +58,7 @@
                <ga:naam>Grootschalige elektriciteitsproductie</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Reserveringsgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690002305961014"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.0010032143690002305961014"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -71,7 +71,7 @@
                <ga:naam>Bestaande hoogspanningsstations</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Energieproductiegebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690002270371436"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.0010032143690002270371436"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -84,7 +84,7 @@
                <ga:naam>Bestaande hoogspanningslijnen</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Hoogspanningsverbinding</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000421406185"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.001003214369000421406185"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -97,7 +97,7 @@
                <ga:naam>Bestaande reserveringen buisleidingen</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Reserveringsgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690003446744085"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.0010032143690003446744085"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -110,7 +110,7 @@
                <ga:naam>Behoud private buisleidingen</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Reserveringsgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000339024076"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.001003214369000339024076"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>

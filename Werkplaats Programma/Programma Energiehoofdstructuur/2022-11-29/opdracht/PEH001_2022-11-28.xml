@@ -30,7 +30,7 @@
             </grondslag>
          </grondslagen>
          <onderwerpen>
-            <onderwerp>geen</onderwerp>
+            <onderwerp>/tooi/def/concept/c_85a72eb3</onderwerp>
          </onderwerpen>
          <rechtsgebieden>
             <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
@@ -42,6 +42,9 @@
             <informatieobjectRef>/join/id/regdata/mnre1045/2022/421406185/nld@2022-11-28;1</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/mnre1045/2022/339024076/nld@2022-11-28;1</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/mnre1045/2022/3446744085/nld@2022-11-28;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/concept_notitie_reikwijdte_en_detailniveau_programma_energiehoofdstructuur/nld@2022-11-28;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/inspraakbundel_zienswijzen_c_nrd_programma_energiehoofdstructuur_anoniem/nld@2022-11-28;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/memo_beschrijving_scenarios/nld@2022-11-28;1</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -65,42 +68,63 @@
                   <doel>/join/id/proces/mnre1045/2022/instellen</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/mnre1045/2022/PEH001-001/nld@2022-11-28;1</instrumentVersie>
-               <eId><!--Geef aan welk artikel van het besluit verwijst naar de beoogde regeling. Let erop dat het artikel een IntRef naar de WijzigBijlage bevat.--></eId>
+               <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/instellen</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/mnre1045/2022/2305961014/nld@2022-11-28;1</instrumentVersie>
-               <eId>!#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId>!regeling_001#cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/instellen</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/mnre1045/2022/2270371436/nld@2022-11-28;1</instrumentVersie>
-               <eId>!#cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+               <eId>!regeling_001#cmp_IV__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/instellen</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/mnre1045/2022/421406185/nld@2022-11-28;1</instrumentVersie>
-               <eId>!#cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
+               <eId>!regeling_001#cmp_IV__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/instellen</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/mnre1045/2022/339024076/nld@2022-11-28;1</instrumentVersie>
-               <eId>!#cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
+               <eId>!regeling_001#cmp_IV__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/mnre1045/2022/instellen</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/mnre1045/2022/3446744085/nld@2022-11-28;1</instrumentVersie>
-               <eId>!#cmp_o_1__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
+               <eId>!regeling_001#cmp_IV__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/instellen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/concept_notitie_reikwijdte_en_detailniveau_programma_energiehoofdstructuur/nld@2022-11-28;1</instrumentVersie>
+               <eId>!regeling_001#cmp_V__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/instellen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/inspraakbundel_zienswijzen_c_nrd_programma_energiehoofdstructuur_anoniem/nld@2022-11-28;1</instrumentVersie>
+               <eId>!regeling_001#cmp_V__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/instellen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/memo_beschrijving_scenarios/nld@2022-11-28;1</instrumentVersie>
+               <eId>!regeling_001#cmp_V__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -108,7 +132,7 @@
                <doel>/join/id/proces/mnre1045/2022/instellen</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2022-11-28</datum>
-               <eId><!--Geef aan in welk artikel van het besluit de inwerkingtreding wordt vastgesteld.--></eId>
+               <eId>art_II</eId>
             </Tijdstempel>
          </Tijdstempels>
       </ConsolidatieInformatie>
@@ -116,44 +140,55 @@
          <RegelingOpschrift eId="longTitle" wId="longTitle">
             <Al>Programma Energie Hoofdstructuur</Al>
          </RegelingOpschrift>
-         <Aanhef eId="formula_1" wId="formula_1">
-            <Al>[Optionele aanhef]</Al>
-         </Aanhef>
          <Lichaam eId="body" wId="body">
-            <Artikel eId="art_I" wId="mnre1045_1__art_I">
+            <WijzigArtikel eId="art_I" wId="mnre1045_1__art_I">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
-                  <Opschrift>[Optioneel opschrift]</Opschrift>
+                  <Opschrift>Vaststelling Programma Energie Hoofdstructuur</Opschrift>
                </Kop>
-               <Inhoud>
-                  <Al>[Omschrijving wat er besloten wordt, met een verwijzing naar de WijzigBijlage.]</Al>
-               </Inhoud>
-            </Artikel>
+               <Wat>Het Programma Energiehoofdstructuur wordt vastgesteld, zoals aangegeven in <IntRef ref="cmp_A">bijlage A</IntRef>.</Wat>
+            </WijzigArtikel>
             <Artikel eId="art_II" wId="mnre1045_1__art_II">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
-                  <Opschrift>[Optioneel opschrift]</Opschrift>
+                  <Opschrift>Inwerkingtreding Programma Energie Hoofdstructuur</Opschrift>
                </Kop>
                <Inhoud>
-                  <Al>[Artikel dat de inwerkingtreding vaststelt.]</Al>
-                  <Al>[Sluiting]</Al>
+                  <Al>Dit programma treedt in werking op 5 december 2022.</Al>
                </Inhoud>
             </Artikel>
          </Lichaam>
+         <Sluiting eId="formula_2" wId="formula_2">
+            <Al>Aldus besloten:</Al>
+            <Ondertekening>
+               <Al>De minister voor Klimaat en Energie,</Al>
+               <Al>R. Jetten</Al>
+            </Ondertekening>
+         </Sluiting>
          <WijzigBijlage eId="cmp_A" wId="mnre1045_1__cmp_A">
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>A</Nummer>
-               <Opschrift>[Optioneel opschrift]</Opschrift>
             </Kop>
             <RegelingVrijetekst componentnaam="regeling_001"
                                 wordt="/akn/nl/act/mnre1045/2022/PEH001-001/nld@2022-11-28;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Samenvatting en ontwikkelingsperspectief 2030 en 2050</Al>
+                  <Al>Programma Energie Hoofdstructuur</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
+                  <Divisietekst xmlns:dso="https://www.dso.nl/"
+                                eId="content_o_1"
+                                wId="mnre1045_1__content_o_1"
+                                dso:niveau="1">
+                     <Kop>
+                        <Opschrift>Samenvatting en ontwikkelingsperspectief 2030 en 2050</Opschrift>
+                     </Kop>
+                     <Inhoud>
+                        <Al>PM</Al>
+                     </Inhoud>
+                  </Divisietekst>
                   <Divisie xmlns:dso="https://www.dso.nl/"
                            eId="div_1"
                            wId="mnre1045_1__div_1"
@@ -1054,7 +1089,7 @@
                                  <Opschrift>
                                     <IntIoRef eId="div_2__div_5__div_5.2__content_5.2.1__ref_o_1"
                                               wId="mnre1045_1__div_2__div_5__div_5.2__content_5.2.1__ref_o_1"
-                                              ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Locaties voor grootschalige elektriciteitsproductie</IntIoRef>
+                                              ref="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1">Locaties voor grootschalige elektriciteitsproductie</IntIoRef>
                                  </Opschrift>
                               </Kop>
                               <Inhoud>
@@ -1080,7 +1115,7 @@
                                  <Opschrift>
                                     <IntIoRef eId="div_2__div_5__div_5.2__content_5.2.3__ref_o_1"
                                               wId="mnre1045_1__div_2__div_5__div_5.2__content_5.2.3__ref_o_1"
-                                              ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1">Locaties voor bestaande hoogspanningsstations</IntIoRef>
+                                              ref="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_2__ref_o_1">Locaties voor bestaande hoogspanningsstations</IntIoRef>
                                  </Opschrift>
                               </Kop>
                               <Inhoud>
@@ -1095,7 +1130,7 @@
                                  <Opschrift>
                                     <IntIoRef eId="div_2__div_5__div_5.2__content_5.2.4__ref_o_1"
                                               wId="mnre1045_1__div_2__div_5__div_5.2__content_5.2.4__ref_o_1"
-                                              ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1">Locaties voor bestaande hoogspanningslijnen</IntIoRef>
+                                              ref="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_3__ref_o_1">Locaties voor bestaande hoogspanningslijnen</IntIoRef>
                                  </Opschrift>
                               </Kop>
                               <Inhoud>
@@ -1326,13 +1361,13 @@
                                  <Opschrift>
                                     <IntIoRef eId="div_2__div_6__div_6.2__content_6.2.2__ref_o_1"
                                               wId="mnre1045_1__div_2__div_6__div_6.2__content_6.2.2__ref_o_1"
-                                              ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_5__ref_o_1">Bestaande reserveringen voor buisleidingen</IntIoRef>
+                                              ref="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_5__ref_o_1">Bestaande reserveringen voor buisleidingen</IntIoRef>
                                  </Opschrift>
                               </Kop>
                               <Inhoud>
                                  <Al>De bestaande locaties en reserveringen voor buisleidingen moeten worden behouden. Dit betreft ook het behoud van mogelijk buiten gebruik vallende private buisleidingen [<IntIoRef eId="div_2__div_6__div_6.2__content_6.2.2__ref_o_1_inst2"
                                               wId="mnre1045_1__div_2__div_6__div_6.2__content_6.2.2__ref_o_1_inst2"
-                                              ref="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1">Behoud private buisleidingen</IntIoRef>].</Al>
+                                              ref="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_4__ref_o_1">Behoud private buisleidingen</IntIoRef>].</Al>
                               </Inhoud>
                            </Divisietekst>
                            <Divisietekst eId="div_2__div_6__div_6.2__content_6.2.3"
@@ -1585,67 +1620,167 @@
                      </Divisietekst>
                   </Divisie>
                </Lichaam>
-               <Bijlage eId="cmp_o_1" wId="mnre1045_1__cmp_o_1">
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_I"
+                        wId="mnre1045_1__cmp_I"
+                        dso:niveau="1">
                   <Kop>
                      <Label>Bijlage</Label>
+                     <Nummer>I</Nummer>
+                     <Opschrift>Concept Notitie Reikwijdte en Detailniveau Programma Energiehoofdstructuur</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_I__content_o_1" wId="mnre1045_1__cmp_I__content_o_1">
+                     <Inhoud>
+                        <Al>Bijgevoegd is ‘<IntIoRef eId="cmp_I__content_o_1__ref_o_1"
+                                     wId="mnre1045_1__cmp_I__content_o_1__ref_o_1"
+                                     ref="mnre1045_1__cmp_V__content_o_1__list_o_1__item_o_1__ref_o_1">Concept Notitie Reikwijdte en Detailniveau Programma Energiehoofdstructuur</IntIoRef>’.</Al>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_II"
+                        wId="mnre1045_1__cmp_II"
+                        dso:niveau="1">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Nummer>II</Nummer>
+                     <Opschrift>Inspraakbundel zienswijzen C NRD Programma Energiehoofdstructuur Anoniem</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_II__content_o_1" wId="mnre1045_1__cmp_II__content_o_1">
+                     <Inhoud>
+                        <Al>Bijgevoegd is ‘<IntIoRef eId="cmp_II__content_o_1__ref_o_1"
+                                     wId="mnre1045_1__cmp_II__content_o_1__ref_o_1"
+                                     ref="mnre1045_1__cmp_V__content_o_1__list_o_1__item_o_2__ref_o_1">Inspraakbundel zienswijzen C NRD Programma Energiehoofdstructuur Anoniem</IntIoRef>’.</Al>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_III"
+                        wId="mnre1045_1__cmp_III"
+                        dso:niveau="1">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Nummer>III</Nummer>
+                     <Opschrift>Memo beschrijving scenario’s</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_III__content_o_1" wId="mnre1045_1__cmp_III__content_o_1">
+                     <Inhoud>
+                        <Al>Bijgevoegd is ‘<IntIoRef eId="cmp_III__content_o_1__ref_o_1"
+                                     wId="mnre1045_1__cmp_III__content_o_1__ref_o_1"
+                                     ref="mnre1045_1__cmp_V__content_o_1__list_o_1__item_o_3__ref_o_1">Memo beschrijving scenario’s</IntIoRef>’.</Al>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+               <Bijlage eId="cmp_IV" wId="mnre1045_1__cmp_IV">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Nummer>IV</Nummer>
                      <Opschrift>Overzicht van informatieobjecten</Opschrift>
                   </Kop>
-                  <Divisietekst eId="cmp_o_1__content_o_1" wId="mnre1045_1__cmp_o_1__content_o_1">
-                     <Inhoud><!--diagnose: controleer dat elke ExtIoRef een bijbehorend IntIoRef heeft-->
-                        <Begrippenlijst eId="cmp_o_1__content_o_1__list_o_1"
-                                        wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1">
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1"
-                                   wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1"><!--or_elektriciteit_locaties_grootschalige_opwekking_nw1.gml-->
+                  <Divisietekst eId="cmp_IV__content_o_1" wId="mnre1045_1__cmp_IV__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_IV__content_o_1__list_o_1"
+                                        wId="mnre1045_1__cmp_IV__content_o_1__list_o_1">
+                           <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_1"
+                                   wId="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_1"><!--or_elektriciteit_locaties_grootschalige_opwekking_nw1.gml-->
                               <Term>Locaties voor grootschalige elektriciteitsproductie</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                    <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               ref="/join/id/regdata/mnre1045/2022/2305961014/nld@2022-11-28;1">/join/id/regdata/mnre1045/2022/2305961014/nld@2022-11-28;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_2"
-                                   wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_2"><!--TENNET_Hoogspanningsstation.gml-->
+                           <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_2"
+                                   wId="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_2"><!--TENNET_Hoogspanningsstation.gml-->
                               <Term>Locaties voor bestaande hoogspanningsstations</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                              wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                    <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                              wId="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_2__ref_o_1"
                                               ref="/join/id/regdata/mnre1045/2022/2270371436/nld@2022-11-28;1">/join/id/regdata/mnre1045/2022/2270371436/nld@2022-11-28;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_3"
-                                   wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_3"><!--or_elektriciteit_hoogspanningsverbindingen_nw1.gml-->
+                           <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_3"
+                                   wId="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_3"><!--or_elektriciteit_hoogspanningsverbindingen_nw1.gml-->
                               <Term>Locaties voor bestaande hoogspanningslijnen</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1"
-                                              wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                    <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                              wId="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_3__ref_o_1"
                                               ref="/join/id/regdata/mnre1045/2022/421406185/nld@2022-11-28;1">/join/id/regdata/mnre1045/2022/421406185/nld@2022-11-28;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_4"
-                                   wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_4"><!--or_buisleidingen_zoekgebieden.gml-->
+                           <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_4"
+                                   wId="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_4"><!--or_buisleidingen_zoekgebieden.gml-->
                               <Term>Behoud private buisleidingen</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1"
-                                              wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                    <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                              wId="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_4__ref_o_1"
                                               ref="/join/id/regdata/mnre1045/2022/339024076/nld@2022-11-28;1">/join/id/regdata/mnre1045/2022/339024076/nld@2022-11-28;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_5"
-                                   wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_5"><!--or_buisleidingen_reserveringsgebieden_2021-07-13.gml-->
+                           <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_5"
+                                   wId="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_5"><!--or_buisleidingen_reserveringsgebieden_2021-07-13.gml-->
                               <Term>Bestaande reserveringen voor buisleidingen</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                              wId="mnre1045_1__cmp_o_1__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                    <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                              wId="mnre1045_1__cmp_IV__content_o_1__list_o_1__item_o_5__ref_o_1"
                                               ref="/join/id/regdata/mnre1045/2022/3446744085/nld@2022-11-28;1">/join/id/regdata/mnre1045/2022/3446744085/nld@2022-11-28;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+               <Bijlage eId="cmp_IV_inst2" wId="mnre1045_1__cmp_IV_inst2">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Nummer>IV</Nummer>
+                     <Opschrift>Overzicht van PDF-informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_IV_inst2__content_o_1"
+                                wId="mnre1045_1__cmp_IV_inst2__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_IV_inst2__content_o_1__list_o_1"
+                                        wId="mnre1045_1__cmp_IV_inst2__content_o_1__list_o_1">
+                           <Begrip eId="cmp_IV_inst2__content_o_1__list_o_1__item_o_1"
+                                   wId="mnre1045_1__cmp_IV_inst2__content_o_1__list_o_1__item_o_1">
+                              <Term>Concept Notitie Reikwijdte en Detailniveau Programma Energiehoofdstructuur</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_IV_inst2__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="mnre1045_1__cmp_IV_inst2__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/mnre1045/2022/concept_notitie_reikwijdte_en_detailniveau_programma_energiehoofdstructuur/nld@2022-11-28;1">/join/id/regdata/mnre1045/2022/concept_notitie_reikwijdte_en_detailniveau_programma_energiehoofdstructuur/nld@2022-11-28;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_IV_inst2__content_o_1__list_o_1__item_o_2"
+                                   wId="mnre1045_1__cmp_IV_inst2__content_o_1__list_o_1__item_o_2">
+                              <Term>Inspraakbundel zienswijzen C NRD Programma Energiehoofdstructuur Anoniem</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_IV_inst2__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                              wId="mnre1045_1__cmp_IV_inst2__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                              ref="/join/id/regdata/mnre1045/2022/inspraakbundel_zienswijzen_c_nrd_programma_energiehoofdstructuur_anoniem/nld@2022-11-28;1">/join/id/regdata/mnre1045/2022/inspraakbundel_zienswijzen_c_nrd_programma_energiehoofdstructuur_anoniem/nld@2022-11-28;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_IV_inst2__content_o_1__list_o_1__item_o_3"
+                                   wId="mnre1045_1__cmp_IV_inst2__content_o_1__list_o_1__item_o_3">
+                              <Term>Memo beschrijving scenario’s</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_IV_inst2__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                              wId="mnre1045_1__cmp_IV_inst2__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                              ref="/join/id/regdata/mnre1045/2022/memo_beschrijving_scenarios/nld@2022-11-28;1">/join/id/regdata/mnre1045/memo_beschrijving_scenarios/nld@2022-11-28;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -1671,10 +1806,10 @@
          <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
          <maker>/tooi/id/ministerie/mnre1045</maker>
          <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
-         <officieleTitel>Samenvatting en ontwikkelingsperspectief 2030 en 2050</officieleTitel>
+         <officieleTitel>Programma Energie Hoofdstructuur</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
-               <citeertitel>Samenvatting en ontwikkelingsperspectief 2030 en 2050</citeertitel>
+               <citeertitel>Programma Energie Hoofdstructuur</citeertitel>
                <isOfficieel>true</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
@@ -1691,7 +1826,7 @@
             <overheidsdomein>/tooi/def/concept/c_86b84a9d</overheidsdomein>
          </overheidsdomeinen>
          <onderwerpen>
-            <onderwerp>geen</onderwerp>
+            <onderwerp>/tooi/def/concept/c_85a72eb3</onderwerp>
          </onderwerpen>
          <rechtsgebieden>
             <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>

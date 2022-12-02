@@ -84,7 +84,7 @@
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20221128000004"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690002305961014"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.0010032143690002305961014"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690003051509560"/>
@@ -110,7 +110,7 @@
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20221128000005"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690002270371436"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.0010032143690002270371436"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.0000000100321436900088037552"/>
@@ -134,7 +134,7 @@
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20221128000006"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000421406185"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.001003214369000421406185"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690002371901523"/>
@@ -178,8 +178,8 @@
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20221128000008"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000339024076"/>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690003446744085"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.001003214369000339024076"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.0010032143690003446744085"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000103763929"/>

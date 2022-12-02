@@ -3,19 +3,19 @@
   <geo:context>
     <gio:GeografischeContext>
       <gio:achtergrondVerwijzing/>
-      <gio:achtergrondActualiteit>2022-11-28</gio:achtergrondActualiteit>
+      <gio:achtergrondActualiteit>2022-12-01</gio:achtergrondActualiteit>
     </gio:GeografischeContext>
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/mnre1045/2022/339024076</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/mnre1045/2022/339024076/nld@2022-11-28;1</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/mnre1045/2022/3446744085</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/mnre1045/2022/3446744085/nld@2022-11-28;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Bestaande reserveringen voor buisleidingen</geo:naam>
           <geo:geometrie>
-            <basisgeo:Geometrie gml:id="id-8446e2e5-b61c-4702-9371-0312067eacb3-xx">
-              <basisgeo:id>8446e2e5-b61c-4702-9371-0312067eacb3</basisgeo:id>
+            <basisgeo:Geometrie gml:id="id-2a66f6c7-0292-4f42-be37-c3d7e95d52da-xx">
+              <basisgeo:id>2a66f6c7-0292-4f42-be37-c3d7e95d52da</basisgeo:id>
               <basisgeo:geometrie>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
                   <gml:surfaceMember>

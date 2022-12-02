@@ -120,4 +120,28 @@
       <bestandsnaam>TENNET_Hoogspanningsstation.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
+   <bestand>
+      <bestandsnaam>Dummy_bijlage_Concept-Notitie-Reikwijdte-en-Detailniveau-Programma-Energiehoofdstructuur.pdf</bestandsnaam>
+      <contentType>application/pdf</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Dummy_bijlage_Concept-Notitie-Reikwijdte-en-Detailniveau-Programma-Energiehoofdstructuur.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Dummy_bijlage_Inspraakbundel-zienswijzen-C-NRD-Programma-Energiehoofdstructuur-Anoniem.pdf</bestandsnaam>
+      <contentType>application/pdf</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Dummy_bijlage_Inspraakbundel-zienswijzen-C-NRD-Programma-Energiehoofdstructuur-Anoniem.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Dummy_bijlage_Memo_beschrijving_scenarios.pdf</bestandsnaam>
+      <contentType>application/pdf</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Dummy_bijlage_Memo_beschrijving_scenarios.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
 </manifest>

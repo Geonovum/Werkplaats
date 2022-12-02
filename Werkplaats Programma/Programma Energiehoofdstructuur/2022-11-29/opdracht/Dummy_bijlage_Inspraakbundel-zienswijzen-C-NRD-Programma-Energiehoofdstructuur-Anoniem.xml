@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/mnre1045/2022/inspraakbundel_zienswijzen_c_nrd_programma_energiehoofdstructuur_anoniem</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1045/2022/inspraakbundel_zienswijzen_c_nrd_programma_energiehoofdstructuur_anoniem/nld@2022-11-28;1</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftGeboorteregeling>/akn/nl/act/mnre1045/2022/PEH001-001/nld@2022-11-28;1</heeftGeboorteregeling>
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Dummy_bijlage_Inspraakbundel-zienswijzen-C-NRD-Programma-Energiehoofdstructuur-Anoniem.xml</bestandsnaam>
+            <hash>6e46317d27dd6d06f80231452ce45a3a46edcd8b9e87bae172d471f5f62982770b5e5069016f7b38dc5c21883146f2c239d3401eb57bc3241105d1c3836b9c3f</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+      <maker>/tooi/id/ministerie/mnre1045</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Inspraakbundel zienswijzen C NRD Programma Energiehoofdstructuur Anoniem</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/mnre1045/2022/inspraakbundel_zienswijzen_c_nrd_programma_energiehoofdstructuur_anoniem</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <naamInformatieObject>Inspraakbundel zienswijzen C NRD Programma Energiehoofdstructuur Anoniem</naamInformatieObject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>
