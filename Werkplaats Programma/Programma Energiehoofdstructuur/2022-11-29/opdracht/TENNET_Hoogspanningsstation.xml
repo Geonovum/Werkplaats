@@ -7,11 +7,11 @@
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling>/akn/nl/act/mnre1045/2022/PEH001-001/nld@2022-11-28;1</heeftGeboorteregeling>
+      <heeftGeboorteregeling>/akn/nl/act/mnre1045/2022/PEH001-001</heeftGeboorteregeling>
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
-            <bestandsnaam>Hoogspanningsstation.gml</bestandsnaam>
+            <bestandsnaam>TENNET_Hoogspanningsstation.gml</bestandsnaam>
             <hash>ed305103df47e44ebf0c8c3d55d79f55e62061821da8d9e1913f1bdf4271019c3cb82b9b2bd7d9b9c7197a115995b2e4c62e9dd4d3b690deb4a4cbd838c13e97</hash>
           </Bestand>
         </heeftBestand>

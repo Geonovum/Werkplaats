@@ -7,12 +7,12 @@
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling>/akn/nl/act/mnre1045/2022/PEH001-001/nld@2022-11-28;1</heeftGeboorteregeling>
+      <heeftGeboorteregeling>/akn/nl/act/mnre1045/2022/PEH001-001</heeftGeboorteregeling>
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
             <bestandsnaam>or_elektriciteit_hoogspanningsverbindingen_nw1.gml</bestandsnaam>
-            <hash>037b6c6fe331720ce58847970e1d139326a2684bbf0fb8c406f4c2df1c5f4ef1d152356bede527be7af316f1570d5e3d9625c69b1a76e92568f3e4337b070c5a</hash>
+            <hash>a39feae5910bb143fed7a6f3d4e2a2cbe5091cb4fe4b3f45083463a155b016dea29ebe733d874273e7f1655a92b0727d25bc638abe4a789efdd92b1979ce50b6</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>

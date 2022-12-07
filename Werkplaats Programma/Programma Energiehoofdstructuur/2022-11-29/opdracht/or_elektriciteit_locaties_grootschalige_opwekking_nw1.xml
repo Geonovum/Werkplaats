@@ -7,12 +7,12 @@
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling>/akn/nl/act/mnre1045/2022/PEH001-001/nld@2022-11-28;1</heeftGeboorteregeling>
+      <heeftGeboorteregeling>/akn/nl/act/mnre1045/2022/PEH001-001</heeftGeboorteregeling>
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
             <bestandsnaam>or_elektriciteit_locaties_grootschalige_opwekking_nw1.gml</bestandsnaam>
-            <hash>fca765159794386e70442fa745faad2c4e26525cc0b11b589669ed7d976a65a64e2faf3bf4aecee978c0bca153ce7da087dc8391190be0e1eb7d5b705bb4119d</hash>
+            <hash>29e5a01aa2aff4940ae82504bd58966dcc26ecf2c69107d6ab252d7e9efcc170ccaab3470f5dd9440d65a5eecf8dd36176b15407343a0329386064fc50ca9367</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
