@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/mnre1045/2022/concept_notitie_reikwijdte_en_detailniveau_programma_energiehoofdstructuur</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1045/2022/concept_notitie_reikwijdte_en_detailniveau_programma_energiehoofdstructuur/nld@2022-11-28;2</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftGeboorteregeling>/akn/nl/act/mnre1045/2022/PEH001-001</heeftGeboorteregeling>
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Dummy_bijlage_Concept-Notitie-Reikwijdte-en-Detailniveau-Programma-Energiehoofdstructuur.pdf</bestandsnaam>
+            <hash>bdac9185ba402b06a7e864bf9a1c19d83e24c5fb5a48f9234d11902abb7b8dea416d421b413287193b174e32434b6dc799439a2df788fe1e1623ffd0edfb599c</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+      <maker>/tooi/id/ministerie/mnre1045</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Concept Notitie Reikwijdte en Detailniveau Programma Energiehoofdstructuur</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/mnre1045/2022/concept_notitie_reikwijdte_en_detailniveau_programma_energiehoofdstructuur</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/doc_001</formaatInformatieobject>
+      <naamInformatieObject>Concept Notitie Reikwijdte en Detailniveau Programma Energiehoofdstructuur</naamInformatieObject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>

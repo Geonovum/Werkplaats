@@ -1,0 +1,1838 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/mnre1045/2022/PEH001-002</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/mnre1045/2022/PEH001-002/nld@2022-11-28;2</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
+         <officieleTitel>Programma Energiehoofdstructuur</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Programma Energiehoofdstructuur</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <grondslagen>
+            <grondslag>
+               <TekstReferentie>
+                  <uri>jcil.31:c:BWBR0037885&amp;artikel=5.44</uri>
+                  <label>Artikel 5.44 Omgevingswet</label>
+                  <soortRef>JCI</soortRef>
+               </TekstReferentie>
+            </grondslag>
+         </grondslagen>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_85a72eb3</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/2305961014/nld@2022-11-28;2</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/2270371436/nld@2022-11-28;2</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/421406185/nld@2022-11-28;2</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/339024076/nld@2022-11-28;2</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/3446744085/nld@2022-11-28;2</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/concept_notitie_reikwijdte_en_detailniveau_programma_energiehoofdstructuur/nld@2022-11-28;2</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/inspraakbundel_zienswijzen_c_nrd_programma_energiehoofdstructuur_anoniem/nld@2022-11-28;2</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1045/2022/memo_beschrijving_scenarios/nld@2022-11-28;2</informatieobjectRef>
+         </informatieobjectRefs>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2022-11-29</bekendOp>
+         <ontvangenOp>2022-11-28</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2022-11-28</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2022-11-28</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/regeling_002</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/mnre1045/2022/PEH001-001/nld@2022-11-28;2</instrumentVersie>
+               <eId>art_I</eId>
+            </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/regeling_002</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/2305961014/nld@2022-11-28;2</instrumentVersie>
+               <eId>!regeling_002#cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/regeling_002</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/2270371436/nld@2022-11-28;2</instrumentVersie>
+               <eId>!regeling_002#cmp_IV__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/regeling_002</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/421406185/nld@2022-11-28;2</instrumentVersie>
+               <eId>!regeling_002#cmp_IV__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/regeling_002</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/339024076/nld@2022-11-28;2</instrumentVersie>
+               <eId>!regeling_002#cmp_IV__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/regeling_002</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/3446744085/nld@2022-11-28;2</instrumentVersie>
+               <eId>!regeling_002#cmp_IV__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/regeling_002</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/concept_notitie_reikwijdte_en_detailniveau_programma_energiehoofdstructuur/nld@2022-11-28;2</instrumentVersie>
+               <eId>!regeling_002#cmp_V__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/regeling_002</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/inspraakbundel_zienswijzen_c_nrd_programma_energiehoofdstructuur_anoniem/nld@2022-11-28;2</instrumentVersie>
+               <eId>!regeling_002#cmp_V__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/mnre1045/2022/regeling_002</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/mnre1045/2022/memo_beschrijving_scenarios/nld@2022-11-28;2</instrumentVersie>
+               <eId>!regeling_002#cmp_V__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
+            </BeoogdInformatieobject>
+         </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/mnre1045/2022/regeling_002</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2022-12-20</datum>
+               <eId>art_II</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Programma Energiehoofdstructuur</Al>
+         </RegelingOpschrift>
+         <Lichaam eId="body" wId="body">
+            <WijzigArtikel eId="art_I" wId="mnre1045_2__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+                  <Opschrift>Vaststelling Programma Energiehoofdstructuur</Opschrift>
+               </Kop>
+               <Wat>Het Programma Energiehoofdstructuur wordt vastgesteld, zoals aangegeven in <IntRef ref="cmp_A">bijlage A</IntRef>.</Wat>
+            </WijzigArtikel>
+            <Artikel eId="art_II" wId="mnre1045_2__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+                  <Opschrift>Inwerkingtreding Programma Energiehoofdstructuur</Opschrift>
+               </Kop>
+               <Inhoud>
+                  <Al>Dit programma treedt in werking op 5 december 2022.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <Sluiting eId="formula_2" wId="formula_2">
+            <Al>Aldus besloten:</Al>
+            <Ondertekening>
+               <Al>De minister voor Klimaat en Energie,</Al>
+               <Al>R. Jetten</Al>
+            </Ondertekening>
+         </Sluiting>
+         <WijzigBijlage eId="cmp_A" wId="mnre1045_2__cmp_A">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>A</Nummer>
+            </Kop>
+            <RegelingMutatie componentnaam="regeling_002" was="/akn/nl/act/mnre1045/2022/PEH001-001/nld@2022-11-28;1" wordt="/akn/nl/act/mnre1045/2022/PEH001-001/nld@2022-11-28;2">
+               <VervangRegeling>
+                  <RegelingVrijetekst>
+                     <RegelingOpschrift eId="longTitle" wId="longTitle">
+                        <Al>Programma Energiehoofdstructuur</Al>
+                     </RegelingOpschrift>
+                     <Lichaam eId="body" wId="body">
+                        <Divisietekst xmlns:dso="https://www.dso.nl/"
+                                      eId="content_o_1"
+                                      wId="mnre1045_2__content_o_1"
+                                      dso:niveau="1">
+                           <Kop>
+                              <Opschrift>Samenvatting en ontwikkelingsperspectief 2030 en 2050</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>PM</Al>
+                           </Inhoud>
+                        </Divisietekst>
+                        <Divisie xmlns:dso="https://www.dso.nl/"
+                                 eId="div_1"
+                                 wId="mnre1045_2__div_1"
+                                 dso:niveau="1">
+                           <Kop>
+                              <Label>Deel</Label>
+                              <Nummer>1</Nummer>
+                              <Opschrift>Achtergrond en kader</Opschrift>
+                           </Kop>
+                           <Divisietekst eId="div_1__content_1"
+                                         wId="mnre1045_2__div_1__content_1"
+                                         dso:niveau="2">
+                              <Kop>
+                                 <Nummer>1</Nummer>
+                                 <Opschrift>Inleiding (achtergrond en doelen)</Opschrift>
+                              </Kop>
+                              <Inhoud>
+                                 <Al>Nederland staat de komende jaren voor de opgave om een energietransitie te realiseren. Leidend hierbij zijn de afspraken uit het Klimaatakkoord en internationale afspraken om de uitstoot van CO<sub>2</sub> te reduceren. Dit vereist een goede energie-infrastructuur. Nieuwe, schone vormen van opwekking, opslag en transport van energie moeten worden ingepast. Bovendien wordt de energievoorziening decentraler, waardoor de belangen van overheden, burgers, bedrijven en maatschappelijke organisaties op gebiedsniveau steeds nadrukkelijker samenkomen.</Al>
+                                 <Al>Het Programma Energiehoofdstructuur (PEH) is door het Rijk aangekondigd in het Klimaatakkoord en in de Nationale Omgevingsvisie (NOVI). Het PEH is afgebakend in de kamerbrief van de Minister van 20 mei 20203. De ambitie van het Programma Energiehoofdstructuur is tijdig te zorgen voor voldoende ruimte voor de nationale energiehoofdstructuur, op basis van een integrale afweging met andere opgaven en belangen, binnen een (inter)nationale context en waarbij een goede leefomgevingskwaliteit randvoorwaarde is. Het programma heeft betrekking op ruimtelijk beleid op land en de grote wateren en hanteert als tijdshorizon 2030-2050. Het gaat dus over het gehele Nederlandse grondoppervlak, uitgezonderd de Noordzee. Wanneer gesproken wordt over de nationale energiehoofdstructuur in het kader van het PEH – daar waarover (beleids)uitspraken worden gedaan – gaat het om infrastructuur van nationaal belang. Daarmee worden o.a. de hoogspanningsverbindingen (inclusief bijbehorende stations) en buisleidingen van nationaal belang bedoeld. Dit zijn zowel de huidige verbindingen, eventueel benodigde verbindingen maar ook de in het Besluit algemene regels ruimtelijke ordening (Barro) gereserveerde verbindingen. In het Barro zijn naast verbindingen ook locaties aangewezen die gereserveerd zijn voor de ontwikkeling van energieproductie (waarbij 3 specifieke locaties voor energieproductie door middel van kernenergie). Ook deze locaties maken onderdeel uit van de nationale energiehoofdstructuur in het kader van PEH. Om (beleids)uitspraken te kunnen doen, is het noodzakelijk om de invloed van andere onderdelen van het systeem op de energiehoofdstructuur in beeld te krijgen. Hierbij valt te denken aan grootschalige opwek door zon en wind of groen gas productie. Het PEH zal geen locaties voor deze onderdelen aanwijzen. Tot slot vallen onder de energie-infrastructuur ook de infrastructuren voor grootschalige opslag en conversie.</Al>
+                                 <Lijst eId="div_1__content_1__list_o_1"
+                                        wId="mnre1045_2__div_1__content_1__list_o_1"
+                                        type="expliciet">
+                                    <Lijstaanhef>Voor de analyse richt het PEH zich inhoudelijk op drie samenhangende deelsystemen van de energie-infrastructuur op land en in grote wateren:</Lijstaanhef>
+                                    <Li eId="div_1__content_1__list_o_1__item_o_1"
+                                        wId="mnre1045_2__div_1__content_1__list_o_1__item_o_1">
+                                       <LiNummer>•</LiNummer>
+                                       <Al>Elektriciteit</Al>
+                                    </Li>
+                                    <Li eId="div_1__content_1__list_o_1__item_o_2"
+                                        wId="mnre1045_2__div_1__content_1__list_o_1__item_o_2">
+                                       <LiNummer>•</LiNummer>
+                                       <Al>(Brand)stoffen waterstof en CO<sub>2</sub>
+                                       </Al>
+                                    </Li>
+                                    <Li eId="div_1__content_1__list_o_1__item_o_3"
+                                        wId="mnre1045_2__div_1__content_1__list_o_1__item_o_3">
+                                       <LiNummer>•</LiNummer>
+                                       <Al>Warmte</Al>
+                                    </Li>
+                                 </Lijst>
+                                 <Al>Hierbij wordt per deelsysteem rekening gehouden met de productie, conversie, transport en de opslag van de energiedragers.</Al>
+                              </Inhoud>
+                           </Divisietekst>
+                           <Divisietekst eId="div_1__content_2"
+                                         wId="mnre1045_2__div_1__content_2"
+                                         dso:niveau="2">
+                              <Kop>
+                                 <Nummer>2</Nummer>
+                                 <Opschrift>Probleemanalyse/ontwikkelingen</Opschrift>
+                              </Kop>
+                              <Inhoud>
+                                 <Figuur eId="div_1__content_2__img_o_1"
+                                         wId="mnre1045_2__div_1__content_2__img_o_1">
+                                    <Illustratie naam="image1.png"
+                                                 formaat="image/png"
+                                                 breedte="4805"
+                                                 hoogte="11468"
+                                                 dpi="72"
+                                                 uitlijning="start"/>
+                                    <Bijschrift locatie="boven">Figuur 1Ruimtebeslag onderdelen energiesysteem</Bijschrift>
+                                 </Figuur>
+                                 <Lijst eId="div_1__content_2__list_o_1"
+                                        wId="mnre1045_2__div_1__content_2__list_o_1"
+                                        type="expliciet">
+                                    <Li eId="div_1__content_2__list_o_1__item_a"
+                                        wId="mnre1045_2__div_1__content_2__list_o_1__item_a">
+                                       <LiNummer>a.</LiNummer>
+                                       <Al>Ruimte voor energietransitie</Al>
+                                    </Li>
+                                    <Li eId="div_1__content_2__list_o_1__item_b"
+                                        wId="mnre1045_2__div_1__content_2__list_o_1__item_b">
+                                       <LiNummer>b.</LiNummer>
+                                       <Al>Elektriciteit</Al>
+                                    </Li>
+                                    <Li eId="div_1__content_2__list_o_1__item_c"
+                                        wId="mnre1045_2__div_1__content_2__list_o_1__item_c">
+                                       <LiNummer>c.</LiNummer>
+                                       <Al>(Brand)stoffen</Al>
+                                    </Li>
+                                    <Li eId="div_1__content_2__list_o_1__item_d"
+                                        wId="mnre1045_2__div_1__content_2__list_o_1__item_d">
+                                       <LiNummer>d.</LiNummer>
+                                       <Al>Warmte</Al>
+                                    </Li>
+                                    <Li eId="div_1__content_2__list_o_1__item_e"
+                                        wId="mnre1045_2__div_1__content_2__list_o_1__item_e">
+                                       <LiNummer>e.</LiNummer>
+                                       <Al>Systeemintegratie</Al>
+                                    </Li>
+                                    <Li eId="div_1__content_2__list_o_1__item_f"
+                                        wId="mnre1045_2__div_1__content_2__list_o_1__item_f">
+                                       <LiNummer>f.</LiNummer>
+                                       <Al>Internationaal speelveld</Al>
+                                    </Li>
+                                 </Lijst>
+                              </Inhoud>
+                           </Divisietekst>
+                           <Divisie eId="div_1__div_3" wId="mnre1045_2__div_1__div_3" dso:niveau="2">
+                              <Kop>
+                                 <Nummer>3</Nummer>
+                                 <Opschrift>Overkoepelend ruimtelijk kader</Opschrift>
+                              </Kop>
+                              <Divisie eId="div_1__div_3__div_3.1"
+                                       wId="mnre1045_2__div_1__div_3__div_3.1"
+                                       dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>3.1</Nummer>
+                                    <Opschrift>Beleidskader</Opschrift>
+                                 </Kop>
+                                 <Divisietekst eId="div_1__div_3__div_3.1__content_o_1"
+                                               wId="mnre1045_2__div_1__div_3__div_3.1__content_o_1"
+                                               dso:niveau="5">
+                                    <Kop>
+                                       <Opschrift>Programma onder de Omgevingswet (aanvullen/toetsen met notitie Alexandra)</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>Het PEH is een programma in de terminologie van de Omgevingswet. Met de invoering van de Omgevingswet wordt het instrument ‘structuurvisie’ vervangen door het instrument ‘programma’. Dit is een vergelijkbaar inhoudelijk beleidsdocument, dat een uitwerking is van het beleid in een omgevingsvisie (in dit geval de Nationale Omgevingsvisie) en (thematisch) beleid beschrijft voor de inrichting van de ruimte.</Al>
+                                       <Al>Het Programma Energiehoofdstructuur valt onder het type ‘vrijwillig programma’. De Omgevingswet stelt verder geen vormvereisten aan de inhoud van dit type programma. Een programma is zelfbindend voor het Rijk en is daarmee kaderstellend voor besluiten van het Rijk, zoals de Rijksinpassingsplannen/projectbesluiten. Het kan daarnaast ook de inhoudelijke grondslag geven om, via verschillende algemene maatregelen van bestuur (AMvB’s), doorwerking te realiseren naar de plannen van provincies en gemeenten.</Al>
+                                       <Al>Ter onderbouwing van het PEH is een Integrale Effectanalyse opgesteld. Daarmee is invulling gegeven aan het vereiste om milieueffecten in beeld te brengen (plan-m.e.r. plicht), maar is ook breder gekeken naar de effecten op het energiesysteem en brede welvaartseffecten. Zodoende de term Integrale Effectanalyse in plaats van Milieueffectrapportage.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_1__div_3__div_3.1__content_o_2"
+                                               wId="mnre1045_2__div_1__div_3__div_3.1__content_o_2"
+                                               dso:niveau="5">
+                                    <Kop>
+                                       <Opschrift>Nationale Omgevingsvisie (NOVI)</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>De Nationale Omgevingsvisie (NOVI) vormt het overkoepelend beleidskader voor het Programma Energiehoofdstructuur. Centraal in de NOVI staat de samenhang en afstemming tussen verschillende belangen in de leefomgeving, met als doel een goede leefomgevingskwaliteit. Dit is ook vastgelegd in de doelstelling van dit programma.</Al>
+                                       <Lijst eId="div_1__div_3__div_3.1__content_o_2__list_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.1__content_o_2__list_o_1"
+                                              type="expliciet">
+                                          <Lijstaanhef>De NOVI benoemt nationale belangen ten aanzien van de fysieke leefomgeving. In dit programma gaat het hoofdzakelijk om de uitwerking van:</Lijstaanhef>
+                                          <Li eId="div_1__div_3__div_3.1__content_o_2__list_o_1__item_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.1__content_o_2__list_o_1__item_o_1">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Een betrouwbare, betaalbare en veilige energievoorziening, die in 2050 CO<sub>2</sub>-arm is, en de daarbij benodigde hoofdinfrastructuur.</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.1__content_o_2__list_o_1__item_o_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.1__content_o_2__list_o_1__item_o_2">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Waarborgen van de hoofdinfrastructuur voor transport van stoffen via (buis)leidingen.</Al>
+                                          </Li>
+                                       </Lijst>
+                                       <Al>Onder hoofdstuk 4 wordt beschreven hoe PEH invulling geeft aan die nationale belangen en daarmee wat de precieze reikwijdte is van PEH.</Al>
+                                       <Lijst eId="div_1__div_3__div_3.1__content_o_2__list_o_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.1__content_o_2__list_o_2"
+                                              type="expliciet">
+                                          <Lijstaanhef>De NOVI bevat drie algemene afwegingsprincipes om te helpen bij het wegen van belangen en maken van keuzes om te komen tot een evenwichtig gebruik van de fysieke leefomgeving:</Lijstaanhef>
+                                          <Li eId="div_1__div_3__div_3.1__content_o_2__list_o_2__item_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.1__content_o_2__list_o_2__item_1">
+                                             <LiNummer>1.</LiNummer>
+                                             <Al>Combinaties van functies gaan voor enkelvoudige functies;</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.1__content_o_2__list_o_2__item_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.1__content_o_2__list_o_2__item_2">
+                                             <LiNummer>2.</LiNummer>
+                                             <Al>Kenmerken en identiteit van een gebied staan centraal;</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.1__content_o_2__list_o_2__item_3"
+                                              wId="mnre1045_2__div_1__div_3__div_3.1__content_o_2__list_o_2__item_3">
+                                             <LiNummer>3.</LiNummer>
+                                             <Al>Afwentelen wordt voorkomen.</Al>
+                                          </Li>
+                                       </Lijst>
+                                       <Al>Binnen PEH is hier op diverse manieren invulling aangegeven. In de onderliggende Integrale Effectenanalyse zijn effecten onderzocht op bestaande kwaliteiten en functies in de leefomgeving, onder meer met behulp van de lagenbenadering (zie ook paragraaf x Onderzoeksopzet). Ook zijn de voorgenomen keuzes die binnen PEH worden gemaakt getoetst bij decentrale overheden, diverse maatschappelijke partijen en experts, en andere lopende nationale programma’s op eventuele risico’s en kansen voor nieuwe ontwikkelingen. Binnen PEH zijn die risico’s en kansen beschreven voor zowel die bestaande functies als ontwikkelingen en opgaven van de toekomst. De richtingen die PEH aangeeft worden pas echt in projecten geconcretiseerd, en dan is ook het moment om met maatwerk invulling te geven aan het mitigeren van risico’s en het verzilveren van kansen.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_1__div_3__div_3.1__content_o_3"
+                                               wId="mnre1045_2__div_1__div_3__div_3.1__content_o_3"
+                                               dso:niveau="5">
+                                    <Kop>
+                                       <Opschrift>Besluit Kwaliteit Leefomgeving</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Lijst eId="div_1__div_3__div_3.1__content_o_3__list_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.1__content_o_3__list_o_1"
+                                              type="expliciet">
+                                          <Lijstaanhef>In ander relevant instrument uit de Omgevingswet is het Besluit Kwaliteit Leefomgeving (Bkl). In het Besluit kwaliteit leefomgeving (Bkl) staan regels over omgevingswaarden, instructieregels, beoordelingsregels en regels voor monitoring. Het Bkl geldt voor het Rijk en decentrale overheden. In het Bkl staan concrete ruimtelijke aanwijzingen voor energieinfrastructuur. Dit gaat om:</Lijstaanhef>
+                                          <Li eId="div_1__div_3__div_3.1__content_o_3__list_o_1__item_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.1__content_o_3__list_o_1__item_o_1">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Aanwijzingen en bijbehorend waarborgingsbeleid voor vestigingsplaatsen voor grootschalige elektriciteitsopwekking &gt;500MW</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.1__content_o_3__list_o_1__item_o_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.1__content_o_3__list_o_1__item_o_2">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Aanwijzingen en bijbehorend waarborgingsbeleid voor vestigingsplaatsen voor kernenergiecentrales</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.1__content_o_3__list_o_1__item_o_3"
+                                              wId="mnre1045_2__div_1__div_3__div_3.1__content_o_3__list_o_1__item_o_3">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Aanwijzingen en bijbehorende ruimtelijke reserveringen voor hoogspanningsverbindingen.</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.1__content_o_3__list_o_1__item_o_4"
+                                              wId="mnre1045_2__div_1__div_3__div_3.1__content_o_3__list_o_1__item_o_4">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Aanwijzingen en bijbehorend waarborgingsbeleid voor tracés van buisleidingenstroken.</Al>
+                                          </Li>
+                                       </Lijst>
+                                       <Al>Het Programma Energiehoofdstructuur bekijkt of deze aanwijzingen nog actueel zijn en in stand moeten blijven, en in hoeverre er nieuwe aanwijzingen nodig zijn.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                              </Divisie>
+                              <Divisie eId="div_1__div_3__div_3.2"
+                                       wId="mnre1045_2__div_1__div_3__div_3.2"
+                                       dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>3.2</Nummer>
+                                    <Opschrift>PEH als opvolger van de Structuurvisie Buisleidingen en het Structuurschema Elektriciteitsvoorziening</Opschrift>
+                                 </Kop>
+                                 <Divisietekst eId="div_1__div_3__div_3.2__content_o_1"
+                                               wId="mnre1045_2__div_1__div_3__div_3.2__content_o_1">
+                                    <Inhoud>
+                                       <Lijst eId="div_1__div_3__div_3.2__content_o_1__list_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_1__list_o_1"
+                                              type="expliciet">
+                                          <Li eId="div_1__div_3__div_3.2__content_o_1__list_o_1__item_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_1__list_o_1__item_o_1">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Obv SB en SEV zijn concrete aanwijzingen vastgelegd in BKL.</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_1__list_o_1__item_o_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_1__list_o_1__item_o_2">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Evaluatie SEV</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_1__list_o_1__item_o_3"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_1__list_o_1__item_o_3">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>PEH vernieuwd waar nodig uitgangspunten en beginselen van aanleg van infra (verwijzen naar volgende hoofdstuk).</Al>
+                                          </Li>
+                                       </Lijst>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_1__div_3__div_3.2__content_o_2"
+                                               wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2"
+                                               dso:niveau="5">
+                                    <Kop>
+                                       <Opschrift>Structuurvisie buisleidingen</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>De Structuurvisie Buisleidingen is een visie van het Rijk waarmee het Rijk voor de komende 20 tot 30 jaar ruimte wil reserveren in Nederland voor toekomstige buisleidingen voor gevaarlijke stoffen. Het gaat daarbij om ondergrondse buisleidingen voor het transport van aardgas, olieproducten en chemicaliën, die provinciegrens- en vaak ook landgrensoverschrijdend zijn. In de Structuurvisie wordt een hoofdstructuur van verbindingen aangegeven waarlangs ruimte moet worden vrijgehouden, om ook in de toekomst een ongehinderde doorgang van buisleidingtransport van nationaal belang mogelijk te maken. Er is als nationaal belang vermeld: ruimte voor het hoofdnetwerk voor vervoer van (gevaarlijke) stoffen via buisleidingen.</Al>
+                                       <Lijst eId="div_1__div_3__div_3.2__content_o_2__list_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_1"
+                                              type="expliciet">
+                                          <Lijstaanhef>Het gaat concreet om provinciegrensoverschrijdende buisleidingen voor:</Lijstaanhef>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_2__list_o_1__item_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_1__item_o_1">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>het hoofdtransport over lange afstand ten behoeve van de levering voor aardgas (HTL-leidingen met een druk groter dan 40 bar);</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_2__list_o_1__item_o_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_1__item_o_2">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>het hoofdtransport van olie (en olieproducten) en chemische stoffen tussen haven- en industrieclusters in binnen- en buitenland;</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_2__list_o_1__item_o_3"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_1__item_o_3">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>leidingen ten behoeve van transport van CO<sub>2</sub>;</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_2__list_o_1__item_o_4"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_1__item_o_4">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>de nationale veiligheid, de Defensieleidingen.</Al>
+                                          </Li>
+                                       </Lijst>
+                                       <Lijst eId="div_1__div_3__div_3.2__content_o_2__list_o_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_2"
+                                              type="expliciet">
+                                          <Lijstaanhef>Op basis van de SB is een hoofdstructuur van buisleidingenstroken vastgelegd in het Barro, waarlangs ruimte vrijgehouden moet worden om ook in de toekomst een ongehinderde doorgang van buisleidingtransport van nationaal belang mogelijk te maken. In de Structuurvisie zijn tien uitgangspunten gehanteerd:</Lijstaanhef>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_2__list_o_2__item_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_2__item_1">
+                                             <LiNummer>1.</LiNummer>
+                                             <Al>Creëren van optimale randvoorwaarden buisinfrastructuur</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_2__list_o_2__item_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_2__item_2">
+                                             <LiNummer>2.</LiNummer>
+                                             <Al>Zuinig gebruik van de ruimte</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_2__list_o_2__item_3"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_2__item_3">
+                                             <LiNummer>3.</LiNummer>
+                                             <Al>Voorkomen van negatieve gevolgen voor de omgeving</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_2__list_o_2__item_4"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_2__item_4">
+                                             <LiNummer>4.</LiNummer>
+                                             <Al>Alleen leidingen van (inter)nationaal belang</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_2__list_o_2__item_5"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_2__item_5">
+                                             <LiNummer>5.</LiNummer>
+                                             <Al>Alleen leidingen voor gevaarlijke stoffen</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_2__list_o_2__item_6"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_2__item_6">
+                                             <LiNummer>6.</LiNummer>
+                                             <Al>Alleen aanleg in aangegeven stroken</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_2__list_o_2__item_7"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_2__item_7">
+                                             <LiNummer>7.</LiNummer>
+                                             <Al>Gebruik bestaande verbindingen met het buitenland</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_2__list_o_2__item_8"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_2__item_8">
+                                             <LiNummer>8.</LiNummer>
+                                             <Al>Geen aankoop van gronden</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_2__list_o_2__item_9"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_2__item_9">
+                                             <LiNummer>9.</LiNummer>
+                                             <Al>Geen aanleg van buisleidingen door het Rijk</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_2__list_o_2__item_10"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_2__list_o_2__item_10">
+                                             <LiNummer>10.</LiNummer>
+                                             <Al>Aangewezen buisleidingstroken vrijwaren in bestemmingsplannen</Al>
+                                          </Li>
+                                       </Lijst>
+                                       <Al>Het Rijk ziet het bieden van ruimte voor leidingen van nationaal belang (provinciegrens-overschrijdend) als een vorm van goede nationale ruimtelijke ordening. De overheid legt zelf doorgaans geen leidingen aan, maar heeft tot taak om kaders en normen te stellen en speelt bovendien een rol bij de planning van het hoofdnetwerk dat lokale en regionale grenzen overschrijdt. Daarnaast is bepaald dat alleen leidingen voor gevaarlijke stoffen én van nationaal belang in de leidingstroken gelegd mogen en ook móeten worden. Regionale buisleidingen of leidingen voor niet-gevaarlijke stoffen (bijvoorbeeld drinkwater, afvalwater) worden niet in de gereserveerde leidingstroken gelegd om te voorkomen dat er op termijn geen ruimte is voor de leidingen waarvoor de stroken bedoeld zijn.</Al>
+                                       <Al>De structuurvisie gaat uit van buisleidingenstroken van in zijn algemeenheid 70m breed, waarbinnen er ruimte is voor 6 tot 8 leidingen. De leidingstroken kunnen ook smaller zijn, bijvoorbeeld in situaties waar er onvoldoende fysieke ruimte is. Dat kan betekenen dat leidingen dichter bij elkaar gelegd moeten worden, waardoor kosten voor aanleg en beheer stijgen. Daarom geldt: breed waar het kan, smal waar het moet.</Al>
+                                       <Al>Het zuinig gebruik van de ruimte is onder meer uitgewerkt door nieuwe buisleidingen zoveel mogelijk te bundelen met bestaande leidingen (bundelingsprincipe) en door de risicozonering voor nieuwe leidingen binnen de leidingstrook te houden. Het bundelingsprincipe is leidend geweest voor de keuze van de tracés van de leidingstroken. Dit voorkomt onnodige versnippering van de ruimte. Op een deel van het tracé is afgeweken van het bundelingsprincipe vanwege bijvoorbeeld ruimtelijke belemmeringen of natuur en is gekozen voor een alternatief. Ook kan het zijn dat er nieuwe aantakkingen op het hoofdleidingennet moeten worden aangelegd, welke buiten de leidingenstrook moeten worden gepositioneerd.</Al>
+                                       <Al>Met het oog op het vrijhouden van ruimte wordt uitgegaan van de mogelijkheid van vier nieuwe leidingen op de verbindingen tussen Groningen en Noord-Holland, Groningen-Rijnmond en Zuid-Nederland en doorgaand naar België en Duitsland. Het betreft hier alleen gasvormige stoffen (voornamelijk aardgas).</Al>
+                                       <Al>Tenslotte is een belangrijk uitgangspunt dat de aangewezen buisleidingstroken gevrijwaard worden in bestemmingsplannen. Dit is geregeld in het BARRO (besluit algemene regels ruimtelijke ordening) Dat betekent dat gemeenten die te maken hebben met leidingstroken bij het wijzigen van bestemmingsplannen rekening zullen moeten houden met toekomstige leidingen op hun grondgebied, en ervoor zorg dienen te dragen dat daarvoor geen nieuwe belemmeringen ontstaan. In het Barro wordt ook beoogd om aan de gemeenten de nodige flexibiliteit te bieden door het opnemen van de mogelijkheid om van het voorkeurstracé af te wijken (binnen een zoekgebied van 250 meter ter weerszijden van de strook) vanwege bestaande bestemmingsplannen, daarbij spelende belangen of toekomstige ruimtelijke ontwikkelingen. Dit biedt de gelegenheid voor lokaal maatwerk.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_1__div_3__div_3.2__content_o_3"
+                                               wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3"
+                                               dso:niveau="5">
+                                    <Kop>
+                                       <Opschrift>Actualisatie</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>Met de komst van de Omgevingswet, vervalt het instrument structuurvisie. Hiermee vervalt dan dus ook de structuurvisie buisleidingen. Het PEH vormt de juridisch-beleidsmatige opvolger van de SV buisleidingen.</Al>
+                                       <Al>Het PEH zal de volgende zaken uit de SV buisleidingen overnemen:</Al>
+                                       <Lijst eId="div_1__div_3__div_3.2__content_o_3__list_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1"
+                                              type="expliciet">
+                                          <Lijstaanhef>De 10 beleidsuitgangspunten voor buisleidingenstroken:</Lijstaanhef>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_1">
+                                             <LiNummer>1.</LiNummer>
+                                             <Al>Creëren van optimale randvoorwaarden buisinfrastructuur</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_2">
+                                             <LiNummer>2.</LiNummer>
+                                             <Al>Zuinig gebruik van de ruimte</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_3"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_3">
+                                             <LiNummer>3.</LiNummer>
+                                             <Al>Voorkomen van negatieve gevolgen voor de omgeving</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_4"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_4">
+                                             <LiNummer>4.</LiNummer>
+                                             <Al>Alleen leidingen van (inter)nationaal belang</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_5"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_5">
+                                             <LiNummer>5.</LiNummer>
+                                             <Al>Alleen leidingen voor gevaarlijke stoffen</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_6"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_6">
+                                             <LiNummer>6.</LiNummer>
+                                             <Al>Alleen aanleg in aangegeven stroken</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_7"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_7">
+                                             <LiNummer>7.</LiNummer>
+                                             <Al>Gebruik bestaande verbindingen met het buitenland</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_8"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_8">
+                                             <LiNummer>8.</LiNummer>
+                                             <Al>Geen aankoop van gronden</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_9"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_9">
+                                             <LiNummer>9.</LiNummer>
+                                             <Al>Geen aanleg van buisleidingen door het Rijk</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_10"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_10">
+                                             <LiNummer>10.</LiNummer>
+                                             <Al>Aangewezen buisleidingstroken vrijwaren in bestemmingsplannen. Onder de Omgevingswet vervalt het instrument bestemmingsplan. Deze wordt vervangen door het instrument omgevingsplan. Het beleidsprincipe wordt dan: aangewezen buisleidingstroken vrijwaren in omgevingsplannen.</Al>
+                                             <Lijst eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_10__list_o_1"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_10__list_o_1"
+                                                    type="expliciet">
+                                                <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_10__list_o_1__item_o_1"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_10__list_o_1__item_o_1">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>De buisleidingenstroken zoals deze zijn aangegeven op de plankaart (pm), inclusief de juridische doorwerking. Deze juridische doorwerking was geregeld in het BARRO, maar aangezien deze met de komst van de omgevingswet komt te vervallen, zal deze juridische doorwerking geregeld worden via PM.</Al>
+                                                </Li>
+                                                <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_10__list_o_1__item_o_2"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_10__list_o_1__item_o_2">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>Uitgangspunt van in principe 70m brede stroken, met de mogelijkheid hiervan af te wijken (‘ breed waar het kan, smal waar het moet’ ), bijv</Al>
+                                                </Li>
+                                                <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_10__list_o_1__item_o_3"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_10__list_o_1__item_o_3">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>Mogelijkheid voor gemeenten om af te wijken van het voorkeurstracé PM</Al>
+                                                </Li>
+                                                <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_1__item_10__list_o_1__item_o_4"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_1__item_10__list_o_1__item_o_4">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>…</Al>
+                                                </Li>
+                                             </Lijst>
+                                          </Li>
+                                       </Lijst>
+                                       <Al>Daarnaast spelen er nieuwe ontwikkelingen, die het noodzakelijk maken om bepaalde uitgangspunten uit de SV buisleidingen te actualiseren c.q. aan te passen.</Al>
+                                       <Lijst eId="div_1__div_3__div_3.2__content_o_3__list_o_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_2"
+                                              type="expliciet">
+                                          <Lijstaanhef>Deze nieuwe ontwikkelingen zijn:</Lijstaanhef>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_1">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Waterstofeconomie: Het is de verwachting dat het huidige aardgasnet in de toekomst opgesplitst gaat worden in een waterstofnet en een methaan- (groengas) net. Het aanleggen van de waterstofbackbone, zoals omschreven in HYway27, is de eerste stap hierin. Hiervoor wordt 980km aan aardgasleidingen omgezet in waterstofleidingen. Daarnaast moet er naar schatting ongeveer 200 kilometer aan nieuwe leidingen gelegd worden. PM wat gaat dit betekenen voor het buisleidingennet en de reserveringen?</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_2">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>…</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_3"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_3">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>…</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_4"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_4">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Indicatieve buisleidingentracés (oranje op de kaart) actualiseren en waar nodig juridisch vastleggen</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_5"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_5">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Minimale breedte leidingenstroken? Alleen afwijken als er middels een innovatieve techniek (leidingenstraat zoals tussen R’dam en Antwerpen) toegepast kan worden?</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_6"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_6">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Doel: robuust leidingennet als ‘backbone’ om de energietransitie richting 2050 mogelijk te maken. Daarom belangrijk om tijdig te reserveren om te voorkomen dat andere functies het in de toekomst onmogelijk maken om nog buisleidingentracés aan te leggen.</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_7"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_7">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Kijken naar koppelkansen tussen de leidingenstroken en andere functies. Dit kunnen bv zijn: landbouw (gebeurt nu al), natuur (hoog grasland, geen bomen), energie-opwek (zon PV) …</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_8"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_3__list_o_2__item_o_8">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>PM hier nog iets opnemen over de (on)mogelijkheid om ondergrondse hoogspanningsverbindingen een plek te geven in de leidingenstroken? (zie volgend hfd over het SEVIII).</Al>
+                                          </Li>
+                                       </Lijst>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_1__div_3__div_3.2__content_o_4"
+                                               wId="mnre1045_2__div_1__div_3__div_3.2__content_o_4"
+                                               dso:niveau="5">
+                                    <Kop>
+                                       <Opschrift>Derde Structuurschema Elektriciteitsvoorziening (SEVIII)/evaluatie SEVIII</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>Het Derde Structuurschema Elektriciteitsvoorziening, ook wel SEVIII, maakt globale ruimtereserveringen voor vestigingsplaatsen voor grootschalige elektriciteitsopwekking (vanaf 500 MW) en hoogspanningsverbindingen (vanaf 220 kV).</Al>
+                                       <Al>Ook de evaluatie van het SEVIII is gebruikt ten grondslag van het PEH. Hierin wordt geconstateerd dat het Structuurschema Elektriciteitsvoorziening op het eerste gezicht een effectief instrument lijkt te zijn, maar tegelijkertijd een (zeer) zwakke bestuurlijke en juridische doorwerking kent. Er wordt daarom geadviseerd om de in het SEV opgenomen ruimtelijke reserveringen op te schonen, door bijvoorbeeld de reeds benutte reserveringen te verwijderen. Ook wordt geadviseerd nieuwe reserveringen op te nemen voor nieuwe hoogspanningsverbindingen. Niet zozeer als tracé, maar meer het vastleggen van uitgangspunten voor het bepalen ervan in de vorm van een programma.</Al>
+                                       <Al>Het PEH vormt de juridisch-beleidsmatige opvolger van het SEVIII, waarmee het SEVIII vervalt. Het opstellen van het PEH geeft invulling aan de adviezen uit de evaluatie van het SEVIII door de bestaande reserveringen voor elektriciteitsinfrastructuur en buisleidingen te actualiseren, en waar mogelijk reserveringen te verwijderen.</Al>
+                                       <Lijst eId="div_1__div_3__div_3.2__content_o_4__list_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_4__list_o_1"
+                                              type="expliciet">
+                                          <Lijstaanhef>Ook geeft het PEH invulling aan het advies om uitgangspunten vast te leggen voor het bepalen van reserveringen voor hoogspanningsverbindingen, door de volgende algemene beginselen voor aanleg van hoogspanningsinfrastructuur uit het SEVIII, zoals ook in de NOVI overgenomen, over te nemen:</Lijstaanhef>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_1">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>De hoogspanningsverbindingen van 110 kV en hoger zijn onderdeel van het landelijke hoogspanningsnet en daarmee van nationaal belang. De minister van Economische Zaken en Klimaat is bevoegd gezag voor de uitbreiding van het landelijk hoogspanningsnet met een spanningsniveau van 220 kV en hoger, van het net deel uitmakende landsoverschrijdende netten en de netten op zee;</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_2">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Nieuwe hoogspanningsverbindingen in het landelijke transportnetwerk met een spanning van 220 kV en meer worden in beginsel bovengronds aangelegd. Verzwaring van bestaande verbindingen heeft de voorkeur boven realisering op een nieuw tracé. Op basis van een integrale afweging op projectniveau kan – voor zover dit uit oogpunt van leveringszekerheid verantwoord is – in bijzondere gevallen, met name voor kortere trajecten, ondergrondse aanleg worden overwogen. Onderzoek en ontwikkeling van de ondergrondse aanleg van hoogspanningsleidingen wordt actief bevorderd. Zodra het vanuit leveringszekerheid en meerkosten verantwoord is, zullen nieuwe hoogspanningsverbindingen van 220 kV en meer ondergronds worden aangelegd, daar waar de maatschappelijke meerwaarde van ondergrondse aanleg evident is;</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_3"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_3">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Voor de netten op zee, die windparken op zee verbinden met het landelijk hoogspanningsnet geldt dat, deze zowel op zee als op land, ondergronds zullen worden aangelegd. Het net op zee maakt geen integraal onderdeel uit van het landelijk hoogspanningsnet omdat deze netten functioneel van elkaar verschillen;</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_4"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_4">
+                                             <LiNummer>•</LiNummer>
+                                             <Lijst eId="div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_4__list_o_1"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_4__list_o_1"
+                                                    type="expliciet">
+                                                <Lijstaanhef>Om geheel nieuwe doorsnijdingen van het landschap zoveel mogelijk te voorkomen, gelden bij aanleg van nieuwe hoogspanningsverbindingen met een spanning van 220 kV en hoger achtereenvolgens de volgende uitgangspunten:</Lijstaanhef>
+                                                <Li eId="div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_4__list_o_1__item_o_1"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_4__list_o_1__item_o_1">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>Nieuwe hoogspanningsverbindingen van 220 kV en meer worden waar mogelijk en zinvol met bestaande hoogspanningsverbindingen op één mast gecombineerd;</Al>
+                                                </Li>
+                                                <Li eId="div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_4__list_o_1__item_o_2"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_4__list_o_1__item_o_2">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>Nieuwe hoogspanningsverbindingen van 220 kV en meer worden waar mogelijk en zinvol met bovenregionale infrastructuur of met bestaande hoogspanningsverbindingen gebundeld;</Al>
+                                                </Li>
+                                                <Li eId="div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_4__list_o_1__item_o_3"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_4__list_o_1__item_o_4__list_o_1__item_o_3">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>Bij de vaststelling van nieuwe tracés van bovengrondse hoogspanningsverbindingen of wijziging in bestaande hoogspanningsverbindingen wordt steeds het vigerende voorzorgbeleid voor gezondheidsaspecten van elektromagnetische velden in acht genomen<Noot id="N1" type="voet">
+                                                         <NootNummer>1</NootNummer>
+                                                         <Al> Tweede Kamer, Derde Structuurschema Elektriciteitsvoorziening (SEVIII), Vergaderjaar 2008-2009, 31410, nr. 3, Den Haag 2009.</Al>
+                                                      </Noot>.</Al>
+                                                </Li>
+                                             </Lijst>
+                                          </Li>
+                                       </Lijst>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_1__div_3__div_3.2__content_o_5"
+                                               wId="mnre1045_2__div_1__div_3__div_3.2__content_o_5"
+                                               dso:niveau="5">
+                                    <Kop>
+                                       <Opschrift>Nieuwe principes voor hoogspanningsverbindingen</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Lijst eId="div_1__div_3__div_3.2__content_o_5__list_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_5__list_o_1"
+                                              type="expliciet">
+                                          <Lijstaanhef>Naast de herijking van de hierboven genoemde principes, voegt het PEH de volgende principes voor aanleg van hoogspanningsverbindingen toe:</Lijstaanhef>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_1">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Nieuwe hoogspanningsverbindingen in het landelijk transportnet met een spanning van 150/110 kV worden in beginsel ondergronds aangelegd.</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_2">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Nieuwe hoogspanningsverbindingen van 220 kV en meer zullen in het vermaasde Nederlandse hoogspanningsnet in beginsel als wisselstroomverbindingen worden aangelegd.</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_3"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_3">
+                                             <LiNummer>•</LiNummer>
+                                             <Lijst eId="div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_3__list_o_1"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_3__list_o_1"
+                                                    type="expliciet">
+                                                <Lijstaanhef>Om de impact op het landschap zoveel mogelijk te beperken, worden de volgende uitgangspunten bij aanleg van bovengrondse hoogspanningsverbindingen toegevoegd:</Lijstaanhef>
+                                                <Li eId="div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_3__list_o_1__item_o_1"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_3__list_o_1__item_o_1">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>De nieuwe hoogspanningsverbinding wordt zo kort mogelijk aangelegd.</Al>
+                                                </Li>
+                                                <Li eId="div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_3__list_o_1__item_o_2"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_3__list_o_1__item_o_2">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>Knikken in een tracé van nieuwe bovengrondse hoogspanningsverbindingen worden zo veel als redelijkerwijs mogelijk voorkomen.</Al>
+                                                </Li>
+                                                <Li eId="div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_3__list_o_1__item_o_3"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_3__list_o_1__item_o_3">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>Woonkernen worden zo veel als mogelijk vermeden.</Al>
+                                                </Li>
+                                                <Li eId="div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_3__list_o_1__item_o_4"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_5__list_o_1__item_o_3__list_o_1__item_o_4">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>Beschermde natuurgebieden worden zo veel als mogelijk vermeden.</Al>
+                                                </Li>
+                                             </Lijst>
+                                          </Li>
+                                       </Lijst>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_1__div_3__div_3.2__content_o_6"
+                                               wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6"
+                                               dso:niveau="5">
+                                    <Kop>
+                                       <Opschrift>Toelichting op nieuwe principes voor hoogspanningsverbindingen</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Lijst eId="div_1__div_3__div_3.2__content_o_6__list_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_1"
+                                              type="expliciet">
+                                          <Li eId="div_1__div_3__div_3.2__content_o_6__list_o_1__item_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_1__item_o_1">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Nieuwe hoogspanningsverbindingen in het landelijk transportnet met een spanning van 150/110 kV worden in beginsel ondergronds aangelegd.</Al>
+                                          </Li>
+                                       </Lijst>
+                                       <Al>In samenhang met het algemene beginsel dat hoogspanningsverbindingen van 220 kV en meer bovengronds worden aangelegd, wordt aan de beginselen toegevoegd dat nieuwe hoogspanningsverbindingen van 150/110 kV in beginsel ondergronds aangelegd worden. Hierdoor wordt de visuele ruimtelijke impact van hoogspanningsverbindingen beperkt. In tegenstelling tot het ondergronds aanbrengen van 380/220 kV verbindingen is er meer ervaring met het ondergronds aanbrengen van 150/110 kV verbindingen en zijn de mogelijk technische bezwaren beter aanvaardbaar.</Al>
+                                       <Al>Wanneer het mogelijk is om de 150/110 kV verbinding samen te voegen met een bovengrondse 380/220 kV verbinding geniet dit de voorkeur, aangezien de totale ruimtelijke impact daarmee beperkt wordt ten opzichte van het aanleggen van een nieuwe ondergrondse verbinding.</Al>
+                                       <Al>Een andere uitzondering op het beginsel is in het geval er grote netstrategische of ruimtelijke bezwaren zijn tegen het ondergronds aanleggen van een verbinding. Voorbeelden hiervan zijn doorkruisingen met rivieren of infrastructuur, of tracés in (industrie)gebieden waar in de ondergrond onvoldoende ruimte beschikbaar is voor de ongestoorde ligging van een kabelverbinding.</Al>
+                                       <Al>Voor het vervangen, verzwaren of reconstructie van bestaande bovengrondse hoogspanningsverbindingen in het landelijk transportnet met een spanning van 150/110 kV geldt het principe bovengronds, tenzij. De ‘tenzij’ betreft hier de integrale weging van kosten, EMV en landschappelijke effecten. Zo zijn er voorbeelden van 150kV verbindingen waarbij er wel ondergronds is gegaan omdat masten vervangen moesten worden.</Al>
+                                       <Lijst eId="div_1__div_3__div_3.2__content_o_6__list_o_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_2"
+                                              type="expliciet">
+                                          <Lijstaanhef>Er is sprake van een vervanging (en daarmee een wijziging) van een bestaande verbinding indien:</Lijstaanhef>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_6__list_o_2__item_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_2__item_o_1">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>het spanningsniveau ongewijzigd blijft, en;</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_6__list_o_2__item_o_2"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_2__item_o_2">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>het begin- en eindstation van de verbinding ongewijzigd blijft, en;</Al>
+                                          </Li>
+                                          <Li eId="div_1__div_3__div_3.2__content_o_6__list_o_2__item_o_3"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_2__item_o_3">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>het gewijzigde tracé grotendeels het bestaande tracé volgt.</Al>
+                                          </Li>
+                                       </Lijst>
+                                       <Al>Voor het vervangen, verzwaren of reconstructie van bestaande bovengrondse verbindingen van 150/110 kV geldt deze afwijking van het beginsel om ondergronds aan te leggen omdat een dergelijke ingreep minder effecten heeft op de omgeving dan bij het aanleggen van een geheel nieuwe ondergrondse verbinding.</Al>
+                                       <Lijst eId="div_1__div_3__div_3.2__content_o_6__list_o_3"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_3"
+                                              type="expliciet">
+                                          <Li eId="div_1__div_3__div_3.2__content_o_6__list_o_3__item_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_3__item_o_1">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Nieuwe hoogspanningsverbindingen van 220 kV en meer zullen in het vermaasde Nederlandse hoogspanningsnet als wisselstroomverbindingen worden aangelegd.</Al>
+                                          </Li>
+                                       </Lijst>
+                                       <Al>Vanuit het oogpunt van betrouwbaarheid van het 380/220 kV hoogspanningsnet verdient een wisselstroomverbinding (AC) de voorkeur boven een gelijkstroomverbinding (DC). Wanneer uitval op een wisselstroomcircuit plaatsvindt, draagt een gelijkstroomverbinding niet autonoom bij aan de instandhouding van het landelijke hoogspanningsnet.</Al>
+                                       <Al>Slechts indien de impact van een nieuwe gelijkstroomverbinding op de betrouwbaarheid en robuustheid van het landelijk hoogspanningsnet niet onaanvaardbaar is én de maatschappelijke voordelen opwegen tegen de nadelen van een wisselstroomverbinding, kan een gelijkstroomverbinding onder bijzondere omstandigheden overwogen worden.</Al>
+                                       <Al>Ook voor een dergelijke gelijkstroomverbinding met een hoge spanning geldt dan het beginsel ‘bovengronds, tenzij’. Hoewel gelijkstroomverbindingen elektrisch minder complex ondergronds te verkabelen zijn, moet op (lange) landtracés wel rekening gehouden worden met enerzijds de verminderde betrouwbaarheid/beschikbaarheid door het grote aantal kabelmoffen onder de grond en anderzijds de lagere transportcapaciteit vergeleken met een bovengrondse gelijkstroomverbinding.</Al>
+                                       <Lijst eId="div_1__div_3__div_3.2__content_o_6__list_o_4"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_4"
+                                              type="expliciet">
+                                          <Li eId="div_1__div_3__div_3.2__content_o_6__list_o_4__item_o_1"
+                                              wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_4__item_o_1">
+                                             <LiNummer>•</LiNummer>
+                                             <Lijst eId="div_1__div_3__div_3.2__content_o_6__list_o_4__item_o_1__list_o_1"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_4__item_o_1__list_o_1"
+                                                    type="expliciet">
+                                                <Lijstaanhef>Om de impact op het landschap zoveel mogelijk te voorkomen, worden de volgende uitgangspunten bij aanleg van bovengrondse hoogspanningsverbindingen toegevoegd:</Lijstaanhef>
+                                                <Li eId="div_1__div_3__div_3.2__content_o_6__list_o_4__item_o_1__list_o_1__item_o_1"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_4__item_o_1__list_o_1__item_o_1">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>De nieuwe hoogspanningsverbinding wordt zo kort mogelijk aangelegd.</Al>
+                                                </Li>
+                                                <Li eId="div_1__div_3__div_3.2__content_o_6__list_o_4__item_o_1__list_o_1__item_o_2"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_4__item_o_1__list_o_1__item_o_2">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>Knikken in een tracé van nieuwe bovengrondse hoogspanningsverbindingen worden zo veel als redelijkerwijs mogelijk voorkomen.</Al>
+                                                </Li>
+                                                <Li eId="div_1__div_3__div_3.2__content_o_6__list_o_4__item_o_1__list_o_1__item_o_3"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_4__item_o_1__list_o_1__item_o_3">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>Woonkernen worden zo veel als mogelijk vermeden.</Al>
+                                                </Li>
+                                                <Li eId="div_1__div_3__div_3.2__content_o_6__list_o_4__item_o_1__list_o_1__item_o_4"
+                                                    wId="mnre1045_2__div_1__div_3__div_3.2__content_o_6__list_o_4__item_o_1__list_o_1__item_o_4">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>Beschermde natuurgebieden worden zo veel als mogelijk vermeden.</Al>
+                                                </Li>
+                                             </Lijst>
+                                          </Li>
+                                       </Lijst>
+                                       <Al>Hoogspanningslijnen hebben een duidelijke visuele ruimtelijke impact op het landschap waarin zij aanwezig zijn. Het zo kort als mogelijk aanleggen van de verbinding heeft een groot effect op het beperken van deze ruimtelijke impact. Het vermijden van knikken in een tracé, en het daarmee zo recht mogelijk aanleggen van de verbinding (rechtstand), creëert een rustige beeld, wat ten goede komt aan de landschappelijke inpassing van de hoogspanningsverbindingen. Enerzijds heeft dit te maken met het vermijden van zigzaglijnen door het landschap. Anderzijds is dit te wijten aan de afwijkende hoekmasten die nodig zijn in de knik van een hoogspanningstracé. De uitgangspunten om waar mogelijk hoogspanningsverbindingen te bundelen met bestaande hoogspanningsverbindingen en/of bestaande infrastructuur blijven gelden. Ten behoeve van mens en natuur worden daarnaast de uitgangspunten toegevoegd om woonkernen en beschermde natuurgebieden zo veel als mogelijk te vermijden. Dit beperkt de visuele en ruimtelijke impact van hoogspanningsverbindingen op bewoners en natuur.</Al>
+                                       <Al>Slechts indien er zwaarwegende netstrategische, technische en/of ruimtelijke argumenten zijn tegen de aanleg van een hoogspanningsverbinding onder de hierboven benoemde uitgangspunten, kan hier gemotiveerd van afgeweken worden.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                              </Divisie>
+                              <Divisie eId="div_1__div_3__div_3.3"
+                                       wId="mnre1045_2__div_1__div_3__div_3.3"
+                                       dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>3.3</Nummer>
+                                    <Opschrift>Ander relevant ruimtelijk beleid</Opschrift>
+                                 </Kop>
+                                 <Divisietekst eId="div_1__div_3__div_3.3__content_o_1"
+                                               wId="mnre1045_2__div_1__div_3__div_3.3__content_o_1"
+                                               dso:niveau="5">
+                                    <Kop>
+                                       <Opschrift>Structuurvisie Ondergrond (STRONG)</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>De Structuurvisie Ondergrond (STRONG) heeft als doel om functies in de ondergrond meer te gaan ordenen, vanuit het besef dat het steeds drukker wordt in de ondergrond. Functies ten behoeve van energievoorziening zoals gaswinning, geothermie, warmte-koude opslag (WKO), opslag van stoffen in lege gasvelden en zoutcavernes, en andere functies in de ondergrond zoals kabels en leidingen, strategische drinkwatervoorraden, zoetwaterbuffers, zoutwinning en ondergrondse opslag van CO<sub>2</sub> concurreren steeds meer om ruimte. De behoefte om meer ordening aan te brengen in ondergrondse activiteiten is daarom groot. Daar waar Nederland een lange traditie heeft van ruimtelijke ordening als het gaat om bovengrondse activiteiten, staat de ruimtelijke ordening van bodem en ondergrond nog in de kinderschoenen. STRONG is een belangrijke stap in het dichten van dit gat.</Al>
+                                       <Al>STRONG heeft als doel het duurzaam, veilig en efficiënt gebruik van bodem en ondergrond voor de hierboven genoemde functies. Er wordt een belangrijk onderscheid gemaakt tussen functies van nationaal belang, en functies van decentraal belang (provinciaal en gemeentelijk). De Functies van nationaal belang vallen grofweg uiteen in 2 categorieën: dit zijn enerzijds mijnbouwactiviteiten, hieronder vallen de bekende mijnbouwactiviteiten als olie- en gaswinning, maar ook geothermie valt hieronder (omdat het grotendeels dezelfde technieken gebruikt als gasboringen). Anderzijds gaat het om de nationale drinkwatervoorziening, hieronder vallen de strategische grondwaterreserves en nog aan te wijzen ‘aanvullende strategische voorraden’ (ASV’s).</Al>
+                                       <Al>STRONG is vooral op gericht om ruimtelijk beleid te formuleren voor deze twee categorieën functies. Het gaat dan met name om het voorkomen van conflicten tussen beide functies, omdat mijnbouwactiviteiten en strategische grondwaterreserves voor drinkwater niet (altijd) goed samengaan vanwege het risico op verontreiniging van het grondwater.</Al>
+                                       <Al>Andere functies in bodem en ondergrond, zoals warmte-koude systemen (WKO) en kabels en leidingen zijn niet betiteld als nationaal belang en vallen daarmee onder de bevoegdheid van gemeenten en provincies.</Al>
+                                       <Al>Overigens wijst STRONG niet concrete gebieden aan waar bijvoorbeeld geothermie wel en niet mag. Wel gaat STRONG uit van een afwegingssystematiek voor functies in de ondergrond en van het instrument omgevingsparticipatie om ervoor te zorgen dat functies goed ten opzichte van elkaar worden afgewogen en dat er draagvlak ontstaat voor deze functies.</Al>
+                                       <Al>Voor het PEH zijn met name de ondergrondse functies van belang die gericht zijn op de nationale energievoorziening, zoals geothermie, opslag van waterstof in lege zoutcavernes, evt op lange termijn opslag van waterstof in lege gasvelden. Pm CCS op land?</Al>
+                                       <Al>PM nog een check of SV buisleidingen niet al in STRONG is opgenomen.</Al>
+                                       <Al>STRONG biedt hiervoor het benodigde ruimtelijke kader.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                              </Divisie>
+                              <Divisietekst eId="div_1__div_3__content_3.4"
+                                            wId="mnre1045_2__div_1__div_3__content_3.4"
+                                            dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>3.4</Nummer>
+                                    <Opschrift>Sturingsfilosofie PEH</Opschrift>
+                                 </Kop>
+                                 <Inhoud>
+                                    <Al>Even zien, denk eigenlijk dat we dit in een apart hoofdstuk moeten zetten.</Al>
+                                 </Inhoud>
+                              </Divisietekst>
+                           </Divisie>
+                           <Divisie eId="div_1__div_4" wId="mnre1045_2__div_1__div_4" dso:niveau="2">
+                              <Kop>
+                                 <Nummer>4</Nummer>
+                                 <Opschrift>Uitgangspunten PEH</Opschrift>
+                              </Kop>
+                              <Divisietekst eId="div_1__div_4__content_4.1"
+                                            wId="mnre1045_2__div_1__div_4__content_4.1"
+                                            dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>4.1</Nummer>
+                                    <Opschrift>Nationale belangen</Opschrift>
+                                 </Kop>
+                                 <Inhoud>
+                                    <Al>Welke nationale belangen wij in voorzien, in lijn met NOVI.</Al>
+                                 </Inhoud>
+                              </Divisietekst>
+                              <Divisie eId="div_1__div_4__div_4.2"
+                                       wId="mnre1045_2__div_1__div_4__div_4.2"
+                                       dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>4.2</Nummer>
+                                    <Opschrift>Afwegingsprincipes</Opschrift>
+                                 </Kop>
+                                 <Divisietekst eId="div_1__div_4__div_4.2__content_o_1"
+                                               wId="mnre1045_2__div_1__div_4__div_4.2__content_o_1">
+                                    <Inhoud>
+                                       <Al>Wat de afwegingsprincipes zijn van de NOVI, maar ook hoe wij daar invulling aan hebben gegeven.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_1__div_4__div_4.2__content_"
+                                               wId="mnre1045_2__div_1__div_4__div_4.2__content_"
+                                               dso:niveau="4">
+                                    <Kop>
+                                       <Label>4.2.1</Label>
+                                       <Nummer/>
+                                       <Opschrift>Combinaties van functies gaan voor enkelvoudige functies</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>Met de NOVI zoeken we naar maximale combinatiemogelijkheden tussen functies, gericht op een efficiënt en zorgvuldig gebruik van onze ruimte. Tegelijkertijd willen we de kwaliteit van de leefomgeving en de identiteit van Nederland versterken. Dit vraagt om meer inventiviteit en creativiteit, zowel in de boven­ en ondergrond als op en onder water en in het luchtruim. Het gaat om combineren, intensiveren en transformeren. We hebben in Nederland plannen nodig, die vanuit een meer geïntegreerde benadering tot stand komen. Plannen, waarin direct vanaf het begin meerdere belangen worden meegenomen en boven- en ondergrond in samenhang worden bekeken. Deze plannen voegen meer waarde toe aan onze leefomgeving dan enkelvoudige, sectorale plannen. Al komt het ook voor dat integratie ongewenst of onnodig is. Dit dient dan aannemelijk te worden gemaakt.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_1__div_4__div_4.2__content_4.2.2"
+                                               wId="mnre1045_2__div_1__div_4__div_4.2__content_4.2.2"
+                                               dso:niveau="4">
+                                    <Kop>
+                                       <Nummer>4.2.2</Nummer>
+                                       <Opschrift>Kenmerken en identiteit van een gebied staan centraal</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>Wat de optimale balans is tussen bescherming en ontwikkeling, tussen concurrentiekracht en leefbaarheid, verschilt van gebied tot gebied. Sommige opgaven en belangen wegen in het ene gebied zwaarder dan in het andere. De waardering van het bestaande en de impact van mogelijke veranderingen kunnen van plek tot plek anders worden ervaren. Bij de inpassing van nieuwe functies moet rekening gehouden worden met de kwaliteit van bodem, water, lucht en natuur. De aanwezige en door bewoners en gebruikers beleefde kwaliteiten en ontwikkelingsmogelijkheden zijn overal anders. Dit moet doorwerken in de aanpak van opgaven in ieder specifiek gebied. In het verleden is te veel gedacht vanuit één benaderingswijze overal in Nederland. Met de NOVI willen we expliciet onderscheid maken tussen gebieden. Zowel in ontwikkeling (economische clusters vragen bijvoorbeeld een andere aanpak dan natuurgebieden) als in bescherming (waar Nederland onder de zeespiegel ligt weegt waterveiligheid zwaar). De beleefde (cultuurhistorische) identiteit en mogelijkheden van een gebied en de waardering van eigenschappen van streek, landschap, stad of dorp moeten steeds doorwegen in de te maken keuzes.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_1__div_4__div_4.2__content_4.2.3"
+                                               wId="mnre1045_2__div_1__div_4__div_4.2__content_4.2.3"
+                                               dso:niveau="4">
+                                    <Kop>
+                                       <Nummer>4.2.3</Nummer>
+                                       <Opschrift>Afwentelen wordt voorkomen</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>Het is van belang dat onze leefomgeving zoveel mogelijk voorziet in mogelijkheden en behoeften van de huidige generatie inwoners, zonder dat dit ten koste gaat van die van toekomstige generaties. Afwentelen naar tijd moeten we daarom voorkomen. Hetzelfde geldt voor afwentelen naar plaats. Bij ingrepen in het ene gebied moeten negatieve effecten op andere gebieden en wie daar leven en werken zoveel als mogelijk worden voorkomen. Maatregelen moeten in de eerste plaats gericht zijn op het voorkomen van (gezondheids)schade en verontreiniging, boven het naderhand herstellen van schade (preventie- en voorzorgsbeginsel). Lusten en lasten van maatregelen moeten niet onevenredig worden verdeeld, dan wel dat wie nadeel ondervindt minimaal daarvoor wordt gecompenseerd. Bestrijding van vervuiling vindt bij voorkeur aan de bron plaats en in de besluitvorming wordt de cumulatie van risico’s voor mens en milieu meegenomen.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                              </Divisie>
+                              <Divisietekst eId="div_1__div_4__content_4.3"
+                                            wId="mnre1045_2__div_1__div_4__content_4.3"
+                                            dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>4.3</Nummer>
+                                    <Opschrift>Positionering PEH (tov aanpalende trajecten)</Opschrift>
+                                 </Kop>
+                                 <Inhoud>
+                                    <Lijst eId="div_1__div_4__content_4.3__list_o_1"
+                                           wId="mnre1045_2__div_1__div_4__content_4.3__list_o_1"
+                                           type="expliciet">
+                                       <Lijstaanhef>Elementen:</Lijstaanhef>
+                                       <Li eId="div_1__div_4__content_4.3__list_o_1__item_o_1"
+                                           wId="mnre1045_2__div_1__div_4__content_4.3__list_o_1__item_o_1">
+                                          <LiNummer>–</LiNummer>
+                                          <Al>Wijze van afwegen, hoe komen we tot welke keuzes</Al>
+                                       </Li>
+                                       <Li eId="div_1__div_4__content_4.3__list_o_1__item_o_2"
+                                           wId="mnre1045_2__div_1__div_4__content_4.3__list_o_1__item_o_2">
+                                          <LiNummer>–</LiNummer>
+                                          <Al>Waar staat PEH tov andere trajecten, welke keuzes worden daarin gemaakt</Al>
+                                       </Li>
+                                    </Lijst>
+                                    <Al>Integrale Infrastructuurverkenning 2030-2050 (Netbeheerders): de netbeheerders werken voor verschillende scenario’s 2050 infrastructuurpaden uit. De scenario’s en infrapaden worden binnen het Programma Energiehoofdstructuur ruimtelijk uitgewerkt en beoordeeld op onder meer de ruimtelijke effecten.</Al>
+                                    <Al>RES’en, Transitievisies Warmte, regionale systeemstudies: in oktober 2020 leveren de RES’en een eerste concept op. Voor het Programma Energiehoofdstructuur levert dit inzicht in de regionale behoeften ten aanzien van nationale infrastructuur. Ook wordt vanuit het programma RES gekeken naar de toekomstvastheid van ontwerp keuzes in de concept RES’en. De RES 1.0 wordt in juli 2021 opgeleverd. De uiteindelijke zoekgebieden voor wind en zon landen in het Programma Energiehoofdstructuur.</Al>
+                                    <Al>Eind 2021 dienen de Transitievisies Warmte gereed te zijn. Deze worden regionaal afgestemd in het kader van de RES. Het gehele RES-traject kent een doorlooptijd tot 2030. Dat betekent dat de RES in een cyclus van minimaal twee jaar zal worden geactualiseerd. Ontwikkelingen ten aanzien van warmtebronnen en locatiekeuzes voor hernieuwbare opwek zullen moeten worden doorgevoerd in de RES’en.</Al>
+                                    <Al>De provincies Groningen, Drenthe, Limburg, Noord-Holland, Zeeland, Zuid-Holland en Overijssel hebben samen met regionale netbeheerders een systeemstudie voor de ontwikkeling van het regionale energiesysteem voor 2030 en 2050 opgesteld, of zijn daarmee aan de slag. Mogelijk volgen er nog een aantal andere provincies. Deze studies geven waardevolle inzichten in de ontwikkelrichting van regionale energiesystemen met bijbehorende knelpunten, die gebruikt worden in de RES’en en waar nodig ook in het Programma Energiehoofdstructuur.</Al>
+                                    <Al>Advies Taskforce Infrastructuur Klimaatakkoord Industrie: de Taskforce Infrastructuur Klimaatakkoord Industrie levert dit voorjaar een eindrapport over de infrastructuurbehoefte van de industrieclusters om de klimaatdoelen in 2030 te behalen. Het Kabinet zal een appreciatie leveren op dit advies, dat te zien is als een bouwsteen voor het Programma Energiehoofdstructuur. Het Programma Energiehoofdstructuur werkt de Kabinetsreactie ruimtelijk uit.</Al>
+                                    <Al>Nationaal Waterprogramma inclusief Programma Noordzee (IenW): de keuzes voor de Noordzee tot 2030 met een doorkijk tot 2050 zullen door het Rijk worden vastgelegd in het Programma Noordzee 2022-2027. Het zoeken en aanwijzen van nieuwe windenergiegebieden is onderdeel van dit programma. Aanlandingslocaties worden aangewezen in het Programma Energiehoofdstructuur. Op dit punt vindt afstemming plaats tussen beide programma’s.</Al>
+                                    <Al>Programma Bodem &amp; Ondergrond (IenW): dit programma ontwikkelt nieuw beleid als vervolg op de structuurvisie ondergrond (STRONG). Vanuit het Programma Energiehoofdstructuur zal afstemming plaatsvinden rond weging van de nationale belangen met betrekking tot de ondergrond. Dit betreft met name de relatie tussen opslaglocaties en geothermiebronnen op land enerzijds en de strategische drinkwaterreserves anderzijds.</Al>
+                                    <Al>Rijksvisie marktontwikkeling voor de energietransitie: de visie geeft een probleemanalyse, opties en een beleidsagenda richting 2030 voor een systeemperspectief op de marktordening, regulering en bekostiging van nieuwe infrastructuur voor met name warmte, waterstof en CO<sub>2</sub>, rekening houdend met de implicaties voor gas en elektriciteitsnetwerken en vertrekkend vanuit scenario’s voor 2030 en 2050. Het Programma Energiehoofdstructuur vormt de uitwerking van de ruimtelijke onderdelen van de rijksvisie.</Al>
+                                    <Al>Nationale agenda laadinfrastructuur: vijf regio’s maken plannen voor de uitrol van de laadinfrastructuur voor elektrisch vervoer. Indien dit consequenties heeft voor het hoogspanningsnetwerk zal er afstemming plaatsvinden.</Al>
+                                 </Inhoud>
+                              </Divisietekst>
+                           </Divisie>
+                        </Divisie>
+                        <Divisie xmlns:dso="https://www.dso.nl/"
+                                 eId="div_2"
+                                 wId="mnre1045_2__div_2"
+                                 dso:niveau="1">
+                           <Kop>
+                              <Label>Deel</Label>
+                              <Nummer>2</Nummer>
+                              <Opschrift>Beleid, ontwikkelrichtingen en reserveringen</Opschrift>
+                           </Kop>
+                           <Divisie eId="div_2__div_5" wId="mnre1045_2__div_2__div_5" dso:niveau="2">
+                              <Kop>
+                                 <Nummer>5</Nummer>
+                                 <Opschrift>Elektriciteit</Opschrift>
+                              </Kop>
+                              <Divisietekst eId="div_2__div_5__content_o_1"
+                                            wId="mnre1045_2__div_2__div_5__content_o_1">
+                                 <Inhoud>
+                                    <Figuur eId="div_2__div_5__content_o_1__img_o_1"
+                                            wId="mnre1045_2__div_2__div_5__content_o_1__img_o_1">
+                                       <Illustratie naam="image2.jpg"
+                                                    formaat="image/jpeg"
+                                                    breedte="7937"
+                                                    hoogte="5297"
+                                                    dpi="72"
+                                                    uitlijning="start"/>
+                                       <Bijschrift locatie="boven">Figuur 2Bron: Rijksoverheid</Bijschrift>
+                                    </Figuur>
+                                 </Inhoud>
+                              </Divisietekst>
+                              <Divisietekst eId="div_2__div_5__content_5.1"
+                                            wId="mnre1045_2__div_2__div_5__content_5.1"
+                                            dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>5.1</Nummer>
+                                    <Opschrift>Ontwikkelingen en scope</Opschrift>
+                                 </Kop>
+                                 <Inhoud>
+                                    <Lijst eId="div_2__div_5__content_5.1__list_o_1"
+                                           wId="mnre1045_2__div_2__div_5__content_5.1__list_o_1"
+                                           type="expliciet">
+                                       <Li eId="div_2__div_5__content_5.1__list_o_1__item_o_1"
+                                           wId="mnre1045_2__div_2__div_5__content_5.1__list_o_1__item_o_1">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Wisselwerking tussen de Regionale Energiestrategieën en het Programma Energiehoofdstructuur is van groot belang vanwege de onderlinge afhankelijkheden. Het aanwijzen van gebieden voor grootschalige hernieuwbare elektriciteitsproductie op land vindt plaats via de RES’en. De uitkomsten van de RES’en voor hernieuwbare elektriciteitsopwekking zullen in de vorm van zoekgebieden worden opgenomen in het Programma Energiehoofdstructuur, zodat de keuzes van het Rijk over de planning van de nationale infrastructuur daar zoveel mogelijk op aansluiten. Binnen het Nationaal Programma RES stemmen Rijk en decentrale overheden (vanuit ieders eigen rollen en verantwoordelijkheden) de keuzes met elkaar af zodat een goede wisselwerking ontstaat tussen nationaal en regionaal niveau. Zo wordt aangesloten bij de maatschappelijke processen die met de RES’en in gang zijn gezet en de gedragen locatiekeuzes die daarin worden gemaakt.</Al>
+                                       </Li>
+                                       <Li eId="div_2__div_5__content_5.1__list_o_1__item_o_2"
+                                           wId="mnre1045_2__div_2__div_5__content_5.1__list_o_1__item_o_2">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Nieuwe (wind)energiegebieden op zee worden gepland via het Programma Noordzee (IenW). Het Programma Energiehoofdstructuur zorgt voor goede afstemming op land vanuit het bredere energiesysteem, in het bijzonder voor de aanlandingslocaties aan de kust.</Al>
+                                       </Li>
+                                       <Li eId="div_2__div_5__content_5.1__list_o_1__item_o_3"
+                                           wId="mnre1045_2__div_2__div_5__content_5.1__list_o_1__item_o_3">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Het Programma Energiehoofdstructuur zal ruimtelijke ontwikkelingsrichtingen aanwijzen voor de uitbreiding van het landelijke hoogspanningsnet vanaf 110 kV (en bijbehorende infrastructuur). Daarbij wordt ook bezien of en waar grootschalige elektriciteitsopslag en elektrolyse zich kunnen ontwikkelen.</Al>
+                                       </Li>
+                                       <Li eId="div_2__div_5__content_5.1__list_o_1__item_o_4"
+                                           wId="mnre1045_2__div_2__div_5__content_5.1__list_o_1__item_o_4">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>In het Besluit Algemene Regels Ruimtelijke Ordening (Barro) zijn er ruimtelijke reserveringen vastgelegd voor vestigingslocaties voor grootschalige elektriciteitsproductie-centrales. Tevens voorziet het Barro in waarborgingsbeleid voor elektriciteitsopwekking via kernenergiecentrales. Het Programma Energiehoofdstructuur zal deze waar nodig actualiseren. Het Barro gaat onder de Omgevingswet op in het Besluit Kwaliteit Leefomgeving.</Al>
+                                       </Li>
+                                    </Lijst>
+                                 </Inhoud>
+                              </Divisietekst>
+                              <Divisie eId="div_2__div_5__div_5.2"
+                                       wId="mnre1045_2__div_2__div_5__div_5.2"
+                                       dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>5.2</Nummer>
+                                    <Opschrift>Reserveringen (actualisatie)</Opschrift>
+                                 </Kop>
+                                 <Divisietekst eId="div_2__div_5__div_5.2__content_o_1"
+                                               wId="mnre1045_2__div_2__div_5__div_5.2__content_o_1">
+                                    <Inhoud>
+                                       <Al>Actualisatie van de reserveringen voor elektriciteitsinfrastructuur op basis van de huidige reserveringen zoals opgenomen in het derde Structuurschema Elektriciteitsvoorziening (SEVIII). Een niet geactualiseerde versie van deze reserveringen staat al in DSO.</Al>
+                                       <Figuur eId="div_2__div_5__div_5.2__content_o_1__img_o_1"
+                                               wId="mnre1045_2__div_2__div_5__div_5.2__content_o_1__img_o_1">
+                                          <Illustratie naam="image3.png"
+                                                       formaat="image/png"
+                                                       breedte="7937"
+                                                       hoogte="6339"
+                                                       dpi="72"
+                                                       uitlijning="start"/>
+                                          <Bijschrift locatie="boven">Figuur 3Reserveringen energie infrastructuur</Bijschrift>
+                                       </Figuur>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_2__div_5__div_5.2__content_5.2.1"
+                                               wId="mnre1045_2__div_2__div_5__div_5.2__content_5.2.1"
+                                               dso:niveau="4">
+                                    <Kop>
+                                       <Nummer>5.2.1</Nummer>
+                                       <Opschrift>
+                                          <IntIoRef eId="div_2__div_5__div_5.2__content_5.2.1__ref_o_1"
+                                                    wId="mnre1045_2__div_2__div_5__div_5.2__content_5.2.1__ref_o_1"
+                                                    ref="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1">Locaties voor grootschalige elektriciteitsproductie</IntIoRef>
+                                       </Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>De bestaande Barro-locaties zullen behouden moeten worden voor grootschalige elektriciteitproductie-eenheden, bij voorkeur in combinatie met elektrolysers, onderstations, converterstations en batterijen. Dit zal beter gehandhaafd moeten worden dan de afgelopen tijd het geval was.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_2__div_5__div_5.2__content_5.2.2"
+                                               wId="mnre1045_2__div_2__div_5__div_5.2__content_5.2.2"
+                                               dso:niveau="4">
+                                    <Kop>
+                                       <Nummer>5.2.2</Nummer>
+                                       <Opschrift>Nieuwe ruimtelijke reserveringen</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>Niet alle geplande uitbreidingen van de energie-infrastructuur, zoals opgenomen in de investeringsplannen van Gasunie en TenneT, vinden plaats binnen ruimtelijke reserveringen. Nieuwe ruimtelijke reserveringen zijn hiervoor nodig.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_2__div_5__div_5.2__content_5.2.3"
+                                               wId="mnre1045_2__div_2__div_5__div_5.2__content_5.2.3"
+                                               dso:niveau="4">
+                                    <Kop>
+                                       <Nummer>5.2.3</Nummer>
+                                       <Opschrift>
+                                          <IntIoRef eId="div_2__div_5__div_5.2__content_5.2.3__ref_o_1"
+                                                    wId="mnre1045_2__div_2__div_5__div_5.2__content_5.2.3__ref_o_1"
+                                                    ref="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_2__ref_o_1">Locaties voor bestaande hoogspanningsstations</IntIoRef>
+                                       </Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>Alle locaties en reserveringen voor de bestaande hoogspanningsstations moeten worden behouden. </Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_2__div_5__div_5.2__content_5.2.4"
+                                               wId="mnre1045_2__div_2__div_5__div_5.2__content_5.2.4"
+                                               dso:niveau="4">
+                                    <Kop>
+                                       <Nummer>5.2.4</Nummer>
+                                       <Opschrift>
+                                          <IntIoRef eId="div_2__div_5__div_5.2__content_5.2.4__ref_o_1"
+                                                    wId="mnre1045_2__div_2__div_5__div_5.2__content_5.2.4__ref_o_1"
+                                                    ref="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_3__ref_o_1">Locaties voor bestaande hoogspanningslijnen</IntIoRef>
+                                       </Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>Alle locaties en reserveringen voor de bestaande hoogspanningslijnen moeten worden behouden, voorstel is om niet opgenomen verbindingen in Barro op te nemen.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_2__div_5__div_5.2__content_5.2.5"
+                                               wId="mnre1045_2__div_2__div_5__div_5.2__content_5.2.5"
+                                               dso:niveau="4">
+                                    <Kop>
+                                       <Nummer>5.2.5</Nummer>
+                                       <Opschrift>Actualisatie ruimtelijke reserveringen</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>Fysiek gerealiseerde of plannen waarin de procedure voorbij de Raad van State is van TenneT en Gasunie, worden opgenomen in de actualisatie van ruimtelijke reserveringen.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                              </Divisie>
+                              <Divisie eId="div_2__div_5__div_5.3"
+                                       wId="mnre1045_2__div_2__div_5__div_5.3"
+                                       dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>5.3</Nummer>
+                                    <Opschrift>Ontwikkelrichtingen (incl over energetische, ruimtelijke en welvaartsaspecten)</Opschrift>
+                                 </Kop>
+                                 <Divisietekst eId="div_2__div_5__div_5.3__content_o_1"
+                                               wId="mnre1045_2__div_2__div_5__div_5.3__content_o_1">
+                                    <Inhoud>
+                                       <Figuur eId="div_2__div_5__div_5.3__content_o_1__img_o_1"
+                                               wId="mnre1045_2__div_2__div_5__div_5.3__content_o_1__img_o_1">
+                                          <Illustratie naam="image4.png"
+                                                       formaat="image/png"
+                                                       breedte="7633"
+                                                       hoogte="10801"
+                                                       dpi="72"
+                                                       uitlijning="start"/>
+                                          <Bijschrift locatie="boven">Figuur 4Overzicht van ontwikkelrichtingen Energiehoofdstructuur</Bijschrift>
+                                       </Figuur>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_2__div_5__div_5.3__content_o_2"
+                                               wId="mnre1045_2__div_2__div_5__div_5.3__content_o_2"
+                                               dso:niveau="4">
+                                    <Kop>
+                                       <Opschrift>Ontwikkelrichting Beverwijk Middenmeer</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Lijst eId="div_2__div_5__div_5.3__content_o_2__list_o_1"
+                                              wId="mnre1045_2__div_2__div_5__div_5.3__content_o_2__list_o_1"
+                                              type="expliciet">
+                                          <Li eId="div_2__div_5__div_5.3__content_o_2__list_o_1__item_o_1"
+                                              wId="mnre1045_2__div_2__div_5__div_5.3__content_o_2__list_o_1__item_o_1">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Het tracé tussen Beverwijk en Middenmeer dient op termijn versterkt te worden van een 150kV verbinding naar een 380kV-verbinding (2 circuits) vanwege de groei van datacenters, de plannen voor wind en zon en de aanlanding die naar verwachting in Noord-Holland-Noord gaat plaatsvinden en die verbonden dient te worden met de industrie in NZKG.</Al>
+                                          </Li>
+                                          <Li eId="div_2__div_5__div_5.3__content_o_2__list_o_1__item_o_2"
+                                              wId="mnre1045_2__div_2__div_5__div_5.3__content_o_2__list_o_1__item_o_2">
+                                             <LiNummer>•</LiNummer>
+                                             <Al>Voorkeur gaat uit om de route van het bestaande tracé te volgen. Alternatieve tracés langs de oost- en westkant zijn minder kansrijk vanwege nieuwe doorsnijdingen door NHW.</Al>
+                                          </Li>
+                                          <Li eId="div_2__div_5__div_5.3__content_o_2__list_o_1__item_o_3"
+                                              wId="mnre1045_2__div_2__div_5__div_5.3__content_o_2__list_o_1__item_o_3">
+                                             <LiNummer>•</LiNummer>
+                                             <Lijst eId="div_2__div_5__div_5.3__content_o_2__list_o_1__item_o_3__list_o_1"
+                                                    wId="mnre1045_2__div_2__div_5__div_5.3__content_o_2__list_o_1__item_o_3__list_o_1"
+                                                    type="expliciet">
+                                                <Lijstaanhef>Ruimtelijke aandachtspunten:</Lijstaanhef>
+                                                <Li eId="div_2__div_5__div_5.3__content_o_2__list_o_1__item_o_3__list_o_1__item_o_1"
+                                                    wId="mnre1045_2__div_2__div_5__div_5.3__content_o_2__list_o_1__item_o_3__list_o_1__item_o_1">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>Gevoelig gebied voor bodemdaling en zoute kwel</Al>
+                                                </Li>
+                                                <Li eId="div_2__div_5__div_5.3__content_o_2__list_o_1__item_o_3__list_o_1__item_o_2"
+                                                    wId="mnre1045_2__div_2__div_5__div_5.3__content_o_2__list_o_1__item_o_3__list_o_1__item_o_2">
+                                                   <LiNummer>–</LiNummer>
+                                                   <Al>Belangrijk erfgoed NHW. Ruimtelijke principes van toepassing vanuit de NHW-Unesco Bescherming, waaronder het bewaken van afstand tot kernwaarden.</Al>
+                                                </Li>
+                                             </Lijst>
+                                          </Li>
+                                       </Lijst>
+                                       <Figuur eId="div_2__div_5__div_5.3__content_o_2__img_o_1"
+                                               wId="mnre1045_2__div_2__div_5__div_5.3__content_o_2__img_o_1">
+                                          <Illustratie naam="image5.png"
+                                                       formaat="image/png"
+                                                       breedte="5626"
+                                                       hoogte="3812"
+                                                       dpi="72"
+                                                       uitlijning="start"/>
+                                          <Bijschrift locatie="boven">Figuur 5Ontwikkelrichting Eindhoven-Maasbracht<br/>Het gaat bij deze figuur om een indicatieve kaart. Deze zal dus niet met behulp van geodata in DSO gezet worden, maar als afbeelding in de tekst, tenzij dit op een manier mogelijk blijkt te zijn die recht doet aan de indicatieve status van de kaart. Voor elk te benoemen ontwikkelrichting zal er eenzelfde soort kaart bijgevoegd worden.</Bijschrift>
+                                       </Figuur>
+                                    </Inhoud>
+                                 </Divisietekst>
+                              </Divisie>
+                              <Divisietekst eId="div_2__div_5__content_5.4"
+                                            wId="mnre1045_2__div_2__div_5__content_5.4"
+                                            dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>5.4</Nummer>
+                                    <Opschrift>Beleidsuitspraken</Opschrift>
+                                 </Kop>
+                                 <Inhoud>
+                                    <Al>Specifiek voor hoogspanningsinfra</Al>
+                                    <Lijst eId="div_2__div_5__content_5.4__list_o_1"
+                                           wId="mnre1045_2__div_2__div_5__content_5.4__list_o_1"
+                                           type="expliciet">
+                                       <Li eId="div_2__div_5__content_5.4__list_o_1__item_o_1"
+                                           wId="mnre1045_2__div_2__div_5__content_5.4__list_o_1__item_o_1">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Bovengronds-tenzij voor 220/380kV</Al>
+                                       </Li>
+                                       <Li eId="div_2__div_5__content_5.4__list_o_1__item_o_2"
+                                           wId="mnre1045_2__div_2__div_5__content_5.4__list_o_1__item_o_2">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>110/150 kV en lager ondergronds, tenzij</Al>
+                                       </Li>
+                                       <Li eId="div_2__div_5__content_5.4__list_o_1__item_o_3"
+                                           wId="mnre1045_2__div_2__div_5__content_5.4__list_o_1__item_o_3">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Bij voorkeur combineren op één mast (muv …)</Al>
+                                       </Li>
+                                       <Li eId="div_2__div_5__content_5.4__list_o_1__item_o_4"
+                                           wId="mnre1045_2__div_2__div_5__content_5.4__list_o_1__item_o_4">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Magneetvelden (even bezien)</Al>
+                                       </Li>
+                                       <Li eId="div_2__div_5__content_5.4__list_o_1__item_o_5"
+                                           wId="mnre1045_2__div_2__div_5__content_5.4__list_o_1__item_o_5">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Rechtstandsprincipe</Al>
+                                       </Li>
+                                       <Li eId="div_2__div_5__content_5.4__list_o_1__item_o_6"
+                                           wId="mnre1045_2__div_2__div_5__content_5.4__list_o_1__item_o_6">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>In beginsel aanleg van AC, tenzij… (diepe aanlanding)</Al>
+                                       </Li>
+                                    </Lijst>
+                                 </Inhoud>
+                              </Divisietekst>
+                           </Divisie>
+                           <Divisie eId="div_2__div_6" wId="mnre1045_2__div_2__div_6" dso:niveau="2">
+                              <Kop>
+                                 <Nummer>6</Nummer>
+                                 <Opschrift>(Brand)stoffen</Opschrift>
+                              </Kop>
+                              <Divisietekst eId="div_2__div_6__content_o_1"
+                                            wId="mnre1045_2__div_2__div_6__content_o_1">
+                                 <Inhoud>
+                                    <Figuur eId="div_2__div_6__content_o_1__img_o_1"
+                                            wId="mnre1045_2__div_2__div_6__content_o_1__img_o_1">
+                                       <Illustratie naam="image6.jpeg"
+                                                    formaat="image/jpeg"
+                                                    breedte="7937"
+                                                    hoogte="5279"
+                                                    dpi="72"
+                                                    uitlijning="start"/>
+                                       <Bijschrift locatie="boven">Figuur 6Bron: Rob Poelenjee</Bijschrift>
+                                    </Figuur>
+                                 </Inhoud>
+                              </Divisietekst>
+                              <Divisietekst eId="div_2__div_6__content_6.1"
+                                            wId="mnre1045_2__div_2__div_6__content_6.1"
+                                            dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>6.1</Nummer>
+                                    <Opschrift>Ontwikkelingen en scope</Opschrift>
+                                 </Kop>
+                                 <Inhoud>
+                                    <Lijst eId="div_2__div_6__content_6.1__list_o_1"
+                                           wId="mnre1045_2__div_2__div_6__content_6.1__list_o_1"
+                                           type="expliciet">
+                                       <Li eId="div_2__div_6__content_6.1__list_o_1__item_o_1"
+                                           wId="mnre1045_2__div_2__div_6__content_6.1__list_o_1__item_o_1">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Onder (brand)stoffen worden alle stoffen verstaan die via een buisleiding getransporteerd worden. Hieronder vallen energetische stoffen zoals aardgas en waterstof, maar ook veelal gevaarlijke (grond)stoffen voor de industrie en CO<sub>2</sub>. Het programma verkent de behoefte voor 2030 en 2050 voor (inter)nationale buisleidingentracés, kijkt in hoeverre de bestaande buisleidingeninfrastructuur daarvoor benut kan worden en wijst daar zo nodig nieuwe ontwikkelingsrichtingen voor aan.</Al>
+                                       </Li>
+                                       <Li eId="div_2__div_6__content_6.1__list_o_1__item_o_2"
+                                           wId="mnre1045_2__div_2__div_6__content_6.1__list_o_1__item_o_2">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Ten aanzien van (brand)stoffen zal het programma de noodzaak verkennen van ruimtelijk beleid en ontwikkelingsrichtingen voor grootschalige conversielocaties voor CO<sub>2</sub>-vrij gas op land.</Al>
+                                       </Li>
+                                       <Li eId="div_2__div_6__content_6.1__list_o_1__item_o_3"
+                                           wId="mnre1045_2__div_2__div_6__content_6.1__list_o_1__item_o_3">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Het programma wijst zo nodig ontwikkelingsrichtingen aan voor gebieden voor opslag van brandstoffen. Denk bijvoorbeeld aan zoutcavernes of lege gasvelden die nu of in de toekomst benut kunnen worden voor verschillende type opslag van energie. Dat gebeurt in afstemming met het Programma Bodem en Ondergrond (IenW), met name vanwege de afstemming met andere ruimtelijke belangen in de diepe en ondiepe ondergrond, zoals strategische drinkwatervoorraden (waar provincies het bevoegde gezag voor zijn). Het Programma Energiehoofdstructuur richt zich niet op de planning van opslaglocaties van CO<sub>2</sub>. Opslag van CO<sub>2</sub> vindt enkel onder zee plaats. Het Programma Noordzee (IenW) betrekt dit daarom in de afweging tussen andere belangen op de Noordzee.</Al>
+                                       </Li>
+                                    </Lijst>
+                                 </Inhoud>
+                              </Divisietekst>
+                              <Divisie eId="div_2__div_6__div_6.2"
+                                       wId="mnre1045_2__div_2__div_6__div_6.2"
+                                       dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>6.2</Nummer>
+                                    <Opschrift>Reserveringen</Opschrift>
+                                 </Kop>
+                                 <Divisietekst eId="div_2__div_6__div_6.2__content_o_1"
+                                               wId="mnre1045_2__div_2__div_6__div_6.2__content_o_1">
+                                    <Inhoud>
+                                       <Al>Actualisatie van de reserveringen voor (brand)stoffeninfrastructuur op basis van de huidige reserveringen zoals opgenomen in de Structuurvisie Buisleidingen. Een niet geactualiseerde versie van deze reserveringen staat al in DSO.</Al>
+                                       <Figuur eId="div_2__div_6__div_6.2__content_o_1__img_o_1"
+                                               wId="mnre1045_2__div_2__div_6__div_6.2__content_o_1__img_o_1">
+                                          <Illustratie naam="image7.png"
+                                                       formaat="image/png"
+                                                       breedte="4359"
+                                                       hoogte="4416"
+                                                       dpi="72"
+                                                       uitlijning="start"/>
+                                          <Bijschrift locatie="boven">Deze kaart zal wél adhv geodata als kaart in DSO opgenomen kunnen worden. Ongeactualiseerde versie adhv structuurvisie buisleidingen en SEVIII als het goed is al in DSO te vinden.</Bijschrift>
+                                       </Figuur>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_2__div_6__div_6.2__content_6.2.1"
+                                               wId="mnre1045_2__div_2__div_6__div_6.2__content_6.2.1"
+                                               dso:niveau="4">
+                                    <Kop>
+                                       <Nummer>6.2.1</Nummer>
+                                       <Opschrift>Nieuwe ruimtelijke reserveringen</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>Niet alle geplande uitbreidingen van de energie-infrastructuur, zoals opgenomen in de investeringsplannen van Gasunie en TenneT, vinden plaats binnen ruimtelijke reserveringen. Nieuwe ruimtelijke reserveringen zijn hiervoor nodig.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_2__div_6__div_6.2__content_6.2.2"
+                                               wId="mnre1045_2__div_2__div_6__div_6.2__content_6.2.2"
+                                               dso:niveau="4">
+                                    <Kop>
+                                       <Nummer>6.2.2</Nummer>
+                                       <Opschrift>
+                                          <IntIoRef eId="div_2__div_6__div_6.2__content_6.2.2__ref_o_1"
+                                                    wId="mnre1045_2__div_2__div_6__div_6.2__content_6.2.2__ref_o_1"
+                                                    ref="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_5__ref_o_1">Bestaande reserveringen voor buisleidingen</IntIoRef>
+                                       </Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>De bestaande locaties en reserveringen voor buisleidingen moeten worden behouden. Dit betreft ook het behoud van mogelijk buiten gebruik vallende private buisleidingen [<IntIoRef eId="div_2__div_6__div_6.2__content_6.2.2__ref_o_1_inst2"
+                                                    wId="mnre1045_2__div_2__div_6__div_6.2__content_6.2.2__ref_o_1_inst2"
+                                                    ref="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_4__ref_o_1">Behoud private buisleidingen</IntIoRef>].</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                                 <Divisietekst eId="div_2__div_6__div_6.2__content_6.2.3"
+                                               wId="mnre1045_2__div_2__div_6__div_6.2__content_6.2.3"
+                                               dso:niveau="4">
+                                    <Kop>
+                                       <Nummer>6.2.3</Nummer>
+                                       <Opschrift>Actualisatie ruimtelijke reserveringen</Opschrift>
+                                    </Kop>
+                                    <Inhoud>
+                                       <Al>Fysiek gerealiseerde of plannen waarin de procedure voorbij de Raad van State is van TenneT en Gasunie, worden opgenomen in de actualisatie van ruimtelijke reserveringen.</Al>
+                                    </Inhoud>
+                                 </Divisietekst>
+                              </Divisie>
+                              <Divisietekst eId="div_2__div_6__content_6.3"
+                                            wId="mnre1045_2__div_2__div_6__content_6.3"
+                                            dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>6.3</Nummer>
+                                    <Opschrift>Ontwikkelrichtingen (incl over energetische, ruimtelijke en welvaartsaspecten)</Opschrift>
+                                 </Kop>
+                                 <Inhoud>
+                                    <Figuur eId="div_2__div_6__content_6.3__img_o_1"
+                                            wId="mnre1045_2__div_2__div_6__content_6.3__img_o_1">
+                                       <Illustratie naam="image8.png"
+                                                    formaat="image/png"
+                                                    breedte="7162"
+                                                    hoogte="5069"
+                                                    dpi="72"
+                                                    uitlijning="start"/>
+                                       <Bijschrift locatie="boven">Het gaat bij deze figuur om een indicatieve kaart. Deze zal dus niet met behulp van geodata in DSO gezet worden, maar als afbeelding in de tekst, tenzij dit op een manier mogelijk blijkt te zijn die recht doet aan de indicatieve status van de kaart. Voor elk te benoemen ontwikkelrichting zal er eenzelfde soort kaart bijgevoegd worden.</Bijschrift>
+                                    </Figuur>
+                                 </Inhoud>
+                              </Divisietekst>
+                              <Divisietekst eId="div_2__div_6__content_6.4"
+                                            wId="mnre1045_2__div_2__div_6__content_6.4"
+                                            dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>6.4</Nummer>
+                                    <Opschrift>Beleidsuitspraken</Opschrift>
+                                 </Kop>
+                                 <Inhoud>
+                                    <Lijst eId="div_2__div_6__content_6.4__list_o_1"
+                                           wId="mnre1045_2__div_2__div_6__content_6.4__list_o_1"
+                                           type="expliciet">
+                                       <Li eId="div_2__div_6__content_6.4__list_o_1__item_o_1"
+                                           wId="mnre1045_2__div_2__div_6__content_6.4__list_o_1__item_o_1">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Voor nieuwe leidingen dient de externe veiligheidscontour binnen de leidingstrook moet vallen (conform sb)</Al>
+                                       </Li>
+                                       <Li eId="div_2__div_6__content_6.4__list_o_1__item_o_2"
+                                           wId="mnre1045_2__div_2__div_6__content_6.4__list_o_1__item_o_2">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Voor sommige bestaande leidingen valt de contour buiten de leidingstrook. In dat geval dient het bevoegd gezag rekening te houden met de PR10-6 contour, en daarbinnen geen nieuwe bebouwing toe te staan.</Al>
+                                       </Li>
+                                    </Lijst>
+                                 </Inhoud>
+                              </Divisietekst>
+                           </Divisie>
+                           <Divisie eId="div_2__div_7" wId="mnre1045_2__div_2__div_7" dso:niveau="2">
+                              <Kop>
+                                 <Nummer>7</Nummer>
+                                 <Opschrift>Warmte</Opschrift>
+                              </Kop>
+                              <Divisietekst eId="div_2__div_7__content_o_1"
+                                            wId="mnre1045_2__div_2__div_7__content_o_1">
+                                 <Inhoud>
+                                    <Figuur eId="div_2__div_7__content_o_1__img_o_1"
+                                            wId="mnre1045_2__div_2__div_7__content_o_1__img_o_1">
+                                       <Illustratie naam="image9.jpeg"
+                                                    formaat="image/jpeg"
+                                                    breedte="7937"
+                                                    hoogte="5292"
+                                                    dpi="72"
+                                                    uitlijning="start"/>
+                                       <Bijschrift locatie="boven">Figuur 7 Bron: Sean van der Steen</Bijschrift>
+                                    </Figuur>
+                                 </Inhoud>
+                              </Divisietekst>
+                              <Divisietekst eId="div_2__div_7__content_7.1"
+                                            wId="mnre1045_2__div_2__div_7__content_7.1"
+                                            dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>7.1</Nummer>
+                                    <Opschrift>Ontwikkelingen en scope</Opschrift>
+                                 </Kop>
+                                 <Inhoud>
+                                    <Lijst eId="div_2__div_7__content_7.1__list_o_1"
+                                           wId="mnre1045_2__div_2__div_7__content_7.1__list_o_1"
+                                           type="expliciet">
+                                       <Li eId="div_2__div_7__content_7.1__list_o_1__item_o_1"
+                                           wId="mnre1045_2__div_2__div_7__content_7.1__list_o_1__item_o_1">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Gemeenten zijn primair verantwoordelijk voor een duurzame warmtevoorziening. In de gebouwde omgeving zijn ‘all-elektric’, een warmtenet of CO<sub>2</sub>- vrij gas, alternatieven voor elkaar. In de Transitievisies Warmte worden per wijk keuzes gemaakt over de warmtevoorziening, waarbij het inefficiënt is drie infrastructuren naast elkaar aan te leggen. Deze keuzes over de warmtevoorziening kunnen belangrijke gevolgen hebben op andere onderdelen van het energiesysteem met bijbehorend ruimtebeslag. Bijvoorbeeld, de energie die uit de restwarmte van industrie of uit aquathermie benut kan worden hoeft niet opgewekt te worden met wind of zon. Daarom worden de Transitievisies Warmte ook regionaal afgestemd in de RES’en en de effecten worden ook betrokken in de analyses over de ontwikkeling van het nationale energiesysteem.</Al>
+                                          <Al>De verantwoordelijkheid voor de ruimtelijke planning van warmtenetten (en het verbinden van vraag &amp; aanbod, en plannen van de nodige opslag e.d.) is op dit moment belegd bij gemeenten. Het programma zal verder invulling geven aan de bevoegdheidsverdeling in de ruimtelijke planning van warmtenetten. Vooralsnog wordt in die bevoegdheidsverdeling geen rol voorzien voor het Rijk, omdat niet wordt verwacht dat deze netten een dekkingsgebied beslaan op nationale schaal. Mocht in de toekomst blijken dat er toch nut en noodzaak is voor de ruimtelijke inpassing van warmtenetten op nationaal niveau, dan kan dit alsnog heroverwogen worden gezien het cyclische karakter van het programma. De uitkomsten van de besluitvorming over bovenregionale warmtenetten, zoals de warmterotonde Zuid-Holland, worden wel opgenomen in het Programma Energiehoofdstructuur zodat daar rekening mee gehouden kan worden in de keuzes over nationale infrastructuur.</Al>
+                                       </Li>
+                                       <Li eId="div_2__div_7__content_7.1__list_o_1__item_o_2"
+                                           wId="mnre1045_2__div_2__div_7__content_7.1__list_o_1__item_o_2">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Het Programma Energiehoofdstructuur verkent, mede op basis van de Seismische Campagne Aardwarmte Nederland, in welke mate de noodzaak bestaat tot het aanwijzen van ontwikkelingsrichtingen voor het ontplooien van geothermie activiteiten. Dat gebeurt in afstemming met het Programma Bodem en Ondergrond (IenW), met name vanwege de afstemming met andere ruimtelijke belangen in de diepe en ondiepe ondergrond, zoals de strategische drinkwatervoorraden.</Al>
+                                       </Li>
+                                    </Lijst>
+                                 </Inhoud>
+                              </Divisietekst>
+                              <Divisietekst eId="div_2__div_7__content_7.2"
+                                            wId="mnre1045_2__div_2__div_7__content_7.2"
+                                            dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>7.2</Nummer>
+                                    <Opschrift>Reserveringen</Opschrift>
+                                 </Kop>
+                                 <Inhoud>
+                                    <Al>Niet van toepassing.</Al>
+                                 </Inhoud>
+                              </Divisietekst>
+                              <Divisietekst eId="div_2__div_7__content_7.3"
+                                            wId="mnre1045_2__div_2__div_7__content_7.3"
+                                            dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>7.3</Nummer>
+                                    <Opschrift>Ontwikkelrichtingen (incl over energetische, ruimtelijke en welvaartsaspecten)</Opschrift>
+                                 </Kop>
+                                 <Inhoud>
+                                    <Figuur eId="div_2__div_7__content_7.3__img_o_1"
+                                            wId="mnre1045_2__div_2__div_7__content_7.3__img_o_1">
+                                       <Illustratie naam="image10.png"
+                                                    formaat="image/png"
+                                                    breedte="7166"
+                                                    hoogte="5070"
+                                                    dpi="72"
+                                                    uitlijning="start"/>
+                                       <Bijschrift locatie="boven">Mogelijk 3 gebieden waar bovenregionale warmte van toepassing kan zijn.</Bijschrift>
+                                    </Figuur>
+                                 </Inhoud>
+                              </Divisietekst>
+                              <Divisietekst eId="div_2__div_7__content_7.4"
+                                            wId="mnre1045_2__div_2__div_7__content_7.4"
+                                            dso:niveau="3">
+                                 <Kop>
+                                    <Nummer>7.4</Nummer>
+                                    <Opschrift>Beleidsuitspraken</Opschrift>
+                                 </Kop>
+                                 <Inhoud>
+                                    <Al>[Tekst]</Al>
+                                 </Inhoud>
+                              </Divisietekst>
+                           </Divisie>
+                           <Divisietekst eId="div_2__content_8"
+                                         wId="mnre1045_2__div_2__content_8"
+                                         dso:niveau="2">
+                              <Kop>
+                                 <Nummer>8</Nummer>
+                                 <Opschrift>Integratie van elektriciteit, (brand)stoffen en warmte in gebieden.</Opschrift>
+                              </Kop>
+                              <Inhoud>
+                                 <Al>Voor een selectie van een aantal gebieden de ontwikkelrichtingen in samenhang bezien, waaronder; havengebieden, Diemen/ring Amsterdam, e.d.</Al>
+                                 <Al>Voorbeeld: In het havengebied van Rotterdam en omgeving komen verschillende ontwikkelrichtingen samen. Er is ruimte voor grootschalige elektrolyse nodig (10ha), er is ruimte voor systeembatterijen nodig (15ha), naar verwachting bedraagt de extra ruimte voor aanlanding en verzwaring van elektriciteitsinfra 30ha). Het is niet de verwachting dat dit binnen de contouren van het huidige plangebied past. Op termijn zal er ruimte buiten het bestaande plangebied gevonden moeten worden, of bepaalde functies zullen ruimte moeten maken voor energie-infrastructuur. Het beschikbaar komen van ruimte voor kolenoverslag is een eerste stap, maar onvoldoende. Etc. etc.</Al>
+                                 <Figuur eId="div_2__content_8__img_o_1"
+                                         wId="mnre1045_2__div_2__content_8__img_o_1">
+                                    <Illustratie naam="image11.jpeg"
+                                                 formaat="image/jpeg"
+                                                 breedte="6351"
+                                                 hoogte="8981"
+                                                 dpi="72"
+                                                 uitlijning="start"/>
+                                    <Bijschrift locatie="onder">Het gaat bij deze figuur om een indicatieve kaart. Deze zal dus niet met behulp van geodata in DSO gezet worden, maar als afbeelding in de tekst, tenzij dit op een manier mogelijk blijkt te zijn die recht doet aan de indicatieve status van de kaart. Voor elk te benoemen ontwikkelrichting zal er eenzelfde soort kaart bijgevoegd worden.</Bijschrift>
+                                 </Figuur>
+                              </Inhoud>
+                           </Divisietekst>
+                        </Divisie>
+                        <Divisie xmlns:dso="https://www.dso.nl/"
+                                 eId="div_3"
+                                 wId="mnre1045_2__div_3"
+                                 dso:niveau="1">
+                           <Kop>
+                              <Label>Deel</Label>
+                              <Nummer>3</Nummer>
+                              <Opschrift>Uitvoering, governance en vervolgstappen</Opschrift>
+                           </Kop>
+                           <Divisietekst eId="div_3__content_9"
+                                         wId="mnre1045_2__div_3__content_9"
+                                         dso:niveau="2">
+                              <Kop>
+                                 <Nummer>9</Nummer>
+                                 <Opschrift>Programmering &amp; realisatiecyclus (wijze van afstemming met IP’s e.d., gebiedsgerichte verkenningen)</Opschrift>
+                              </Kop>
+                              <Inhoud>
+                                 <Lijst eId="div_3__content_9__list_o_1"
+                                        wId="mnre1045_2__div_3__content_9__list_o_1"
+                                        type="expliciet">
+                                    <Li eId="div_3__content_9__list_o_1__item_o_1"
+                                        wId="mnre1045_2__div_3__content_9__list_o_1__item_o_1">
+                                       <LiNummer>•</LiNummer>
+                                       <Al>Gebiedsgerichte verkenningen.</Al>
+                                    </Li>
+                                    <Li eId="div_3__content_9__list_o_1__item_o_2"
+                                        wId="mnre1045_2__div_3__content_9__list_o_1__item_o_2">
+                                       <LiNummer>•</LiNummer>
+                                       <Al>Elementen: Hoe afstemming gaat met IP’s e.d. Netbeheerders etc. qua uitvoering</Al>
+                                    </Li>
+                                 </Lijst>
+                                 <Al>Het PEH beschrijft de ruimte die nodig is voor een klimaatneutraal nationaal energiesysteem in 2050 op basis van de huidige inzichten. Maar ontwikkelingen gaan snel. Innovaties, maatschappelijke ontwikkelingen en beleidskeuzes beïnvloeden de benodigde ruimte. Om adequaat in te kunnen spelen op deze ontwikkelingen, wordt het PEH elke vier jaar geactualiseerd.</Al>
+                                 <Al>Het cyclische proces sluit aan op de integrale infrastructuurverkenning van de gezamenlijke netbeheerders (II3050) die elke twee jaar verschijnt. De netbeheerders baseren hierop hun investeringsplannen en ook voor het PEH is dit een belangrijke informatiebron. De scenario’s uit II3050, staan aan de basis van het onderzoek achter het PEH. Het PEH bouwt daar vervolgens op voort.</Al>
+                                 <Al>Daarnaast vindt de periodieke aanscherping van het PEH plaats in afstemming met aangrenzende trajecten en programma’s. Waaronder de jaarlijks verschijnende MIEK’s en CES’en, de twee jaarlijkse RES’en en investeringsplannen van de netbeheerders, het Nationaal Programma Energiesysteem (NPE) en de provinciale energiestrategieën (PMIEK/PEI). Ook met andere ruimtelijke programma’s onder de NOVEX vindt afstemming plaats, zoals het Nationaal Programma Landelijk gebied (NPLG) en het Programma Verstedelijking.</Al>
+                                 <Al>De inzichten en specifieke gegevens uit al deze trajecten en programma’s zijn input voor het PEH. Deels via de II3050 waarin deze ook gedeeltelijk worden meegenomen. Tegelijkertijd vormt het PEH ook omgekeerd weer sturing en beslisinformatie voor deze verschillende programma’s en trajecten. Zo bouwen deze op elkaar voort en ontstaat er een interatief proces waarbij inzichten en keuzes uit het ene traject input vormen voor het andere. Zo wordt in stappen toegewerkt naar een klimaatneutraal energiesysteem in 2050.</Al>
+                              </Inhoud>
+                           </Divisietekst>
+                           <Divisietekst eId="div_3__content_10"
+                                         wId="mnre1045_2__div_3__content_10"
+                                         dso:niveau="2">
+                              <Kop>
+                                 <Nummer>10</Nummer>
+                                 <Opschrift>Regelgeving en handhaving</Opschrift>
+                              </Kop>
+                              <Inhoud>
+                                 <Al>Welke vervolgstappen; aanpassingen in BKL, handhaving, etc.</Al>
+                              </Inhoud>
+                           </Divisietekst>
+                           <Divisietekst eId="div_3__content_11"
+                                         wId="mnre1045_2__div_3__content_11"
+                                         dso:niveau="2">
+                              <Kop>
+                                 <Nummer>11</Nummer>
+                                 <Opschrift>Governance en samenwerking</Opschrift>
+                              </Kop>
+                              <Inhoud>
+                                 <Al>Verdere algehele governance, cyclisch proces v/h programma etc.</Al>
+                                 <Al>Beschrijving van de algehele governance; PEH is een proces van samenwerking, wat zijn onze principes van samenwerking, het houdt niet op bij PEH versie 1.0, etc. Wat is het stelsel van besluitvorming.</Al>
+                                 <Al>Samen met vertegenwoordigers van het IPO en de VNG proces- en samenwerkingsafspraken voorbereiden met decentrale overheden over de onderlinge afstemming en doorwerking op het gebied van de energiehoofdstructuur. Dit in afstemming met de Werkgroep Integraal Programmeren/PES en andere trajecten waarbij bestuurlijke afspraken worden gemaakt op het gebied van ruimte en energie. Deelnemers aan de werkgroep voeren de opdracht gezamenlijk uit.</Al>
+                                 <Al>Als gevolg van alle snelle ontwikkelingen en nieuwe inzichten op het gebied van energie, zal het nodig zijn het PEH in een cyclisch proces periodiek aan te passen. Het uitvoeringshoofdstuk beschrijft dit cyclische proces. Dit in afstemming met aangrenzende trajecten als NPE, MIEK en RES en de investeringsprogramma’s van de netbeheerders. Daarmee is het onderdeel van het adaptief integraal programmeren van de energiehoofdstructuur. De lead voor dit proces ligt bij de Werkgroep Integraal Programmeren/PES.</Al>
+                              </Inhoud>
+                           </Divisietekst>
+                           <Divisietekst eId="div_3__content_12"
+                                         wId="mnre1045_2__div_3__content_12"
+                                         dso:niveau="2">
+                              <Kop>
+                                 <Nummer>12</Nummer>
+                                 <Opschrift>Monitoring, evaluatie en actualisatie</Opschrift>
+                              </Kop>
+                              <Inhoud>
+                                 <Al>We vragen RVO en/of RWS om te onderzoeken hoe we het best de ruimtelijke reserveringen kunnen monitoren. Deze actie is waarschijnlijk goed te combineren met actie 1c. De werkgroep fungeert als begeleidingscommissie. In de eerste fase formuleert de werkgroep de opdracht en in de tweede fase begeleidt de werkgroep de uitvoering van de opdracht en becommentarieert de (tussen)producten. De kernteamleden bereiden de overleggen voor.</Al>
+                                 <Al>Bijlagen:</Al>
+                                 <Al>Alternatieven</Al>
+                                 <Al>Beoordelingskader</Al>
+                                 <Al>Voorkeursalternatief</Al>
+                                 <Al>MER</Al>
+                                 <Al>NRD</Al>
+                                 <Al>(2 voorbeelden meegestuurd)</Al>
+                              </Inhoud>
+                           </Divisietekst>
+                        </Divisie>
+                     </Lichaam>
+                     <Bijlage xmlns:dso="https://www.dso.nl/"
+                              eId="cmp_I"
+                              wId="mnre1045_2__cmp_I"
+                              dso:niveau="1">
+                        <Kop>
+                           <Label>Bijlage</Label>
+                           <Nummer>I</Nummer>
+                           <Opschrift>Concept Notitie Reikwijdte en Detailniveau Programma Energiehoofdstructuur</Opschrift>
+                        </Kop>
+                        <Divisietekst eId="cmp_I__content_o_1" wId="mnre1045_2__cmp_I__content_o_1">
+                           <Inhoud>
+                              <Al>Bijgevoegd is ‘<IntIoRef eId="cmp_I__content_o_1__ref_o_1"
+                                           wId="mnre1045_2__cmp_I__content_o_1__ref_o_1"
+                                           ref="mnre1045_2__cmp_V__content_o_1__list_o_1__item_o_1__ref_o_1">Concept Notitie Reikwijdte en Detailniveau Programma Energiehoofdstructuur</IntIoRef>’.</Al>
+                           </Inhoud>
+                        </Divisietekst>
+                     </Bijlage>
+                     <Bijlage xmlns:dso="https://www.dso.nl/"
+                              eId="cmp_II"
+                              wId="mnre1045_2__cmp_II"
+                              dso:niveau="1">
+                        <Kop>
+                           <Label>Bijlage</Label>
+                           <Nummer>II</Nummer>
+                           <Opschrift>Inspraakbundel zienswijzen C NRD Programma Energiehoofdstructuur Anoniem</Opschrift>
+                        </Kop>
+                        <Divisietekst eId="cmp_II__content_o_1" wId="mnre1045_2__cmp_II__content_o_1">
+                           <Inhoud>
+                              <Al>Bijgevoegd is ‘<IntIoRef eId="cmp_II__content_o_1__ref_o_1"
+                                           wId="mnre1045_2__cmp_II__content_o_1__ref_o_1"
+                                           ref="mnre1045_2__cmp_V__content_o_1__list_o_1__item_o_2__ref_o_1">Inspraakbundel zienswijzen C NRD Programma Energiehoofdstructuur Anoniem</IntIoRef>’.</Al>
+                           </Inhoud>
+                        </Divisietekst>
+                     </Bijlage>
+                     <Bijlage xmlns:dso="https://www.dso.nl/"
+                              eId="cmp_III"
+                              wId="mnre1045_2__cmp_III"
+                              dso:niveau="1">
+                        <Kop>
+                           <Label>Bijlage</Label>
+                           <Nummer>III</Nummer>
+                           <Opschrift>Memo beschrijving scenario’s</Opschrift>
+                        </Kop>
+                        <Divisietekst eId="cmp_III__content_o_1" wId="mnre1045_2__cmp_III__content_o_1">
+                           <Inhoud>
+                              <Al>Bijgevoegd is ‘<IntIoRef eId="cmp_III__content_o_1__ref_o_1"
+                                           wId="mnre1045_2__cmp_III__content_o_1__ref_o_1"
+                                           ref="mnre1045_2__cmp_V__content_o_1__list_o_1__item_o_3__ref_o_1">Memo beschrijving scenario’s</IntIoRef>’.</Al>
+                           </Inhoud>
+                        </Divisietekst>
+                     </Bijlage>
+                     <Bijlage eId="cmp_IV" wId="mnre1045_2__cmp_IV">
+                        <Kop>
+                           <Label>Bijlage</Label>
+                           <Nummer>IV</Nummer>
+                           <Opschrift>Overzicht van informatieobjecten</Opschrift>
+                        </Kop>
+                        <Divisietekst eId="cmp_IV__content_o_1" wId="mnre1045_2__cmp_IV__content_o_1">
+                           <Inhoud>
+                              <Begrippenlijst eId="cmp_IV__content_o_1__list_o_1"
+                                              wId="mnre1045_2__cmp_IV__content_o_1__list_o_1">
+                                 <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_1"
+                                         wId="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_1"><!--or_elektriciteit_locaties_grootschalige_opwekking_nw1.gml-->
+                                    <Term>Locaties voor grootschalige elektriciteitsproductie</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                                    wId="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                                    ref="/join/id/regdata/mnre1045/2022/2305961014/nld@2022-11-28;2">/join/id/regdata/mnre1045/2022/2305961014/nld@2022-11-28;2</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                                 <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_2"
+                                         wId="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_2"><!--TENNET_Hoogspanningsstation.gml-->
+                                    <Term>Locaties voor bestaande hoogspanningsstations</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                                    wId="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                                    ref="/join/id/regdata/mnre1045/2022/2270371436/nld@2022-11-28;2">/join/id/regdata/mnre1045/2022/2270371436/nld@2022-11-28;2</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                                 <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_3"
+                                         wId="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_3"><!--or_elektriciteit_hoogspanningsverbindingen_nw1.gml-->
+                                    <Term>Locaties voor bestaande hoogspanningslijnen</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                                    wId="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                                    ref="/join/id/regdata/mnre1045/2022/421406185/nld@2022-11-28;2">/join/id/regdata/mnre1045/2022/421406185/nld@2022-11-28;2</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                                 <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_4"
+                                         wId="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_4"><!--or_buisleidingen_zoekgebieden.gml-->
+                                    <Term>Behoud private buisleidingen</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                                    wId="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                                    ref="/join/id/regdata/mnre1045/2022/339024076/nld@2022-11-28;2">/join/id/regdata/mnre1045/2022/339024076/nld@2022-11-28;2</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                                 <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_5"
+                                         wId="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_5"><!--or_buisleidingen_reserveringsgebieden_2021-07-13.gml-->
+                                    <Term>Bestaande reserveringen voor buisleidingen</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                                    wId="mnre1045_2__cmp_IV__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                                    ref="/join/id/regdata/mnre1045/2022/3446744085/nld@2022-11-28;2">/join/id/regdata/mnre1045/2022/3446744085/nld@2022-11-28;2</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                              </Begrippenlijst>
+                           </Inhoud>
+                        </Divisietekst>
+                     </Bijlage>
+                     <Bijlage eId="cmp_V" wId="mnre1045_2__cmp_V">
+                        <Kop>
+                           <Label>Bijlage</Label>
+                           <Nummer>V</Nummer>
+                           <Opschrift>Overzicht van PDF-informatieobjecten</Opschrift>
+                        </Kop>
+                        <Divisietekst eId="cmp_V__content_o_1" wId="mnre1045_2__cmp_V__content_o_1">
+                           <Inhoud>
+                              <Begrippenlijst eId="cmp_V__content_o_1__list_o_1"
+                                              wId="mnre1045_2__cmp_V__content_o_1__list_o_1">
+                                 <Begrip eId="cmp_V__content_o_1__list_o_1__item_o_1"
+                                         wId="mnre1045_2__cmp_V__content_o_1__list_o_1__item_o_1">
+                                    <Term>Concept Notitie Reikwijdte en Detailniveau Programma Energiehoofdstructuur</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_V__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                                    wId="mnre1045_2__cmp_V__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                                    ref="/join/id/regdata/mnre1045/2022/concept_notitie_reikwijdte_en_detailniveau_programma_energiehoofdstructuur/nld@2022-11-28;2">/join/id/regdata/mnre1045/2022/concept_notitie_reikwijdte_en_detailniveau_programma_energiehoofdstructuur/nld@2022-11-28;2</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                                 <Begrip eId="cmp_V__content_o_1__list_o_1__item_o_2"
+                                         wId="mnre1045_2__cmp_V__content_o_1__list_o_1__item_o_2">
+                                    <Term>Inspraakbundel zienswijzen C NRD Programma Energiehoofdstructuur Anoniem</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_V__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                                    wId="mnre1045_2__cmp_V__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                                    ref="/join/id/regdata/mnre1045/2022/inspraakbundel_zienswijzen_c_nrd_programma_energiehoofdstructuur_anoniem/nld@2022-11-28;2">/join/id/regdata/mnre1045/2022/inspraakbundel_zienswijzen_c_nrd_programma_energiehoofdstructuur_anoniem/nld@2022-11-28;2</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                                 <Begrip eId="cmp_V__content_o_1__list_o_1__item_o_3"
+                                         wId="mnre1045_2__cmp_V__content_o_1__list_o_1__item_o_3">
+                                    <Term>Memo beschrijving scenario’s</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_V__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                                    wId="mnre1045_2__cmp_V__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                                    ref="/join/id/regdata/mnre1045/2022/memo_beschrijving_scenarios/nld@2022-11-28;2">/join/id/regdata/mnre1045/2022/memo_beschrijving_scenarios/nld@2022-11-28;2</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                              </Begrippenlijst>
+                           </Inhoud>
+                        </Divisietekst>
+                     </Bijlage>
+                  </RegelingVrijetekst>
+               </VervangRegeling>
+            </RegelingMutatie>
+         </WijzigBijlage>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/mnre1045/2022/PEH001-001</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1045/2022/PEH001-001/nld@2022-11-28;2</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <soortRegeling>/join/id/stop/regelingtype_010</soortRegeling>
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
+         <officieleTitel>Programma Energiehoofdstructuur</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Programma Energiehoofdstructuur</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <grondslagen>
+            <grondslag>
+               <TekstReferentie>
+                  <uri>jcil.31:c:BWBR0037885&amp;artikel=5.44</uri>
+                  <label>Artikel 5.44 Omgevingswet</label>
+                  <soortRef>JCI</soortRef>
+               </TekstReferentie>
+            </grondslag>
+         </grondslagen>
+         <overheidsdomeinen>
+            <overheidsdomein>/tooi/def/concept/c_86b84a9d</overheidsdomein>
+         </overheidsdomeinen>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_85a72eb3</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>
