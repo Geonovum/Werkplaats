@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- These 3 meta tags MUST come first -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- These 3 meta tags MUST come first -->
+        
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+        
+        <!-- OpenLayers -->
+        <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList,URL"></script>
+        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.6.5/ol.js"></script>-->
+        <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+        <script src="https://unpkg.com/ol-layerswitcher@3.8.3"></script>
+        
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />-->
+        
+        <!-- OpenLayers CSS -->
+        <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.6.5/ol.css">-->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css">
+        <link rel="stylesheet" href="https://unpkg.com/ol-layerswitcher@3.8.3/dist/ol-layerswitcher.css">
+        
+        
+        <title>LandGoed OpenOmgevingswet</title>
+        <!-- Application specific CSS-->
+        <link rel="stylesheet" href="/static/css/app.css">
+        
+        
+    </head>
+    <body>
+        
+        
+        
+        
+        <div id="header-div" class="clearfix with-margins">
+            <div class="header-logo"></div>
+        </div>
+        <hr class="no-margins"/>
+
+        <div id="main-div" class="with-margins">
+        
+
+        
+        
+        
+
+        
+    
+<div class="card">
+   <div class="card-header">
+    Resultaat (<a href="#" onclick="document.location.reload(true);">Herlaad deze pagina</a> om nieuwe resultaten op te halen)
+  </div>
+  <div class="card-body">
+    <ul xmlns="http://www.overheid.nl/2017/lvbb" xmlns:corv="http://www.openomgevingswet.nl/corv" xmlns:lvbb="http://www.overheid.nl/2017/lvbb" xmlns:stop="http://www.overheid.nl/2017/stop">
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>PEH001_2022-12-21_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2022-12-20T19:43:28.835202Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>validatie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>DL-0003</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>opdracht is valide. Aanlevering wordt inhoudelijk gevalideerd</dd>
+                        </dl>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>PEH001_2022-12-21_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2022-12-20T19:44:30.161725Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>validatie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>DL-0004</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>Volledige aanlevering is valide</dd>
+                        </dl>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>PEH001_2022-12-21_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2022-12-20T19:44:58.501474Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>DL-0005</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>Ontwerpbesluit/definitief besluit verwerkt tot proefversiebesluit/regeling(versie)</dd>
+                        </dl>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>PEH001_2022-12-21_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2022-12-20T19:45:23.206637Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2022-55039</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2022-55039</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/mnre1045/2022/concept_notitie_reikwijdte_en_detailniveau_programma_energiehoofdstructuur/nld@2022-11-28;3</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>PEH001_2022-12-21_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2022-12-20T19:45:23.617728Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2022-55041</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2022-55041</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/mnre1045/2022/memo_beschrijving_scenarios/nld@2022-11-28;3</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>PEH001_2022-12-21_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2022-12-20T19:45:24.265627Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2022-55035</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2022-55035</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/mnre1045/2022/421406185/nld@2022-11-28;3</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>PEH001_2022-12-21_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2022-12-20T19:45:24.642045Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2022-55032</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2022-55032</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/mnre1045/2022/2305961014/nld@2022-11-28;3</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>PEH001_2022-12-21_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2022-12-20T19:45:25.226837Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2022-55040</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2022-55040</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/mnre1045/2022/inspraakbundel_zienswijzen_c_nrd_programma_energiehoofdstructuur_anoniem/nld@2022-11-28;3</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>PEH001_2022-12-21_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2022-12-20T19:45:25.550855Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2022-55033</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2022-55033</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/mnre1045/2022/339024076/nld@2022-11-28;3</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>PEH001_2022-12-21_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2022-12-20T19:45:26.097660Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2022-55031</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2022-55031</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/mnre1045/2022/2270371436/nld@2022-11-28;3</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>PEH001_2022-12-21_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2022-12-20T19:45:26.531760Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2022-55034</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2022-55034</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/mnre1045/2022/3446744085/nld@2022-11-28;3</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>PEH001_2022-12-21_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2022-12-20T19:45:26.965559Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id stcrt-2022-275</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>stcrt-2022-275</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/akn/nl/officialGazette/stcrt/2022/275/nld@2022-12-21</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+</ul>
+  </div>
+  <div class="card-body">
+      <button type="button" data-toggle="collapse" data-target="#xml" class="btn btn-landgoed btn-sm">Toon/ verberg ruwe xml-berichten LVBB</button>
+      <div id='xml' class="collapse">
+        <textarea rows="40" style="width: 100%;"><?xml version="1.0" encoding="UTF-8"?>
+<corv:meldingen xmlns:corv="http://www.openomgevingswet.nl/corv"
+                xmlns:lvbb="http://www.overheid.nl/2017/lvbb"
+                xmlns="http://www.overheid.nl/2017/lvbb">
+
+<lvbb:publicatieVerzoekResultaat xmlns:lvbb="http://www.overheid.nl/2017/lvbb" xmlns:stop="http://www.overheid.nl/2017/stop"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>PEH001_2022-12-21_001</lvbb:idLevering><lvbb:tijdstipVerslag>2022-12-20T19:43:28.835202Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>DL-0003</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:beschrijving>opdracht is valide. Aanlevering wordt inhoudelijk gevalideerd</stop:beschrijving></lvbb:melding></lvbb:meldingen><lvbb:voortgang>validatie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:lvbb="http://www.overheid.nl/2017/lvbb"
+                                 xmlns:stop="http://www.overheid.nl/2017/stop">
+   <lvbb:uitkomst>succes</lvbb:uitkomst>
+   <lvbb:verslag>
+      <lvbb:idLevering>PEH001_2022-12-21_001</lvbb:idLevering>
+      <lvbb:tijdstipVerslag>2022-12-20T19:44:30.161725Z</lvbb:tijdstipVerslag>
+      <lvbb:meldingen>
+         <lvbb:melding>
+            <stop:code>DL-0004</stop:code>
+            <stop:ernst>informatie</stop:ernst>
+            <stop:soort>technisch</stop:soort>
+            <stop:beschrijving>Volledige aanlevering is valide</stop:beschrijving>
+         </lvbb:melding>
+      </lvbb:meldingen>
+      <lvbb:voortgang>validatie-voltooid</lvbb:voortgang>
+   </lvbb:verslag>
+</lvbb:publicatieVerzoekResultaat>
+<lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>PEH001_2022-12-21_001</lvbb:idLevering><lvbb:tijdstipVerslag>2022-12-20T19:44:58.501474Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>DL-0005</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:beschrijving>Ontwerpbesluit/definitief besluit verwerkt tot proefversiebesluit/regeling(versie)</stop:beschrijving></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>PEH001_2022-12-21_001</lvbb:idLevering><lvbb:tijdstipVerslag>2022-12-20T19:45:23.206637Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2022-55039</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2022-55039</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/mnre1045/2022/concept_notitie_reikwijdte_en_detailniveau_programma_energiehoofdstructuur/nld@2022-11-28;3</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>PEH001_2022-12-21_001</lvbb:idLevering><lvbb:tijdstipVerslag>2022-12-20T19:45:23.617728Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2022-55041</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2022-55041</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/mnre1045/2022/memo_beschrijving_scenarios/nld@2022-11-28;3</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>PEH001_2022-12-21_001</lvbb:idLevering><lvbb:tijdstipVerslag>2022-12-20T19:45:24.265627Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2022-55035</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2022-55035</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/mnre1045/2022/421406185/nld@2022-11-28;3</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>PEH001_2022-12-21_001</lvbb:idLevering><lvbb:tijdstipVerslag>2022-12-20T19:45:24.642045Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2022-55032</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2022-55032</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/mnre1045/2022/2305961014/nld@2022-11-28;3</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>PEH001_2022-12-21_001</lvbb:idLevering><lvbb:tijdstipVerslag>2022-12-20T19:45:25.226837Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2022-55040</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2022-55040</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/mnre1045/2022/inspraakbundel_zienswijzen_c_nrd_programma_energiehoofdstructuur_anoniem/nld@2022-11-28;3</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>PEH001_2022-12-21_001</lvbb:idLevering><lvbb:tijdstipVerslag>2022-12-20T19:45:25.550855Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2022-55033</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2022-55033</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/mnre1045/2022/339024076/nld@2022-11-28;3</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>PEH001_2022-12-21_001</lvbb:idLevering><lvbb:tijdstipVerslag>2022-12-20T19:45:26.097660Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2022-55031</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2022-55031</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/mnre1045/2022/2270371436/nld@2022-11-28;3</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>PEH001_2022-12-21_001</lvbb:idLevering><lvbb:tijdstipVerslag>2022-12-20T19:45:26.531760Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2022-55034</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2022-55034</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/mnre1045/2022/3446744085/nld@2022-11-28;3</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>PEH001_2022-12-21_001</lvbb:idLevering><lvbb:tijdstipVerslag>2022-12-20T19:45:26.965559Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id stcrt-2022-275</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">stcrt-2022-275</stop:uitspraak><stop:uitspraak property="FRBRuri">/akn/nl/officialGazette/stcrt/2022/275/nld@2022-12-21</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat>
+
+</corv:meldingen>
+</textarea>
+      </div>
+  </div>
+</div>
+
+
+
+        
+        </div>
+
+        <br/>
+        <hr class="no-margins"/>
+        <div id="footer-div" class="clearfix with-margins">
+            <div class="pull-right">&copy; 2020 Land<sup><u>goed</u></sup>.cloud</div>
+        </div>
+        
+        
+        
+      
+        
+    </body>
+</html>
