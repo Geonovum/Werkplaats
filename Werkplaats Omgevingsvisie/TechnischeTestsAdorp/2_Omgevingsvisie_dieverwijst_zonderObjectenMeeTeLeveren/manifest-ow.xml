@@ -15,5 +15,9 @@
          <naam>owRegelingsgebied-Adorp.xml</naam>
          <objecttype>Regelingsgebied</objecttype>
       </Bestand>
+      <Bestand>
+         <naam>owLocaties.xml</naam>
+         <objecttype>Ambtsgebied</objecttype>
+      </Bestand>
    </Aanlevering>
 </Aanleveringen>

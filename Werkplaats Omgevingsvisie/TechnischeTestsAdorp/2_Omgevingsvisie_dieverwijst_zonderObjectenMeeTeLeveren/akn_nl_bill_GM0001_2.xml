@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Voor validatie is het noodzakelijk om ook de catalogi van de gepubliceerde versie 1.0.4 te laden.-->
-<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.0.4" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
     <BesluitVersie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <FRBRWork>/akn/nl/bill/gm1966/2019/omgevingsvisie</FRBRWork>
@@ -29,8 +28,6 @@
                     <soortStap>/join/id/stop/procedure/stap_002</soortStap>
                     <voltooidOp>2019-12-03</voltooidOp>
                 </Procedurestap>
-                <!-- RdG: Ondertekening weggehaald, doen we niet meer in voorbeelden-->
-                <!-- KL: Ondertekening weer toegevoegd omdat LVBB die verplicht heeft nu -->
                 <Procedurestap>
                     <soortStap>/join/id/stop/procedure/stap_003</soortStap>
                     <voltooidOp>2019-12-05</voltooidOp>

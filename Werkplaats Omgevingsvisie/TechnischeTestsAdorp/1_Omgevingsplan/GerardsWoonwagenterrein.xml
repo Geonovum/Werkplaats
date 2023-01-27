@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/gm1966/2021/gerardswoonwagenterrein</FRBRWork>
@@ -12,12 +12,12 @@
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm1966/2021/OMGV001</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm1966/2019/omgevingsplanAdorp</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>GerardsWoonwagenterrein.gml</bestandsnaam>
-                  <hash>9c3f0a828040e5c029b3c7bb30499f40cc7c7b86cb11dcf4914f816cb13578dc288fb006604439f4293ba0f7890ab6977245854933fc51d0d8aac68f8d370c7e</hash>
+                  <hash>95ea766f29108b5f64e6de3a3755369b6329775e1760e258b052a83f9a72db14bbede9240ac7fde58b60b582fa0baee76e6c61e6e889ef5fa25c1115866af094</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

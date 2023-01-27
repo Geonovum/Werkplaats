@@ -15,7 +15,7 @@
           <geo:naam>GerardsWoonwagenterrein</geo:naam>
           <geo:geometrie>
             <basisgeo:Geometrie>
-              <basisgeo:id>7C3D9C7A-1C33-461B-AEA4-DFC51399B031</basisgeo:id>
+              <basisgeo:id>ffb77963-9709-42e1-a1e0-d0957621b61c</basisgeo:id>
               <basisgeo:geometrie>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
                   <gml:surfaceMember>
