@@ -52,7 +52,7 @@
           <l:Gebied>
             <l:identificatie>nl.imow-gm1966.gebied.gerardswoonwagenterrein</l:identificatie>
             <l:geometrie>
-              <l:GeometrieRef xlink:href="7C3D9C7A-1C33-461B-AEA4-DFC51399B031"/>
+              <l:GeometrieRef xlink:href="ffb77963-9709-42e1-a1e0-d0957621b61c"/>
             </l:geometrie>
           </l:Gebied>
         </ow-dc:owObject>

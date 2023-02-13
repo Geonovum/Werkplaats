@@ -34,11 +34,12 @@
       <ow-dc:owObject>
         <vt:Tekstdeel>
           <vt:identificatie>nl.imow-gm1966.tekstdeel.tekstdeel1</vt:identificatie>
+          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
           <vt:divisieaanduiding>
             <vt:DivisieRef xlink:href="nl.imow-gm1966.divisie.divisie1"/>
           </vt:divisieaanduiding>
           <vt:locatieaanduiding>
-            <l:LocatieRef xlink:href="nl.imow-gm1966.gebiedengroep.gerardswoonwagenterrein"/>
+            <l:LocatieRef xlink:href="nl.imow-gm1966.ambtsgebied.vandevisie"/>
           </vt:locatieaanduiding>
           <vt:gebiedsaanwijzing>
             <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1966.gebiedsaanwijzing.gerardswoonwagenterrein"/>

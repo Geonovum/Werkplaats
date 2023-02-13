@@ -17,6 +17,10 @@
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
+        <bestandsnaam>owLocaties.xml</bestandsnaam>
+        <contentType>application/xml</contentType>
+    </bestand>
+    <bestand>
         <bestandsnaam>owDivisie-Adorp.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
