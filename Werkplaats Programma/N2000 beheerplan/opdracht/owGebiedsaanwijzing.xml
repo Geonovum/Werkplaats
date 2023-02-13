@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:r="http://www.geostandaarden.nl/imow/regels" xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst" xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" xmlns:p="http://www.geostandaarden.nl/imow/pons" xmlns:l="http://www.geostandaarden.nl/imow/locatie" xmlns:k="http://www.geostandaarden.nl/imow/kaart" xmlns:op="http://www.geostandaarden.nl/imow/opobject" xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek" xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen" xmlns:ow="http://www.geostandaarden.nl/imow/owobject" xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied" xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand" xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+	<sl:standBestand>
+		<sl:dataset>provincie Utrecht</sl:dataset>
+		<sl:inhoud>
+			<sl:gebied>provincie Utrecht</sl:gebied>
+			<sl:leveringsId>PU_N2000_Geonovum_001</sl:leveringsId>
+			<sl:objectTypen>
+				<sl:objectType>Gebiedsaanwijzing</sl:objectType>
+			</sl:objectTypen>
+		</sl:inhoud>
+		<sl:stand>
+			<ow-dc:owObject>
+				<ga:Gebiedsaanwijzing>
+					<ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.00120230213000001</ga:identificatie>
+					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Natuur</ga:type>
+					<ga:naam>Habitatrichtlijngebied</ga:naam>
+					<ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Habitatrichtlijngebied</ga:groep>
+					<ga:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000004"/>
+					</ga:locatieaanduiding>
+				</ga:Gebiedsaanwijzing>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<ga:Gebiedsaanwijzing>
+					<ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.00120230213000002</ga:identificatie>
+					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Natuur</ga:type>
+					<ga:naam>Natura2000-gebied Zouweboezem</ga:naam>
+					<ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Natura2000Gebied</ga:groep>
+					<ga:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+					</ga:locatieaanduiding>
+				</ga:Gebiedsaanwijzing>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<ga:Gebiedsaanwijzing>
+					<ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.00120230213000003</ga:identificatie>
+					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Natuur</ga:type>
+					<ga:naam>Vogelrichtlijngebied</ga:naam>
+					<ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Vogelrichtlijngebied</ga:groep>
+					<ga:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000003"/>
+					</ga:locatieaanduiding>
+				</ga:Gebiedsaanwijzing>
+			</ow-dc:owObject>
+		</sl:stand>
+		<!-- GW: Gebiedsaanwijzing De Boezem toegevoegd -->
+		<sl:stand>
+			<ow-dc:owObject>
+				<ga:Gebiedsaanwijzing>
+					<ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.00120230213000004</ga:identificatie>
+					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+					<ga:naam>De Boezem</ga:naam>
+					<ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Duingebied</ga:groep>
+					<ga:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000006"/>
+					</ga:locatieaanduiding>
+				</ga:Gebiedsaanwijzing>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<ga:Gebiedsaanwijzing>
+					<ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.00120230213000005</ga:identificatie>
+					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+					<ga:naam>H3150 Meren met Krabbenscheer en Fonteinkruiden</ga:naam>
+					<ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Peilgebied</ga:groep>
+					<ga:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000011"/>
+					</ga:locatieaanduiding>
+				</ga:Gebiedsaanwijzing>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<ga:Gebiedsaanwijzing>
+					<ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.00120230213000006</ga:identificatie>
+					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Landschap</ga:type>
+					<ga:naam>zoekgebieden voor leefgebied voor het porseleinhoen</ga:naam>
+					<ga:groep>http://standaarden.omgevingswet.overheid.nl/landschap/id/concept/SpecifiekBenoemdLandschap</ga:groep>
+					<ga:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000005"/>
+					</ga:locatieaanduiding>
+				</ga:Gebiedsaanwijzing>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<ga:Gebiedsaanwijzing>
+					<ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.00120230213000007</ga:identificatie>
+					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
+					<ga:naam>zoekgebied broedlocatie voor purperreiger</ga:naam>
+					<ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Maatregelengebied</ga:groep>
+					<ga:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000010"/>
+					</ga:locatieaanduiding>
+				</ga:Gebiedsaanwijzing>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<ga:Gebiedsaanwijzing>
+					<ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.00120230213000008</ga:identificatie>
+					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
+					<ga:naam>Nieuwe Zederik</ga:naam>
+					<ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Water</ga:groep>
+					<ga:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000007"/>
+					</ga:locatieaanduiding>
+				</ga:Gebiedsaanwijzing>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<ga:Gebiedsaanwijzing>
+					<ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.00120230213000009</ga:identificatie>
+					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
+					<ga:naam>Oude Zederik</ga:naam>
+					<ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/OntwikkelingLandelijkeFuncties</ga:groep>
+					<ga:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000009"/>
+					</ga:locatieaanduiding>
+				</ga:Gebiedsaanwijzing>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<ga:Gebiedsaanwijzing>
+					<ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.00120230213000010</ga:identificatie>
+					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
+					<ga:naam>Polder Achthoven</ga:naam>
+					<ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/OntwikkelingLandelijkeFuncties</ga:groep>
+					<ga:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000008"/>
+					</ga:locatieaanduiding>
+				</ga:Gebiedsaanwijzing>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<ga:Gebiedsaanwijzing>
+					<ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.00120230213000011</ga:identificatie>
+					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
+					<ga:naam>Zouwe</ga:naam>
+					<ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/LandelijkGebiedHoofdfunctieLandschap</ga:groep>
+					<ga:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000012"/>
+					</ga:locatieaanduiding>
+				</ga:Gebiedsaanwijzing>
+			</ow-dc:owObject>
+		</sl:stand>
+	</sl:standBestand>
+</ow-dc:owBestand>

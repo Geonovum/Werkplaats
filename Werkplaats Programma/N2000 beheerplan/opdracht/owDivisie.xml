@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:r="http://www.geostandaarden.nl/imow/regels" xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst" xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" xmlns:p="http://www.geostandaarden.nl/imow/pons" xmlns:l="http://www.geostandaarden.nl/imow/locatie" xmlns:k="http://www.geostandaarden.nl/imow/kaart" xmlns:op="http://www.geostandaarden.nl/imow/opobject" xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek" xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen" xmlns:ow="http://www.geostandaarden.nl/imow/owobject" xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied" xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand" xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+	<sl:standBestand>
+		<sl:dataset>provincie Utrecht</sl:dataset>
+		<sl:inhoud>
+			<sl:gebied>provincie Utrecht</sl:gebied>
+			<sl:leveringsId>PU_N2000_Geonovum_001</sl:leveringsId>
+			<sl:objectTypen>
+				<sl:objectType>Divisietekst</sl:objectType>
+				<sl:objectType>Tekstdeel</sl:objectType>
+			</sl:objectTypen>
+		</sl:inhoud>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_1__content_1">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000015</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000015</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000015"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000002"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_1__div_1__content_1">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000017</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000017</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000017"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000003"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000004"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000012"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000001"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000003"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000011"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_1__div_1__content_2">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000018</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000018</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000018"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000009"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000009"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__content_1">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000006</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000006</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000006"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000002"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_2__content_1">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000020</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000020</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000020"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000009"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000009"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_2__content_2">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000021</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000021</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000021"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000002"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_2__content_3">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000022</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000022</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000022"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000002"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_2__div_1__content_1">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000024</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000024</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000024"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000001"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000011"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000005"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_2__div_1__content_2">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000025</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000025</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000025"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000002"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000006"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000008"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000004"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000010"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_2__div_1__content_3">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000026</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000026</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000026"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000003"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000006"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000008"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000012"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000004"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000010"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000011"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_2__div_1__content_4">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000027</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000027</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000027"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000004"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000006"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000008"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000012"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000004"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000010"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000011"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_2__div_1__content_5">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000028</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000028</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000028"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000005"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000006"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000012"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000004"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000011"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_2__div_1__content_6">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000029</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000029</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000029"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000006"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000006"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000008"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000012"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000004"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000010"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000011"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_3__content_1">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000030</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000030</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000030"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000002"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_3__content_2">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000031</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000031</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000031"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000007"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000009"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000008"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000009"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_3__div_1__content_1">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000033</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000033</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000033"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000002"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_3__div_1__content_2">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000034</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000034</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000034"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000002"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_3__div_1__content_3">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000035</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000035</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000035"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000001"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000007"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000006"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000009"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000011"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000005"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000009"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_3__div_1__content_4">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000036</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000036</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000036"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000002"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000003"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000008"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000007"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000008"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000009"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000012"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000008"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000009"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000010"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000011"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_3__div_1__content_5">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000037</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000037</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000037"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000004"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000008"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000012"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000011"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_3__div_1__content_6">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000038</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000038</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000038"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000005"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000009"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000006"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000008"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000012"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000010"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000011"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_3__div_1__content_7">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000039</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000039</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000039"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000006"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000009"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000009"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000012"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000009"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000011"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_4__content_1">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000040</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000040</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000040"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000002"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_4__div_1__div_1__content_1">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000044</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000044</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000044"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000005"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000009"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000005"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000006"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_4__div_1__div_1__content_2">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000045</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000045</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000045"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000002"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000003"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000008"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000006"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000004"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_4__div_1__content_1">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000046</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000046</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000046"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000001"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000006"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000007"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000009"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000009"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000009"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_4__div_1__content_2">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000047</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000047</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000047"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000006"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000009"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000006"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000008"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000009"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000009"/>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000010"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_4__div_1__content_3">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000056</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000056</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000056"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000004"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000008"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000010"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000007"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_5__content_1">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000048</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000048</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000048"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000002"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_5__content_2">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000049</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000049</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000049"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000002"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_5__content_3">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000050</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000050</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000050"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000002"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_5__div_1__content_1">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000052</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000052</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000052"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000001"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000006"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000011"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000005"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_5__div_1__content_2">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000053</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000053</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000053"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000002"/>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000003"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000006"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000008"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000010"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_5__div_1__content_3">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000054</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000054</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000054"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000005"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:kaartaanduiding>
+						<k:KaartRef xlink:href="nl.imow-pv26.kaart.00120230213000001"/>
+					</vt:kaartaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000006"/>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000012"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000011"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__div_5__div_1__content_4">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000055</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000055</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000055"/>
+					</vt:divisieaanduiding>
+					<vt:hoofdlijnaanduiding>
+						<vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.00120230213000006"/>
+					</vt:hoofdlijnaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000006"/>
+					</vt:locatieaanduiding>
+					<!-- GW: gebiedsaanwijzing toegevoegd -->
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000004"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__content_4">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000013</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000013</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000013"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000002"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Divisietekst wId="pv26_27__content_5">
+					<vt:identificatie>nl.imow-pv26.divisietekst.00120230213000014</vt:identificatie>
+				</vt:Divisietekst>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Tekstdeel>
+					<vt:identificatie>nl.imow-pv26.tekstdeel.00120230213000014</vt:identificatie>
+					<vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+					<vt:divisieaanduiding>
+						<vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.00120230213000014"/>
+					</vt:divisieaanduiding>
+					<vt:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.00120230213000002"/>
+					</vt:locatieaanduiding>
+					<vt:gebiedsaanwijzing>
+						<ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.00120230213000002"/>
+					</vt:gebiedsaanwijzing>
+				</vt:Tekstdeel>
+			</ow-dc:owObject>
+		</sl:stand>
+	</sl:standBestand>
+</ow-dc:owBestand>

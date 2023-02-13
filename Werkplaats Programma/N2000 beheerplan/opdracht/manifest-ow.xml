@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Aanleveringen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.geostandaarden.nl/bestanden-ow/manifest-ow" xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/generiek/manifest-ow.xsd">
+	<domein>omgevingswet</domein>
+	<Aanlevering>
+		<WorkIDRegeling>/akn/nl/act/pv26/2023/PU_N2000_Geonovum</WorkIDRegeling>
+		<DoelID>/join/id/proces/pv26/2023/regeling_001</DoelID>
+		<Bestand>
+			<naam>owDivisie.xml</naam>
+			<objecttype>Divisie</objecttype>
+			<objecttype>Divisietekst</objecttype>
+			<objecttype>Tekstdeel</objecttype>
+		</Bestand>
+		<Bestand>
+			<naam>owGebiedsaanwijzing.xml</naam>
+			<objecttype>Gebiedsaanwijzing</objecttype>
+		</Bestand>
+		<Bestand>
+			<naam>owRegelingsgebied.xml</naam>
+			<objecttype>Regelingsgebied</objecttype>
+		</Bestand>
+		<Bestand>
+			<naam>owLocatie.xml</naam>
+			<objecttype>Ambtsgebied</objecttype>
+			<objecttype>Gebied</objecttype>
+			<objecttype>Gebiedengroep</objecttype>
+		</Bestand>
+		<Bestand>
+			<naam>owKaart.xml</naam>
+			<objecttype>Kaart</objecttype>
+		</Bestand>
+		<Bestand>
+			<naam>owHoofdlijn.xml</naam>
+			<objecttype>Hoofdlijn</objecttype>
+		</Bestand>
+	</Aanlevering>
+</Aanleveringen>
