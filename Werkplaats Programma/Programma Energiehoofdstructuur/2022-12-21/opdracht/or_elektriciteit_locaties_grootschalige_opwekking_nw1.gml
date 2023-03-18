@@ -18,7 +18,7 @@
             <basisgeo:Geometrie gml:id="id-6fecb2d2-2d64-40ea-94d6-05fc09b2c4da-xx">
               <basisgeo:id>6fecb2d2-2d64-40ea-94d6-05fc09b2c4da</basisgeo:id>
               <basisgeo:geometrie>
-                <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
+                <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="id-6fecb2d2-2d64-40ea-94d6-05fc09b2c4da-0">
                   <gml:surfaceMember>
                     <gml:Polygon>
                       <gml:exterior>
