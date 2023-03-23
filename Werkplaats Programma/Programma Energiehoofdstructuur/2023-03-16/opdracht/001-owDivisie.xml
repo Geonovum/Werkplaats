@@ -91,8 +91,10 @@
                   <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690002238783966"/>
                   <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690002059151027"/>
                   <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690002605524492"/>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690001032726643"/>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690001606625228"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000103272664301"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000103272664302"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000160662522801"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000160662522802"/>
                   <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690002110267011"/>
                   <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690001862414493"/>
                   <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690003147505507"/>
@@ -138,16 +140,20 @@
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000006"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690001606625228"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000160662522801"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000160662522802"/>
                   <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690002605524492"/>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690001032726643"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000103272664301"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000103272664302"/>
                   <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690002059151027"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690001772314975"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690003514786303"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690001485726597"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690004062798565"/>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000148572659701"/>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000148572659702"/>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000406279856501"/>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000406279856502"/>
                </vt:gebiedsaanwijzing>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -190,15 +196,15 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1045.tekstdeel.20230316000008</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <!-- thema 22-03-2023 toegevoegd -->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1045.divisie.20230316000008"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -261,19 +267,17 @@
                   <vt:DivisieRef xlink:href="nl.imow-mnre1045.divisie.20230316000011"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690002059151027"/>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690001032726643"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000103272664301"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000103272664302"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690003514786303"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690001485726597"/>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000148572659701"/>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000148572659702"/>
                </vt:gebiedsaanwijzing>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -321,12 +325,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000013"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -371,12 +372,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000015"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690001862414493"/>
@@ -404,12 +402,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000016"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690002238783966"/>
@@ -439,12 +434,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000017"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -464,12 +456,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1045.divisie.20230316000018"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -489,12 +478,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000019"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -563,12 +549,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000022"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -588,12 +571,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000023"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690001889149761"/>
@@ -621,12 +601,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000024"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -646,12 +623,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000025"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -671,12 +645,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000026"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -696,12 +667,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000027"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -721,12 +689,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000028"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -746,12 +711,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000029"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -791,12 +753,9 @@
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1045.divisietekst.20230316000031"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -813,16 +772,57 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1045.tekstdeel.20230316000032</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <!-- thema 22-03-2023 toegevoegd -->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1045.divisie.20230316000032"/>
                </vt:divisieaanduiding>
+               <!-- hoofdlijn 22-03-2023 aangepast -->
                <vt:hoofdlijnaanduiding>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004249228264"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690004081782226"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.000000010032143690001586696342"/>
-                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000281218766"/>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1045.hoofdlijn.00000001003214369000199889971"/>
                </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- thema 22-03-2023 toegevoegd -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1045_1__content_o_2">
+               <vt:identificatie>nl.imow-mnre1045.divisietekst.20230322000001</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1045.tekstdeel.20230322000001</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1045.divisietekst.20230322000001"/>
+               </vt:divisieaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1045_1__div_1">
+               <vt:identificatie>nl.imow-mnre1045.divisie.20230322000002</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1045.tekstdeel.20230322000002</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1045.divisie.20230322000002"/>
+               </vt:divisieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>

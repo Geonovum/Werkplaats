@@ -40,12 +40,12 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690004062798565</ga:identificatie>
+               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000406279856501</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Energievoorziening</ga:type>
-               <ga:naam>hoogspanningsverbindingen met een spanning van 110 kV en 150 kV</ga:naam>
+               <ga:naam>hoogspanningsverbindingen met een spanning van 110 kV en 150 kV - ondergronds</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Hoogspanningsverbinding</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690001606625228"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000160662522801"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -53,12 +53,38 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690001485726597</ga:identificatie>
+               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000406279856502</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Energievoorziening</ga:type>
-               <ga:naam>hoogspanningsverbindingen met een spanning van 220 kV en hoger</ga:naam>
+               <ga:naam>hoogspanningsverbindingen met een spanning van 110 kV en 150 kV - bovengronds</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Hoogspanningsverbinding</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.000000010032143690001032726643"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000160662522802"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000148572659701</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Energievoorziening</ga:type>
+               <ga:naam>hoogspanningsverbindingen met een spanning van 220 kV en hoger - ondergronds</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Hoogspanningsverbinding</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000103272664301"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000148572659702</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Energievoorziening</ga:type>
+               <ga:naam>hoogspanningsverbindingen met een spanning van 220 kV en hoger - bovengronds</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Hoogspanningsverbinding</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00000001003214369000103272664302"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>

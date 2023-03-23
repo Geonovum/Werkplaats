@@ -220,10 +220,10 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
-               <l:identificatie>nl.imow-mnre1045.gebiedengroep.000000010032143690001032726643</l:identificatie>
-               <l:noemer>hoogspanningsverbindingen met een spanning van 220 kV en hoger</l:noemer>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.00000001003214369000103272664301</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 220 kV en hoger - ondergronds</l:noemer>
                <l:groepselement>
-                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.000000010032143690001032726643"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00000001003214369000103272664301"/>
                </l:groepselement>
             </l:Gebiedengroep>
          </ow-dc:owObject>
@@ -231,10 +231,10 @@
       <sl:stand>
          <ow-dc:owObject><!--peh_hoogspanningsleidingen_220-380kv_2023-03-09.gml-->
             <l:Gebied>
-               <l:identificatie>nl.imow-mnre1045.gebied.000000010032143690001032726643</l:identificatie>
-               <l:noemer>hoogspanningsverbindingen met een spanning van 220 kV en hoger</l:noemer>
+               <l:identificatie>nl.imow-mnre1045.gebied.00000001003214369000103272664301</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 220 kV en hoger - ondergronds</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="13e2cef9-1518-450b-879c-5ca43a38ed9c"/>
+                  <l:GeometrieRef xlink:href="93e1df9e-2c45-44be-af9b-fa13e4540d51"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -242,10 +242,32 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
-               <l:identificatie>nl.imow-mnre1045.gebiedengroep.000000010032143690001606625228</l:identificatie>
-               <l:noemer>hoogspanningsverbindingen met een spanning van 110 kV en 150 kV</l:noemer>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.00000001003214369000103272664302</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 220 kV en hoger - bovengronds</l:noemer>
                <l:groepselement>
-                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.000000010032143690001606625228"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00000001003214369000103272664302"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--peh_hoogspanningsleidingen_220-380kv_2023-03-09.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.00000001003214369000103272664302</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 220 kV en hoger - bovengronds</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="09ffeb75-0400-44bd-acc7-dace0c497e8f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.00000001003214369000160662522801</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 110 kV en 150 kV - ondergronds</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00000001003214369000160662522801"/>
                </l:groepselement>
             </l:Gebiedengroep>
          </ow-dc:owObject>
@@ -253,10 +275,32 @@
       <sl:stand>
          <ow-dc:owObject><!--peh_hoogspanningsleidingen_110-150kv_2023-03-09.gml-->
             <l:Gebied>
-               <l:identificatie>nl.imow-mnre1045.gebied.000000010032143690001606625228</l:identificatie>
-               <l:noemer>hoogspanningsverbindingen met een spanning van 110 kV en 150 kV</l:noemer>
+               <l:identificatie>nl.imow-mnre1045.gebied.00000001003214369000160662522801</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 110 kV en 150 kV - ondergronds</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="8ca86022-9ee4-429f-b93d-7b47d74da262"/>
+                  <l:GeometrieRef xlink:href="b9e047bc-fd64-4375-abf1-c4592e121682"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.00000001003214369000160662522802</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 110 kV en 150 kV - bovengronds</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00000001003214369000160662522802"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--peh_hoogspanningsleidingen_110-150kv_2023-03-09.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-mnre1045.gebied.00000001003214369000160662522802</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 110 kV en 150 kV - bovengronds</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="039abf34-c583-4980-a646-314c2456af79"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>

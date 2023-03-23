@@ -40,26 +40,26 @@
                <k:kaartlagen>
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1045.kaartlaag.20230316000001</k:identificatie>
-                     <k:naam>Hoogspanningsverbindingen met een spanning van 110 kV en 150 kV</k:naam>
+                     <k:naam>Vestigingsplaatsen voor grootschalige elektriciteitsopwekking</k:naam>
                      <k:niveau>1</k:niveau>
                      <k:gebiedsaanwijzingweergave>
-                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690004062798565"/>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000922315495"/>
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1045.kaartlaag.20230316000002</k:identificatie>
-                     <k:naam>Hoogspanningsverbindingen met een spanning van 220 kV en hoger</k:naam>
+                     <k:naam>Waarborgzones kerncentrales</k:naam>
                      <k:niveau>2</k:niveau>
                      <k:gebiedsaanwijzingweergave>
-                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690001485726597"/>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000120083724"/>
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1045.kaartlaag.20230316000003</k:identificatie>
-                     <k:naam>Hoogspanningsstations met een spanning van 110 kV en 150 kV</k:naam>
+                     <k:naam>Vestigingsplaatsen kerncentrales</k:naam>
                      <k:niveau>3</k:niveau>
                      <k:gebiedsaanwijzingweergave>
-                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690001772314975"/>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690003485620003"/>
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
                   <k:Kaartlaag>
@@ -72,34 +72,42 @@
                   </k:Kaartlaag>
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1045.kaartlaag.20230316000005</k:identificatie>
-                     <k:naam>Vestigingsplaatsen voor grootschalige elektriciteitsopwekking</k:naam>
+                     <k:naam>Hoogspanningsstations met een spanning van 110 kV en 150 kV</k:naam>
                      <k:niveau>5</k:niveau>
                      <k:gebiedsaanwijzingweergave>
-                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000922315495"/>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690001772314975"/>
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1045.kaartlaag.20230316000006</k:identificatie>
-                     <k:naam>Hoogspanningsverbindingen</k:naam>
+                     <k:naam>Hoogspanningsverbindingen met een spanning van 220 kV en hoger</k:naam>
                      <k:niveau>6</k:niveau>
                      <k:gebiedsaanwijzingweergave>
-                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690002290112295"/>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000148572659701"/>
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1045.kaartlaag.20230316000007</k:identificatie>
-                     <k:naam>Vestigingsplaatsen kerncentrales</k:naam>
+                     <k:naam>Hoogspanningsverbindingen met een spanning van 110 kV en 150 kV</k:naam>
                      <k:niveau>7</k:niveau>
                      <k:gebiedsaanwijzingweergave>
-                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690003485620003"/>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000406279856501"/>
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-mnre1045.kaartlaag.20230316000008</k:identificatie>
-                     <k:naam>Waarborgzones kerncentrales</k:naam>
-                     <k:niveau>8</k:niveau>
+                     <k:naam>Hoogspanningsverbindingen met een spanning van 220 kV en hoger</k:naam>
+                     <k:niveau>6</k:niveau>
                      <k:gebiedsaanwijzingweergave>
-                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000120083724"/>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000148572659702"/>
+                     </k:gebiedsaanwijzingweergave>
+                  </k:Kaartlaag>
+                  <k:Kaartlaag>
+                     <k:identificatie>nl.imow-mnre1045.kaartlaag.20230316000009</k:identificatie>
+                     <k:naam>Hoogspanningsverbindingen met een spanning van 110 kV en 150 kV</k:naam>
+                     <k:niveau>7</k:niveau>
+                     <k:gebiedsaanwijzingweergave>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000406279856502"/>
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
                </k:kaartlagen>
@@ -121,19 +129,19 @@
                </k:uitsnede>
                <k:kaartlagen>
                   <k:Kaartlaag>
-                     <k:identificatie>nl.imow-mnre1045.kaartlaag.20230316000009</k:identificatie>
-                     <k:naam>Reserveringsgebieden voor buisleidingen</k:naam>
+                     <k:identificatie>nl.imow-mnre1045.kaartlaag.20230316000010</k:identificatie>
+                     <k:naam>Zoekgebieden voor buisleidingen</k:naam>
                      <k:niveau>1</k:niveau>
                      <k:gebiedsaanwijzingweergave>
-                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690002911063511"/>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000351947377"/>
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
                   <k:Kaartlaag>
-                     <k:identificatie>nl.imow-mnre1045.kaartlaag.20230316000010</k:identificatie>
-                     <k:naam>Zoekgebieden voor buisleidingen</k:naam>
+                     <k:identificatie>nl.imow-mnre1045.kaartlaag.20230316000009</k:identificatie>
+                     <k:naam>Reserveringsgebieden voor buisleidingen</k:naam>
                      <k:niveau>2</k:niveau>
                      <k:gebiedsaanwijzingweergave>
-                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.00000001003214369000351947377"/>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-mnre1045.gebiedsaanwijzing.000000010032143690002911063511"/>
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
                </k:kaartlagen>
