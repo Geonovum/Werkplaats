@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Programma Energiehoofdstructuur</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Ministerie van Economische Zaken en Klimaat</sl:gebied>
+         <sl:leveringsId>PEH005-001_2023-03-24_001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Ambtsgebied</sl:objectType>
+            <sl:objectType>Gebiedengroep</sl:objectType>
+            <sl:objectType>Gebied</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Ambtsgebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.ambtsgebied.00500001003214369000</l:identificatie>
+               <l:noemer>Nederland + EEZ</l:noemer>
+               <l:bestuurlijkeGrenzenVerwijzing>
+                  <l:BestuurlijkeGrenzenVerwijzing>
+                     <l:bestuurlijkeGrenzenID>LND6030.B</l:bestuurlijkeGrenzenID>
+                     <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+                     <l:geldigOp>2021-01-01</l:geldigOp>
+                  </l:BestuurlijkeGrenzenVerwijzing>
+               </l:bestuurlijkeGrenzenVerwijzing>
+            </l:Ambtsgebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.005000010032143690001738742316</l:identificatie>
+               <l:noemer>zoekgebieden voor buisleidingen</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.005000010032143690001738742316"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--or_buisleidingen_zoekgebieden.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.005000010032143690001738742316</l:identificatie>
+               <l:noemer>zoekgebieden voor buisleidingen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="86ca41e6-b53c-49e3-98bf-d21ce934ff11"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.005000010032143690001889149761</l:identificatie>
+               <l:noemer>reserveringsgebieden voor buisleidingen</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.005000010032143690001889149761"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--or_buisleidingen_reserveringsgebieden_2021-07-13.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.005000010032143690001889149761</l:identificatie>
+               <l:noemer>reserveringsgebieden voor buisleidingen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="75c7030a-ee74-46ef-9b21-c34de5d2c458"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.005000010032143690002110267011</l:identificatie>
+               <l:noemer>waarborgzones kerncentrales</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000211026701101"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000211026701102"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000211026701103"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--or_elektriciteit_waarborgzones_kernenergie.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000211026701101</l:identificatie>
+               <l:noemer>Waarborgzone vestigingsplaats kernenergie Eemshaven</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="6ff0ae5e-296e-4c6d-94e9-1c6265401c42"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000211026701102</l:identificatie>
+               <l:noemer>Waarborgzone vestigingsplaats kernenergie Maasvlakte I</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="6c74d5f3-68af-458a-92bd-6447e30f45ac"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000211026701103</l:identificatie>
+               <l:noemer>Waarborgzone vestigingsplaats kernenergie Borssele/Vlissingen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="285f9e55-985f-4c08-a964-8b0ecf402204"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.005000010032143690002238783966</l:identificatie>
+               <l:noemer>vestigingsplaatsen kerncentrales</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000223878396601"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000223878396602"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000223878396603"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--or_elektriciteit_vestigingsplaats_kernenergie.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000223878396601</l:identificatie>
+               <l:noemer>Reservering vestigingsplaats kernenergie Borssele/Vlissingen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="6cf56308-94fe-4073-b7b2-ce5dc1b08509"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000223878396602</l:identificatie>
+               <l:noemer>Reservering vestigingsplaats kernenergie Eemshaven</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="817d8bc7-16e7-41d0-b3fc-bca0f59b80da"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000223878396603</l:identificatie>
+               <l:noemer>Reservering vestigingsplaats kernenergie Maasvlakte I</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="db9a6027-37d6-469d-b400-178bd9e960b9"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.005000010032143690003147505507</l:identificatie>
+               <l:noemer>reserveringsgebieden voor hoogspanningsverbindingen</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.005000010032143690003147505507"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--or_elektriciteit_hoogspanningsverbindingen_nw1.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.005000010032143690003147505507</l:identificatie>
+               <l:noemer>reserveringsgebieden voor hoogspanningsverbindingen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="3ce4cbee-119c-4cf5-bcbc-f2c4292f0b71"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.005000010032143690001862414493</l:identificatie>
+               <l:noemer>vestigingsplaatsen voor grootschalige elektriciteitsopwekking</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449301"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449302"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449303"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449304"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449305"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449306"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449307"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449308"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449309"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449310"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449311"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449312"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449313"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449314"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449315"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449316"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449317"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449318"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449319"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449320"/>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000186241449321"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--or_elektriciteit_locaties_grootschalige_opwekking_nw1.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449301</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Harculo</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="d23b6f09-66c1-49ab-9dc9-5c86b362790b"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449302</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Eemshaven</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="0ea2ae57-a8fd-4487-9e5c-6c3941a4e28b"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449303</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Rijnmond/Rotterdams Havengebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="64561780-03ba-4494-b2ed-3e63d099a190"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449304</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Hemweg</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9f2f6d7b-8ac0-455c-8287-dfed05ff75da"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449305</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Diemen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a1e4063c-86f9-4b2c-a6a3-49917b514ca2"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449306</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Buggenum</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="fbe598e8-6435-456a-99ee-1ee78099ac50"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449307</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Maasbracht</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="6062ec03-ca53-4f59-a5e3-dc0a314b22ae"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449308</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Maasvlakte I</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="d4a3ac26-5c0f-46ac-9aab-c4d6d37f688a"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449309</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Burgum</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="26d5def7-d1ef-4994-b327-cff1f28df0be"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449310</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Amer Geertruidenberg</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="04952b0e-ad56-4ace-bc47-484a402888ed"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449311</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Moerdijk</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="eff2e449-8968-44a4-a97a-243eab0d0f29"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449312</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Maasvlakte II</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="d818ebd3-a748-4ff0-8793-96044981897c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449313</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Amsterdams Havengebied/Noordzeekanaal</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="91181129-f37d-43de-8fd2-31a90da1bd6b"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449314</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Flevo</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="67006845-1217-4ada-8889-4da261bf07ed"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449315</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Geleen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="6b7e7864-79bf-402b-a59f-4d59386aeb25"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449316</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Utrecht</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9d26e9f4-43d6-4d86-b5e2-87542aea91b6"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449317</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Borssele/Vlissingen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="50a2829c-3b3e-407a-8907-818b263ca8fc"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449318</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Delfzijl</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="ca671c38-0b61-45e0-a4f8-9de0f5b40311"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449319</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Velsen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="12cbc912-05da-4e34-9f2f-7dcc7e12a696"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449320</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Terneuzen/Sas van Gent</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="433d5c7f-e1f4-4204-b99c-724bf5285529"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000186241449321</l:identificatie>
+               <l:noemer>Vestigingsplaats voor grootschalige elektriciteitsopwekking Nijmegen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="2cbc5852-4839-4f84-82ce-d99d0a7a2f60"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.005000010032143690002059151027</l:identificatie>
+               <l:noemer>hoogspanningsstations met een spanning van 220 kV en hoger</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.005000010032143690002059151027"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--peh_hoogspanningsstations_220-380kv_2023-03-09.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.005000010032143690002059151027</l:identificatie>
+               <l:noemer>hoogspanningsstations met een spanning van 220 kV en hoger</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="77ffa89a-d5bc-4408-a401-a5a50a02078e"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.005000010032143690002605524492</l:identificatie>
+               <l:noemer>hoogspanningsstations met een spanning van 110 kV en 150 kV</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.005000010032143690002605524492"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--peh_hoogspanningsstations_110-150kv_2023-03-09.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.005000010032143690002605524492</l:identificatie>
+               <l:noemer>hoogspanningsstations met een spanning van 110 kV en 150 kV</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f628a517-a765-4193-93cc-468b9ce4f655"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.00500001003214369000103272664301</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 220 kV en hoger - ondergronds</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000103272664301"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--peh_hoogspanningsleidingen_220-380kv_2023-03-09.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000103272664301</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 220 kV en hoger - ondergronds</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="93e1df9e-2c45-44be-af9b-fa13e4540d51"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.00500001003214369000103272664302</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 220 kV en hoger - bovengronds</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000103272664302"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--peh_hoogspanningsleidingen_220-380kv_2023-03-09.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000103272664302</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 220 kV en hoger - bovengronds</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="09ffeb75-0400-44bd-acc7-dace0c497e8f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.00500001003214369000160662522801</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 110 kV en 150 kV - ondergronds</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000160662522801"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--peh_hoogspanningsleidingen_110-150kv_2023-03-09.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000160662522801</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 110 kV en 150 kV - ondergronds</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b9e047bc-fd64-4375-abf1-c4592e121682"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.00500001003214369000160662522802</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 110 kV en 150 kV - bovengronds</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00500001003214369000160662522802"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--peh_hoogspanningsleidingen_110-150kv_2023-03-09.gml-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-mnre1045.gebied.00500001003214369000160662522802</l:identificatie>
+               <l:noemer>hoogspanningsverbindingen met een spanning van 110 kV en 150 kV - bovengronds</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="039abf34-c583-4980-a646-314c2456af79"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

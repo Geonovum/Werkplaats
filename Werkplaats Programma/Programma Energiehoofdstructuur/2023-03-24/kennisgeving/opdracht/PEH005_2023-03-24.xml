@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringKennisgeving xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                         schemaversie="1.2.0"
+                         xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <KennisgevingVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/doc/mnre1045/2023/PEH005-002</FRBRWork>
+         <FRBRExpression>/akn/nl/doc/mnre1045/2023/PEH005-002/nld@2023-03-24;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_023</soortWork>
+      </ExpressionIdentificatie>
+      <KennisgevingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+         <maker>/tooi/id/ministerie/mnre1045</maker>
+         <officieleTitel>Kennisgeving Vaststelling Ontwerp Programma Energiehoofdstructuur</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_85a72eb3</onderwerp>
+         </onderwerpen>
+         <mededelingOver>/akn/nl/bill/mnre1045/2023/PEH005-001/nld@2023-03-24;1</mededelingOver>
+      </KennisgevingMetadata>
+      <Procedureverloopmutatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2023-03-29</bekendOp>
+         <voegStappenToe>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_005</soortStap>
+               <voltooidOp>2023-05-10</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_014</soortStap>
+               <voltooidOp>2023-03-29</voltooidOp>
+            </Procedurestap>
+         </voegStappenToe>
+      </Procedureverloopmutatie>
+      <Kennisgeving xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Kennisgeving Vaststelling Ontwerp Programma Energiehoofdstructuur</Al>
+         </RegelingOpschrift>
+         <Lichaam eId="body" wId="body">
+            <Divisietekst eId="content_o_1" wId="mnre1045_1__content_o_1">
+               <Inhoud>
+                  <Al>Op 20 juli 2023 heeft de Minister voor Klimaat en Energie, mede namens de Minister voor Volkshuisvesting en Ruimtelijke Ordening het ontwerp Programma Energiehoofdstructuur inclusief bijlagen vastgesteld en bekendgemaakt in de Staatscourant van donderdag 20 juli 2023.</Al>
+                  <Al>De bijlagen betreffen de integrale effectenanalyse, de uitvoeringsagenda en het Programma Noordzee voor de periode 2022-2027.</Al>
+                  <Al>In deze kennisgeving leest u meer over het Programma Energiehoofdstructuur.</Al>
+                  <Al>In het Programma Energiehoofdstructuur (PEH) beschrijft de Rijksoverheid de ruimtelijke hoofdkeuzes voor het energiesysteem richting 2050. Het vormt daarmee de ruimtelijke pijler naast het Nationaal Plan Energiesysteem, wat de systeemvisie voor het energiesysteem richting 2050 bevat.</Al>
+                  <Al>Nederland werkt aan een grote transitie van het energiesysteem: van een fossiel systeem gaan we over naar een duurzaam energiesysteem, met meer energieproductie uit hernieuwbare bronnen als wind en zon. Deze transitie vraagt veel van onze energie-infrastructuur. Dit vraagt om uitbreidingen van onze energie-infrastructuur en brengt een aanvullende ruimtevraag met zich mee.</Al>
+                  <Lijst eId="content_o_1__list_o_1"
+                         wId="mnre1045_1__content_o_1__list_o_1"
+                         type="expliciet">
+                     <Lijstaanhef>Er liggen grote opgaven voor het energiedomein die in de toekomst groter en complexer worden, waaronder:</Lijstaanhef>
+                     <Li eId="content_o_1__list_o_1__item_o_1"
+                         wId="mnre1045_1__content_o_1__list_o_1__item_o_1">
+                        <LiNummer>•</LiNummer>
+                        <Al>Het behouden en beter handhaven van ruimtelijke reserveringen voor energie-infrastructuur.</Al>
+                     </Li>
+                     <Li eId="content_o_1__list_o_1__item_o_2"
+                         wId="mnre1045_1__content_o_1__list_o_1__item_o_2">
+                        <LiNummer>•</LiNummer>
+                        <Al>Uitbreidingen van het hoogspanningsnetwerk met bijbehorende stations.</Al>
+                     </Li>
+                     <Li eId="content_o_1__list_o_1__item_o_3"
+                         wId="mnre1045_1__content_o_1__list_o_1__item_o_3">
+                        <LiNummer>•</LiNummer>
+                        <Al>Opslagcapaciteit in de vorm van grootschalige batterijen.</Al>
+                     </Li>
+                     <Li eId="content_o_1__list_o_1__item_o_4"
+                         wId="mnre1045_1__content_o_1__list_o_1__item_o_4">
+                        <LiNummer>•</LiNummer>
+                        <Al>Een grotere rol voor waterstof, met bijbehorende infrastructuur als buisleidingen en elektrolysers.</Al>
+                     </Li>
+                     <Li eId="content_o_1__list_o_1__item_o_5"
+                         wId="mnre1045_1__content_o_1__list_o_1__item_o_5">
+                        <LiNummer>•</LiNummer>
+                        <Al>Ruimte in de ondergrond voor ondergrondse waterstofopslag.</Al>
+                     </Li>
+                     <Li eId="content_o_1__list_o_1__item_o_6"
+                         wId="mnre1045_1__content_o_1__list_o_1__item_o_6">
+                        <LiNummer>•</LiNummer>
+                        <Al>De ontwikkeling van twee kerncentrales.</Al>
+                     </Li>
+                     <Li eId="content_o_1__list_o_1__item_o_7"
+                         wId="mnre1045_1__content_o_1__list_o_1__item_o_7">
+                        <LiNummer>•</LiNummer>
+                        <Al>De interactie van de ruimte voor het energiesysteem met andere ruimtelijke opgaven als woningbouw, natuur en mobiliteit.</Al>
+                     </Li>
+                  </Lijst>
+                  <Al>Het Programma Energiehoofdstructuur doet uitspraken over de ruimtevraag van deze verschillende ontwikkelingen en geeft via ruimtelijke reserveringen, ruimtelijke aanwijzingen en inrichtingsprincipes de kaders aan voor de realisatie van energieprojecten, en draagt daarmee bij aan versnelling van de energietransitie.</Al>
+                  <Al>Het Rijk kan de ambities van het PEH niet alleen realiseren. Voor de aanpak van nationale en regionale opgaven doet het Rijk dit samen met medeoverheden, maatschappelijke organisaties, sectorpartijen, netbeheerders en burgers.</Al>
+                  <Al>Deze partijen hebben ook meegewerkt aan de ontwikkeling van het PEH.</Al>
+                  <Tussenkop>Zienswijzenprocedure</Tussenkop>
+                  <Al>Veel betrokken organisaties hebben reeds input geleverd door deelname aan thema- en gebiedssessies en/of bestuurlijke organen. Vanaf begin september zal het Programma Energiehoofdstructuur zes weken lang ter inzage liggen. Het programma staat dan open voor eenieder om een zienswijze in te dienen. In een reactienota’s wordt de beantwoording op de ingediende zienswijzen en de wijzigingen naar aanleiding van de ingediende zienswijzen verder toegelicht. Mogelijke wijzigingen naar aanleiding van de zienswijzen zullen verwerkt worden in het definitieve Programma Energiehoofdstructuur en de bijlagen.</Al>
+                  <Tussenkop>Stukken bekijken</Tussenkop>
+                  <Al>Alle documenten staan vanaf donderdag 23 juli 2023 op de website <ExtRef soort="URL"
+                             ref="https://www.rvo.nl/onderwerpen/bureau-energieprojecten/lopende-projecten/peh">Programma Energiehoofdstructuur (rvo.nl)</ExtRef>. Op papier kunt u de stukken van maandag 28 augustus tot en met vrijdag 6 oktober 2023 tijdens reguliere openingstijden bekijken bij het Ministerie van Economische Zaken en Klimaat, Bezuidenhoutseweg 73, Den Haag, telefoon 070 379 8911 (uitsluitend op afspraak).</Al>
+                  <Al>Daarnaast zijn de stukken in alle provinciehuizen in Nederland in te zien. Op de website van de RVO kunt u de adresgegevens vinden van alle inzagelocaties.</Al>
+                  <Al>LET OP: Het kan voorkomen dat u een afspraak moet maken als u de documenten wilt inzien. Houd hier rekening mee en neem vooraf telefonisch contact op met de locatie om te vragen wanneer u er terecht kunt.</Al>
+                  <Tussenkop>Informatiepunt digitale overheid</Tussenkop>
+                  <Al>De Informatiepunten Digitale Overheid zijn er voor mensen die moeite hebben met digitale dienstverlening en vragen hebben over het zaken doen met de overheid. De Informatiepunten zijn ondergebracht in de bibliotheken. Daarmee zijn ze laagdrempelig en kunnen mensen er makkelijk binnenlopen. U kunt hier ondersteuning vragen over websites van de overheid, bijvoorbeeld voor het digitaal raadplegen van documenten behorend bij dit project. Vraag bij uw lokale bibliotheek naar de mogelijkheden. Voor meer informatie kunt u terecht op de website voor het Informatiepunt Digitale Overheid.</Al>
+                  <Tussenkop>Informatie</Tussenkop>
+                  <Al>Heeft u inhoudelijke vragen over het Programma Energiehoofdstructuur? Stel uw vraag dan door een e-mail te versturen naar <u>postbusPEH@minezk.nl</u>.</Al>
+               </Inhoud>
+            </Divisietekst>
+         </Lichaam>
+      </Kennisgeving>
+   </KennisgevingVersie>
+</AanleveringKennisgeving>

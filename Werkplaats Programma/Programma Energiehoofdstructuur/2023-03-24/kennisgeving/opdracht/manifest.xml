@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://www.overheid.nl/2017/lvbb">
+   <bestand>
+      <bestandsnaam>manifest.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>PEH005_2023-03-24.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>opdracht.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+</manifest>
