@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Omgevingsplan Midden-Groningen</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Gemeente Midden-Groningen</sl:gebied>
+         <sl:leveringsId>MG001_2023-04-14_001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Activiteit</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm1952.activiteit.000000018255613830001678196586</rol:identificatie>
+               <rol:naam>Activiteit gereguleerd in het omgevingsplan gemeente Midden-Groningen</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Overig</rol:groep>
+               <rol:bovenliggendeActiviteit><!--ActInOmgevingsplanGem-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm1952.activiteit.000000018255613830001013009487</rol:identificatie>
+               <rol:naam>Bouwwerken bouwen en in stand houden</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitRuimtelijk</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Activiteit gereguleerd in het omgevingsplan gemeente Midden-Groningen-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001678196586"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm1952.activiteit.000000018255613830003543873603</rol:identificatie>
+               <rol:naam>Hoofdgebouw bouwen</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitRuimtelijk</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Bouwwerken bouwen en in stand houden-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001013009487"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm1952.activiteit.000000018255613830003633593276</rol:identificatie>
+               <rol:naam>Bijbehorend bouwwerk bouwen</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitRuimtelijk</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Bouwwerken bouwen en in stand houden-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001013009487"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm1952.activiteit.000000018255613830003789766399</rol:identificatie>
+               <rol:naam>Bouwwerken geen gebouw zijnde bouwen</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitRuimtelijk</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Bouwwerken bouwen en in stand houden-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001013009487"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm1952.activiteit.000000018255613830002209168540</rol:identificatie>
+               <rol:naam>Wonen</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Woonactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Activiteit gereguleerd in het omgevingsplan gemeente Midden-Groningen-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001678196586"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm1952.activiteit.00000001825561383000541471046</rol:identificatie>
+               <rol:naam>Beroep of bedrijf aan huis</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/ExploitatieactiviteitBedrijf</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Wonen-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830002209168540"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm1952.activiteit.000000018255613830002735156755</rol:identificatie>
+               <rol:naam>Bed and breakfast aanbieden</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Recreatieactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Wonen-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830002209168540"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm1952.activiteit.000000018255613830001724273543</rol:identificatie>
+               <rol:naam>Aanleggen van werken, uitvoeren van werkzaamheden en in stand houden</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Wegactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Activiteit gereguleerd in het omgevingsplan gemeente Midden-Groningen-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001678196586"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm1952.activiteit.000000018255613830001555381804</rol:identificatie>
+               <rol:naam>Bouwwerk geen gebouw zijnde bouwen</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitRuimtelijk</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Bouwwerken bouwen en in stand houden-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001013009487"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm1952.activiteit.000000018255613830002831371524</rol:identificatie>
+               <rol:naam>Activiteit met gebruiksruimte</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/PlanologischeGebruiksactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Activiteit gereguleerd in het omgevingsplan gemeente Midden-Groningen-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001678196586"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm1952.activiteit.000000018255613830002573027146</rol:identificatie>
+               <rol:naam>Activiteit met gebruiksruimte</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Parkeeractiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Activiteit gereguleerd in het omgevingsplan gemeente Midden-Groningen-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001678196586"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm1952.activiteit.000000018255613830002221624861</rol:identificatie>
+               <rol:naam>Geluidgevoelig gebouw toevoegen</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/GebruikenVanBouwwerkenactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Activiteit gereguleerd in het omgevingsplan gemeente Midden-Groningen-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001678196586"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm1952.activiteit.000000018255613830003341305732</rol:identificatie>
+               <rol:naam>Activiteit met parkeerbehoefte</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Parkeeractiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Activiteit gereguleerd in het omgevingsplan gemeente Midden-Groningen-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001678196586"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

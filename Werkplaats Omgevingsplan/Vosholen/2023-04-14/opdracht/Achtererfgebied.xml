@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/gm1952/2023/4143189459</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm1952/2023/4143189459/nld@2023-04-14;1</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftGeboorteregeling>/akn/nl/act/gm1952/2023/MG001-001</heeftGeboorteregeling>
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Achtererfgebied.gml</bestandsnaam>
+            <hash>fa4bb23fde87e48b3b058c498250df214dbed7444d5fa49619728cbbbb79807647cdc3ccb2c11514da1e91d4185b974cce2db89514fd992db0c1f1f22e35372e</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/gemeente/gm1952</eindverantwoordelijke>
+      <maker>/tooi/id/gemeente/gm1952</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Achtererfgebied</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/gm1952/2023/4143189459</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <naamInformatieObject>Achtererfgebied</naamInformatieObject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>

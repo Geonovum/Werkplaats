@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Omgevingsplan Midden-Groningen</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Gemeente Midden-Groningen</sl:gebied>
+         <sl:leveringsId>MG001_2023-04-14_001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Ambtsgebied</sl:objectType>
+            <sl:objectType>Gebiedengroep</sl:objectType>
+            <sl:objectType>Gebied</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Ambtsgebied>
+               <l:identificatie>nl.imow-gm1952.ambtsgebied.00000001825561383000</l:identificatie>
+               <l:noemer>Gemeente Midden-Groningen</l:noemer>
+               <l:bestuurlijkeGrenzenVerwijzing>
+                  <l:BestuurlijkeGrenzenVerwijzing>
+                     <l:bestuurlijkeGrenzenID>GM1952</l:bestuurlijkeGrenzenID>
+                     <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+                     <l:geldigOp>2021-01-01</l:geldigOp>
+                  </l:BestuurlijkeGrenzenVerwijzing>
+               </l:bestuurlijkeGrenzenVerwijzing>
+            </l:Ambtsgebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm1952.gebiedengroep.000000018255613830004180020715</l:identificatie>
+               <l:noemer>Regelingsgebied</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm1952.gebied.000000018255613830004180020715"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--Regelingsgebied.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm1952.gebied.000000018255613830004180020715</l:identificatie>
+               <l:noemer>Regelingsgebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="c3338b15-cbd9-4f2f-adc7-890f4200e0a9"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm1952.gebiedengroep.000000018255613830002159872497</l:identificatie>
+               <l:noemer>Woongebied</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm1952.gebied.000000018255613830002159872497"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--Woongebied.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm1952.gebied.000000018255613830002159872497</l:identificatie>
+               <l:noemer>Woongebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="37bd3ed1-4958-4f97-9753-fd4dc0686c8c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm1952.gebiedengroep.000000018255613830001547110529</l:identificatie>
+               <l:noemer>Bouwvlak</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm1952.gebied.000000018255613830001547110529"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--Bouwvlak.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm1952.gebied.000000018255613830001547110529</l:identificatie>
+               <l:noemer>Bouwvlak</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="e1607a75-abb4-425b-89bd-ccd8a406af7c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm1952.gebiedengroep.000000018255613830002558659315</l:identificatie>
+               <l:noemer>Woonlocatie</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm1952.gebied.000000018255613830002558659315"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--Woonlocatie.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm1952.gebied.000000018255613830002558659315</l:identificatie>
+               <l:noemer>Woonlocatie</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="7d1da1bf-bec7-481a-aa8a-f6055ed7babf"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm1952.gebiedengroep.000000018255613830002710704557</l:identificatie>
+               <l:noemer>Maximum bouwhoogte</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm1952.gebied.000000018255613830002710704557"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--Maximum bouwhoogte (11m).gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm1952.gebied.000000018255613830002710704557</l:identificatie>
+               <l:noemer>Maximum bouwhoogte</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="2afc4219-420f-41e5-bb36-7ac29a5f760f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm1952.gebiedengroep.000000018255613830004143189459</l:identificatie>
+               <l:noemer>Achtererfgebied</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm1952.gebied.000000018255613830004143189459"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--Achtererfgebied.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm1952.gebied.000000018255613830004143189459</l:identificatie>
+               <l:noemer>Achtererfgebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="da3e4e30-f59e-453a-abfb-d8845be898e5"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm1952.gebiedengroep.000000018255613830001251477395</l:identificatie>
+               <l:noemer>Verkeer</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm1952.gebied.000000018255613830001251477395"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--Verkeer.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm1952.gebied.000000018255613830001251477395</l:identificatie>
+               <l:noemer>Verkeer</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="fcd5efae-b148-43c9-8040-dd0dfde7fdde"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm1952.gebiedengroep.00000001825561383000558960236</l:identificatie>
+               <l:noemer>Aantal woningen</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm1952.gebied.00000001825561383000558960236"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--Aantal woningen (22).gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm1952.gebied.00000001825561383000558960236</l:identificatie>
+               <l:noemer>Aantal woningen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="8a83c2df-54fd-4bac-bda2-7a33ed5708fe"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

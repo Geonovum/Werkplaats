@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Omgevingsplan Midden-Groningen</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Gemeente Midden-Groningen</sl:gebied>
+         <sl:leveringsId>MG001_2023-04-14_001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Omgevingsnorm</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Omgevingsnorm>
+               <rol:identificatie>nl.imow-gm1952.omgevingsnorm.000000018255613830002832424963</rol:identificatie>
+               <rol:naam>maximum bouwhoogte</rol:naam>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/Bouwhoogte</rol:type>
+               <rol:eenheid>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Meter</rol:eenheid>
+               <rol:normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm1952.normwaarde.00000001825561383000183370366</rol:identificatie>
+                     <rol:kwantitatieveWaarde>11</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002710704557"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+               </rol:normwaarde>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/Bouwaanduiding</rol:groep>
+            </rol:Omgevingsnorm>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Omgevingsnorm>
+               <rol:identificatie>nl.imow-gm1952.omgevingsnorm.000000018255613830001412915611</rol:identificatie>
+               <rol:naam>aantal woningen</rol:naam>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/AantalWoningen</rol:type>
+               <rol:eenheid>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Aantal</rol:eenheid>
+               <rol:normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm1952.normwaarde.00000001825561383000183566976</rol:identificatie>
+                     <rol:kwantitatieveWaarde>22</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.00000001825561383000558960236"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+               </rol:normwaarde>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/MaatvoeringBouwen</rol:groep>
+            </rol:Omgevingsnorm>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>
