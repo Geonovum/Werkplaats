@@ -19,7 +19,7 @@
       <sl:dataset>Voorbeschermingsregels geiten, lama’s en archeologie</sl:dataset>
       <sl:inhoud>
          <sl:gebied>Provincie Noord-Holland</sl:gebied>
-         <sl:leveringsId>NH001_2023-04-16_001</sl:leveringsId>
+         <sl:leveringsId>NH001_2023-04-17_001</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Activiteit</sl:objectType>
          </sl:objectTypen>
@@ -39,8 +39,8 @@
       <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
-               <rol:identificatie>nl.imow-pv27.activiteit.0000000100100312400032341745</rol:identificatie>
-               <rol:naam>Bouwwerk voor agrarische bedrijfvoering bouwen, in stand houden of gebruiken</rol:naam>
+               <rol:identificatie>nl.imow-pv27.activiteit.000000010010031240001861123940</rol:identificatie>
+               <rol:naam>Bouwwerk voor agrarische bedrijfsvoering bouwen, in stand houden of gebruiken</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitRuimtelijk</rol:groep>
                <rol:bovenliggendeActiviteit><!--Activiteit gereguleerd in voorbeschermingsregels geiten, lama’s en archeologie-->
                   <rol:ActiviteitRef xlink:href="nl.imow-pv27.activiteit.000000010010031240002922799814"/>

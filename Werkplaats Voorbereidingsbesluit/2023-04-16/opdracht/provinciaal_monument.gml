@@ -8,11 +8,11 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/pv27/2023/2936343477</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/pv27/2023/2936343477/nld@2023-04-16;1</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/pv27/2023/2852655712</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/pv27/2023/2852655712/nld@2023-04-17;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
-          <geo:naam>Lamahouderij</geo:naam>
+          <geo:naam>Provinciaal monument</geo:naam>
           <geo:geometrie>
             <basisgeo:Geometrie gml:id="id-1643bc6e-e76f-4bd9-a41b-47dd9b7a44a8-xx">
               <basisgeo:id>1643bc6e-e76f-4bd9-a41b-47dd9b7a44a8</basisgeo:id>

@@ -9,7 +9,7 @@
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/pv27/2023/4077196262</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/pv27/2023/4077196262/nld@2023-04-16;1</geo:FRBRExpression>
+      <geo:FRBRExpression>/join/id/regdata/pv27/2023/4077196262/nld@2023-04-17;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Archeologisch monument</geo:naam>

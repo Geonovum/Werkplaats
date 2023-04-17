@@ -19,7 +19,7 @@
       <sl:dataset>Voorbeschermingsregels geiten, lama’s en archeologie</sl:dataset>
       <sl:inhoud>
          <sl:gebied>Provincie Noord-Holland</sl:gebied>
-         <sl:leveringsId>NH001_2023-04-16_001</sl:leveringsId>
+         <sl:leveringsId>NH001_2023-04-17_001</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Regelingsgebied</sl:objectType>
          </sl:objectTypen>
@@ -29,7 +29,7 @@
             <rg:Regelingsgebied>
                <rg:identificatie>nl.imow-pv27.regelingsgebied.00000001001003124000</rg:identificatie>
                <rg:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv27.gebiedengroep.000000010010031240003225619377"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv27.ambtsgebied.00000001001003124000"/>
                </rg:locatieaanduiding>
             </rg:Regelingsgebied>
          </ow-dc:owObject>

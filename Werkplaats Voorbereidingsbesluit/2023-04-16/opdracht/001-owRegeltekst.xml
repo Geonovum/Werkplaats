@@ -19,7 +19,7 @@
       <sl:dataset>Voorbeschermingsregels geiten, lama’s en archeologie</sl:dataset>
       <sl:inhoud>
          <sl:gebied>Provincie Noord-Holland</sl:gebied>
-         <sl:leveringsId>NH001_2023-04-16</sl:leveringsId>
+         <sl:leveringsId>NH001_2023-04-17</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Regeltekst</sl:objectType>
             <sl:objectType>RegelVoorIedereen</sl:objectType>
@@ -41,7 +41,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-pv27.regeltekst.000000010010031240005207EF98"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv27.gebiedengroep.000000010010031240003225619377"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv27.ambtsgebied.00000001001003124000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-pv27.activiteit.000000010010031240002922799814"/>
@@ -49,10 +49,31 @@
                      <r:identificatie>nl.imow-pv27.activiteitlocatieaanduiding.00000001001003124000D6E705</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv27.gebiedengroep.000000010010031240003225619377"/>
+                        <l:LocatieRef xlink:href="nl.imow-pv27.ambtsgebied.00000001001003124000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="pv27_1__chp_1__art_1.2">
+               <r:identificatie>nl.imow-pv27.regeltekst.0000000100100312400039981C7A</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-pv27.juridischeregel.0000000100100312400039981C7A</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-pv27.regeltekst.0000000100100312400039981C7A"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-pv27.ambtsgebied.00000001001003124000"/>
+               </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -72,15 +93,15 @@
                   <r:RegeltekstRef xlink:href="nl.imow-pv27.regeltekst.00000001001003124000340C66C5"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv27.gebiedengroep.000000010010031240003831762295"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv27.ambtsgebied.00000001001003124000"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-pv27.activiteit.0000000100100312400032341745"/>
-                  <r:ActiviteitLocatieaanduiding><!--3926434348-->
-                     <r:identificatie>nl.imow-pv27.activiteitlocatieaanduiding.00000001001003124000D6E920</r:identificatie>
+                  <rol:ActiviteitRef xlink:href="nl.imow-pv27.activiteit.000000010010031240001861123940"/>
+                  <r:ActiviteitLocatieaanduiding><!--2139529887-->
+                     <r:identificatie>nl.imow-pv27.activiteitlocatieaanduiding.00000001001003124000D6E1047</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv27.gebiedengroep.000000010010031240003831762295"/>
+                        <l:LocatieRef xlink:href="nl.imow-pv27.ambtsgebied.00000001001003124000"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -103,8 +124,18 @@
                   <r:RegeltekstRef xlink:href="nl.imow-pv27.regeltekst.0000000100100312400068BBBF8B"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv27.gebiedengroep.000000010010031240003831762295"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv27.ambtsgebied.00000001001003124000"/>
                </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-pv27.activiteit.000000010010031240001861123940"/>
+                  <r:ActiviteitLocatieaanduiding><!--241345608-->
+                     <r:identificatie>nl.imow-pv27.activiteitlocatieaanduiding.00000001001003124000D6E1392</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-pv27.ambtsgebied.00000001001003124000"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -124,15 +155,15 @@
                   <r:RegeltekstRef xlink:href="nl.imow-pv27.regeltekst.000000010010031240006C0BDDCB"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv27.gebiedengroep.000000010010031240002936343477"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv27.gebiedengroep.000000010010031240002852655712"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-pv27.activiteit.0000000100100312400032341745"/>
-                  <r:ActiviteitLocatieaanduiding><!--3926434348-->
-                     <r:identificatie>nl.imow-pv27.activiteitlocatieaanduiding.00000001001003124000D6E1265</r:identificatie>
+                  <rol:ActiviteitRef xlink:href="nl.imow-pv27.activiteit.000000010010031240001861123940"/>
+                  <r:ActiviteitLocatieaanduiding><!--2139529887-->
+                     <r:identificatie>nl.imow-pv27.activiteitlocatieaanduiding.00000001001003124000D6E1737</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-pv27.gebiedengroep.000000010010031240002936343477"/>
+                        <l:LocatieRef xlink:href="nl.imow-pv27.gebiedengroep.000000010010031240002852655712"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -155,8 +186,18 @@
                   <r:RegeltekstRef xlink:href="nl.imow-pv27.regeltekst.000000010010031240004051767E"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv27.gebiedengroep.000000010010031240002936343477"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv27.gebiedengroep.000000010010031240002852655712"/>
                </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-pv27.activiteit.000000010010031240001861123940"/>
+                  <r:ActiviteitLocatieaanduiding><!--241345608-->
+                     <r:identificatie>nl.imow-pv27.activiteitlocatieaanduiding.00000001001003124000D6E2083</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-pv27.gebiedengroep.000000010010031240002852655712"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -181,7 +222,7 @@
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-pv27.activiteit.0000000100100312400032078453"/>
                   <r:ActiviteitLocatieaanduiding><!--1448975792-->
-                     <r:identificatie>nl.imow-pv27.activiteitlocatieaanduiding.00000001001003124000D6E1618</r:identificatie>
+                     <r:identificatie>nl.imow-pv27.activiteitlocatieaanduiding.00000001001003124000D6E2428</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-pv27.gebiedengroep.000000010010031240004077196262"/>

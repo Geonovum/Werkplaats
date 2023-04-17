@@ -19,7 +19,7 @@
       <sl:dataset>Voorbeschermingsregels geiten, lama’s en archeologie</sl:dataset>
       <sl:inhoud>
          <sl:gebied>Provincie Noord-Holland</sl:gebied>
-         <sl:leveringsId>NH001_2023-04-16_001</sl:leveringsId>
+         <sl:leveringsId>NH001_2023-04-17_001</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Ambtsgebied</sl:objectType>
             <sl:objectType>Gebiedengroep</sl:objectType>
@@ -30,12 +30,12 @@
          <ow-dc:owObject>
             <l:Ambtsgebied>
                <l:identificatie>nl.imow-pv27.ambtsgebied.00000001001003124000</l:identificatie>
-               <l:noemer>Provincie Noord-Holland</l:noemer>
+               <l:noemer>Gemeente Dijk en Waard</l:noemer>
                <l:bestuurlijkeGrenzenVerwijzing>
                   <l:BestuurlijkeGrenzenVerwijzing>
-                     <l:bestuurlijkeGrenzenID>PV27</l:bestuurlijkeGrenzenID>
+                     <l:bestuurlijkeGrenzenID>GM1980</l:bestuurlijkeGrenzenID>
                      <l:domein>NL.BI.BestuurlijkGebied</l:domein>
-                     <l:geldigOp>2021-01-01</l:geldigOp>
+                     <l:geldigOp>2023-01-01</l:geldigOp>
                   </l:BestuurlijkeGrenzenVerwijzing>
                </l:bestuurlijkeGrenzenVerwijzing>
             </l:Ambtsgebied>
@@ -44,63 +44,19 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
-               <l:identificatie>nl.imow-pv27.gebiedengroep.000000010010031240003225619377</l:identificatie>
-               <l:noemer>Dijk en Waard</l:noemer>
+               <l:identificatie>nl.imow-pv27.gebiedengroep.000000010010031240002852655712</l:identificatie>
+               <l:noemer>Provinciaal monument</l:noemer>
                <l:groepselement>
-                  <l:GebiedRef xlink:href="nl.imow-pv27.gebied.000000010010031240003225619377"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv27.gebied.000000010010031240002852655712"/>
                </l:groepselement>
             </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
-         <ow-dc:owObject><!--dijk_en_waard.gml-->
+         <ow-dc:owObject><!--provinciaal_monument.gml-->
             <l:Gebied>
-               <l:identificatie>nl.imow-pv27.gebied.000000010010031240003225619377</l:identificatie>
-               <l:noemer>Dijk en Waard</l:noemer>
-               <l:geometrie>
-                  <l:GeometrieRef xlink:href="1012848b-5f81-439f-b901-c5c9584a630e"/>
-               </l:geometrie>
-            </l:Gebied>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <l:Gebiedengroep>
-               <l:identificatie>nl.imow-pv27.gebiedengroep.000000010010031240003831762295</l:identificatie>
-               <l:noemer>Geitenhouderij</l:noemer>
-               <l:groepselement>
-                  <l:GebiedRef xlink:href="nl.imow-pv27.gebied.000000010010031240003831762295"/>
-               </l:groepselement>
-            </l:Gebiedengroep>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject><!--geitenhouderij.gml-->
-            <l:Gebied>
-               <l:identificatie>nl.imow-pv27.gebied.000000010010031240003831762295</l:identificatie>
-               <l:noemer>Geitenhouderij</l:noemer>
-               <l:geometrie>
-                  <l:GeometrieRef xlink:href="e1bbc555-5f85-4c71-87c1-8c81065011c1"/>
-               </l:geometrie>
-            </l:Gebied>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <l:Gebiedengroep>
-               <l:identificatie>nl.imow-pv27.gebiedengroep.000000010010031240002936343477</l:identificatie>
-               <l:noemer>Lamahouderij</l:noemer>
-               <l:groepselement>
-                  <l:GebiedRef xlink:href="nl.imow-pv27.gebied.000000010010031240002936343477"/>
-               </l:groepselement>
-            </l:Gebiedengroep>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject><!--lamahouderij.gml-->
-            <l:Gebied>
-               <l:identificatie>nl.imow-pv27.gebied.000000010010031240002936343477</l:identificatie>
-               <l:noemer>Lamahouderij</l:noemer>
+               <l:identificatie>nl.imow-pv27.gebied.000000010010031240002852655712</l:identificatie>
+               <l:noemer>Provinciaal monument</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="1643bc6e-e76f-4bd9-a41b-47dd9b7a44a8"/>
                </l:geometrie>

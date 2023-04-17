@@ -21,7 +21,7 @@
       <contentType>application/xml</contentType>
    </bestand>
    <bestand>
-      <bestandsnaam>NH001_2023-04-16.xml</bestandsnaam>
+      <bestandsnaam>NH001_2023-04-17.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
    <bestand>
@@ -30,15 +30,6 @@
    </bestand>
    <bestand>
       <bestandsnaam>opdracht.xml</bestandsnaam>
-      <contentType>application/xml</contentType>
-   </bestand>
-
-   <bestand>
-      <bestandsnaam>lamahouderij.gml</bestandsnaam>
-      <contentType>application/gml+xml</contentType>
-   </bestand>
-   <bestand>
-      <bestandsnaam>lamahouderij.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
    <bestand>
@@ -50,19 +41,11 @@
       <contentType>application/xml</contentType>
    </bestand>
    <bestand>
-      <bestandsnaam>dijk_en_waard.gml</bestandsnaam>
+      <bestandsnaam>provinciaal_monument.gml</bestandsnaam>
       <contentType>application/gml+xml</contentType>
    </bestand>
    <bestand>
-      <bestandsnaam>dijk_en_waard.xml</bestandsnaam>
-      <contentType>application/xml</contentType>
-   </bestand>
-   <bestand>
-      <bestandsnaam>geitenhouderij.gml</bestandsnaam>
-      <contentType>application/gml+xml</contentType>
-   </bestand>
-   <bestand>
-      <bestandsnaam>geitenhouderij.xml</bestandsnaam>
+      <bestandsnaam>provinciaal_monument.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
 </manifest>

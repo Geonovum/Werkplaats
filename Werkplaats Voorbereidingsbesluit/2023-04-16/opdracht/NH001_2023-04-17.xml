@@ -6,7 +6,7 @@
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/pv27/2023/NH001</FRBRWork>
-         <FRBRExpression>/akn/nl/bill/pv27/2023/NH001/nld@2023-04-16;1</FRBRExpression>
+         <FRBRExpression>/akn/nl/bill/pv27/2023/NH001/nld@2023-04-17;1</FRBRExpression>
          <soortWork>/join/id/stop/work_003</soortWork>
       </ExpressionIdentificatie>
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -23,8 +23,8 @@
          <grondslagen>
             <grondslag>
                <TekstReferentie>
-                  <uri>jcil.31:c:BWBR0037885&amp;artikel=5.44</uri>
-                  <label>Artikel 5.44 Omgevingswet</label>
+                  <uri>jcil.31:c:BWBR0037885&amp;artikel=4.16</uri>
+                  <label>Artikel 4.16 lid 1 Omgevingswet</label>
                   <soortRef>JCI</soortRef>
                </TekstReferentie>
             </grondslag>
@@ -40,10 +40,8 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
          <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/pv27/2023/3225619377/nld@2023-04-16;1</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv27/2023/3831762295/nld@2023-04-16;1</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv27/2023/2936343477/nld@2023-04-16;1</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv27/2023/4077196262/nld@2023-04-16;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv27/2023/2852655712/nld@2023-04-17;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv27/2023/4077196262/nld@2023-04-17;1</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -66,36 +64,22 @@
                <doelen>
                   <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/pv27/2023/NH001-001/nld@2023-04-16;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/pv27/2023/NH001-001/nld@2023-04-17;1</instrumentVersie>
                <eId>art_II</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv27/2023/3225619377/nld@2023-04-16;1</instrumentVersie>
-               <eId>!regeling_001#cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
-            </BeoogdInformatieobject>
-            <BeoogdInformatieobject>
-               <doelen>
-                  <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
-               </doelen>
-               <instrumentVersie>/join/id/regdata/pv27/2023/3831762295/nld@2023-04-16;1</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv27/2023/2852655712/nld@2023-04-17;1</instrumentVersie>
                <eId>!regeling_001#cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv27/2023/2936343477/nld@2023-04-16;1</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv27/2023/4077196262/nld@2023-04-17;1</instrumentVersie>
                <eId>!regeling_001#cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
-            </BeoogdInformatieobject>
-            <BeoogdInformatieobject>
-               <doelen>
-                  <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
-               </doelen>
-               <instrumentVersie>/join/id/regdata/pv27/2023/4077196262/nld@2023-04-16;1</instrumentVersie>
-               <eId>!regeling_001#cmp_II__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -120,6 +104,7 @@
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
+                  <Opschrift/>
                </Kop>
                <Inhoud>
                   <Al>Met het oog op de voorbereiding van in de omgevingsverordening te stellen instructieregels over archeologische monumenten van provinciaal belang een voorbereidingsbesluit te nemen.</Al>
@@ -129,6 +114,7 @@
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
+                  <Opschrift/>
                </Kop>
                <Wat>Voor het omgevingsplan van de gemeente Dijk en Waard de voorbeschermingsregels vast te stellen die zijn vastgelegd in <IntRef ref="cmp_A">bijlage A</IntRef>.</Wat>
             </WijzigArtikel>
@@ -136,6 +122,7 @@
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>III</Nummer>
+                  <Opschrift/>
                </Kop>
                <Inhoud>
                   <Al>Dit besluit treedt in werking op de dag na de dag waarop het bekendgemaakt is.</Al>
@@ -155,9 +142,10 @@
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>A</Nummer>
+               <Opschrift>[Optioneel opschrift]</Opschrift>
             </Kop>
             <RegelingTijdelijkdeel componentnaam="regeling_001"
-                                   wordt="/akn/nl/act/pv27/2023/NH001-001/nld@2023-04-16;1">
+                                   wordt="/akn/nl/act/pv27/2023/NH001-001/nld@2023-04-17;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbeschermingsregels geiten, lama’s en archeologie</Al>
                </RegelingOpschrift>
@@ -185,9 +173,18 @@
                            <Opschrift/>
                         </Kop>
                         <Inhoud>
-                           <Al>Voorbeschermingsregels vanwege provinciale instructieregels voor gemeente ‘<IntIoRef eId="chp_1__art_1.1__ref_o_1"
-                                        wId="pv27_1__chp_1__art_1.1__ref_o_1"
-                                        ref="pv27_1__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1">Dijk en Waard</IntIoRef>’.</Al>
+                           <Al>Voorbeschermingsregels vanwege provinciale instructieregels voor gemeente ‘Dijk en Waard’.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_1__art_1.2" wId="pv27_1__chp_1__art_1.2">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1.2</Nummer>
+                           <Opschrift>Begripsbepalingen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>
+                              <IntRef ref="cmp_I">Bijlage I</IntRef> bevat de begripsbepalingen voor de toepassing van deze voorbeschermingsregels.</Al>
                         </Inhoud>
                      </Artikel>
                   </Hoofdstuk>
@@ -213,23 +210,17 @@
                                  <Li eId="chp_2__art_2.1__para_1__list_o_1__item_a"
                                      wId="pv27_1__chp_2__art_2.1__para_1__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
-                                    <Al>een <IntIoRef eId="chp_2__art_2.1__para_1__list_o_1__item_a__ref_o_1"
-                                                 wId="pv27_1__chp_2__art_2.1__para_1__list_o_1__item_a__ref_o_1"
-                                                 ref="pv27_1__cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1">geitenhouderij</IntIoRef>, al dan niet als neventak, nieuw te vestigen;</Al>
+                                    <Al>een <IntRef ref="cmp_I__content_o_1__list_o_1__item_o_2">geitenhouderij</IntRef>, al dan niet als neventak, nieuw te vestigen;</Al>
                                  </Li>
                                  <Li eId="chp_2__art_2.1__para_1__list_o_1__item_b"
                                      wId="pv27_1__chp_2__art_2.1__para_1__list_o_1__item_b">
                                     <LiNummer>b.</LiNummer>
-                                    <Al>een agrarisch bedrijf geheel of gedeeltelijk te wijzigen naar <IntIoRef eId="chp_2__art_2.1__para_1__list_o_1__item_b__ref_o_1"
-                                                 wId="pv27_1__chp_2__art_2.1__para_1__list_o_1__item_b__ref_o_1"
-                                                 ref="pv27_1__cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1">geitenhouderij</IntIoRef>, of;</Al>
+                                    <Al>een agrarisch bedrijf geheel of gedeeltelijk te wijzigen naar <IntRef ref="cmp_I__content_o_1__list_o_1__item_o_2">geitenhouderij</IntRef>, of;</Al>
                                  </Li>
                                  <Li eId="chp_2__art_2.1__para_1__list_o_1__item_c"
                                      wId="pv27_1__chp_2__art_2.1__para_1__list_o_1__item_c">
                                     <LiNummer>c.</LiNummer>
-                                    <Al>een <IntIoRef eId="chp_2__art_2.1__para_1__list_o_1__item_c__ref_o_1"
-                                                 wId="pv27_1__chp_2__art_2.1__para_1__list_o_1__item_c__ref_o_1"
-                                                 ref="pv27_1__cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1">geitenhouderij</IntIoRef> uit te breiden door het aantal geiten dat wordt gehouden te vergroten.</Al>
+                                    <Al>een <IntRef ref="cmp_I__content_o_1__list_o_1__item_o_2">geitenhouderij</IntRef> uit te breiden door het aantal geiten dat wordt gehouden te vergroten.</Al>
                                  </Li>
                               </Lijst>
                            </Inhoud>
@@ -274,27 +265,23 @@
                               <Lijst eId="chp_3__art_3.1__para_1__list_o_1"
                                      wId="pv27_1__chp_3__art_3.1__para_1__list_o_1"
                                      type="expliciet">
-                                 <Lijstaanhef>Het is verboden om ter plaatse van een provinciaal monument:</Lijstaanhef>
+                                 <Lijstaanhef>Het is verboden om ter plaatse van een <IntIoRef eId="chp_3__art_3.1__para_1__list_o_1__ref_o_1"
+                                              wId="pv27_1__chp_3__art_3.1__para_1__list_o_1__ref_o_1"
+                                              ref="pv27_1__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1">provinciaal monument</IntIoRef>:</Lijstaanhef>
                                  <Li eId="chp_3__art_3.1__para_1__list_o_1__item_a"
                                      wId="pv27_1__chp_3__art_3.1__para_1__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
-                                    <Al>een <IntIoRef eId="chp_3__art_3.1__para_1__list_o_1__item_a__ref_o_1"
-                                                 wId="pv27_1__chp_3__art_3.1__para_1__list_o_1__item_a__ref_o_1"
-                                                 ref="pv27_1__cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1">lamahouderij</IntIoRef>, al dan niet als neventak, nieuw te vestigen;</Al>
+                                    <Al>een <IntRef ref="cmp_I__content_o_1__list_o_1__item_o_3">lamahouderij</IntRef>, al dan niet als neventak, nieuw te vestigen;</Al>
                                  </Li>
                                  <Li eId="chp_3__art_3.1__para_1__list_o_1__item_b"
                                      wId="pv27_1__chp_3__art_3.1__para_1__list_o_1__item_b">
                                     <LiNummer>b.</LiNummer>
-                                    <Al>een agrarisch bedrijf geheel of gedeeltelijk te wijzigen naar <IntIoRef eId="chp_3__art_3.1__para_1__list_o_1__item_b__ref_o_1"
-                                                 wId="pv27_1__chp_3__art_3.1__para_1__list_o_1__item_b__ref_o_1"
-                                                 ref="pv27_1__cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1">lamahouderij</IntIoRef>; en/of</Al>
+                                    <Al>een agrarisch bedrijf geheel of gedeeltelijk te wijzigen naar <IntRef ref="cmp_I__content_o_1__list_o_1__item_o_3">lamahouderij</IntRef>; en/of</Al>
                                  </Li>
                                  <Li eId="chp_3__art_3.1__para_1__list_o_1__item_c"
                                      wId="pv27_1__chp_3__art_3.1__para_1__list_o_1__item_c">
                                     <LiNummer>c.</LiNummer>
-                                    <Al>een <IntIoRef eId="chp_3__art_3.1__para_1__list_o_1__item_c__ref_o_1"
-                                                 wId="pv27_1__chp_3__art_3.1__para_1__list_o_1__item_c__ref_o_1"
-                                                 ref="pv27_1__cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1">lamahouderij</IntIoRef> uit te breiden door het aantal lama’s dat wordt gehouden te vergroten.</Al>
+                                    <Al>een <IntRef ref="cmp_I__content_o_1__list_o_1__item_o_3">lamahouderij</IntRef> uit te breiden door het aantal lama’s dat wordt gehouden te vergroten.</Al>
                                  </Li>
                               </Lijst>
                            </Inhoud>
@@ -337,7 +324,9 @@
                            <Lijst eId="chp_4__art_4.1__list_o_1"
                                   wId="pv27_1__chp_4__art_4.1__list_o_1"
                                   type="expliciet">
-                              <Lijstaanhef>Ter plaatse van de locatie ‘Archeologisch monument’ is het verboden om, wanneer daarvoor een bodemingreep wordt gedaan dieper dan 0,40 m onder het AHN-maaiveld met een oppervlakte van meer dan 5 m<sup>2</sup>, aanlegactiviteiten te verrichten in de vorm van:</Lijstaanhef>
+                              <Lijstaanhef>Ter plaatse van de locatie ‘<IntIoRef eId="chp_4__art_4.1__list_o_1__ref_o_1"
+                                           wId="pv27_1__chp_4__art_4.1__list_o_1__ref_o_1"
+                                           ref="pv27_1__cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1">Archeologisch monument</IntIoRef>’ is het verboden om, wanneer daarvoor een bodemingreep wordt gedaan dieper dan 0,40 m onder het <IntRef ref="cmp_I__content_o_1__list_o_1__item_o_1">AHN-maaiveld</IntRef> met een oppervlakte van meer dan 5 m<sup>2</sup>, aanlegactiviteiten te verrichten in de vorm van:</Lijstaanhef>
                               <Li eId="chp_4__art_4.1__list_o_1__item_a"
                                   wId="pv27_1__chp_4__art_4.1__list_o_1__item_a">
                                  <LiNummer>a.</LiNummer>
@@ -369,20 +358,28 @@
                   </Kop>
                   <Divisietekst eId="cmp_I__content_o_1" wId="pv27_1__cmp_I__content_o_1">
                      <Inhoud>
+                        <Al>In deze voorbeschermingsregels wordt verstaan onder:</Al>
                         <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
                                         wId="pv27_1__cmp_I__content_o_1__list_o_1">
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1"
                                    wId="pv27_1__cmp_I__content_o_1__list_o_1__item_o_1">
-                              <Term>geitenhouderij</Term>
+                              <Term>AHN-maaiveld</Term>
                               <Definitie>
-                                 <Al>een bedrijf of een onderdeel daarvan waar geiten worden gehouden</Al>
+                                 <Al>De maaiveldhoogte die is vastgelegd in het Actueel Hoogtebestand Nederland.</Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_2"
                                    wId="pv27_1__cmp_I__content_o_1__list_o_1__item_o_2">
-                              <Term>lamahouderij</Term>
+                              <Term>Geitenhouderij</Term>
                               <Definitie>
-                                 <Al>een bedrijf of een onderdeel daarvan waar lama’s worden gehouden</Al>
+                                 <Al>Een bedrijf of een onderdeel daarvan waar geiten worden gehouden.</Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3"
+                                   wId="pv27_1__cmp_I__content_o_1__list_o_1__item_o_3">
+                              <Term>Lamahouderij</Term>
+                              <Definitie>
+                                 <Al>Een bedrijf of een onderdeel daarvan waar lama’s worden gehouden.</Al>
                               </Definitie>
                            </Begrip>
                         </Begrippenlijst>
@@ -396,50 +393,28 @@
                      <Opschrift>Overzicht van informatieobjecten</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_II__content_o_1" wId="pv27_1__cmp_II__content_o_1">
-                     <Inhoud><!--diagnose: controleer dat elke ExtIoRef een bijbehorend IntIoRef heeft-->
+                     <Inhoud>
                         <Begrippenlijst eId="cmp_II__content_o_1__list_o_1"
                            wId="pv27_1__cmp_II__content_o_1__list_o_1">
-                           <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_1"
-                              wId="pv27_1__cmp_II__content_o_1__list_o_1__item_o_1"><!--dijk_en_waard.gml-->
-                              <Term>Dijk en Waard</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                       wId="pv27_1__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                       ref="/join/id/regdata/pv27/2023/3225619377/nld@2023-04-16;1">/join/id/regdata/pv27/2023/3225619377/nld@2023-04-16;1</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
                            <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_2"
-                              wId="pv27_1__cmp_II__content_o_1__list_o_1__item_o_2"><!--geitenhouderij.gml-->
-                              <Term>Geitenhouderij</Term>
+                              wId="pv27_1__cmp_II__content_o_1__list_o_1__item_o_2"><!--provinciaal_monument.gml-->
+                              <Term>Provinciaal monument</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                       wId="pv27_1__cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                       ref="/join/id/regdata/pv27/2023/3831762295/nld@2023-04-16;1">/join/id/regdata/pv27/2023/3831762295/nld@2023-04-16;1</ExtIoRef>
+                                       wId="pv27_1__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       ref="/join/id/regdata/pv27/2023/2852655712/nld@2023-04-17;1">/join/id/regdata/pv27/2023/2852655712/nld@2023-04-17;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_3"
-                              wId="pv27_1__cmp_II__content_o_1__list_o_1__item_o_3"><!--lamahouderij.gml-->
-                              <Term>Lamahouderij</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1"
-                                       wId="pv27_1__cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1"
-                                       ref="/join/id/regdata/pv27/2023/2936343477/nld@2023-04-16;1">/join/id/regdata/pv27/2023/2936343477/nld@2023-04-16;1</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_4"
-                              wId="pv27_1__cmp_II__content_o_1__list_o_1__item_o_4"><!--archeologisch_monument.gml-->
+                              wId="pv27_1__cmp_II__content_o_1__list_o_1__item_o_3"><!--archeologisch_monument.gml-->
                               <Term>Archeologisch monument</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_4__ref_o_1"
-                                       wId="pv27_1__cmp_II__content_o_1__list_o_1__item_o_4__ref_o_1"
-                                       ref="/join/id/regdata/pv27/2023/4077196262/nld@2023-04-16;1">/join/id/regdata/pv27/2023/4077196262/nld@2023-04-16;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                       wId="pv27_1__cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                       ref="/join/id/regdata/pv27/2023/4077196262/nld@2023-04-17;1">/join/id/regdata/pv27/2023/4077196262/nld@2023-04-17;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -459,9 +434,7 @@
                         <Opschrift>Algemene toelichting</Opschrift>
                      </Kop>
                      <Divisietekst eId="genrecital__content_o_1" wId="pv27_1__genrecital__content_o_1">
-                        <Inhoud>
-                           <Al>[Gereserveerd]</Al>
-                        </Inhoud>
+                        <Gereserveerd/>
                      </Divisietekst>
                   </AlgemeneToelichting>
                   <ArtikelgewijzeToelichting xmlns:dso="https://www.dso.nl/"
@@ -480,7 +453,7 @@
                            <Opschrift>Verbod geitenhouderij</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>De provincie heeft sinds 12 december 2018 een verbod ingesteld op de nieuwvestiging of uitbreiding van geitenhouderijen. Dit verbod is ingesteld vanwege het mogelijke risico voor de volksgezondheid van omwonenden die in de nabijheid van een geitenhouderij wonen. De oorzaak van de mogelijke risico’s worden nog onderzocht. Het ingestelde verbod is gebaseerd op het zogenoemde voorzorgsbeginsel. In de Omgevingsverordening NH2022 is het genoemde verbod opgenomen als instructieregel voor gemeenten bij het vaststellen van het omgevingsplan. Voor de periode die gemeenten nodig hebben om deze instruc- tieregels uit te voeren, gelden deze voorbeschermingsregels. Het is niet toegestaan om nieuwvestiging, uitbreiding van geitenhouderijen of (gedeeltelijke) omschakeling van een agrarisch bedrijf naar een gei- tenhouderij te realiseren. Hierin wordt specifiek verwezen naar uitbreiding als ‘uitbreiding van het aantal dieren’. Vernieuwen of toevoegen van stallen, bijvoorbeeld gericht op het verbeteren van dierenwelzijn, wordt niet door dit verbod geraakt zolang het aantal dieren daarbij niet wordt uitgebreid.</Al>
+                           <Al>De provincie heeft sinds 12 december 2018 een verbod ingesteld op de nieuwvestiging of uitbreiding van geitenhouderijen. Dit verbod is ingesteld vanwege het mogelijke risico voor de volksgezondheid van omwonenden die in de nabijheid van een geitenhouderij wonen. De oorzaak van de mogelijke risico’s worden nog onderzocht. Het ingestelde verbod is gebaseerd op het zogenoemde voorzorgsbeginsel. In de Omgevingsverordening NH2022 is het genoemde verbod opgenomen als instructieregel voor gemeenten bij het vaststellen van het omgevingsplan. Voor de periode die gemeenten nodig hebben om deze instructieregels uit te voeren, gelden deze voorbeschermingsregels. Het is niet toegestaan om nieuwvestiging, uitbreiding van geitenhouderijen of (gedeeltelijke) omschakeling van een agrarisch bedrijf naar een geitenhouderij te realiseren. Hierin wordt specifiek verwezen naar uitbreiding als ‘uitbreiding van het aantal dieren’. Vernieuwen of toevoegen van stallen, bijvoorbeeld gericht op het verbeteren van dierenwelzijn, wordt niet door dit verbod geraakt zolang het aantal dieren daarbij niet wordt uitgebreid.</Al>
                         </Inhoud>
                      </Divisietekst>
                      <Divisietekst eId="artrecital__content_3.1"
@@ -492,7 +465,7 @@
                            <Opschrift>Verbod lamahouderij</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>De provincie heeft sinds 12 december 2018 een verbod ingesteld op de nieuwvestiging of uitbreiding van lamahouderijen. Dit verbod is ingesteld vanwege het mogelijke risico voor de volksgezondheid van om- wonenden die in de nabijheid van een lamahouderij wonen. De oorzaak van de mogelijke risico’s worden nog onderzocht. Het ingestelde verbod is gebaseerd op het zogenoemde voorzorgsbeginsel. In de Omge- vingsverordening NH2022 is het genoemde verbod opgenomen als instructieregel voor gemeenten bij het vaststellen van het omgevingsplan. Voor de periode die gemeenten nodig hebben om deze instruc- tieregels uit te voeren, gelden deze voorbeschermingsregels. Het is niet toegestaan om nieuwvestiging, uitbreiding van lamahouderijen of (gedeeltelijke) omschakeling van een agrarisch bedrijf naar een lama- houderij te realiseren. Hierin wordt specifiek verwezen naar uitbreiding als ‘uitbreiding van het aantal dieren’. Vernieuwen of toevoegen van stallen, bijvoorbeeld gericht op het verbeteren van dierenwelzijn, wordt niet door dit verbod geraakt zolang het aantal dieren daarbij niet wordt uitgebreid.</Al>
+                           <Al>De provincie heeft sinds 12 december 2018 een verbod ingesteld op de nieuwvestiging of uitbreiding van lamahouderijen. Dit verbod is ingesteld vanwege het mogelijke risico voor de volksgezondheid van omwonenden die in de nabijheid van een lamahouderij wonen. De oorzaak van de mogelijke risico’s worden nog onderzocht. Het ingestelde verbod is gebaseerd op het zogenoemde voorzorgsbeginsel. In de Omgevingsverordening NH2022 is het genoemde verbod opgenomen als instructieregel voor gemeenten bij het vaststellen van het omgevingsplan. Voor de periode die gemeenten nodig hebben om deze instructieregels uit te voeren, gelden deze voorbeschermingsregels. Het is niet toegestaan om nieuwvestiging, uitbreiding van lamahouderijen of (gedeeltelijke) omschakeling van een agrarisch bedrijf naar een lamahouderij te realiseren. Hierin wordt specifiek verwezen naar uitbreiding als ‘uitbreiding van het aantal dieren’. Vernieuwen of toevoegen van stallen, bijvoorbeeld gericht op het verbeteren van dierenwelzijn, wordt niet door dit verbod geraakt zolang het aantal dieren daarbij niet wordt uitgebreid.</Al>
                         </Inhoud>
                      </Divisietekst>
                   </ArtikelgewijzeToelichting>
@@ -504,7 +477,7 @@
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/act/pv27/2023/NH001-001</FRBRWork>
-         <FRBRExpression>/akn/nl/act/pv27/2023/NH001-001/nld@2023-04-16;1</FRBRExpression>
+         <FRBRExpression>/akn/nl/act/pv27/2023/NH001-001/nld@2023-04-17;1</FRBRExpression>
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
@@ -531,8 +504,8 @@
          <grondslagen>
             <grondslag>
                <TekstReferentie>
-                  <uri>jcil.31:c:BWBR0037885&amp;artikel=5.44</uri>
-                  <label>Artikel 5.44 Omgevingswet</label>
+                  <uri>jcil.31:c:BWBR0037885&amp;artikel=4.16</uri>
+                  <label>Artikel 4.16 lid 1 Omgevingswet</label>
                   <soortRef>JCI</soortRef>
                </TekstReferentie>
             </grondslag>

@@ -2,8 +2,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/pv27/2023/2936343477</FRBRWork>
-      <FRBRExpression>/join/id/regdata/pv27/2023/2936343477/nld@2023-04-16;1</FRBRExpression>
+      <FRBRWork>/join/id/regdata/pv27/2023/2852655712</FRBRWork>
+      <FRBRExpression>/join/id/regdata/pv27/2023/2852655712/nld@2023-04-17;1</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -11,8 +11,8 @@
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
-            <bestandsnaam>lamahouderij.gml</bestandsnaam>
-            <hash>9e0167747d41ea95ff71c01fa676ef4882d65d89ffe35b9de621341fb85ce619d6ac05792def811a0a47c3df3674b30946764281dd3047853ff2f8d328750aa1</hash>
+            <bestandsnaam>provinciaal_monument.gml</bestandsnaam>
+            <hash>7c14ade4c7750c3aaa18f227c9747d41b6094860af2b887995a177dbd092d91aeea90289c8627dbb3bae683dd013563f45f8783fbed39bee5631f980d542d2b3</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
@@ -21,12 +21,12 @@
       <eindverantwoordelijke>/tooi/id/provincie/pv27</eindverantwoordelijke>
       <maker>/tooi/id/provincie/pv27</maker>
       <alternatieveTitels>
-        <alternatieveTitel>Lamahouderij</alternatieveTitel>
+        <alternatieveTitel>Provinciaal monument</alternatieveTitel>
       </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/pv27/2023/2936343477</officieleTitel>
+      <officieleTitel>/join/id/regdata/pv27/2023/2852655712</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-      <naamInformatieObject>Lamahouderij</naamInformatieObject>
+      <naamInformatieObject>Provinciaal monument</naamInformatieObject>
     </InformatieObjectMetadata>
   </InformatieObjectVersie>
 </AanleveringInformatieObject>
