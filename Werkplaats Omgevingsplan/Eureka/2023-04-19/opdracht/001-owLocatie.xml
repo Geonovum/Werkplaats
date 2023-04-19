@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Basismodel omgevingsplan Breda, deelgebied Eureka</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Gemeente Breda</sl:gebied>
+         <sl:leveringsId>EUR002_2023-04-19_001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Ambtsgebied</sl:objectType>
+            <sl:objectType>Gebiedengroep</sl:objectType>
+            <sl:objectType>Gebied</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Ambtsgebied>
+               <l:identificatie>nl.imow-gm0758.ambtsgebied.00000001001336071000</l:identificatie>
+               <l:noemer>Gemeente Breda</l:noemer>
+               <l:bestuurlijkeGrenzenVerwijzing>
+                  <l:BestuurlijkeGrenzenVerwijzing>
+                     <l:bestuurlijkeGrenzenID>GM0758</l:bestuurlijkeGrenzenID>
+                     <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+                     <l:geldigOp>2023-01-01</l:geldigOp>
+                  </l:BestuurlijkeGrenzenVerwijzing>
+               </l:bestuurlijkeGrenzenVerwijzing>
+            </l:Ambtsgebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.000000010013360710002391283368</l:identificatie>
+               <l:noemer>Woongebied-Transformatie</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.000000010013360710002391283368"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Woongebied-Transformatie.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.000000010013360710002391283368</l:identificatie>
+               <l:noemer>Woongebied-Transformatie</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="47d57646-67c4-42e2-be09-0ad36378014a"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.000000010013360710002408718688</l:identificatie>
+               <l:noemer>Gebied met archeologische verwachtingen</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.000000010013360710002408718688"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Gebiedmetarcheologischeverwachtingen.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.000000010013360710002408718688</l:identificatie>
+               <l:noemer>Gebied met archeologische verwachtingen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="09bcda04-606f-408b-b31f-803704c1b96e"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.000000010013360710003441364066</l:identificatie>
+               <l:noemer>Begane grond</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.000000010013360710003441364066"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Beganegrond.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.000000010013360710003441364066</l:identificatie>
+               <l:noemer>Begane grond</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f0da8759-af7e-42eb-949c-c16330303d98"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.000000010013360710001538918508</l:identificatie>
+               <l:noemer>Terras</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.000000010013360710001538918508"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Terras.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.000000010013360710001538918508</l:identificatie>
+               <l:noemer>Terras</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="01620aa0-e59c-4ff0-afbc-f6a4ded838f9"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.000000010013360710003918994220</l:identificatie>
+               <l:noemer>Maatschappelijke activiteiten - categorie I</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.000000010013360710003918994220"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maatschappelijkcat1.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.000000010013360710003918994220</l:identificatie>
+               <l:noemer>Maatschappelijke activiteiten - categorie I</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="5e8e6be7-cf13-4826-b617-8750e7f36459"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.000000010013360710004025950209</l:identificatie>
+               <l:noemer>Kliniek voor verslavingszorg</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.000000010013360710004025950209"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maatschappelijkkliniekvoorverslavingszorg.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.000000010013360710004025950209</l:identificatie>
+               <l:noemer>Kliniek voor verslavingszorg</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="d51a00c0-8aea-4a49-bdcd-a5dd18a5126e"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.000000010013360710004284814357</l:identificatie>
+               <l:noemer>Begraafplaats</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.000000010013360710004284814357"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maatschappelijkbegraafplaats.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.000000010013360710004284814357</l:identificatie>
+               <l:noemer>Begraafplaats</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="e6d68450-1d0f-4b9c-9fa2-5ef80f2258f1"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.000000010013360710002187332128</l:identificatie>
+               <l:noemer>Bouwvlak</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.000000010013360710002187332128"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Bouwvlak.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.000000010013360710002187332128</l:identificatie>
+               <l:noemer>Bouwvlak</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="924f86a9-92bd-414f-8d5c-d7d1014c943a"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.000000010013360710004052947767</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776701"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776702"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776703"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776704"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776705"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776706"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776707"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776708"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776709"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776710"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776711"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776712"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776713"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776714"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maximumbouwhoogtem.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000405294776701</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)-0</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="c6891182-44f8-42a1-be69-c089c1c7f551"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maximumbouwhoogtem.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000405294776702</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)-1</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="52c7d307-908a-4e95-9d0f-ace56bc4d1b8"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maximumbouwhoogtem.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000405294776703</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)-2</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="c9ba7fa2-c2ea-486d-86ee-dedf0a1be796"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maximumbouwhoogtem.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000405294776704</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)-3</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="6819b9db-0da9-4b5b-853d-abb264e52f9c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maximumbouwhoogtem.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000405294776705</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)-4</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="d8e43dbf-bd18-4ca3-bc61-d3d051443b4a"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maximumbouwhoogtem.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000405294776706</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)-5</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="16128d39-dc99-428f-8e38-3625de15a987"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maximumbouwhoogtem.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000405294776707</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)-6</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="0968c34f-92f6-4b63-b0e8-16a9ca69522f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maximumbouwhoogtem.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000405294776708</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)-7</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="9f4e7ed0-b811-4382-b77d-7c199f7bb5aa"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maximumbouwhoogtem.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000405294776709</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)-8</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="350420ab-5fc0-4484-9323-5c52ba488868"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maximumbouwhoogtem.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000405294776710</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)-9</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="af48ad23-ec79-4956-81c8-0cfa71d0ee74"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maximumbouwhoogtem.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000405294776711</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)-10</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="0b6db00f-c3f3-4bd8-91c9-bee133d81f79"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maximumbouwhoogtem.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000405294776712</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)-11</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b3072bd8-bc96-4525-814b-bfa90d21c10b"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maximumbouwhoogtem.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000405294776713</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)-12</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="8b69477c-7566-4f4b-9c43-0434393c0fb2"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Maximumbouwhoogtem.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000405294776714</l:identificatie>
+               <l:noemer>Maximum bouwhoogte (m)-13</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a17da7e7-e0cf-4e50-92f8-fdb0cde4aa80"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.000000010013360710002568753484</l:identificatie>
+               <l:noemer>Zone gevelafstand 1</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.000000010013360710002568753484"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Zonegevelafstand1.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.000000010013360710002568753484</l:identificatie>
+               <l:noemer>Zone gevelafstand 1</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="2bf8002e-8ccd-4a7d-932b-a6c48b86dd76"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.000000010013360710002570457422</l:identificatie>
+               <l:noemer>Zone gevelafstand 2</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.000000010013360710002570457422"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Zonegevelafstand2.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.000000010013360710002570457422</l:identificatie>
+               <l:noemer>Zone gevelafstand 2</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="4d55b618-fdb0-4eb2-b300-ba36d3b70cb9"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.000000010013360710002572161360</l:identificatie>
+               <l:noemer>Zone gevelafstand 3</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.000000010013360710002572161360"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Zonegevelafstand3.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.000000010013360710002572161360</l:identificatie>
+               <l:noemer>Zone gevelafstand 3</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="8f6e9167-aef3-409c-9f5f-52f83a8f4a0f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.000000010013360710001263863704</l:identificatie>
+               <l:noemer>Wonen</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.000000010013360710001263863704"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Wonen.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.000000010013360710001263863704</l:identificatie>
+               <l:noemer>Wonen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="24640cb7-662d-497d-92b6-6066caeace68"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.00000001001336071000932319128</l:identificatie>
+               <l:noemer>Verblijfsgebied</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000932319128"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Verblijfsgebied.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000932319128</l:identificatie>
+               <l:noemer>Verblijfsgebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="048eee8c-5483-4ef4-8551-ac91cd341aa6"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.000000010013360710001247479680</l:identificatie>
+               <l:noemer>Groen</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.000000010013360710001247479680"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Groen.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.000000010013360710001247479680</l:identificatie>
+               <l:noemer>Groen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="4229f493-8495-49c6-adff-76e23aff5848"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0758.gebiedengroep.00000001001336071000383654956</l:identificatie>
+               <l:noemer>Geluidaandachtsgebied van een weg</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000383654956"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--gml_Geluidaandachtsgebiedvaneenweg.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0758.gebied.00000001001336071000383654956</l:identificatie>
+               <l:noemer>Geluidaandachtsgebied van een weg</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="1eb44410-39bd-4e5d-81ba-c108bb751ac7"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

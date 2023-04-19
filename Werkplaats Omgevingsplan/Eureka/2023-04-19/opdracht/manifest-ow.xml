@@ -4,8 +4,8 @@
                xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/generiek/manifest-ow.xsd">
    <domein>omgevingswet</domein>
    <Aanlevering>
-      <WorkIDRegeling>/akn/nl/act/gm1952/2023/MG001-001</WorkIDRegeling>
-      <DoelID>/join/id/proces/gm1952/2023/instellen_correctie_regeling_001</DoelID>
+      <WorkIDRegeling>/akn/nl/act/gm0758/2023/EUR002-001</WorkIDRegeling>
+      <DoelID>/join/id/proces/gm0758/2023/instellen_regeling_001</DoelID>
       <Bestand>
          <naam>001-owRegeltekst.xml</naam>
          <objecttype>Regeltekst</objecttype>

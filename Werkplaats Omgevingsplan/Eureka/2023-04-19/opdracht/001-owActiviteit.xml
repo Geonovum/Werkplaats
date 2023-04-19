@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Basismodel omgevingsplan Breda, deelgebied Eureka</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Gemeente Breda</sl:gebied>
+         <sl:leveringsId>EUR002_2023-04-19_001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Activiteit</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.000000010013360710003558291114</rol:identificatie>
+               <rol:naam>Verboden bouwactiviteiten</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitRuimtelijk</rol:groep>
+               <rol:bovenliggendeActiviteit><!--ActInOmgevingsplanGem-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.00000001001336071000243021558</rol:identificatie>
+               <rol:naam>Bouwen van een hoofdgebouw</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitRuimtelijk</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Bouwen van een bouwwerk-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.004000000000000000000166"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.00000001001336071000103299695</rol:identificatie>
+               <rol:naam>Bouwen van een bijbehorend bouwwerk</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitRuimtelijk</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Bouwen van een bouwwerk-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.004000000000000000000166"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.000000010013360710002756525323</rol:identificatie>
+               <rol:naam>Bouwen van een bouwwerk, geen gebouw zijnde</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitRuimtelijk</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Bouwen van een bouwwerk-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.004000000000000000000166"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.00000001001336071000254166394</rol:identificatie>
+               <rol:naam>Gebruiken van open erven, terreinen, tuinen en dakterrassen</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/PlanologischeGebruiksactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--ActInOmgevingsplanGem-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.00000001001336071000148061589</rol:identificatie>
+               <rol:naam>Toevoegen van een nieuwe woonruimte</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Woonactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Verrichten van een woonruimte-activiteit -->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.000000010013360710001456683736</rol:identificatie>
+               <rol:naam>Gebruiken van een woonruimte </rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Woonactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Verrichten van een woonruimte-activiteit-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.000000010013360710001017133752</rol:identificatie>
+               <rol:naam>Gebruiken van een woonruimte</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Woonactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Verrichten van een woonruimte-activiteit-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.000000010013360710004148904070</rol:identificatie>
+               <rol:naam>Uitoefenen van een beroep of bedrijf aan huis </rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Woonactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Verrichten van een woonruimte-activiteit-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.000000010013360710003614064742</rol:identificatie>
+               <rol:naam>Uitoefenen van een beroep of bedrijf aan huis</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Woonactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Verrichten van een woonruimte-activiteit-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.00000001001336071000160189855</rol:identificatie>
+               <rol:naam>Activiteiten in een gebied met archeologische verwachtingen</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/CultureelErfgoedactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Verrichten van een cultureel-erfgoedactiviteit-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.000000010013360710004047193803</rol:identificatie>
+               <rol:naam>Toevoegen van een geluidgevoelig gebouw</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/PlanologischeGebruiksactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Verrichten van een milieukundige activiteit-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.000000010013360710001256416625</rol:identificatie>
+               <rol:naam>Verrichten van een horeca-activiteit – categorie I</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/ExploitatieactiviteitHoreca</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Verrichten van een horeca-activiteit-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.000000010013360710002730714554</rol:identificatie>
+               <rol:naam>Verrichten van een horeca-activiteit – categorie II</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/ExploitatieactiviteitHoreca</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Verrichten van een horeca-activiteit-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.000000010013360710004209796611</rol:identificatie>
+               <rol:naam>Verrichten van een horeca-activiteit – categorie III</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/ExploitatieactiviteitHoreca</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Verrichten van een horeca-activiteit-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.000000010013360710001984448822</rol:identificatie>
+               <rol:naam>Verrichten van een dienstverleningsactiviteit</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Dienstverleningsactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Verrichten van een dienstverleningsactiviteit-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.000000010013360710002033937545</rol:identificatie>
+               <rol:naam>Verrichten van een maatschappelijke activiteit - categorie I</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/MaatschappelijkeActiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Verichten van een maatschappelijke activiteit-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-gm0758.activiteit.000000010013360710001072254334</rol:identificatie>
+               <rol:naam>Verrichten van een maatschappelijke activiteit - categorie II</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/MaatschappelijkeActiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Verrichten van een maatschappelijke activiteit-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0758.activiteit.ActInOmgevingsplanGem"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

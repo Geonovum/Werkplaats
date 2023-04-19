@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Basismodel omgevingsplan Breda, deelgebied Eureka</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Gemeente Breda</sl:gebied>
+         <sl:leveringsId>EUR002_2023-04-19_001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Omgevingsnorm</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Omgevingsnorm>
+               <rol:identificatie>nl.imow-gm0758.omgevingsnorm.000000010013360710003620292945</rol:identificatie>
+               <rol:naam>Maximum bouwhoogte m</rol:naam>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/Bouwhoogte</rol:type>
+               <rol:eenheid>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Meter</rol:eenheid>
+               <rol:normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0758.normwaarde.0000000100133607100010295759601</rol:identificatie>
+                     <rol:kwantitatieveWaarde>0</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776701"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0758.normwaarde.0000000100133607100010295759602</rol:identificatie>
+                     <rol:kwantitatieveWaarde>1</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776702"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0758.normwaarde.0000000100133607100010295759603</rol:identificatie>
+                     <rol:kwantitatieveWaarde>2</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776703"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0758.normwaarde.0000000100133607100010295759604</rol:identificatie>
+                     <rol:kwantitatieveWaarde>3</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776704"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0758.normwaarde.0000000100133607100010295759605</rol:identificatie>
+                     <rol:kwantitatieveWaarde>4</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776705"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0758.normwaarde.0000000100133607100010295759606</rol:identificatie>
+                     <rol:kwantitatieveWaarde>5</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776706"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0758.normwaarde.0000000100133607100010295759607</rol:identificatie>
+                     <rol:kwantitatieveWaarde>6</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776707"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0758.normwaarde.0000000100133607100010295759608</rol:identificatie>
+                     <rol:kwantitatieveWaarde>7</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776708"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0758.normwaarde.0000000100133607100010295759609</rol:identificatie>
+                     <rol:kwantitatieveWaarde>8</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776709"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0758.normwaarde.0000000100133607100010295759610</rol:identificatie>
+                     <rol:kwantitatieveWaarde>9</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776710"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0758.normwaarde.0000000100133607100010295759611</rol:identificatie>
+                     <rol:kwantitatieveWaarde>10</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776711"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0758.normwaarde.0000000100133607100010295759612</rol:identificatie>
+                     <rol:kwantitatieveWaarde>11</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776712"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0758.normwaarde.0000000100133607100010295759613</rol:identificatie>
+                     <rol:kwantitatieveWaarde>12</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776713"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0758.normwaarde.0000000100133607100010295759614</rol:identificatie>
+                     <rol:kwantitatieveWaarde>13</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0758.gebied.00000001001336071000405294776714"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+               </rol:normwaarde>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/MaatvoeringBouwen</rol:groep>
+            </rol:Omgevingsnorm>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

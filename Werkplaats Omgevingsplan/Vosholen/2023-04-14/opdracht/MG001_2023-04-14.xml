@@ -12,19 +12,19 @@
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/gemeente/gm1952</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm1952</maker>
-         <soortBestuursorgaan>/tooi/def/thes/kern/c_28ecfd6d</soortBestuursorgaan>
-         <officieleTitel>Omgevingsplan Midden-Groningen</officieleTitel>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+         <officieleTitel>Wijziging Vosholen</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
-               <citeertitel>Omgevingsplan Midden-Groningen</citeertitel>
+               <citeertitel>Wijziging Vosholen</citeertitel>
                <isOfficieel>true</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
          <grondslagen>
             <grondslag>
                <TekstReferentie>
-                  <uri>jcil.31:c:BWBR0037885&amp;artikel=5.44</uri>
-                  <label>Artikel 5.44 Omgevingswet</label>
+                  <uri>jcil.31:c:BWBR0037885&amp;artikel=2.4</uri>
+                  <label>Artikel 2.4 Omgevingswet</label>
                   <soortRef>JCI</soortRef>
                </TekstReferentie>
             </grondslag>
@@ -65,71 +65,71 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
+                  <doel>/join/id/proces/gm1952/2023/instellen_correctie_regeling_001</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/gm1952/2023/MG001-001/nld@2023-04-14;1</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
+                  <doel>/join/id/proces/gm1952/2023/instellen_correctie_regeling_001</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm1952/2023/4180020715/nld@2023-04-14;1</instrumentVersie>
-               <eId>!regeling_001#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId>!regeling_001#cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
+                  <doel>/join/id/proces/gm1952/2023/instellen_correctie_regeling_001</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm1952/2023/2159872497/nld@2023-04-14;1</instrumentVersie>
-               <eId>!regeling_001#cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+               <eId>!regeling_001#cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
+                  <doel>/join/id/proces/gm1952/2023/instellen_correctie_regeling_001</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm1952/2023/1547110529/nld@2023-04-14;1</instrumentVersie>
-               <eId>!regeling_001#cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
+               <eId>!regeling_001#cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
+                  <doel>/join/id/proces/gm1952/2023/instellen_correctie_regeling_001</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm1952/2023/2558659315/nld@2023-04-14;1</instrumentVersie>
-               <eId>!regeling_001#cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
+               <eId>!regeling_001#cmp_II__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
+                  <doel>/join/id/proces/gm1952/2023/instellen_correctie_regeling_001</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm1952/2023/2710704557/nld@2023-04-14;1</instrumentVersie>
-               <eId>!regeling_001#cmp_o_1__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
+               <eId>!regeling_001#cmp_II__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
+                  <doel>/join/id/proces/gm1952/2023/instellen_correctie_regeling_001</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm1952/2023/4143189459/nld@2023-04-14;1</instrumentVersie>
-               <eId>!regeling_001#cmp_o_1__content_o_1__list_o_1__item_o_6__ref_o_1</eId>
+               <eId>!regeling_001#cmp_II__content_o_1__list_o_1__item_o_6__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
+                  <doel>/join/id/proces/gm1952/2023/instellen_correctie_regeling_001</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm1952/2023/1251477395/nld@2023-04-14;1</instrumentVersie>
-               <eId>!regeling_001#cmp_o_1__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
+               <eId>!regeling_001#cmp_II__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
+                  <doel>/join/id/proces/gm1952/2023/instellen_correctie_regeling_001</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm1952/2023/558960236/nld@2023-04-14;1</instrumentVersie>
-               <eId>!regeling_001#cmp_o_1__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
+               <eId>!regeling_001#cmp_II__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
+               <doel>/join/id/proces/gm1952/2023/instellen_correctie_regeling_001</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2023-04-18</datum>
                <eId>art_II</eId>
@@ -138,33 +138,40 @@
       </ConsolidatieInformatie>
       <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
          <RegelingOpschrift eId="longTitle" wId="longTitle">
-            <Al>Omgevingsplan Midden-Groningen</Al>
+            <Al>Omgevingsplan Vosholen</Al>
          </RegelingOpschrift>
          <Aanhef eId="formula_1" wId="formula_1">
-            <Al>[Optionele aanhef]</Al>
+            <Al>De raad van de gemeente Vosholen,</Al>
+            <Al>Overwegende […]</Al>
+            <Al>Besluit:</Al>
          </Aanhef>
          <Lichaam eId="body" wId="body">
             <WijzigArtikel eId="art_I" wId="gm1952_1__art_I">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
-                  <Opschrift>[Optioneel opschrift]</Opschrift>
                </Kop>
-               <Wat>[Omschrijving wat er besloten wordt, met een verwijzing naar de <IntRef ref="cmp_A">WijzigBijlage A</IntRef>.]</Wat>
+               <Wat>Het omgevingsplan wordt gewijzigd zoals is aangegeven in <IntRef ref="cmp_A">Bijlage A</IntRef>.</Wat>
             </WijzigArtikel>
             <Artikel eId="art_II" wId="gm1952_1__art_II">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
-                  <Opschrift>[Optioneel opschrift]</Opschrift>
                </Kop>
                <Inhoud>
-                  <Al>[Artikel dat de inwerkingtreding vaststelt.]</Al>
+                  <Al>Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken sinds de dag waarop het besluit bekend is gemaakt.</Al>
                </Inhoud>
             </Artikel>
          </Lichaam>
          <Sluiting wId="formula_2" eId="formula_2">
-            <Al>[Sluiting]</Al>
+            <Al>Beroep tegen dit besluit kan worden ingesteld binnen zes weken na de dag van bekendmaking.</Al>
+            <Dagtekening>
+               <Al>Aldus besloten in de vergadering van 6 maart 2023</Al>
+            </Dagtekening>
+            <Ondertekening>
+               <Al>De griffier,</Al>
+               <Al>De voorzitter,</Al>
+            </Ondertekening>
          </Sluiting>
          <WijzigBijlage eId="cmp_A" wId="gm1952_1__cmp_A">
             <Kop>
@@ -190,7 +197,7 @@
                            <Opschrift>Begripsbepalingen</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Bijlage 1 bij dit omgevingsplan bevat begripsbepalingen voor de toepassing van dit omgevingsplan.</Al>
+                           <Al><IntRef ref="cmp_I">Bijlage I</IntRef> bij dit omgevingsplan bevat begripsbepalingen voor de toepassing van dit omgevingsplan in het <IntIoRef eId="chp_2__subchp_2.1__art_2.1__list_o_1__ref_o_1" wId="gm1952_1__chp_2__subchp_2.1__art_2.1__list_o_1__ref_o_1" ref="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1">regelingsgebied</IntIoRef>.</Al>
                         </Inhoud>
                      </Artikel>
                      <Artikel eId="chp_1__art_1.2" wId="gm1952_1__chp_1__art_1.2">
@@ -200,7 +207,7 @@
                            <Opschrift>Overige begripsbepalingen</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Onverminderd het bepaalde in artikel 1.1 zijn de volgende begrippen van toepassing begrippen die gelden op basis van artikel 1.1 van het Omgevingsbesluit, artikel 1.1 van het Besluit kwaliteit leefomgeving, artikel 1.1 van het Besluit activiteiten leefomgeving en artikel 1.1 van het Besluit bouwwerken leefomgeving, tenzij daarvan is afgeweken in artikel 1.1.</Al>
+                           <Al>Onverminderd het bepaalde in <IntRef ref="chp_1__art_1.1">artikel 1.1</IntRef> zijn de volgende begrippen van toepassing begrippen die gelden op basis van artikel 1.1 van het Omgevingsbesluit, artikel 1.1 van het Besluit kwaliteit leefomgeving, artikel 1.1 van het Besluit activiteiten leefomgeving en artikel 1.1 van het Besluit bouwwerken leefomgeving, tenzij daarvan is afgeweken in artikel 1.1.</Al>
                         </Inhoud>
                      </Artikel>
                   </Hoofdstuk>
@@ -227,9 +234,7 @@
                               <Lijst eId="chp_2__subchp_2.1__art_2.1__list_o_1"
                                      wId="gm1952_1__chp_2__subchp_2.1__art_2.1__list_o_1"
                                      type="expliciet">
-                                 <Lijstaanhef>Het ‘<IntIoRef eId="chp_2__subchp_2.1__art_2.1__list_o_1__ref_o_1"
-                                              wId="gm1952_1__chp_2__subchp_2.1__art_2.1__list_o_1__ref_o_1"
-                                              ref="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">regelingsgebied</IntIoRef>’ van dit omgevingsplan is, met het oog op de doelen van artikel 1.3 van de Omgevingswet, gericht op:</Lijstaanhef>
+                                 <Lijstaanhef>Dit omgevingsplan is, met het oog op de doelen van artikel 1.3 van de Omgevingswet, gericht op:</Lijstaanhef>
                                  <Li eId="chp_2__subchp_2.1__art_2.1__list_o_1__item_a"
                                      wId="gm1952_1__chp_2__subchp_2.1__art_2.1__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -379,16 +384,16 @@
                                  <Lijst eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.3__list_o_1"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__list_o_1"
                                         type="expliciet">
-                                    <Lijstaanhef>Met het oog op de doelen, bedoeld in artikel 4.2, wordt bij het bouwen van een hoofdgebouw voldaan aan:</Lijstaanhef>
+                                    <Lijstaanhef>Met het oog op de doelen, bedoeld in <IntRef ref="chp_4__subchp_4.1__subsec_4.1.1__art_4.2">artikel 4.2</IntRef>, wordt bij het bouwen van een hoofdgebouw voldaan aan:</Lijstaanhef>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.3__list_o_1__item_a"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
-                                       <Al>Paragraaf 5.2.1 Bouwen – algemeen; en</Al>
+                                       <Al><IntRef ref="chp_5__subchp_5.2__subsec_5.2.1">Paragraaf 5.2.1</IntRef> Bouwen – algemeen; en</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.3__list_o_1__item_b"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
-                                       <Al>Paragraaf 5.2.2 Bouwen van een hoofdgebouw.</Al>
+                                       <Al><IntRef ref="chp_5__subchp_5.2__subsec_5.2.2">Paragraaf 5.2.2</IntRef> Bouwen van een hoofdgebouw.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
@@ -404,16 +409,16 @@
                                  <Lijst eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.4__list_o_1"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.4__list_o_1"
                                         type="expliciet">
-                                    <Lijstaanhef>Met het oog op de doelen, bedoeld in artikel 4.2, wordt bij het bouwen van een bijbehorend bouwwerk voldaan aan:</Lijstaanhef>
+                                    <Lijstaanhef>Met het oog op de doelen, bedoeld in <IntRef ref="chp_4__subchp_4.1__subsec_4.1.1__art_4.2">artikel 4.2</IntRef>, wordt bij het bouwen van een bijbehorend bouwwerk voldaan aan:</Lijstaanhef>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.4__list_o_1__item_a"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.4__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
-                                       <Al>Paragraaf 5.2.1 Bouwen – algemeen; en</Al>
+                                       <Al><IntRef ref="chp_5__subchp_5.2__subsec_5.2.1">Paragraaf 5.2.1</IntRef> Bouwen – algemeen; en</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.4__list_o_1__item_b"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.4__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
-                                       <Al>Paragraaf 5.2.3 Bouwen van een bijbehorend bouwwerk.</Al>
+                                       <Al><IntRef ref="chp_5__subchp_5.2__subsec_5.2.3">Paragraaf 5.2.3</IntRef> Bouwen van een bijbehorend bouwwerk.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
@@ -429,16 +434,16 @@
                                  <Lijst eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.5__list_o_1"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.5__list_o_1"
                                         type="expliciet">
-                                    <Lijstaanhef>Met het oog op de doelen, bedoeld in artikel 4.2, wordt bij het bouwen van een bouwwerk, geen gebouw zijnde, voldaan aan:</Lijstaanhef>
+                                    <Lijstaanhef>Met het oog op de doelen, bedoeld in <IntRef ref="chp_4__subchp_4.1__subsec_4.1.1__art_4.2">artikel 4.2</IntRef>, wordt bij het bouwen van een bouwwerk, geen gebouw zijnde, voldaan aan:</Lijstaanhef>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.5__list_o_1__item_a"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.5__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
-                                       <Al>Paragraaf 5.2.1 Bouwen – algemeen; en</Al>
+                                       <Al><IntRef ref="chp_5__subchp_5.2__subsec_5.2.1">Paragraaf 5.2.1</IntRef> Bouwen – algemeen; en</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.5__list_o_1__item_b"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.5__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
-                                       <Al>Paragraaf 5.2.4 Bouwen van een bouwwerken, geen gebouw zijnde.</Al>
+                                       <Al><IntRef ref="chp_5__subchp_5.2__subsec_5.2.4">Paragraaf 5.2.4</IntRef> Bouwen van een bouwwerken, geen gebouw zijnde.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
@@ -524,7 +529,7 @@
                                  <Opschrift>Aanleggen, veranderen en beheren van wegen</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Met het oog op de doelen, bedoeld in artikel 4.7, wordt bij het aanleggen, veranderen en beheren van een weg voldaan aan Paragraaf 5.2.8 Aanleggen, veranderen en beheren van wegen.</Al>
+                                 <Al>Met het oog op de doelen, bedoeld in <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.7">artikel 4.7</IntRef>, wordt bij het aanleggen, veranderen en beheren van een weg voldaan aan <IntRef ref="chp_5__subchp_5.2__subsec_5.2.8">Paragraaf 5.2.8</IntRef> Aanleggen, veranderen en beheren van wegen.</Al>
                               </Inhoud>
                            </Artikel>
                         </Paragraaf>
@@ -568,7 +573,7 @@
                                  <Opschrift>Woonruimte gebruiken</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Met het oog op de doelen, bedoeld in artikel 4.9 wordt bij het gebruiken van woonruimte voldaan aan paragraaf 5.2.5 Woonruimte gebruiken.</Al>
+                                 <Al>Met het oog op de doelen, bedoeld in <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.9">artikel 4.9</IntRef> wordt bij het gebruiken van woonruimte voldaan aan <IntRef ref="chp_5__subchp_5.2__subsec_5.2.5">paragraaf 5.2.5</IntRef> Woonruimte gebruiken.</Al>
                               </Inhoud>
                            </Artikel>
                            <Artikel eId="chp_4__subchp_4.1__subsec_4.1.3__art_4.11"
@@ -582,16 +587,16 @@
                                  <Lijst eId="chp_4__subchp_4.1__subsec_4.1.3__art_4.11__list_o_1"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.3__art_4.11__list_o_1"
                                         type="expliciet">
-                                    <Lijstaanhef>Met het oog op de doelen, bedoeld in artikel 4.9 wordt bij het verrichten van een beroep of bedrijf aan huis voldaan aan:</Lijstaanhef>
+                                    <Lijstaanhef>Met het oog op de doelen, bedoeld in <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.9">artikel 4.9</IntRef> wordt bij het verrichten van een beroep of bedrijf aan huis voldaan aan:</Lijstaanhef>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.3__art_4.11__list_o_1__item_a"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.3__art_4.11__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
-                                       <Al>paragraaf 5.2.6 Beroep en bedrijf aan huis uitoefenen; en</Al>
+                                       <Al><IntRef ref="chp_5__subchp_5.2__subsec_5.2.6">paragraaf 5.2.6</IntRef> Beroep en bedrijf aan huis uitoefenen; en</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.3__art_4.11__list_o_1__item_b"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.3__art_4.11__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
-                                       <Al>paragraaf 5.3.3 Aanvangen en intensiveren van een activiteit met parkeerbehoefte – algemeen.</Al>
+                                       <Al><IntRef ref="chp_5__subchp_5.3__subsec_5.3.3">paragraaf 5.3.3</IntRef> Aanvangen en intensiveren van een activiteit met parkeerbehoefte – algemeen.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
@@ -607,16 +612,16 @@
                                  <Lijst eId="chp_4__subchp_4.1__subsec_4.1.3__art_4.12__list_o_1"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.3__art_4.12__list_o_1"
                                         type="expliciet">
-                                    <Lijstaanhef>Met het oog op de doelen, bedoeld in artikel 4.9 wordt bij het aanbieden van een bed and breakfast voldaan aan:</Lijstaanhef>
+                                    <Lijstaanhef>Met het oog op de doelen, bedoeld in <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.9">artikel 4.9</IntRef> wordt bij het aanbieden van een bed and breakfast voldaan aan:</Lijstaanhef>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.3__art_4.12__list_o_1__item_a"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.3__art_4.12__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
-                                       <Al>paragraaf 5.2.7 Een bed and breakfast aanbieden; en</Al>
+                                       <Al><IntRef ref="chp_5__subchp_5.2__subsec_5.2.7">paragraaf 5.2.7</IntRef> Een bed and breakfast aanbieden; en</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.3__art_4.12__list_o_1__item_b"
                                         wId="gm1952_1__chp_4__subchp_4.1__subsec_4.1.3__art_4.12__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
-                                       <Al>paragraaf 5.3.3 Aanvangen en intensiveren van een activiteit met parkeerbehoefte – algemeen.</Al>
+                                       <Al><IntRef ref="chp_5__subchp_5.3__subsec_5.3.3">paragraaf 5.3.3</IntRef> Aanvangen en intensiveren van een activiteit met parkeerbehoefte – algemeen.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
@@ -729,7 +734,7 @@
                               <Inhoud>
                                  <Al>Er is een gebiedstype <IntIoRef eId="chp_4__subchp_4.2__subsec_4.2.2__art_4.14__ref_o_1"
                                               wId="gm1952_1__chp_4__subchp_4.2__subsec_4.2.2__art_4.14__ref_o_1"
-                                              ref="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1">Woongebied</IntIoRef>.</Al>
+                                              ref="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1">Woongebied</IntIoRef>.</Al>
                               </Inhoud>
                            </Artikel>
                            <Artikel eId="chp_4__subchp_4.2__subsec_4.2.2__art_4.15"
@@ -801,7 +806,7 @@
                                     <Lijst eId="chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_1__list_o_1"
                                            wId="gm1952_1__chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_1__list_o_1"
                                            type="expliciet">
-                                       <Lijstaanhef>Met het oog op een evenwichtige toedeling van functies aan locaties worden binnen het Woongebied, voor zover het gaat om activiteiten met gebruiksruimte als bedoeld in paragraaf 4.2.1, alleen de volgende activiteiten verricht:</Lijstaanhef>
+                                       <Lijstaanhef>Met het oog op een evenwichtige toedeling van functies aan locaties worden binnen het Woongebied, voor zover het gaat om activiteiten met gebruiksruimte als bedoeld in <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1">paragraaf 4.2.1</IntRef>, alleen de volgende activiteiten verricht:</Lijstaanhef>
                                        <Li eId="chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_1__list_o_1__item_o_1"
                                            wId="gm1952_1__chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_1__list_o_1__item_o_1">
                                           <LiNummer>a.</LiNummer>
@@ -821,27 +826,27 @@
                                        <Li eId="chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_2__list_o_1__item_a"
                                            wId="gm1952_1__chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_2__list_o_1__item_a">
                                           <LiNummer>a.</LiNummer>
-                                          <Al>paragraaf 5.2.5 Woonruimte gebruiken;</Al>
+                                          <Al><IntRef ref="chp_5__subchp_5.2__subsec_5.2.5">paragraaf 5.2.5</IntRef> Woonruimte gebruiken;</Al>
                                        </Li>
                                        <Li eId="chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_2__list_o_1__item_b"
                                            wId="gm1952_1__chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_2__list_o_1__item_b">
                                           <LiNummer>b.</LiNummer>
-                                          <Al>paragraaf 5.2.6 Beroep- en bedrijfsactiviteiten aan huis uitoefenen;</Al>
+                                          <Al><IntRef ref="chp_5__subchp_5.2__subsec_5.2.6">paragraaf 5.2.6</IntRef> Beroep- en bedrijfsactiviteiten aan huis uitoefenen;</Al>
                                        </Li>
                                        <Li eId="chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_2__list_o_1__item_c"
                                            wId="gm1952_1__chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_2__list_o_1__item_c">
                                           <LiNummer>c.</LiNummer>
-                                          <Al>paragraaf 5.2.7 Een bed and breakfast aanbieden;</Al>
+                                          <Al><IntRef ref="chp_5__subchp_5.2__subsec_5.2.7">paragraaf 5.2.7</IntRef> Een bed and breakfast aanbieden;</Al>
                                        </Li>
                                        <Li eId="chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_2__list_o_1__item_d"
                                            wId="gm1952_1__chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_2__list_o_1__item_d">
                                           <LiNummer>d.</LiNummer>
-                                          <Al>paragraaf 5.3.2 Geluidgevoelig gebouw toevoegen binnen geluidaandachtsgebied; en</Al>
+                                          <Al><IntRef ref="chp_5__subchp_5.3__subsec_5.3.2">paragraaf 5.3.2</IntRef> Geluidgevoelig gebouw toevoegen binnen geluidaandachtsgebied; en</Al>
                                        </Li>
                                        <Li eId="chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_2__list_o_1__item_e"
                                            wId="gm1952_1__chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_2__list_o_1__item_e">
                                           <LiNummer>e.</LiNummer>
-                                          <Al>paragraaf 5.3.3 Aanvangen en intensiveren van een activiteit met parkeerbehoefte - algemeen.</Al>
+                                          <Al><IntRef ref="chp_5__subchp_5.3__subsec_5.3.3">paragraaf 5.3.3</IntRef> Aanvangen en intensiveren van een activiteit met parkeerbehoefte - algemeen.</Al>
                                        </Li>
                                     </Lijst>
                                  </Inhoud>
@@ -870,7 +875,7 @@
                               <Opschrift>Toepassingsbereik</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Al>Met uitzondering van afdeling 5.1 en paragraaf 5.3.1 zijn afdelingen en paragrafen in dit hoofdstuk alleen van toepassing voor zover dat in hoofdstuk 4 is bepaald.</Al>
+                              <Al>Met uitzondering van afdeling 5.1 en <IntRef ref="chp_5__subchp_5.3__subsec_5.3.1">paragraaf 5.3.1</IntRef> zijn afdelingen en paragrafen in dit hoofdstuk alleen van toepassing voor zover dat in <IntRef ref="chp_4">hoofdstuk 4</IntRef> is bepaald.</Al>
                            </Inhoud>
                         </Artikel>
                         <Artikel eId="chp_5__subchp_5.1__art_5.2"
@@ -1038,7 +1043,7 @@
                                 wId="gm1952_1__chp_5__subchp_5.1__art_5.7__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
-                                 <Al>Voordat de naam of het adres, bedoeld in artikel 5.5 of artikel 5.6 , wijzigen, worden de daardoor gewijzigde gegevens verstrekt aan het bevoegd gezag.</Al>
+                                 <Al>Voordat de naam of het adres, bedoeld in <IntRef ref="chp_5__subchp_5.1__art_5.5">artikel 5.5</IntRef> of <IntRef ref="chp_5__subchp_5.1__art_5.6">artikel 5.6</IntRef>, wijzigen, worden de daardoor gewijzigde gegevens verstrekt aan het bevoegd gezag.</Al>
                               </Inhoud>
                            </Lid>
                            <Lid eId="chp_5__subchp_5.1__art_5.7__para_2"
@@ -1256,7 +1261,7 @@
                                  <Lijst eId="chp_5__subchp_5.2__subsec_5.2.1__art_5.13__list_o_1"
                                         wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.1__art_5.13__list_o_1"
                                         type="expliciet">
-                                    <Lijstaanhef>De specifieke zorgplicht, bedoeld in artikel 5.4, houdt voor de activiteiten, bedoeld in artikel 5.10, in ieder geval in dat:</Lijstaanhef>
+                                    <Lijstaanhef>De specifieke zorgplicht, bedoeld in <IntRef ref="chp_5__subchp_5.1__art_5.4">artikel 5.4</IntRef>, houdt voor de activiteiten, bedoeld in <IntRef ref="chp_5__subchp_5.2__subsec_5.2.1__art_5.10">artikel 5.10</IntRef>, in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_5__subchp_5.2__subsec_5.2.1__art_5.13__list_o_1__item_a"
                                         wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.1__art_5.13__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
@@ -1522,7 +1527,7 @@
                                     <Lijst eId="chp_5__subchp_5.2__subsec_5.2.1__art_5.20__para_4__list_o_1"
                                            wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.1__art_5.20__para_4__list_o_1"
                                            type="expliciet">
-                                       <Lijstaanhef>Bij maatwerkvoorschrift als bedoeld in artikel 5.3 kan in ieder geval worden bepaald:</Lijstaanhef>
+                                       <Lijstaanhef>Bij maatwerkvoorschrift als bedoeld in <IntRef ref="chp_5__subchp_5.1__art_5.3">artikel 5.3</IntRef> kan in ieder geval worden bepaald:</Lijstaanhef>
                                        <Li eId="chp_5__subchp_5.2__subsec_5.2.1__art_5.20__para_4__list_o_1__item_a"
                                            wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.1__art_5.20__para_4__list_o_1__item_a">
                                           <LiNummer>a.</LiNummer>
@@ -1832,7 +1837,7 @@
                                  <Opschrift>Aanwijzing vergunningplichtige gevallen</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Het is verboden zonder omgevingsvergunning een hoofdgebouw te bouwen of verbouwen, voor zover het verbouwen niet is gericht op vermindering van het gebruik van fossiele brandstoffen voor energieopwekking zoals bedoeld in het artikel 5.26.</Al>
+                                 <Al>Het is verboden zonder omgevingsvergunning een hoofdgebouw te bouwen of verbouwen, voor zover het verbouwen niet is gericht op vermindering van het gebruik van fossiele brandstoffen voor energieopwekking zoals bedoeld in het <IntRef ref="chp_5__subchp_5.2__subsec_5.2.2__art_5.26">artikel 5.26</IntRef>.</Al>
                               </Inhoud>
                            </Artikel>
                            <Artikel eId="chp_5__subchp_5.2__subsec_5.2.2__art_5.28"
@@ -1943,7 +1948,7 @@
                                                 <Al>
                                                    <u>optie 1</u>: is gelegen binnen het <IntIoRef eId="chp_5__subchp_5.2__subsec_5.2.2__art_5.29__para_1__list_o_1__item_a__list_o_1__item_1__ref_o_1"
                                                              wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.2__art_5.29__para_1__list_o_1__item_a__list_o_1__item_1__ref_o_1"
-                                                             ref="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1">bouwvlak</IntIoRef>;</Al>
+                                                             ref="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1">bouwvlak</IntIoRef>;</Al>
                                              </Li>
                                              <Li eId="chp_5__subchp_5.2__subsec_5.2.2__art_5.29__para_1__list_o_1__item_a__list_o_1__item_2"
                                                  wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.2__art_5.29__para_1__list_o_1__item_a__list_o_1__item_2">
@@ -1951,7 +1956,7 @@
                                                 <Al>
                                                    <u>optie 2</u>: minimaal 1 meter achter de voorste grens van een <IntIoRef eId="chp_5__subchp_5.2__subsec_5.2.2__art_5.29__para_1__list_o_1__item_a__list_o_1__item_2__ref_o_1"
                                                              wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.2__art_5.29__para_1__list_o_1__item_a__list_o_1__item_2__ref_o_1"
-                                                             ref="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1">woonlocatie</IntIoRef> wordt gesitueerd met een maximale diepte van 15 m;</Al>
+                                                             ref="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_4__ref_o_1">woonlocatie</IntIoRef> wordt gesitueerd met een maximale diepte van 15 m;</Al>
                                              </Li>
                                           </Lijst>
                                        </Li>
@@ -1968,7 +1973,7 @@
                                                  type="expliciet">
                                              <Lijstaanhef>de bouwhoogte niet meer bedraagt dan ter plaatse van de aanduiding <IntIoRef eId="chp_5__subchp_5.2__subsec_5.2.2__art_5.29__para_1__list_o_1__item_c__list_o_1__ref_o_1"
                                                           wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.2__art_5.29__para_1__list_o_1__item_c__list_o_1__ref_o_1"
-                                                          ref="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_5__ref_o_1">maximum bouwhoogte</IntIoRef> is aangegeven, tenzij:</Lijstaanhef>
+                                                          ref="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_5__ref_o_1">maximum bouwhoogte</IntIoRef> is aangegeven, tenzij:</Lijstaanhef>
                                              <Li eId="chp_5__subchp_5.2__subsec_5.2.2__art_5.29__para_1__list_o_1__item_c__list_o_1__item_1"
                                                  wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.2__art_5.29__para_1__list_o_1__item_c__list_o_1__item_1">
                                                 <LiNummer>1.</LiNummer>
@@ -2136,7 +2141,7 @@
                                                    <Li eId="chp_5__subchp_5.2__subsec_5.2.2__art_5.29__para_2__list_o_1__item_a__list_o_1__item_2__list_o_1__item_o_5"
                                                        wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.2__art_5.29__para_2__list_o_1__item_a__list_o_1__item_2__list_o_1__item_o_5">
                                                       <LiNummer>-</LiNummer>
-                                                      <Al>het bouwen geen onevenredige afbreuk doet aan de oogmerken als bedoeld in artikel 5.25.</Al>
+                                                      <Al>het bouwen geen onevenredige afbreuk doet aan de oogmerken als bedoeld in <IntRef ref="chp_5__subchp_5.2__subsec_5.2.2__art_5.25">artikel 5.25</IntRef>.</Al>
                                                    </Li>
                                                 </Lijst>
                                              </Li>
@@ -2212,7 +2217,7 @@
                                           <Al>
                                              <u>optie 1</u>: het <IntIoRef eId="chp_5__subchp_5.2__subsec_5.2.3__art_5.31__para_1__list_o_1__item_a__ref_o_1"
                                                        wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.3__art_5.31__para_1__list_o_1__item_a__ref_o_1"
-                                                       ref="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_6__ref_o_1">achtererfgebied</IntIoRef> en is niet toegestaan in het ‘achtererfgebied uitgesloten’;</Al>
+                                                       ref="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_6__ref_o_1">achtererfgebied</IntIoRef> en is niet toegestaan in het ‘achtererfgebied uitgesloten’;</Al>
                                        </Li>
                                        <Li eId="chp_5__subchp_5.2__subsec_5.2.3__art_5.31__para_1__list_o_1__item_b"
                                            wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.3__art_5.31__para_1__list_o_1__item_b">
@@ -2472,7 +2477,7 @@
                                  <Opschrift>Aanwijzing vergunningplichtige gevallen</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Het is verboden zonder omgevingsvergunning een bijbehorend bouwwerk te bouwen, als niet wordt voldaan aan de algemene regels, bedoeld in de artikelen 5.31 en 5.32.</Al>
+                                 <Al>Het is verboden zonder omgevingsvergunning een bijbehorend bouwwerk te bouwen, als niet wordt voldaan aan de algemene regels, bedoeld in de <IntRef ref="chp_5__subchp_5.2__subsec_5.2.3__art_5.31">artikel 5.31</IntRef> en <IntRef ref="chp_5__subchp_5.2__subsec_5.2.3__art_5.32">artikel 5.32</IntRef>.</Al>
                               </Inhoud>
                            </Artikel>
                            <Artikel eId="chp_5__subchp_5.2__subsec_5.2.3__art_5.34"
@@ -2631,7 +2636,7 @@
                                        <Li eId="chp_5__subchp_5.2__subsec_5.2.3__art_5.36__para_1__list_o_1__item_c"
                                            wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.3__art_5.36__para_1__list_o_1__item_c">
                                           <LiNummer>c.</LiNummer>
-                                          <Al>voldaan wordt aan artikel 5.31, lid 2.</Al>
+                                          <Al>voldaan wordt aan <IntRef ref="chp_5__subchp_5.2__subsec_5.2.3__art_5.31__para_2">artikel 5.31, lid 2</IntRef>.</Al>
                                        </Li>
                                     </Lijst>
                                  </Inhoud>
@@ -2719,7 +2724,7 @@
                                  <Inhoud>
                                     <Al>De bouwhoogte van licht- en vlaggenmasten ten behoeve van het <IntIoRef eId="chp_5__subchp_5.2__subsec_5.2.4__art_5.38__para_1__ref_o_1"
                                                  wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.4__art_5.38__para_1__ref_o_1"
-                                                 ref="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_7__ref_o_1">verkeer</IntIoRef> is maximaal 5,00 m.</Al>
+                                                 ref="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_7__ref_o_1">verkeer</IntIoRef> is maximaal 5,00 m.</Al>
                                  </Inhoud>
                               </Lid>
                               <Lid eId="chp_5__subchp_5.2__subsec_5.2.4__art_5.38__para_2"
@@ -2818,7 +2823,7 @@
                                  <Opschrift>Aanwijzing vergunningplichtige gevallen</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Het is verboden zonder omgevingsvergunning een bouwwerk geen gebouw zijnde te bouwen, als niet wordt voldaan aan de algemene regels, bedoeld in artikel 5.38 en 5.39.</Al>
+                                 <Al>Het is verboden zonder omgevingsvergunning een bouwwerk geen gebouw zijnde te bouwen, als niet wordt voldaan aan de algemene regels, bedoeld in <IntRef ref="chp_5__subchp_5.2__subsec_5.2.4__art_5.38">artikel 5.38</IntRef> en <IntRef ref="chp_5__subchp_5.2__subsec_5.2.4__art_5.39">artikel 5.39</IntRef>.</Al>
                               </Inhoud>
                            </Artikel>
                            <Artikel eId="chp_5__subchp_5.2__subsec_5.2.4__art_5.41"
@@ -3015,7 +3020,7 @@
                                  <Inhoud>
                                     <Al>In één woning woont slechts één huishouden, met dien verstande dat het <IntIoRef eId="chp_5__subchp_5.2__subsec_5.2.5__art_5.45__para_1__ref_o_1"
                                                  wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.5__art_5.45__para_1__ref_o_1"
-                                                 ref="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_8__ref_o_1">aantal woningen</IntIoRef> niet meer bedraagt dan op de kaart is aangegeven.</Al>
+                                                 ref="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_8__ref_o_1">aantal woningen</IntIoRef> niet meer bedraagt dan op de kaart is aangegeven.</Al>
                                  </Inhoud>
                               </Lid>
                               <Lid eId="chp_5__subchp_5.2__subsec_5.2.5__art_5.45__para_2"
@@ -3103,7 +3108,7 @@
                                        <Li eId="chp_5__subchp_5.2__subsec_5.2.5__art_5.47__para_1__list_o_1__item_e"
                                            wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.5__art_5.47__para_1__list_o_1__item_e">
                                           <LiNummer>e.</LiNummer>
-                                          <Al>voldaan wordt aan de parkeerregels uit paragraaf 5.3.3; en</Al>
+                                          <Al>voldaan wordt aan de parkeerregels uit <IntRef ref="chp_5__subchp_5.3__subsec_5.3.3">paragraaf 5.3.3</IntRef>; en</Al>
                                        </Li>
                                        <Li eId="chp_5__subchp_5.2__subsec_5.2.5__art_5.47__para_1__list_o_1__item_f"
                                            wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.5__art_5.47__para_1__list_o_1__item_f">
@@ -3329,7 +3334,7 @@
                                     <Li eId="chp_5__subchp_5.2__subsec_5.2.7__art_5.53__list_o_1__item_b"
                                         wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.7__art_5.53__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
-                                       <Al>voldaan wordt aan de parkeerregels uit paragraaf 5.3.3.</Al>
+                                       <Al>voldaan wordt aan de parkeerregels uit <IntRef ref="chp_5__subchp_5.3__subsec_5.3.3">paragraaf 5.3.3</IntRef>.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
@@ -3439,7 +3444,7 @@
                                  <Lijst eId="chp_5__subchp_5.2__subsec_5.2.8__art_5.56__list_o_1"
                                         wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.8__art_5.56__list_o_1"
                                         type="expliciet">
-                                    <Lijstaanhef>In afwijking van het bepaalde in artikel 5.55 is het niet toegelaten de locatie te gebruiken voor:</Lijstaanhef>
+                                    <Lijstaanhef>In afwijking van het bepaalde in <IntRef ref="chp_5__subchp_5.2__subsec_5.2.8__art_5.55">artikel 5.55</IntRef> is het niet toegelaten de locatie te gebruiken voor:</Lijstaanhef>
                                     <Li eId="chp_5__subchp_5.2__subsec_5.2.8__art_5.56__list_o_1__item_a"
                                         wId="gm1952_1__chp_5__subchp_5.2__subsec_5.2.8__art_5.56__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
@@ -3528,7 +3533,7 @@
                                     <Lijst eId="chp_5__subchp_5.3__subsec_5.3.1__art_5.59__para_1__list_o_1"
                                            wId="gm1952_1__chp_5__subchp_5.3__subsec_5.3.1__art_5.59__para_1__list_o_1"
                                            type="expliciet">
-                                       <Lijstaanhef>De specifieke zorgplicht, bedoeld in artikel 5.4, houdt voor het gebruik van bouwwerken en erven in dat:</Lijstaanhef>
+                                       <Lijstaanhef>De specifieke zorgplicht, bedoeld in <IntRef ref="chp_5__subchp_5.1__art_5.4">artikel 5.4</IntRef>, houdt voor het gebruik van bouwwerken en erven in dat:</Lijstaanhef>
                                        <Li eId="chp_5__subchp_5.3__subsec_5.3.1__art_5.59__para_1__list_o_1__item_a"
                                            wId="gm1952_1__chp_5__subchp_5.3__subsec_5.3.1__art_5.59__para_1__list_o_1__item_a">
                                           <LiNummer>a.</LiNummer>
@@ -3756,7 +3761,7 @@
                                  <Opschrift>Activiteiten met parkeerbehoefte</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Een gebouw met een parkeerbehoefte is een gebouw of een gedeelte van een gebouw waarin een of meerdere activiteiten met gebruiksruimte worden of kunnen worden verricht zoals bedoeld in artikel 4.13.</Al>
+                                 <Al>Een gebouw met een parkeerbehoefte is een gebouw of een gedeelte van een gebouw waarin een of meerdere activiteiten met gebruiksruimte worden of kunnen worden verricht zoals bedoeld in <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.13">artikel 4.13</IntRef>.</Al>
                               </Inhoud>
                            </Artikel>
                            <Artikel eId="chp_5__subchp_5.3__subsec_5.3.3__art_5.67"
@@ -3858,7 +3863,7 @@
                                  <Lijst eId="chp_5__subchp_5.3__subsec_5.3.3__art_5.70__list_o_1"
                                         wId="gm1952_1__chp_5__subchp_5.3__subsec_5.3.3__art_5.70__list_o_1"
                                         type="expliciet">
-                                    <Lijstaanhef>Met een vergunningvoorschrift als bedoeld in artikel 5.4 kan worden afgeweken van artikel 5.69, voor zover naar het oordeel van burgemeester en wethouders:</Lijstaanhef>
+                                    <Lijstaanhef>Met een vergunningvoorschrift als bedoeld in <IntRef ref="chp_5__subchp_5.1__art_5.4">artikel 5.4</IntRef> kan worden afgeweken van <IntRef ref="chp_5__subchp_5.3__subsec_5.3.3__art_5.69">artikel 5.69</IntRef>, voor zover naar het oordeel van burgemeester en wethouders:</Lijstaanhef>
                                     <Li eId="chp_5__subchp_5.3__subsec_5.3.3__art_5.70__list_o_1__item_a"
                                         wId="gm1952_1__chp_5__subchp_5.3__subsec_5.3.3__art_5.70__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
@@ -3876,107 +3881,6 @@
                      </Afdeling>
                   </Hoofdstuk>
                </Lichaam>
-               <Bijlage eId="cmp_o_1" wId="gm1952_1__cmp_o_1">
-                  <Kop>
-                     <Label>Bijlage</Label>
-                     <Opschrift>Overzicht van informatieobjecten</Opschrift>
-                  </Kop>
-                  <Divisietekst eId="cmp_o_1__content_o_1" wId="gm1952_1__cmp_o_1__content_o_1">
-                     <Inhoud>
-                        <Begrippenlijst eId="cmp_o_1__content_o_1__list_o_1"
-                                        wId="gm1952_1__cmp_o_1__content_o_1__list_o_1">
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1"
-                                   wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_1"><!--Regelingsgebied.gml-->
-                              <Term>Regelingsgebied</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/gm1952/2023/4180020715/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/4180020715/nld@2023-04-14;1</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_2"
-                                   wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_2"><!--Woongebied.gml-->
-                              <Term>Woongebied</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                              wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                              ref="/join/id/regdata/gm1952/2023/2159872497/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/2159872497/nld@2023-04-14;1</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_3"
-                                   wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_3"><!--Bouwvlak.gml-->
-                              <Term>Bouwvlak</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1"
-                                              wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1"
-                                              ref="/join/id/regdata/gm1952/2023/1547110529/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/1547110529/nld@2023-04-14;1</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_4"
-                                   wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_4"><!--Woonlocatie.gml-->
-                              <Term>Woonlocatie</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1"
-                                              wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_4__ref_o_1"
-                                              ref="/join/id/regdata/gm1952/2023/2558659315/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/2558659315/nld@2023-04-14;1</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_5"
-                                   wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_5"><!--Maximum bouwhoogte (11m).gml-->
-                              <Term>Maximum bouwhoogte</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                              wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                              ref="/join/id/regdata/gm1952/2023/2710704557/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/2710704557/nld@2023-04-14;1</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_6"
-                                   wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_6"><!--Achtererfgebied.gml-->
-                              <Term>Achtererfgebied</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                              wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                              ref="/join/id/regdata/gm1952/2023/4143189459/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/4143189459/nld@2023-04-14;1</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_7"
-                                   wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_7"><!--Verkeer.gml-->
-                              <Term>Verkeer</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                              wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                              ref="/join/id/regdata/gm1952/2023/1251477395/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/1251477395/nld@2023-04-14;1</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_8"
-                                   wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_8"><!--Aantal woningen (22).gml-->
-                              <Term>Aantal woningen</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                              wId="gm1952_1__cmp_o_1__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                              ref="/join/id/regdata/gm1952/2023/558960236/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/558960236/nld@2023-04-14;1</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                        </Begrippenlijst>
-                     </Inhoud>
-                  </Divisietekst>
-               </Bijlage>
                <Bijlage xmlns:dso="https://www.dso.nl/"
                         eId="cmp_I"
                         wId="gm1952_1__cmp_I"
@@ -4136,6 +4040,107 @@
                      </Inhoud>
                   </Divisietekst>
                </Bijlage>
+               <Bijlage eId="cmp_II" wId="gm1952_1__cmp_II">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Opschrift>Overzicht van informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_II__content_o_1" wId="gm1952_1__cmp_II__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_II__content_o_1__list_o_1"
+                           wId="gm1952_1__cmp_II__content_o_1__list_o_1">
+                           <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_1"
+                              wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_1"><!--Regelingsgebied.gml-->
+                              <Term>Regelingsgebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       ref="/join/id/regdata/gm1952/2023/4180020715/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/4180020715/nld@2023-04-14;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_2"
+                              wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_2"><!--Woongebied.gml-->
+                              <Term>Woongebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                       wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                       ref="/join/id/regdata/gm1952/2023/2159872497/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/2159872497/nld@2023-04-14;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_3"
+                              wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_3"><!--Bouwvlak.gml-->
+                              <Term>Bouwvlak</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                       wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                       ref="/join/id/regdata/gm1952/2023/1547110529/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/1547110529/nld@2023-04-14;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_4"
+                              wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_4"><!--Woonlocatie.gml-->
+                              <Term>Woonlocatie</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                       wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                       ref="/join/id/regdata/gm1952/2023/2558659315/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/2558659315/nld@2023-04-14;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_5"
+                              wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_5"><!--Maximum bouwhoogte (11m).gml-->
+                              <Term>Maximum bouwhoogte</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                       wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                       ref="/join/id/regdata/gm1952/2023/2710704557/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/2710704557/nld@2023-04-14;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_6"
+                              wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_6"><!--Achtererfgebied.gml-->
+                              <Term>Achtererfgebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                       wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                       ref="/join/id/regdata/gm1952/2023/4143189459/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/4143189459/nld@2023-04-14;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_7"
+                              wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_7"><!--Verkeer.gml-->
+                              <Term>Verkeer</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                       wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                       ref="/join/id/regdata/gm1952/2023/1251477395/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/1251477395/nld@2023-04-14;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_8"
+                              wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_8"><!--Aantal woningen (22).gml-->
+                              <Term>Aantal woningen</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                       wId="gm1952_1__cmp_II__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                       ref="/join/id/regdata/gm1952/2023/558960236/nld@2023-04-14;1">/join/id/regdata/gm1952/2023/558960236/nld@2023-04-14;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
                <Toelichting xmlns:dso="https://www.dso.nl/"
                             eId="recital"
                             wId="recital"
@@ -4212,7 +4217,7 @@
                               <Opschrift>Locatiegericht insluiten 'Verkeer'</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Al>In dit basismodel wordt ervoor gekozen om specifiek te bepalen op welke locaties een weg kan worden gerealiseerd (artikel 4.8, eerste lid, onder c) vergelijkbaar met de bestemming 'Verkeer' in een bestemmingsplan). Die keuze heeft te maken met het geluid van gemeentelijke wegen. Dit wordt nader toegelicht in paragraaf 5 van deze toelichting.</Al>
+                              <Al>In dit basismodel wordt ervoor gekozen om specifiek te bepalen op welke locaties een weg kan worden gerealiseerd (artikel 4.8, eerste lid, onder c) vergelijkbaar met de bestemming 'Verkeer' in een bestemmingsplan). Die keuze heeft te maken met het geluid van gemeentelijke wegen. Dit wordt nader toegelicht in <IntRef ref="recital__div_A__content_5">paragraaf 5</IntRef> van deze toelichting.</Al>
                            </Inhoud>
                         </Divisietekst>
                         <Divisietekst eId="recital__div_A__div_3__content_3.3"
@@ -4223,7 +4228,7 @@
                               <Opschrift>Beoordelingsregels omgevingsvergunning bouwen hoofdgebouw</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Al>De beoordelingsregels voor de omgevingsvergunning voor het bouwen van een hoofdgebouw (artikel 5.28) sluiten in dit basismodel aan op het bestaande beoordelingskader op grond van het bestemmingsplan. Dat kader kenmerkt zich door het gebruik van gesloten normen, die geen beoordeling door het bevoegd gezag vereisen (zoals de maximum bouwhoogte). Hiervoor is gekozen met het oog op de herkenbaarheid. Als normen geen beoordeling door het bevoegd gezag vereisen, is er aanleiding om na te gaan of de vergunningplicht kan worden geschrapt. Burgers en bedrijven kunnen immers zelf nagaan of hun bouwplan past binnen de gestelde normen. In dit basismodel is de vergunningplicht behouden. Een overweging hierbij kan zijn, dat wordt aangesloten bij de voorkeur van burgers en bedrijven om vooraf zekerheid te kunnen verkrijgen over de houdbaarheid van hun bouwplan.</Al>
+                              <Al>De beoordelingsregels voor de omgevingsvergunning voor het bouwen van een hoofdgebouw (<IntRef ref="chp_5__subchp_5.2__subsec_5.2.2__art_5.28">artikel 5.28</IntRef>) sluiten in dit basismodel aan op het bestaande beoordelingskader op grond van het bestemmingsplan. Dat kader kenmerkt zich door het gebruik van gesloten normen, die geen beoordeling door het bevoegd gezag vereisen (zoals de maximum bouwhoogte). Hiervoor is gekozen met het oog op de herkenbaarheid. Als normen geen beoordeling door het bevoegd gezag vereisen, is er aanleiding om na te gaan of de vergunningplicht kan worden geschrapt. Burgers en bedrijven kunnen immers zelf nagaan of hun bouwplan past binnen de gestelde normen. In dit basismodel is de vergunningplicht behouden. Een overweging hierbij kan zijn, dat wordt aangesloten bij de voorkeur van burgers en bedrijven om vooraf zekerheid te kunnen verkrijgen over de houdbaarheid van hun bouwplan.</Al>
                            </Inhoud>
                         </Divisietekst>
                      </Divisie>
@@ -4383,19 +4388,19 @@
          <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
          <eindverantwoordelijke>/tooi/id/gemeente/gm1952</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm1952</maker>
-         <soortBestuursorgaan>/tooi/def/thes/kern/c_28ecfd6d</soortBestuursorgaan>
-         <officieleTitel>Omgevingsplan Midden-Groningen</officieleTitel>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+         <officieleTitel>Omgevingsplan Vosholen</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
-               <citeertitel>Omgevingsplan Midden-Groningen</citeertitel>
+               <citeertitel>Omgevingsplan Vosholen</citeertitel>
                <isOfficieel>true</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
          <grondslagen>
             <grondslag>
                <TekstReferentie>
-                  <uri>jcil.31:c:BWBR0037885&amp;artikel=5.44</uri>
-                  <label>Artikel 5.44 Omgevingswet</label>
+                  <uri>jcil.31:c:BWBR0037885&amp;artikel=2.4</uri>
+                  <label>Artikel 2.4 Omgevingswet</label>
                   <soortRef>JCI</soortRef>
                </TekstReferentie>
             </grondslag>

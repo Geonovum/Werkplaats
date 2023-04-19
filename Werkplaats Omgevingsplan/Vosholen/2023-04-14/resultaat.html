@@ -1,0 +1,1090 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- These 3 meta tags MUST come first -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- These 3 meta tags MUST come first -->
+        
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+        
+        <!-- OpenLayers -->
+        <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList,URL"></script>
+        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.6.5/ol.js"></script>-->
+        <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+        <script src="https://unpkg.com/ol-layerswitcher@3.8.3"></script>
+        
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />-->
+        
+        <!-- OpenLayers CSS -->
+        <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.6.5/ol.css">-->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css">
+        <link rel="stylesheet" href="https://unpkg.com/ol-layerswitcher@3.8.3/dist/ol-layerswitcher.css">
+        
+        
+        <title>LandGoed OpenOmgevingswet</title>
+        <!-- Application specific CSS-->
+        <link rel="stylesheet" href="/static/css/app.css">
+        
+        
+    </head>
+    <body>
+        
+        
+        
+        
+        <div id="header-div" class="clearfix with-margins">
+            <div class="header-logo"></div>
+        </div>
+        <hr class="no-margins"/>
+
+        <div id="main-div" class="with-margins">
+        
+
+        
+        
+        
+
+        
+    
+<div class="card">
+   <div class="card-header">
+    Resultaat (<a href="#" onclick="document.location.reload(true);">Herlaad deze pagina</a> om nieuwe resultaten op te halen)
+  </div>
+  <div class="card-body">
+    <ul xmlns="http://www.overheid.nl/2017/lvbb" xmlns:corv="http://www.openomgevingswet.nl/corv" xmlns:lvbb="http://www.overheid.nl/2017/lvbb" xmlns:stop="http://www.overheid.nl/2017/stop">
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:33:19.933216Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>validatie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>DL-0003</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>opdracht is valide. Aanlevering wordt inhoudelijk gevalideerd</dd>
+                        </dl>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:34:25.140444Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>validatie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>DL-0004</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>Volledige aanlevering is valide</dd>
+                        </dl>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:01.672063Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>DL-0005</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>Ontwerpbesluit/definitief besluit verwerkt tot proefversiebesluit/regeling(versie)</dd>
+                        </dl>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:18.051653Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id CVDR756408_1</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>CVDR756408_1</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/akn/nl/act/gemeente/2023/CVDR756408/nld@2023-04-18</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:20.187653Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22615_1</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22615_1</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/1547110529/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:20.990748Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22612</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22612</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/4180020715/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:21.788640Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22609</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22609</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/2558659315/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:22.195242Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22607</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22607</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/1547110529/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:22.768885Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22611</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22611</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/4143189459/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:23.168493Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22610</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22610</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/2710704557/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:23.528496Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22608</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22608</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/2159872497/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:23.891593Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22606</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22606</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/1251477395/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:24.343646Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22613</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22613</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/558960236/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:24.587898Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22617_1</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22617_1</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/2558659315/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:25.001237Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22616_1</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22616_1</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/2159872497/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:25.372952Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22618_1</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22618_1</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/2710704557/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:25.747415Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22614_1</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22614_1</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/1251477395/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:26.246679Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id gmb-2023-3463</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>gmb-2023-3463</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/akn/nl/officialGazette/gmb/2023/3463/nld@2023-04-18</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:26.980431Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22619_1</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22619_1</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/4143189459/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:27.434388Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22621_1</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22621_1</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/558960236/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li>lvbb:publicatieVerzoekResultaat
+      <dl>
+         <dt>lvbb:uitkomst</dt>
+         <dd class="text-success">succes</dd>
+      </dl>
+      <ul>
+         <li>lvbb:verslag
+            <dl>
+               <dt>lvbb:idLevering</dt>
+               <dd>MG001_2023-04-14_001</dd>
+               <dt>lvbb:tijdstipVerslag</dt>
+               <dd>2023-04-17T16:35:27.814302Z</dd>
+               <dt>lvbb:voortgang</dt>
+               <dd>registratie-voltooid</dd>
+            </dl>
+            <ul>
+               <li>lvbb:meldingen
+                  <ul>
+                     <li>lvbb:melding
+                        <dl>
+                           <dt>stop:code</dt>
+                           <dd>PUB-0001</dd>
+                           <dt>stop:ernst</dt>
+                           <dd>informatie</dd>
+                           <dt>stop:soort</dt>
+                           <dd>technisch</dd>
+                           <dt>stop:categorie</dt>
+                           <dd>inhoudelijk</dd>
+                           <dt>stop:beschrijving</dt>
+                           <dd>betreft publicatie id dc-2023-22620_1</dd>
+                        </dl>
+                        <ul>
+                           <li>stop:metadata
+                              <dl>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>dc-2023-22620_1</dd>
+                                 <dt>stop:uitspraak</dt>
+                                 <dd>/join/id/regdata/gm1952/2023/4180020715/nld@2023-04-14;1</dd>
+                              </dl>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+</ul>
+  </div>
+  <div class="card-body">
+      <button type="button" data-toggle="collapse" data-target="#xml" class="btn btn-landgoed btn-sm">Toon/ verberg ruwe xml-berichten LVBB</button>
+      <div id='xml' class="collapse">
+        <textarea rows="40" style="width: 100%;"><?xml version="1.0" encoding="UTF-8"?>
+<corv:meldingen xmlns:corv="http://www.openomgevingswet.nl/corv"
+                xmlns:lvbb="http://www.overheid.nl/2017/lvbb"
+                xmlns="http://www.overheid.nl/2017/lvbb">
+
+<lvbb:publicatieVerzoekResultaat xmlns:lvbb="http://www.overheid.nl/2017/lvbb" xmlns:stop="http://www.overheid.nl/2017/stop"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:33:19.933216Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>DL-0003</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:beschrijving>opdracht is valide. Aanlevering wordt inhoudelijk gevalideerd</stop:beschrijving></lvbb:melding></lvbb:meldingen><lvbb:voortgang>validatie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:lvbb="http://www.overheid.nl/2017/lvbb"
+                                 xmlns:stop="http://www.overheid.nl/2017/stop">
+   <lvbb:uitkomst>succes</lvbb:uitkomst>
+   <lvbb:verslag>
+      <lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering>
+      <lvbb:tijdstipVerslag>2023-04-17T16:34:25.140444Z</lvbb:tijdstipVerslag>
+      <lvbb:meldingen>
+         <lvbb:melding>
+            <stop:code>DL-0004</stop:code>
+            <stop:ernst>informatie</stop:ernst>
+            <stop:soort>technisch</stop:soort>
+            <stop:beschrijving>Volledige aanlevering is valide</stop:beschrijving>
+         </lvbb:melding>
+      </lvbb:meldingen>
+      <lvbb:voortgang>validatie-voltooid</lvbb:voortgang>
+   </lvbb:verslag>
+</lvbb:publicatieVerzoekResultaat>
+<lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:01.672063Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>DL-0005</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:beschrijving>Ontwerpbesluit/definitief besluit verwerkt tot proefversiebesluit/regeling(versie)</stop:beschrijving></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:18.051653Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id CVDR756408_1</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">CVDR756408_1</stop:uitspraak><stop:uitspraak property="FRBRuri">/akn/nl/act/gemeente/2023/CVDR756408/nld@2023-04-18</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:20.187653Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22615_1</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22615_1</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/1547110529/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:20.990748Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22612</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22612</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/4180020715/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:21.788640Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22609</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22609</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/2558659315/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:22.195242Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22607</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22607</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/1547110529/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:22.768885Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22611</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22611</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/4143189459/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:23.168493Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22610</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22610</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/2710704557/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:23.528496Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22608</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22608</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/2159872497/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:23.891593Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22606</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22606</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/1251477395/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:24.343646Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22613</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22613</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/558960236/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:24.587898Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22617_1</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22617_1</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/2558659315/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:25.001237Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22616_1</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22616_1</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/2159872497/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:25.372952Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22618_1</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22618_1</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/2710704557/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:25.747415Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22614_1</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22614_1</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/1251477395/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:26.246679Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id gmb-2023-3463</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">gmb-2023-3463</stop:uitspraak><stop:uitspraak property="FRBRuri">/akn/nl/officialGazette/gmb/2023/3463/nld@2023-04-18</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:26.980431Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22619_1</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22619_1</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/4143189459/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:27.434388Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22621_1</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22621_1</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/558960236/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat><lvbb:publicatieVerzoekResultaat xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:lvbb="http://www.overheid.nl/2017/lvbb"><lvbb:uitkomst>succes</lvbb:uitkomst><lvbb:verslag><lvbb:idLevering>MG001_2023-04-14_001</lvbb:idLevering><lvbb:tijdstipVerslag>2023-04-17T16:35:27.814302Z</lvbb:tijdstipVerslag><lvbb:meldingen><lvbb:melding><stop:code>PUB-0001</stop:code><stop:ernst>informatie</stop:ernst><stop:soort>technisch</stop:soort><stop:categorie>inhoudelijk</stop:categorie><stop:beschrijving>betreft publicatie id dc-2023-22620_1</stop:beschrijving><stop:metadata><stop:uitspraak property="OVERHEIDop.identifier">dc-2023-22620_1</stop:uitspraak><stop:uitspraak property="FRBRuri">/join/id/regdata/gm1952/2023/4180020715/nld@2023-04-14;1</stop:uitspraak></stop:metadata></lvbb:melding></lvbb:meldingen><lvbb:voortgang>registratie-voltooid</lvbb:voortgang></lvbb:verslag></lvbb:publicatieVerzoekResultaat>
+
+</corv:meldingen>
+</textarea>
+      </div>
+  </div>
+</div>
+
+
+
+        
+        </div>
+
+        <br/>
+        <hr class="no-margins"/>
+        <div id="footer-div" class="clearfix with-margins">
+            <div class="pull-right">&copy; 2020 Land<sup><u>goed</u></sup>.cloud</div>
+        </div>
+        
+        
+        
+      
+        
+    </body>
+</html>
