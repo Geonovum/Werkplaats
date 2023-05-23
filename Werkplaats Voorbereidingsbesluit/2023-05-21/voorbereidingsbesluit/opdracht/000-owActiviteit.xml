@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Voorbeschermingsregels geiten, lama’s en archeologie</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Provincie Noord-Holland</sl:gebied>
+         <sl:leveringsId>NH002_2023-05-21_001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Activiteit</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-pv27.activiteit.99270001</rol:identificatie>
+               <rol:naam>Activiteit gereguleerd in voorbeschermingsregels</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Overig</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Activiteit gereguleerd in de omgevingsverordening Noord-Holland-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-pv27.activiteit.992700000000000000000001"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-pv27.activiteit.0031240002922799814</rol:identificatie>
+               <rol:naam>Activiteit gereguleerd in voorbeschermingsregels geiten, lama’s en archeologie</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Overig</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Activiteit gereguleerd in voorbeschermingsregels-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-pv27.activiteit.99270001"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-pv27.activiteit.0031240001861123940</rol:identificatie>
+               <rol:naam>Bouwen, in stand houden of gebruiken van bouwwerk voor agrarische bedrijfsvoering</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitRuimtelijk</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Activiteit gereguleerd in voorbeschermingsregels geiten, lama’s en archeologie-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-pv27.activiteit.0031240002922799814"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Activiteit>
+               <rol:identificatie>nl.imow-pv27.activiteit.00312400032078453</rol:identificatie>
+               <rol:naam>Aanlegactiviteit in archeologisch monument</rol:naam>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/VerrichtenVanWerkenEnWerkzaamhedenactiviteit</rol:groep>
+               <rol:bovenliggendeActiviteit><!--Activiteit gereguleerd in voorbeschermingsregels geiten, lama’s en archeologie-->
+                  <rol:ActiviteitRef xlink:href="nl.imow-pv27.activiteit.0031240002922799814"/>
+               </rol:bovenliggendeActiviteit>
+            </rol:Activiteit>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

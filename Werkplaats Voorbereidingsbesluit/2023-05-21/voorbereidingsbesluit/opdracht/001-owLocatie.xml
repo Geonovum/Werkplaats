@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Voorbeschermingsregels geiten, lama’s en archeologie</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Provincie Noord-Holland</sl:gebied>
+         <sl:leveringsId>NH002_2023-05-21_001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Ambtsgebied</sl:objectType>
+            <sl:objectType>Gebiedengroep</sl:objectType>
+            <sl:objectType>Gebied</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Ambtsgebied>
+               <l:identificatie>nl.imow-pv27.ambtsgebied.002001003124000</l:identificatie>
+               <l:noemer>Gemeente Dijk en Waard</l:noemer>
+               <l:bestuurlijkeGrenzenVerwijzing>
+                  <l:BestuurlijkeGrenzenVerwijzing>
+                     <l:bestuurlijkeGrenzenID>GM1980</l:bestuurlijkeGrenzenID>
+                     <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+                     <l:geldigOp>2023-01-01</l:geldigOp>
+                  </l:BestuurlijkeGrenzenVerwijzing>
+               </l:bestuurlijkeGrenzenVerwijzing>
+            </l:Ambtsgebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-pv27.gebiedengroep.0020010031240002852655712</l:identificatie>
+               <l:noemer>Provinciaal monument</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-pv27.gebied.0020010031240002852655712"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--provinciaal_monument.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv27.gebied.0020010031240002852655712</l:identificatie>
+               <l:noemer>Provinciaal monument</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="1643bc6e-e76f-4bd9-a41b-47dd9b7a44a8"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-pv27.gebiedengroep.0020010031240004077196262</l:identificatie>
+               <l:noemer>Archeologisch monument</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-pv27.gebied.0020010031240004077196262"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--archeologisch_monument.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv27.gebied.0020010031240004077196262</l:identificatie>
+               <l:noemer>Archeologisch monument</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="08600b04-0122-4a5d-bd16-5dbe5241226f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>
