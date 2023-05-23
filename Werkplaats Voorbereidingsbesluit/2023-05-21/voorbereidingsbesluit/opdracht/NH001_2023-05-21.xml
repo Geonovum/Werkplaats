@@ -274,7 +274,9 @@
                               <Lijst eId="chp_3__art_3.1__para_1__list_o_1"
                                  wId="pv27_1__chp_3__art_3.1__para_1__list_o_1"
                                  type="expliciet">
-                                 <Lijstaanhef>Het is verboden om ter plaatse van een provinciaal monument:</Lijstaanhef>
+                                 <Lijstaanhef>Het is verboden om ter plaatse van een <IntIoRef eId="chp_3__art_3.1__para_1__list_o_1__ref_o_1"
+                                    wId="pv27_1__chp_3__art_3.1__para_1__list_o_1__ref_o_1"
+                                    ref="pv27_1__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1">provinciaal monument</IntIoRef>:</Lijstaanhef>
                                  <Li eId="chp_3__art_3.1__para_1__list_o_1__item_a"
                                     wId="pv27_1__chp_3__art_3.1__para_1__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -331,7 +333,9 @@
                            <Lijst eId="chp_4__art_4.1__list_o_1"
                               wId="pv27_1__chp_4__art_4.1__list_o_1"
                               type="expliciet">
-                              <Lijstaanhef>Ter plaatse van de locatie ‘Archeologisch monument’ is het verboden om, wanneer daarvoor een bodemingreep wordt gedaan dieper dan 0,40 m onder het <IntRef ref="cmp_I__content_o_1__list_o_1__item_o_1">AHN-maaiveld</IntRef> met een oppervlakte van meer dan 5 m<sup>2</sup>, aanlegactiviteiten te verrichten in de vorm van:</Lijstaanhef>
+                              <Lijstaanhef>Ter plaatse van de locatie ‘<IntIoRef eId="chp_4__art_4.1__list_o_1__ref_o_1"
+                                 wId="pv27_1__chp_4__art_4.1__list_o_1__ref_o_1"
+                                 ref="pv27_1__cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1">Archeologisch monument</IntIoRef>’ is het verboden om, wanneer daarvoor een bodemingreep wordt gedaan dieper dan 0,40 m onder het <IntRef ref="cmp_I__content_o_1__list_o_1__item_o_1">AHN-maaiveld</IntRef> met een oppervlakte van meer dan 5 m<sup>2</sup>, aanlegactiviteiten te verrichten in de vorm van:</Lijstaanhef>
                               <Li eId="chp_4__art_4.1__list_o_1__item_a"
                                  wId="pv27_1__chp_4__art_4.1__list_o_1__item_a">
                                  <LiNummer>a.</LiNummer>
