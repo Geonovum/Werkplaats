@@ -1,0 +1,2623 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Omgevingsplan Midden-Groningen</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Gemeente Midden-Groningen</sl:gebied>
+         <sl:leveringsId>MG001_2023-04-14</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Regeltekst</sl:objectType>
+            <sl:objectType>RegelVoorIedereen</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_1__art_1.1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830002CCCC914</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_1__art_1.2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000594F83B5</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_2__subchp_2.1__art_2.1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300009FC2C7B</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.1__subsec_4.1.1__art_4.1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300037ABECCF</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.1__subsec_4.1.1__art_4.2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830006E12BE6A</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.1__subsec_4.1.1__art_4.3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000693DF226</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.1__subsec_4.1.1__art_4.4">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830000EA2A5F8</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.1__subsec_4.1.1__art_4.5">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000271B706B</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.1__subsec_4.1.2__art_4.6">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830001D7274D6</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.1__subsec_4.1.2__art_4.7">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000287852BD</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.1__subsec_4.1.2__art_4.8">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300076568774</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.1__subsec_4.1.3__art_4.9">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830003AD048CA</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.1__subsec_4.1.3__art_4.10">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000742B9319</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.1__subsec_4.1.3__art_4.11">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300067B01189</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.1__subsec_4.1.3__art_4.12">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830000257ADDB</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.2__subsec_4.2.1__art_4.13">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830002A8B3743</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.2__subsec_4.2.2__art_4.14">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000646F2F88</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.2__subsec_4.2.2__art_4.15">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830001263D6DF</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300033E3DB5B</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_4__subchp_4.2__subsec_4.2.2__art_4.16__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830004D2BE31C</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830006487BBB0</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830001194A2EE</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.3__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300079E94EA5</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.3__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300019CA1BAC</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.3__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830005EB9D360</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.3__para_4">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830007714A23B</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.3__para_5">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830001878461D</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.4">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830000FC70255</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.5">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000458F2E7B</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.00000001825561383000458F2E7B</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.00000001825561383000458F2E7B"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.6">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300041E9AA80</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.7__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830001FCBBEA9</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.7__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300066CBF845</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300066CBF845</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300066CBF845"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001678196586"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E2137</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Informatieplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.8__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830004F4A4C7F</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.8__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300019146A39</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300019146A39</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300019146A39"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001678196586"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E2373</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Informatieplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.9__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830003E1968ED</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.1__art_5.9__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830001375DF08</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830001375DF08</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830001375DF08"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001678196586"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E2609</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Informatieplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.10">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300000F51188</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.11">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830003CE2A8F7</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.12">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300023A66833</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.13">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830005035DB65</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830005035DB65</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830005035DB65"/>
+               </r:artikelOfLid>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bouwwerken</r:thema>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003543873603"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001001</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Zorgplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001002</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Zorgplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001555381804"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001003</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Zorgplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.14">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830002C998A22</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.15">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000375A56B3</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.16__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300021CA4773</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.16__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830001C27EF26</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.17__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000418BB99D</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.17__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830005529C011</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.18__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830000A94D139</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.18__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300003FB8619</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.18__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830003FB57F6A</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.18__para_4">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000623717C1</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.19">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830006B009C1B</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.20__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830006FA00970</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.20__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300027CD62BC</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.20__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000221379C8</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.20__para_4">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300075006B85</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.21__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830003D1E6D70</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.21__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830006FAF9D9A</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.21__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830002ED56179</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.22__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300053E082C0</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.22__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830001105796D</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.22__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830007603CC6C</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.22__para_4">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830007E5D7EDA</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.22__para_5">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830005B17C3E2</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.23__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000799B46AD</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.23__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830002BE87A35</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.23__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830000461CB1C</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.23__para_4">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300030CDB4F7</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.1__art_5.23__para_5">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300017B49035</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.2__art_5.24">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830005B552628</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.2__art_5.25">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300074466F89</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.2__art_5.26__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830001C847AC3</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.2__art_5.26__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830007E6190C6</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830007E6190C6</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830007E6190C6"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001547110529"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003543873603"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E3966</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001547110529"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.2__art_5.27">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830005C960DD4</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.2__art_5.28__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830007926BDCA</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830007926BDCA</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830007926BDCA"/>
+               </r:artikelOfLid>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bouwwerken</r:thema>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.2__art_5.28__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830002F73846F</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.2__art_5.29__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830005956AA83</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830005956AA83</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830005956AA83"/>
+               </r:artikelOfLid>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bouwwerken</r:thema>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001547110529"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003543873603"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E4708</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+               <r:omgevingsnormaanduiding>
+                  <rol:OmgevingsnormRef xlink:href="nl.imow-gm1952.omgevingsnorm.000000018255613830002832424963"/>
+               </r:omgevingsnormaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.2__art_5.29__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300063B58A56</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300063B58A56</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300063B58A56"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001547110529"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003543873603"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E4708</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.30">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830003871827F</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.31__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300068CD2258</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.31__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830005B6706C7</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830005B6706C7</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830005B6706C7"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004143189459"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E5905</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.31__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000555625A5</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.00000001825561383000555625A5</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.00000001825561383000555625A5"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001547110529"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E5905</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.31__para_4">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830005D63C1EA</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830005D63C1EA</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830005D63C1EA"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001547110529"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E5905</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.31__para_5">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830003B533043</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830003B533043</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830003B533043"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001547110529"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E5905</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.31__para_6">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830001EBC3CB8</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830001EBC3CB8</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830001EBC3CB8"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001547110529"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E5905</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.31__para_7">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830003CEBA01B</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830003CEBA01B</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830003CEBA01B"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001547110529"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E5905</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.31__para_8">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000366A0AF8</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.00000001825561383000366A0AF8</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.00000001825561383000366A0AF8"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001547110529"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E5905</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.32__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830006F8DD29C</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.32__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300075E10720</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300075E10720</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300075E10720"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E6904</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.32__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300037E17AEA</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300037E17AEA</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300037E17AEA"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E6904</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.32__para_4">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300079460519</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300079460519</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300079460519"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E6904</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.32__para_5">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300059BC05A0</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300059BC05A0</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300059BC05A0"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E6904</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.32__para_6">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830001A5953BB</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830001A5953BB</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830001A5953BB"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E6904</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.33">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300056FC70F6</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.34__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300023679A57</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.34__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830002B0B6D9B</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830002B0B6D9B</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830002B0B6D9B"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E7408</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.35__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830004A392B26</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.35__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300030DEB99E</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300030DEB99E</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300030DEB99E"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E7660</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.36__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830006E5B6EDE</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.3__art_5.36__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300062963D8E</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300062963D8E</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300062963D8E"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003633593276"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E7912</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.37">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300033ED93FF</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.38__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300074C8F38E</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.38__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830000814104A</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830000814104A</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830000814104A"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001251477395"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003789766399"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E8220</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001251477395"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.38__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830002EE1C7A8</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830002EE1C7A8</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830002EE1C7A8"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001251477395"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003789766399"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E8220</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001251477395"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.39__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830000A9B6B83</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.39__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300008FA20B4</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300008FA20B4</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300008FA20B4"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003789766399"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E8619</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.39__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830000907B2B9</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830000907B2B9</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830000907B2B9"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003789766399"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E8619</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.39__para_4">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000671C8A2F</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.00000001825561383000671C8A2F</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.00000001825561383000671C8A2F"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003789766399"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E8619</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.39__para_5">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300052D3D4B6</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300052D3D4B6</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300052D3D4B6"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003789766399"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E8619</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.39__para_6">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830001AB1EF06</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830001AB1EF06</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830001AB1EF06"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004143189459"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003789766399"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E8619</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.39__para_7">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000384F8CB1</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.00000001825561383000384F8CB1</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.00000001825561383000384F8CB1"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004143189459"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003789766399"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E8619</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.40">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300065A199BA</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.41__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300037D33734</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300037D33734</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300037D33734"/>
+               </r:artikelOfLid>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bouwwerken</r:thema>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.41__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300015FB3F21</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.42__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300025357BCA</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.42__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830005CF83992</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830005CF83992</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830005CF83992"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003789766399"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E9513</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.4__art_5.42__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830000C8C712C</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830000C8C712C</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830000C8C712C"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003789766399"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E9513</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.5__art_5.43">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830006924EDAC</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.5__art_5.44">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000343C5B1C</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.5__art_5.45__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300036683003</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300036683003</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300036683003"/>
+               </r:artikelOfLid>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</r:thema>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830002209168540"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E9824</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+               <r:omgevingsnormaanduiding>
+                  <rol:OmgevingsnormRef xlink:href="nl.imow-gm1952.omgevingsnorm.000000018255613830001412915611"/>
+               </r:omgevingsnormaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.5__art_5.45__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000488272BC</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.00000001825561383000488272BC</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.00000001825561383000488272BC"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830002209168540"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E9824</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.5__art_5.45__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830007D337BA5</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830007D337BA5</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830007D337BA5"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830002209168540"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E9824</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.5__art_5.45__para_4">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300002A956BE</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300002A956BE</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300002A956BE"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830002209168540"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E9824</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.5__art_5.46">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300015B585CB</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.5__art_5.47__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830006C3C83E6</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.5__art_5.48">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300033EC7F59</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.6__art_5.49">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830005BFBFA29</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.6__art_5.50__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830006AE1C74E</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830006AE1C74E</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830006AE1C74E"/>
+               </r:artikelOfLid>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</r:thema>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.00000001825561383000541471046"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E11143</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.6__art_5.50__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300040C33199</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300040C33199</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300040C33199"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.00000001825561383000541471046"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E11143</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.6__art_5.50__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300057ADD5B3</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300057ADD5B3</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300057ADD5B3"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.00000001825561383000541471046"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E11143</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.7__art_5.51">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300023A441BA</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.7__art_5.52">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300056523986</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.7__art_5.53">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830005A4E5FA7</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830005A4E5FA7</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830005A4E5FA7"/>
+               </r:artikelOfLid>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</r:thema>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830002735156755"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E11699</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830002558659315"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.8__art_5.54">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300013E08EE7</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.8__art_5.55__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000092E9CE6</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.00000001825561383000092E9CE6</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.00000001825561383000092E9CE6"/>
+               </r:artikelOfLid>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</r:thema>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</r:thema>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001251477395"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001724273543"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E12066</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001251477395"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.8__art_5.55__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830006AEFEE2E</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830006AEFEE2E</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830006AEFEE2E"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001251477395"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830001724273543"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E12066</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830001251477395"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.2__subsec_5.2.8__art_5.56">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830007858948A</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.1__art_5.57">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830000840CFF2</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.1__art_5.58">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830001BCB32CD</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.1__art_5.59__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300030A8C3A2</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.1__art_5.59__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300046AFBDFF</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300046AFBDFF</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300046AFBDFF"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830002831371524"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E12618</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Zorgplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.1__art_5.59__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300028BB2303</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300028BB2303</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300028BB2303"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830002831371524"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E12618</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Zorgplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.2__art_5.60">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830002F5D1C37</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.2__art_5.61">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300063179158</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.2__art_5.62">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000173E306E</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.2__art_5.63">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300077AE0E1C</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.3__art_5.64">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000534CF8D1</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.3__art_5.65">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300025336A62</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.3__art_5.66">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830000DAC1F50</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.3__art_5.67">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000788E7A3A</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.00000001825561383000788E7A3A</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.00000001825561383000788E7A3A"/>
+               </r:artikelOfLid>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</r:thema>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</r:thema>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003341305732"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E13555</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830002831371524"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E13798</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.3__art_5.68">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830003E1EDB96</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830003E1EDB96</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830003E1EDB96"/>
+               </r:artikelOfLid>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</r:thema>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</r:thema>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.3__art_5.69__para_1">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830005059CD7F</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830005059CD7F</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830005059CD7F"/>
+               </r:artikelOfLid>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</r:thema>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</r:thema>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830003341305732"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E14520</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830002831371524"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E14759</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.3__art_5.69__para_2">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830001EEA5CF1</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830001EEA5CF1</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830001EEA5CF1"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830002831371524"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E14759</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.3__art_5.69__para_3">
+               <r:identificatie>nl.imow-gm1952.regeltekst.000000018255613830007DFC86F4</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.000000018255613830007DFC86F4</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.000000018255613830007DFC86F4"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830002831371524"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E14759</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.3__art_5.69__para_4">
+               <r:identificatie>nl.imow-gm1952.regeltekst.0000000182556138300075B90BF2</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1952.juridischeregel.0000000182556138300075B90BF2</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1952.regeltekst.0000000182556138300075B90BF2"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1952.activiteit.000000018255613830002831371524"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1952.activiteitlocatieaanduiding.00000001825561383000D6E14759</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1952.gebiedengroep.000000018255613830004180020715"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <!-- gewijzigd 2023-06-05 -->
+            <r:Regeltekst wId="gm1952_2__chp_5__subchp_5.3__subsec_5.3.3__art_5.70">
+               <r:identificatie>nl.imow-gm1952.regeltekst.00000001825561383000452F3A10</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>
