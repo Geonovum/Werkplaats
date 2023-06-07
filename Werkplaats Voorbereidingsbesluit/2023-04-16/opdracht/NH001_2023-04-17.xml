@@ -62,21 +62,21 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
+                  <doel>/join/id/proces/pv27/2023/instellen_regeling_001</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/pv27/2023/NH001-001/nld@2023-04-17;1</instrumentVersie>
                <eId>art_II</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
+                  <doel>/join/id/proces/pv27/2023/instellen_regeling_001</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv27/2023/2852655712/nld@2023-04-17;1</instrumentVersie>
                <eId>!regeling_001#cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
+                  <doel>/join/id/proces/pv27/2023/instellen_regeling_001</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv27/2023/4077196262/nld@2023-04-17;1</instrumentVersie>
                <eId>!regeling_001#cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
@@ -84,7 +84,7 @@
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/join/id/proces/gm1952/2023/instellen_regeling_001</doel>
+               <doel>/join/id/proces/pv27/2023/instellen_regeling_001</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2023-04-18</datum>
                <eId>art_III</eId>
