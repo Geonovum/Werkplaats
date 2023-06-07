@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/pv27/2023/NH010</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/pv27/2023/NH010/nld@2023-06-07;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv27</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv27</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
+         <officieleTitel>Voorbereidingsbesluit flora en fauna langs, op en onder oppervlaktewater</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Voorbereidingsbesluit flora en fauna langs, op en onder oppervlaktewater</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <grondslagen>
+            <grondslag>
+               <TekstReferentie>
+                  <uri>jcil.31:c:BWBR0037885&amp;artikel=4.16</uri>
+                  <label>Artikel 4.16 lid 1 Omgevingswet</label>
+                  <soortRef>JCI</soortRef>
+               </TekstReferentie>
+            </grondslag>
+         </grondslagen>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_afa30a11</onderwerp>
+            <onderwerp>/tooi/def/concept/c_0361ffb3</onderwerp>
+            <onderwerp>/tooi/def/concept/c_a6a9eddd</onderwerp>
+            <onderwerp>/tooi/def/concept/c_9af4b880</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/pv27/2023/624627563/nld@2023-06-07;1</informatieobjectRef>
+         </informatieobjectRefs>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2023-06-07</bekendOp>
+         <ontvangenOp>2023-06-07</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2023-06-07</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2023-06-07</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/pv27/2023/instellen_regeling_010</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/pv27/2023/NH010-001/nld@2023-06-07;1</instrumentVersie>
+               <eId>art_II</eId>
+            </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/pv27/2023/instellen_regeling_010</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/pv27/2023/624627563/nld@2023-06-07;1</instrumentVersie>
+               <eId>!regeling_010#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+         </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/pv27/2023/instellen_regeling_010</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2023-06-08</datum>
+               <eId>art_III</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Voorbereidingsbesluit flora en fauna langs, op en onder oppervlaktewater</Al>
+         </RegelingOpschrift>
+         <Aanhef eId="formula_1" wId="formula_1">
+            <Al>Gedeputeerde staten van Noord-Holland</Al>
+            <Al>besluiten:</Al>
+         </Aanhef>
+         <Lichaam eId="body" wId="body">
+            <Artikel eId="art_I" wId="pv27_1__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Met het oog op de voorbereiding van in de omgevingsverordening te stellen instructieregels over het verstoren van flora en fauna in, op en onder oppervlaktewater een voorbereidingsbesluit te nemen.</Al>
+               </Inhoud>
+            </Artikel>
+            <WijzigArtikel eId="art_II" wId="pv27_1__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+               </Kop>
+               <Wat>Voor het omgevingsplan van de gemeente Dijk en Waard de voorbeschermingsregels vast te stellen die zijn vastgelegd in <IntRef ref="cmp_A">bijlage A</IntRef>.</Wat>
+            </WijzigArtikel>
+            <Artikel eId="art_III" wId="pv27_1__art_III">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>III</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Dit besluit treedt in werking op de dag na de dag waarop het bekendgemaakt is.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <Sluiting wId="formula_2" eId="formula_2">
+            <Dagtekening>
+               <Al>Aldus besloten in de vergadering d.d. 1 juni 2023</Al>
+            </Dagtekening>
+            <Ondertekening>
+               <Al>De griffier,</Al>
+               <Al>De voorzitter,</Al>
+            </Ondertekening>
+         </Sluiting>
+         <WijzigBijlage eId="cmp_A" wId="pv27_1__cmp_A">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>A</Nummer>
+               <Opschrift>Bijlage bij Artikel II</Opschrift>
+            </Kop>
+            <RegelingTijdelijkdeel componentnaam="regeling_010"
+                                   wordt="/akn/nl/act/pv27/2023/NH010-001/nld@2023-06-07;1">
+               <RegelingOpschrift eId="longTitle" wId="longTitle">
+                  <Al>Voorbeschermingsregels flora en fauna langs, op en onder oppervlaktewater</Al>
+               </RegelingOpschrift>
+               <Lichaam eId="body" wId="body">
+                  <Conditie>
+                     <Artikel eId="art_o_1" wId="pv27_1__art_o_1">
+                        <Kop>
+                           <Opschrift>Voorrangsbepaling</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Voor zover de regels van de hoofdregeling van het omgevingsplan afwijken van deze voorbeschermingsregels gelden alleen de voorbeschermingsregels.</Al>
+                        </Inhoud>
+                     </Artikel>
+                  </Conditie>
+                  <Hoofdstuk eId="chp_1" wId="pv27_1__chp_1">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>1</Nummer>
+                        <Opschrift>Voorbeschermingsregels</Opschrift>
+                     </Kop>
+                     <Artikel eId="chp_1__art_1.1" wId="pv27_1__chp_1__art_1.1">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1.1</Nummer>
+                           <Opschrift>Vergunningplicht flora- en fauna-activiteit langs, op of onder oppervlaktewater</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Lijst eId="chp_1__art_1.1__list_o_1"
+                                  wId="pv27_1__chp_1__art_1.1__list_o_1"
+                                  type="expliciet">
+                              <Lijstaanhef>Ter plaatse van de locatie <IntIoRef eId="chp_1__art_1.1__list_o_1__ref_o_1"
+                                           wId="pv27_1__chp_1__art_1.1__list_o_1__ref_o_1"
+                                           ref="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Oppervlaktewater</IntIoRef> is het verboden om zonder omgevingsvergunning de volgende activiteiten langs, op of onder een oppervlaktewater te verrichten:</Lijstaanhef>
+                              <Li eId="chp_1__art_1.1__list_o_1__item_a"
+                                  wId="pv27_1__chp_1__art_1.1__list_o_1__item_a">
+                                 <LiNummer>a.</LiNummer>
+                                 <Al>het uitsteken, afsnijden of anderszins verwijderen, voorhanden hebben of vervoeren van meer dan 500 gram waterplanten en wieren;</Al>
+                              </Li>
+                              <Li eId="chp_1__art_1.1__list_o_1__item_b"
+                                  wId="pv27_1__chp_1__art_1.1__list_o_1__item_b">
+                                 <LiNummer>b.</LiNummer>
+                                 <Al>het vangen, doden, voorhanden hebben of vervoeren van meer dan 5 waterdieren; of</Al>
+                              </Li>
+                              <Li eId="chp_1__art_1.1__list_o_1__item_c"
+                                  wId="pv27_1__chp_1__art_1.1__list_o_1__item_c">
+                                 <LiNummer>c.</LiNummer>
+                                 <Al>het bij zich hebben van voorwerpen die kennelijk tot doel hebben een onder a of b bedoelde activiteit te verrichten.</Al>
+                              </Li>
+                           </Lijst>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_1__art_1.2" wId="pv27_1__chp_1__art_1.2">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1.2</Nummer>
+                           <Opschrift>Beoordelingsregels omgevingsvergunning flora- en fauna-activiteit langs, op of onder oppervlaktewater</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Lijst eId="chp_1__art_1.2__list_o_1"
+                                  wId="pv27_1__chp_1__art_1.2__list_o_1"
+                                  type="expliciet">
+                              <Lijstaanhef>De in artikel 1.1 bedoelde omgevingsvergunning wordt alleen verleend als:</Lijstaanhef>
+                              <Li eId="chp_1__art_1.2__list_o_1__item_a"
+                                  wId="pv27_1__chp_1__art_1.2__list_o_1__item_a">
+                                 <LiNummer>a.</LiNummer>
+                                 <Al>de activiteit wordt verricht door of namens een rechtspersoon;</Al>
+                              </Li>
+                              <Li eId="chp_1__art_1.2__list_o_1__item_b"
+                                  wId="pv27_1__chp_1__art_1.2__list_o_1__item_b">
+                                 <LiNummer>b.</LiNummer>
+                                 <Lijst eId="chp_1__art_1.2__list_o_1__item_b__list_o_1"
+                                        wId="pv27_1__chp_1__art_1.2__list_o_1__item_b__list_o_1"
+                                        type="expliciet">
+                                    <Lijstaanhef>de activiteit uitsluitend wordt verricht voor:</Lijstaanhef>
+                                    <Li eId="chp_1__art_1.2__list_o_1__item_b__list_o_1__item_1"
+                                        wId="pv27_1__chp_1__art_1.2__list_o_1__item_b__list_o_1__item_1">
+                                       <LiNummer>1.</LiNummer>
+                                       <Al>educatieve doeleinden; of</Al>
+                                    </Li>
+                                    <Li eId="chp_1__art_1.2__list_o_1__item_b__list_o_1__item_2"
+                                        wId="pv27_1__chp_1__art_1.2__list_o_1__item_b__list_o_1__item_2">
+                                       <LiNummer>2.</LiNummer>
+                                       <Al>onderzoeksdoeleinden;</Al>
+                                    </Li>
+                                 </Lijst>
+                              </Li>
+                              <Li eId="chp_1__art_1.2__list_o_1__item_c"
+                                  wId="pv27_1__chp_1__art_1.2__list_o_1__item_c">
+                                 <LiNummer>c.</LiNummer>
+                                 <Al>de activiteit geen zeekreeft, Noordzeekrab, spinkrab, kokerworm, zeedahlia, dodemansduim of spons betreft;</Al>
+                              </Li>
+                              <Li eId="chp_1__art_1.2__list_o_1__item_d"
+                                  wId="pv27_1__chp_1__art_1.2__list_o_1__item_d">
+                                 <LiNummer>d.</LiNummer>
+                                 <Al>de activiteit tijdelijk is;</Al>
+                              </Li>
+                              <Li eId="chp_1__art_1.2__list_o_1__item_e"
+                                  wId="pv27_1__chp_1__art_1.2__list_o_1__item_e">
+                                 <LiNummer>e.</LiNummer>
+                                 <Al>er geen gebruik wordt gemaakt van niet-selectieve middelen; en</Al>
+                              </Li>
+                              <Li eId="chp_1__art_1.2__list_o_1__item_f"
+                                  wId="pv27_1__chp_1__art_1.2__list_o_1__item_f">
+                                 <LiNummer>f.</LiNummer>
+                                 <Al>onnodig lijden van waterdieren wordt voorkomen.</Al>
+                              </Li>
+                           </Lijst>
+                        </Inhoud>
+                     </Artikel>
+                  </Hoofdstuk>
+               </Lichaam>
+               <Bijlage eId="cmp_o_1" wId="pv27_1__cmp_o_1">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Opschrift>Overzicht van informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_o_1__content_o_1" wId="pv27_1__cmp_o_1__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_o_1__content_o_1__list_o_1"
+                                        wId="pv27_1__cmp_o_1__content_o_1__list_o_1">
+                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1"
+                                   wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_1"><!--oppervlaktewater.gml-->
+                              <Term>Oppervlaktewater</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/pv27/2023/624627563/nld@2023-06-07;1">/join/id/regdata/pv27/2023/624627563/nld@2023-06-07;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+            </RegelingTijdelijkdeel>
+         </WijzigBijlage>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/pv27/2023/NH010-001</FRBRWork>
+         <FRBRExpression>/akn/nl/act/pv27/2023/NH010-001/nld@2023-06-07;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_021</soortWork>
+         <isTijdelijkDeelVan>
+            <WorkIdentificatie>
+               <FRBRWork>/akn/nl/act/gm1980/2023/omgevingsplan_pre</FRBRWork>
+               <soortWork>/join/id/stop/work_019</soortWork>
+            </WorkIdentificatie>
+         </isTijdelijkDeelVan>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <soortRegeling>/join/id/stop/regelingtype_015</soortRegeling>
+         <eindverantwoordelijke>/tooi/id/provincie/pv27</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv27</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
+         <officieleTitel>Voorbeschermingsregels flora en fauna langs, op en onder oppervlaktewater </officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Voorbeschermingsregels flora en fauna langs, op en onder oppervlaktewater </citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <grondslagen>
+            <grondslag>
+               <TekstReferentie>
+                  <uri>jcil.31:c:BWBR0037885&amp;artikel=4.16</uri>
+                  <label>Artikel 4.16 lid 1 Omgevingswet</label>
+                  <soortRef>JCI</soortRef>
+               </TekstReferentie>
+            </grondslag>
+         </grondslagen>
+         <overheidsdomeinen>
+            <overheidsdomein>/tooi/def/concept/c_3708ac5e</overheidsdomein>
+            <overheidsdomein>/tooi/def/concept/c_c70d3447</overheidsdomein>
+            <overheidsdomein>/tooi/def/concept/c_67671688</overheidsdomein>
+            <overheidsdomein>/tooi/def/concept/c_86b84a9d</overheidsdomein>
+         </overheidsdomeinen>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_afa30a11</onderwerp>
+            <onderwerp>/tooi/def/concept/c_0361ffb3</onderwerp>
+            <onderwerp>/tooi/def/concept/c_a6a9eddd</onderwerp>
+            <onderwerp>/tooi/def/concept/c_9af4b880</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>
