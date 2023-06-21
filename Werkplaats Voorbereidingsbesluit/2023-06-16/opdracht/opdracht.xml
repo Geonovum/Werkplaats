@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<publicatieOpdracht xmlns="http://www.overheid.nl/2017/lvbb">
+   <idLevering>NH020_2023-06-16_001</idLevering>
+   <idBevoegdGezag>00000001001003124000</idBevoegdGezag>
+   <idAanleveraar>00000003560458830000</idAanleveraar>
+   <!--Gemeente Dijk en Waard
+   <idBevoegdGezag>00000001826422007000</idBevoegdGezag>
+   <idAanleveraar>00000003560458830000</idAanleveraar-->
+   <publicatie>NH020_2023-06-16.xml</publicatie>
+   <datumBekendmaking>2023-06-17</datumBekendmaking>
+</publicatieOpdracht>

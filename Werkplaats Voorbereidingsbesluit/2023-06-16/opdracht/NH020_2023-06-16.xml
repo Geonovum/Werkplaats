@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/gm1980/2023/NH020</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/gm1980/2023/NH020/nld@2023-06-16;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm1980</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm1980</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_28ecfd6d</soortBestuursorgaan>
+         <officieleTitel>Vervallen voorbeschermingsregels flora en fauna langs, op en onder oppervlaktewater</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Vervallen voorbeschermingsregels flora en fauna langs, op en onder oppervlaktewater</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <grondslagen>
+            <grondslag>
+               <TekstReferentie>
+                  <uri>jcil.31:c:BWBR0037885&amp;artikel=5.44</uri>
+                  <label>Artikel 5.44 Omgevingswet</label>
+                  <soortRef>JCI</soortRef>
+               </TekstReferentie>
+            </grondslag>
+         </grondslagen>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_afa30a11</onderwerp>
+            <onderwerp>/tooi/def/concept/c_a71dc533</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2023-06-16</bekendOp>
+         <ontvangenOp>2023-06-16</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2023-06-16</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2023-06-16</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <Intrekkingen>
+            <Intrekking>
+               <doelen>
+                  <doel>/join/id/proces/pv27/2023/intrekken_regeling_010</doel>
+               </doelen>
+               <instrument>/akn/nl/act/pv27/2023/NH010-001</instrument>
+               <eId>art_I</eId>
+            </Intrekking>
+         </Intrekkingen>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/pv27/2023/intrekken_regeling_010</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2023-06-17</datum>
+               <eId>art_I</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Vervallen voorbeschermingsregels flora en fauna langs, op en onder oppervlaktewater</Al>
+         </RegelingOpschrift>
+         <Aanhef eId="formula_1" wId="formula_1">
+            <Al>Op 1 maart 2023 hebben provinciale staten ‘Voorbereidingsbesluit flora en fauna langs, op en onder oppervlaktewater’ vastgesteld. De provinciale voorbeschermingsregels zijn onderdeel geworden van de geconsolideerde regeling van het omgevingsplan van onze gemeente.</Al>
+            <Al>Op 1 april hebben provinciale staten ‘Wijziging omgevingsverordening instructieregels flora en fauna oppervlaktewater’ vastgesteld. Daarmee hebben provinciale staten met een instructieregel onze gemeente de verplichting opgelegd om in het omgevingsplan een vergunningplicht op te nemen voor bepaalde flora- en fauna-activiteiten langs, op en onder het oppervlaktewater.</Al>
+            <Al>Op 27 april hebben burgemeester en wethouders het wijzigingsbesluit ‘Wijziging omgevingsplan uitvoering instructieregel flora en fauna oppervlaktewater’ vastgesteld. Dit besluit is op 1 mei bekendgemaakt en op 29 mei in werking getreden. De beroepstermijn eindigde op 12 juni. Er is geen beroep ingesteld, waardoor het wijzigingsbesluit onherroepelijk is geworden. Door het inwerkingtreden van het wijzigingsbesluit zijn de provinciale voorbeschermingsregels op 29 mei vervallen.</Al>
+            <Al>Door het vervallen maken de voorbeschermingsregels geen onderdeel meer uit van de geconsolideerde regeling van het omgevingsplan van onze gemeente. Daarvoor is een technische handeling nodig. Dit document geeft uitvoering aan die technische handeling; het is niet de weergave van een besluit van een bestuursorgaan van de gemeente Dijk en Waard.</Al>
+         </Aanhef>
+         <Lichaam eId="body" wId="body">
+            <Artikel eId="art_I" wId="gm1980_1__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>De voorbeschermingsregels zijn vervallen op 29 mei 2023. Op 12 juni 2023 is vast komen te staan dat de voorbeschermingsregels definitief zijn vervallen.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <Sluiting wId="formula_2" eId="formula_2">
+            <Dagtekening>
+               <Al>Dijk en Waard, 14 juni 2023</Al>
+            </Dagtekening>
+            <Ondertekening>
+               <Al>J. Zwanehals,</Al>
+               <Al>Afdelingshoofd Omgevingsrecht &amp; Advies</Al>
+            </Ondertekening>
+         </Sluiting>
+      </BesluitCompact>
+   </BesluitVersie>
+</AanleveringBesluit>
