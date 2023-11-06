@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/pv27/2023/VB0002</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/pv27/2023/VB0002/nld@2023-11-06;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv27</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv27</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
+         <officieleTitel>Voorbereidingsbesluit voorbeschermd gemeentelijk monument</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Voorbereidingsbesluit voorbeschermd gemeentelijk monument</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <grondslagen>
+            <grondslag>
+               <TekstReferentie>
+                  <uri>jcil.31:c:BWBR0037885&amp;artikel=4.16</uri>
+                  <label>Artikel 4.16 lid 1 Omgevingswet</label>
+                  <soortRef>JCI</soortRef>
+               </TekstReferentie>
+            </grondslag>
+         </grondslagen>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_a6a9eddd</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/pv27/2023/2269584989/nld@2023-11-06;1</informatieobjectRef>
+         </informatieobjectRefs>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2023-11-06</bekendOp>
+         <ontvangenOp>2023-11-06</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2023-11-06</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2023-11-06</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/pv27/2023/instellen_regeling_001</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/pv27/2023/VB0002-001/nld@2023-11-06;1</instrumentVersie>
+               <eId>art_II</eId>
+            </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/pv27/2023/instellen_regeling_001</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/pv27/2023/2269584989/nld@2023-11-06;1</instrumentVersie>
+               <eId>!regeling_001#cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+         </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/pv27/2023/instellen_regeling_001</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2023-11-07</datum>
+               <eId>art_III</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Voorbereidingsbesluit voorbeschermd gemeentelijk monument</Al>
+         </RegelingOpschrift>
+         <Aanhef eId="formula_1" wId="formula_1">
+            <Al>Burgemeester en wethouders van de gemeente Dijk en Waard</Al>
+            <Al>besluiten:</Al>
+         </Aanhef>
+         <Lichaam eId="body" wId="body">
+            <Artikel eId="art_I" wId="pv27_1__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Met het oog op de voorbereiding van de toedeling in het omgevingsplan van de functie gemeentelijk monument aan het pand X en daarvoor te stellen beschermende regels een voorbereidingsbesluit te nemen.</Al>
+               </Inhoud>
+            </Artikel>
+            <WijzigArtikel eId="art_II" wId="pv27_1__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+               </Kop>
+               <Wat>Voor het omgevingsplan van de gemeente Dijk en Waard de voorbeschermingsregels vast te stellen die zijn vastgelegd in <IntRef ref="cmp_A">bijlage A</IntRef>.</Wat>
+            </WijzigArtikel>
+            <Artikel eId="art_III" wId="pv27_1__art_III">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>III</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Dit besluit treedt in werking op de dag na de dag waarop het bekendgemaakt is.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <Sluiting wId="formula_2" eId="formula_2">
+            <Dagtekening>
+               <Al>Aldus besloten in de vergadering d.d. 1 juni 2023.</Al>
+            </Dagtekening>
+            <Ondertekening>
+               <Al>De secretaris,</Al>
+               <Al>De burgemeester,</Al>
+            </Ondertekening>
+         </Sluiting>
+         <WijzigBijlage eId="cmp_A" wId="pv27_1__cmp_A">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>A</Nummer>
+               <Opschrift>Bijlage A bij Artikel II</Opschrift>
+            </Kop>
+            <RegelingTijdelijkdeel componentnaam="regeling_001"
+                                   wordt="/akn/nl/act/pv27/2023/VB0002-001/nld@2023-11-06;1">
+               <RegelingOpschrift eId="longTitle" wId="longTitle">
+                  <Al>Voorbeschermingsregels voorbeschermd gemeentelijk monument</Al>
+               </RegelingOpschrift>
+               <Lichaam eId="body" wId="body">
+                  <Conditie>
+                     <Artikel eId="art_o_1" wId="pv27_1__art_o_1">
+                        <Kop>
+                           <Opschrift>Voorrangsbepaling</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Voor zover de regels van de hoofdregeling van het omgevingsplan afwijken van deze voorbeschermingsregels gelden alleen de voorbeschermingsregels.</Al>
+                        </Inhoud>
+                     </Artikel>
+                  </Conditie>
+                  <Hoofdstuk eId="chp_1" wId="pv27_1__chp_1">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>1</Nummer>
+                        <Opschrift>Voorbeschermingsregels</Opschrift>
+                     </Kop>
+                     <Artikel eId="chp_1__art_1.1" wId="pv27_1__chp_1__art_1.1">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1.1</Nummer>
+                           <Opschrift>Voorbeschermd gemeentelijk monument</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Het pand ter plaatse van de locatie ‘<IntIoRef eId="chp_1__art_1.1__ref_o_1"
+                                        wId="pv27_1__chp_1__art_1.1__ref_o_1"
+                                        ref="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Voorbeschermd gemeentelijk monument</IntIoRef>’ is een voorbeschermd gemeentelijk monument.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_1__art_1.2" wId="pv27_1__chp_1__art_1.2">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1.2</Nummer>
+                           <Opschrift>Toepasselijke regels</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Ter plaatse van de locatie ‘Voorbeschermd gemeentelijk monument’ gelden de regels van Subsubparagraaf <ExtRef soort="AKN" ref="/akn/nl/act/gm1980/2023/omgevingsplan_pre#chp_5__subchp_5.3__subsec_5.3.1__subsec_5.3.1.1__subsec_5.3.1.1.1">5.3.1.1.1</ExtRef> uit de hoofdregeling van het omgevingsplan.</Al>
+                        </Inhoud>
+                     </Artikel>
+                  </Hoofdstuk>
+               </Lichaam>
+               <Bijlage eId="cmp_o_1" wId="pv27_1__cmp_o_1">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Opschrift>Overzicht van informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_o_1__content_o_1" wId="pv27_1__cmp_o_1__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_o_1__content_o_1__list_o_1"
+                                        wId="pv27_1__cmp_o_1__content_o_1__list_o_1">
+                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1"
+                                   wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_1"><!--voorbeschermd_gemeentelijk_monument.gml-->
+                              <Term>Voorbeschermd gemeentelijk monument</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/pv27/2023/2269584989/nld@2023-11-06;1">/join/id/regdata/pv27/2023/2269584989/nld@2023-11-06;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+            </RegelingTijdelijkdeel>
+         </WijzigBijlage>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/pv27/2023/VB0002-001</FRBRWork>
+         <FRBRExpression>/akn/nl/act/pv27/2023/VB0002-001/nld@2023-11-06;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_021</soortWork>
+         <isTijdelijkDeelVan>
+            <WorkIdentificatie>
+               <FRBRWork>/akn/nl/act/gm1980/2023/omgevingsplan_pre</FRBRWork>
+               <soortWork>/join/id/stop/work_019</soortWork>
+            </WorkIdentificatie>
+         </isTijdelijkDeelVan>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <soortRegeling>/join/id/stop/regelingtype_015</soortRegeling>
+         <eindverantwoordelijke>/tooi/id/provincie/pv27</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv27</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
+         <officieleTitel>Voorbeschermingsregels voorbeschermd gemeentelijk monument</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Voorbeschermingsregels voorbeschermd gemeentelijk monument</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <grondslagen>
+            <grondslag>
+               <TekstReferentie>
+                  <uri>jcil.31:c:BWBR0037885&amp;artikel=4.16</uri>
+                  <label>Artikel 4.16 lid 1 Omgevingswet</label>
+                  <soortRef>JCI</soortRef>
+               </TekstReferentie>
+            </grondslag>
+         </grondslagen>
+         <overheidsdomeinen>
+            <overheidsdomein>/tooi/def/concept/c_3708ac5e</overheidsdomein>
+         </overheidsdomeinen>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_a6a9eddd</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+         </rechtsgebieden>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>
